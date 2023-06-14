@@ -1,0 +1,46 @@
+{
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email URL Activity",
+  "class_uid": 4012,
+  "email_uid": "77e30b44-0ac9-11ee-841a-0242ac110004",
+  "message": "learned focuses tex",
+  "metadata": {
+    "log_name": "provides miles tip",
+    "log_provider": "donated likely seemed",
+    "original_time": "brunswick queries chain",
+    "product": {
+      "lang": "en",
+      "name": "search advantage houston",
+      "uid": "77e31648-0ac9-11ee-ad8c-0242ac110004",
+      "vendor_name": "cookies workshop stroke",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "77e31ada-0ac9-11ee-8f4a-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "raw_data": "participating rp judy",
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "keyboards",
+  "status_id": 99,
+  "time": 1686757091113307,
+  "timezone_offset": 21,
+  "type_name": "Email URL Activity: Receive",
+  "type_uid": 401202,
+  "unmapped": {},
+  "url": {
+    "category_ids": [
+      4,
+      32
+    ],
+    "hostname": "prove.store",
+    "path": "information momentum breed",
+    "port": 30929,
+    "scheme": "ensure rogers unsigned",
+    "url_string": "rely"
+  }
+}

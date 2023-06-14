@@ -1,0 +1,59 @@
+{
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "class_uid": 4011,
+  "email_uid": "20ce5430-0ac9-11ee-9892-0242ac110003",
+  "file": {
+    "attributes": 67,
+    "company_name": "Lisandra Rueben",
+    "hashes": [
+      {
+        "algorithm": "MD5",
+        "algorithm_id": 1,
+        "value": "A2F26A443B13754AE4F7B62C60568A36"
+      },
+      {
+        "algorithm": "magic",
+        "algorithm_id": 99,
+        "value": "F11DBABC8684F6D796D31C0F07527603602A6D9274C792BC1A90F280EBABDE98"
+      }
+    ],
+    "name": "strategic.mpa",
+    "parent_folder": "oo marker guidance/shannon.xlsx",
+    "path": "oo marker guidance/shannon.xlsx/strategic.mpa",
+    "type": "Folder",
+    "type_id": 2,
+    "uid": "20ce6fce-0ac9-11ee-87c3-0242ac110003",
+    "version": "1.0.0-rc.3"
+  },
+  "message": "discovered might threshold",
+  "metadata": {
+    "extension": {
+      "name": "downtown blessed where",
+      "uid": "20ce7b7c-0ac9-11ee-a6a2-0242ac110003",
+      "version": "1.0.0-rc.3"
+    },
+    "log_name": "everything missile tracks",
+    "log_provider": "wright leu ver",
+    "original_time": "true enhancement laughing",
+    "product": {
+      "lang": "en",
+      "name": "duplicate press politics",
+      "uid": "20ce82f2-0ac9-11ee-af57-0242ac110003",
+      "vendor_name": "systems boating damage",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "start_time": 1686756945017342,
+  "time": 1686756945015901,
+  "type_name": "Email File Activity: Unknown",
+  "type_uid": 401100,
+  "unmapped": {}
+}

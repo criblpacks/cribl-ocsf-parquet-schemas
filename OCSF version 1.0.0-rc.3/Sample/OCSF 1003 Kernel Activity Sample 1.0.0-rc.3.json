@@ -1,0 +1,354 @@
+{
+  "activity_id": 99,
+  "activity_name": "uncertainty",
+  "actor": {
+    "process": {
+      "cmd_line": "deutsche teaches afraid",
+      "created_time": 1686756969853747,
+      "name": "Header",
+      "parent_process": {
+        "cmd_line": "illustration ranges amazing",
+        "created_time": 1686756969854007,
+        "file": {
+          "accessed_time": 1686756969854161,
+          "accessor": {
+            "credential_uid": "2f9c5a34-0ac9-11ee-8b9f-0242ac110003",
+            "email_addr": "Fidel@thursday.gov",
+            "full_name": "Mechelle Kraig",
+            "name": "Conference",
+            "type": "User",
+            "type_id": 1,
+            "uid": "2f9c602e-0ac9-11ee-b56f-0242ac110003"
+          },
+          "hashes": [
+            {
+              "algorithm": "TLSH",
+              "algorithm_id": 6,
+              "value": "032957FFE9D0350AFA604B12BC5E437DFA24D70FD830AC98AC688ABFB7756B66590D174711DEAB453E1A154FCC81DD2896B9D5DA18E98C8083F4025E6F0A8F00"
+            },
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "543618F0F7213B554C1CE2B0B837315D8EADDAA4F3368BD3F3D76592919E235B"
+            }
+          ],
+          "is_system": true,
+          "name": "strip.ppt",
+          "type": "Folder",
+          "type_id": 2
+        },
+        "integrity": "Protected",
+        "integrity_id": 6,
+        "name": "Homeless",
+        "parent_process": {
+          "cmd_line": "commodity luxembourg fairy",
+          "file": {
+            "accessed_time": 1686756969854922,
+            "created_time": 1686756969854930,
+            "hashes": [
+              {
+                "algorithm": "Unknown",
+                "algorithm_id": 0,
+                "value": "339ED7C06BDC776E273013A8ABD2A008DB98BCEE3479E19CE7B7BA96B0F8CDCE98BB1B5073464962B31876E5C956657E4CAB68764D8D82681E0659C9D7326D52"
+              },
+              {
+                "algorithm": "magic",
+                "algorithm_id": 99,
+                "value": "1F399189E4863308ED365738FA0065CB195AD4CE7050F685DA21B2B99EA8C90E"
+              }
+            ],
+            "modifier": {
+              "email_addr": "Roxana@prozac.biz",
+              "name": "Corresponding",
+              "type": "extended",
+              "type_id": 99
+            },
+            "name": "nails.dds",
+            "owner": {
+              "domain": "stephanie landing interpreted",
+              "name": "Aims",
+              "type": "essex",
+              "type_id": 99,
+              "uid": "2f9c8414-0ac9-11ee-abd6-0242ac110003"
+            },
+            "parent_folder": "shorts lists programmer/compaq.xcodeproj",
+            "path": "shorts lists programmer/compaq.xcodeproj/nails.dds",
+            "type": "Regular File",
+            "type_id": 1
+          },
+          "integrity": "auction hints harvey",
+          "lineage": [
+            "moss flashing audio",
+            "manufacture ty holders"
+          ],
+          "name": "Forwarding",
+          "parent_process": {
+            "cmd_line": "licence berkeley displays",
+            "created_time": 1686756969855686,
+            "file": {
+              "name": "syracuse.accdb",
+              "parent_folder": "drew principal calculators/spoken.txt",
+              "path": "drew principal calculators/spoken.txt/syracuse.accdb",
+              "security_descriptor": "imaging cms employer",
+              "type": "Folder",
+              "type_id": 2,
+              "uid": "2f9c96ca-0ac9-11ee-a594-0242ac110003",
+              "xattributes": {}
+            },
+            "parent_process": {
+              "file": {
+                "accessor": {
+                  "full_name": "Jamal Dorethea",
+                  "name": "Commissioners",
+                  "type": "User",
+                  "type_id": 1,
+                  "uid": "2f9cb128-0ac9-11ee-8054-0242ac110003"
+                },
+                "creator": {
+                  "name": "Mh",
+                  "type": "plans",
+                  "type_id": 99,
+                  "uid": "2f9cbaba-0ac9-11ee-ab00-0242ac110003",
+                  "uid_alt": "screening memphis housewives"
+                },
+                "hashes": [
+                  {
+                    "algorithm": "SHA-512",
+                    "algorithm_id": 4,
+                    "value": "63ACC89CE857C2456FCACAC417E98968A19D74770206BBF7B69968F212CD43C85315E72FB7E441CF94002B95E1769FCFFFF9DEE0D06ADBAE814F343CC40258AB"
+                  },
+                  {
+                    "algorithm": "SHA-1",
+                    "algorithm_id": 2,
+                    "value": "9D9F2FF112FDAE743826CAB85678ECC0B000C5AF"
+                  }
+                ],
+                "name": "delicious.pdf",
+                "security_descriptor": "statutes karen lanka",
+                "signature": {
+                  "algorithm": "hacker",
+                  "algorithm_id": 99,
+                  "certificate": {
+                    "created_time": 1686756969857040,
+                    "expiration_time": 1686756969857046,
+                    "fingerprints": [
+                      {
+                        "algorithm": "SHA-512",
+                        "algorithm_id": 4,
+                        "value": "1A261F6AA43C8B1AB1477179369FB28EBAED2DA00CA444F783B7BFC879571A1F6A09132BFE2D46925DB4605EB3E67B10D3203C890EE66607AAF0D2A69DD9A308"
+                      },
+                      {
+                        "algorithm": "MD5",
+                        "algorithm_id": 1,
+                        "value": "67A4834671478A9E7B37330951DB5932"
+                      }
+                    ],
+                    "issuer": "benz follow identification",
+                    "serial_number": "truck appreciation attention",
+                    "subject": "marked buses ranging",
+                    "version": "1.0.0-rc.3"
+                  },
+                  "developer_uid": "2f9cc820-0ac9-11ee-887c-0242ac110003",
+                  "digest": {
+                    "algorithm": "quickXorHash",
+                    "algorithm_id": 7,
+                    "value": "356F3F36A352C5C5D3A4B01B9729D55FB7FBAD9C0C571567E48E07A71E1A691A3C5978BEB2C5ED3E4BFA2C70464179085D92ECE09E24BB25B7EDAC498A793FE7"
+                  }
+                },
+                "type": "Character Device",
+                "type_id": 3
+              },
+              "lineage": [
+                "near jennifer monaco",
+                "ny wings stuck"
+              ],
+              "name": "Comedy",
+              "parent_process": {
+                "cmd_line": "darkness profile logs",
+                "created_time": 1686756969857411,
+                "integrity": "seminar colony dev",
+                "name": "Workout",
+                "parent_process": {
+                  "cmd_line": "tumor kg warnings",
+                  "created_time": 1686756969857533,
+                  "file": {
+                    "hashes": [
+                      {
+                        "algorithm": "MD5",
+                        "algorithm_id": 1,
+                        "value": "3C8925C7FB2D563070C4C7AA96954E92"
+                      },
+                      {
+                        "algorithm": "TLSH",
+                        "algorithm_id": 6,
+                        "value": "F3F98C5C5A6B16121DB7BF08CB58F617A711A9C9CCD8E7EA0965BE6285F5CAA6A5DBA9C1379C6C17AC217A877D7239278655EFB8D9581683A7F4EAFADC539584"
+                      }
+                    ],
+                    "mime_type": "advertising/argue",
+                    "name": "forming.jsp",
+                    "owner": {
+                      "credential_uid": "2f9ce0da-0ac9-11ee-9b30-0242ac110003",
+                      "name": "Rg",
+                      "type": "User",
+                      "type_id": 1,
+                      "uid": "2f9ce576-0ac9-11ee-8e4b-0242ac110003"
+                    },
+                    "parent_folder": "contributed slot competitions/santa.flv",
+                    "path": "contributed slot competitions/santa.flv/forming.jsp",
+                    "type": "Character Device",
+                    "type_id": 3
+                  },
+                  "loaded_modules": [
+                    "/disposition/family/fits/tool/every.xcodeproj"
+                  ],
+                  "name": "Parade",
+                  "pid": 93,
+                  "uid": "2f9ced3c-0ac9-11ee-a88f-0242ac110003"
+                },
+                "pid": 12,
+                "uid": "2f9cf0ca-0ac9-11ee-bd9f-0242ac110003",
+                "user": {
+                  "full_name": "Pilar Corene",
+                  "name": "Screenshots",
+                  "type": "aging",
+                  "type_id": 99,
+                  "uid": "2f9cf836-0ac9-11ee-ba4e-0242ac110003"
+                }
+              },
+              "pid": 67,
+              "terminated_time": 1686756969858470,
+              "tid": 84,
+              "uid": "2f9cfc1e-0ac9-11ee-a5db-0242ac110003",
+              "user": {
+                "name": "Jay",
+                "type": "System",
+                "type_id": 3,
+                "uid": "2f9d02b8-0ac9-11ee-b5e4-0242ac110003"
+              }
+            },
+            "pid": 91,
+            "uid": "2f9d063c-0ac9-11ee-b79b-0242ac110003"
+          },
+          "pid": 50,
+          "uid": "2f9d0998-0ac9-11ee-b929-0242ac110003",
+          "user": {
+            "account": {
+              "name": "organisms main acc",
+              "type": "prevention",
+              "type_id": 99
+            },
+            "domain": "oval continuous pursuant",
+            "name": "Enterprises",
+            "type": "Unknown",
+            "type_id": 0,
+            "uid": "2f9d1398-0ac9-11ee-8a87-0242ac110003",
+            "uid_alt": "wan whenever ads"
+          }
+        },
+        "pid": 43,
+        "terminated_time": 1686756969859180,
+        "uid": "2f9d17f8-0ac9-11ee-bba8-0242ac110003",
+        "user": {
+          "email_addr": "Ahmed@unemployment.nato",
+          "full_name": "Murray Mindy",
+          "name": "Uh",
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "2f9d1ef6-0ac9-11ee-b838-0242ac110003",
+          "uid_alt": "tracks o pencil"
+        }
+      },
+      "pid": 31,
+      "session": {
+        "created_time": 1686756969859513,
+        "credential_uid": "2f9d24f0-0ac9-11ee-ac0a-0242ac110003",
+        "expiration_time": 1686756969859612,
+        "is_remote": false,
+        "issuer": "bat strongly lucy",
+        "uid": "2f9d290a-0ac9-11ee-be9e-0242ac110003"
+      },
+      "uid": "2f9d2cde-0ac9-11ee-bc7c-0242ac110003",
+      "user": {
+        "credential_uid": "2f9d3314-0ac9-11ee-8df6-0242ac110003",
+        "domain": "guestbook upgrade shops",
+        "email_addr": "Nathanial@instrumentation.travel",
+        "name": "Defence",
+        "org": {
+          "name": "ebony lithuania berry",
+          "ou_name": "wise treating ge",
+          "uid": "2f9d399a-0ac9-11ee-8fd8-0242ac110003"
+        },
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "2f9d3e36-0ac9-11ee-8651-0242ac110003"
+      },
+      "xattributes": {}
+    },
+    "user": {
+      "email_addr": "Christene@vg.net",
+      "name": "Suffered",
+      "type": "User",
+      "type_id": 1,
+      "uid": "2f9d45ac-0ac9-11ee-b0d3-0242ac110003"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Kernel Activity",
+  "class_uid": 1003,
+  "count": 70,
+  "device": {
+    "created_time": 1686756969861070,
+    "domain": "membership direction speaks",
+    "hostname": "lb.aero",
+    "imei": "cm cite automotive",
+    "instance_uid": "2f9d5d08-0ac9-11ee-a680-0242ac110003",
+    "interface_name": "mumbai greek reject",
+    "interface_uid": "2f9d547a-0ac9-11ee-9b0d-0242ac110003",
+    "ip": "178.237.119.68",
+    "name": "mounts hawaiian hacker",
+    "region": "recommendation collection emotions",
+    "risk_level": "friend painful equipment",
+    "type": "Virtual",
+    "type_id": 6,
+    "uid": "2f9d5880-0ac9-11ee-8b99-0242ac110003"
+  },
+  "kernel": {
+    "name": "partners flush lucky",
+    "type": "making",
+    "type_id": 99
+  },
+  "message": "when generations mercy",
+  "metadata": {
+    "correlation_uid": "2f9d6564-0ac9-11ee-9b3f-0242ac110003",
+    "labels": [
+      "pray",
+      "algebra"
+    ],
+    "log_name": "tim swift proteins",
+    "log_provider": "calvin metric surprising",
+    "log_version": "paths eq ambassador",
+    "original_time": "ugly egypt delaware",
+    "product": {
+      "lang": "en",
+      "name": "pgp rev is",
+      "uid": "2f9d6c44-0ac9-11ee-89f5-0242ac110003",
+      "vendor_name": "processors happy declined",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "2f9d70d6-0ac9-11ee-8899-0242ac110003",
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "start_time": 1686756969861612,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686756969853517,
+  "timezone_offset": 35,
+  "type_name": "Kernel Activity: Other",
+  "type_uid": 100399
+}

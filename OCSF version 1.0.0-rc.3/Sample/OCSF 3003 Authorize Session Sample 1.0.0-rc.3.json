@@ -1,0 +1,52 @@
+{
+  "activity_id": 99,
+  "activity_name": "heavily",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Authorize Session",
+  "class_uid": 3003,
+  "count": 4,
+  "message": "versions add mediterranean",
+  "metadata": {
+    "correlation_uid": "19d7d520-0ac9-11ee-8f72-0242ac110003",
+    "event_code": "push",
+    "log_name": "fossil formats limit",
+    "log_provider": "existed specifically pregnancy",
+    "logged_time": 1686756933334385,
+    "original_time": "majority confused accessibility",
+    "processed_time": 1686756933334402,
+    "product": {
+      "lang": "en",
+      "name": "suspected tucson technique",
+      "uid": "19d7e2c2-0ac9-11ee-af56-0242ac110003",
+      "vendor_name": "jumping history memory",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "privileges": [
+    "gods seemed richard"
+  ],
+  "session": {
+    "created_time": 1686756933333595,
+    "is_remote": true,
+    "issuer": "extends portrait occupational",
+    "uid": "19d7c8c8-0ac9-11ee-83fd-0242ac110003",
+    "uuid": "19d7ccd8-0ac9-11ee-bee2-0242ac110003"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "time": 1686756933333123,
+  "timezone_offset": 99,
+  "type_name": "Authorize Session: Other",
+  "type_uid": 300399,
+  "user": {
+    "name": "Trembl",
+    "type": "promoting",
+    "type_id": 99,
+    "uid": "19d7b45a-0ac9-11ee-b129-0242ac110003"
+  }
+}

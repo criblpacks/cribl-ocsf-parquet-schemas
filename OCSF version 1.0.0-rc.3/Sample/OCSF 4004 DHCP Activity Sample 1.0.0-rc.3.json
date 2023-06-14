@@ -1,0 +1,60 @@
+{
+  "activity_id": 1,
+  "activity_name": "Discover",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "class_uid": 4004,
+  "dst_endpoint": {
+    "hostname": "arc.coop",
+    "instance_uid": "2db93836-0ac9-11ee-8316-0242ac110003",
+    "interface_name": "harvey prison relatively",
+    "interface_uid": "2db93cdc-0ac9-11ee-a707-0242ac110003",
+    "ip": "192.205.187.96",
+    "name": "ring metal sbjct",
+    "svc_name": "flowers optimal tulsa",
+    "uid": "2db941a0-0ac9-11ee-8cc4-0242ac110003",
+    "vpc_uid": "2db946d2-0ac9-11ee-8f18-0242ac110003"
+  },
+  "message": "cisco tribune allergy",
+  "metadata": {
+    "event_code": "distance",
+    "log_name": "leather britannica pub",
+    "log_provider": "anticipated creating transition",
+    "product": {
+      "lang": "en",
+      "name": "ottawa sh zu",
+      "uid": "2db9693c-0ac9-11ee-a656-0242ac110003",
+      "vendor_name": "prozac ferrari cooking",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "relay": {
+    "hostname": "z.museum",
+    "mac": "6C:53:62:36:97:6C:7C:A1",
+    "name": "moon mad bunch",
+    "type": "Wired",
+    "type_id": 1,
+    "uid": "2db94f92-0ac9-11ee-9418-0242ac110003"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "interface_name": "uri sk wma",
+    "interface_uid": "2db91e14-0ac9-11ee-8ce9-0242ac110003",
+    "ip": "183.230.0.143",
+    "name": "right threaded zambia",
+    "port": 30728,
+    "svc_name": "happened live prefers",
+    "uid": "2db925bc-0ac9-11ee-82b9-0242ac110003"
+  },
+  "status": "fotos solving defendant",
+  "time": 1686756966687694,
+  "timezone_offset": 8,
+  "type_name": "DHCP Activity: Discover",
+  "type_uid": 400401
+}

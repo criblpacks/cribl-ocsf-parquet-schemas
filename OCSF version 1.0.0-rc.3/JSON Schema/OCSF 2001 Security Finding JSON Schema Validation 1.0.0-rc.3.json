@@ -1,0 +1,1943 @@
+{
+  "$defs": {
+    "fingerprint": {
+      "properties": {
+        "algorithm": {
+          "title": "Algorithm",
+          "type": "string"
+        },
+        "algorithm_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            99
+          ],
+          "title": "Algorithm ID",
+          "type": "integer"
+        },
+        "value": {
+          "title": "Value",
+          "type": "string"
+        }
+      },
+      "required": [
+        "value",
+        "algorithm_id"
+      ],
+      "title": "Fingerprint",
+      "type": "object"
+    },
+    "process": {
+      "properties": {
+        "cmd_line": {
+          "title": "Command Line",
+          "type": "string"
+        },
+        "created_time": {
+          "title": "Created Time",
+          "type": "integer"
+        },
+        "file": {
+          "$ref": "#/$defs/file",
+          "title": "File"
+        },
+        "integrity": {
+          "title": "Integrity",
+          "type": "string"
+        },
+        "integrity_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            99
+          ],
+          "title": "Integrity Level",
+          "type": "integer"
+        },
+        "lineage": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Lineage",
+          "type": "array"
+        },
+        "loaded_modules": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Loaded Modules",
+          "type": "array"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "parent_process": {
+          "title": "Parent Process",
+          "type": "object_t"
+        },
+        "pid": {
+          "title": "Process ID",
+          "type": "integer"
+        },
+        "sandbox": {
+          "title": "Sandbox",
+          "type": "string"
+        },
+        "session": {
+          "$ref": "#/$defs/session",
+          "title": "Session"
+        },
+        "terminated_time": {
+          "title": "Terminated Time",
+          "type": "integer"
+        },
+        "tid": {
+          "title": "Thread ID",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "user": {
+          "$ref": "#/$defs/user",
+          "title": "User"
+        },
+        "xattributes": {
+          "$ref": "#/$defs/object",
+          "title": "Extended Attributes"
+        }
+      },
+      "title": "Process",
+      "type": "object"
+    },
+    "cloud": {
+      "properties": {
+        "account": {
+          "$ref": "#/$defs/account",
+          "title": "Account"
+        },
+        "org": {
+          "$ref": "#/$defs/organization",
+          "title": "Organization"
+        },
+        "project_uid": {
+          "title": "Project ID",
+          "type": "string"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "region": {
+          "title": "Region",
+          "type": "string"
+        },
+        "zone": {
+          "title": "Network Zone",
+          "type": "string"
+        }
+      },
+      "required": [
+        "provider"
+      ],
+      "title": "Cloud",
+      "type": "object"
+    },
+    "digital_signature": {
+      "properties": {
+        "algorithm": {
+          "title": "Algorithm",
+          "type": "string"
+        },
+        "algorithm_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            99
+          ],
+          "title": "Algorithm ID",
+          "type": "integer"
+        },
+        "certificate": {
+          "$ref": "#/$defs/certificate",
+          "title": "Certificate"
+        },
+        "created_time": {
+          "title": "Created Time",
+          "type": "integer"
+        },
+        "developer_uid": {
+          "title": "Developer UID",
+          "type": "string"
+        },
+        "digest": {
+          "$ref": "#/$defs/fingerprint",
+          "title": "Message Digest"
+        }
+      },
+      "required": [
+        "algorithm_id"
+      ],
+      "title": "Digital Signature",
+      "type": "object"
+    },
+    "request": {
+      "properties": {
+        "flags": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Flags",
+          "type": "array"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "uid"
+      ],
+      "title": "Request Elements",
+      "type": "object"
+    },
+    "resource_details": {
+      "properties": {
+        "criticality": {
+          "title": "Criticality",
+          "type": "string"
+        },
+        "data": {
+          "title": "Data"
+        },
+        "group": {
+          "$ref": "#/$defs/group",
+          "title": "Group"
+        },
+        "labels": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Labels",
+          "type": "array"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "owner": {
+          "$ref": "#/$defs/user",
+          "title": "Owner"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "title": "Resource Details",
+      "type": "object"
+    },
+    "cvss": {
+      "properties": {
+        "base_score": {
+          "title": "Base Score",
+          "type": "number"
+        },
+        "depth": {
+          "enum": [
+            "Base",
+            "Environmental",
+            "Temporal"
+          ],
+          "title": "CVSS Depth",
+          "type": "string"
+        },
+        "metrics": {
+          "items": {
+            "$ref": "#/$defs/metric"
+          },
+          "title": "Metrics",
+          "type": "array"
+        },
+        "overall_score": {
+          "title": "Overall Score",
+          "type": "number"
+        },
+        "severity": {
+          "title": "Severity",
+          "type": "string"
+        },
+        "vector_string": {
+          "title": "Vector String",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "version",
+        "base_score"
+      ],
+      "title": "CVSS Score",
+      "type": "object"
+    },
+    "malware": {
+      "properties": {
+        "classification_ids": {
+          "items": {
+            "enum": [
+              0,
+              1,
+              10,
+              11,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              2,
+              20,
+              21,
+              22,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              99
+            ],
+            "type": "integer"
+          },
+          "title": "Classification IDs",
+          "type": "array"
+        },
+        "classifications": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Classifications",
+          "type": "array"
+        },
+        "cves": {
+          "items": {
+            "$ref": "#/$defs/cve"
+          },
+          "title": "CVE List",
+          "type": "array"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "path": {
+          "title": "Path",
+          "type": "string"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "classification_ids"
+      ],
+      "title": "Malware",
+      "type": "object"
+    },
+    "response": {
+      "properties": {
+        "code": {
+          "title": "Response Code",
+          "type": "integer"
+        },
+        "error": {
+          "title": "Error Code",
+          "type": "string"
+        },
+        "error_message": {
+          "title": "Error Message",
+          "type": "string"
+        },
+        "flags": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Flags",
+          "type": "array"
+        },
+        "message": {
+          "title": "Message",
+          "type": "string"
+        }
+      },
+      "title": "Response Elements",
+      "type": "object"
+    },
+    "kill_chain": {
+      "properties": {
+        "phase": {
+          "title": "Kill Chain Phase",
+          "type": "string"
+        },
+        "phase_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            99
+          ],
+          "title": "Kill Chain Phase ID",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "phase_id"
+      ],
+      "title": "Kill Chain",
+      "type": "object"
+    },
+    "api": {
+      "properties": {
+        "operation": {
+          "title": "Operation",
+          "type": "string"
+        },
+        "request": {
+          "$ref": "#/$defs/request",
+          "title": "API Request Details"
+        },
+        "response": {
+          "$ref": "#/$defs/response",
+          "title": "API Response Details"
+        },
+        "service": {
+          "$ref": "#/$defs/service",
+          "title": "Service"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "operation"
+      ],
+      "title": "API Details",
+      "type": "object"
+    },
+    "analytic": {
+      "properties": {
+        "category": {
+          "title": "Category",
+          "type": "string"
+        },
+        "desc": {
+          "title": "Description",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "related_analytics": {
+          "items": {
+            "type": "object_t"
+          },
+          "title": "Related Analytics",
+          "type": "array"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "type_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            99
+          ],
+          "title": "Type ID",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "type_id",
+        "name"
+      ],
+      "title": "Analytic",
+      "type": "object"
+    },
+    "user": {
+      "properties": {
+        "account": {
+          "$ref": "#/$defs/account",
+          "title": "Account"
+        },
+        "credential_uid": {
+          "title": "User Credential ID",
+          "type": "string"
+        },
+        "domain": {
+          "title": "Domain",
+          "type": "string"
+        },
+        "email_addr": {
+          "title": "Email Address",
+          "type": "string"
+        },
+        "full_name": {
+          "title": "Full Name",
+          "type": "string"
+        },
+        "groups": {
+          "items": {
+            "$ref": "#/$defs/group"
+          },
+          "title": "Groups",
+          "type": "array"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "org": {
+          "$ref": "#/$defs/organization",
+          "title": "Organization"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "type_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            99
+          ],
+          "title": "Type ID",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "uid_alt": {
+          "title": "Alternate ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "type_id"
+      ],
+      "title": "User",
+      "type": "object"
+    },
+    "group": {
+      "properties": {
+        "desc": {
+          "title": "Description",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "privileges": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Privileges",
+          "type": "array"
+        },
+        "type": {
+          "title": "Account Type",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "title": "Group",
+      "type": "object"
+    },
+    "tactic": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "title": "Tactic",
+      "type": "object"
+    },
+    "attack": {
+      "properties": {
+        "tactics": {
+          "items": {
+            "$ref": "#/$defs/tactic"
+          },
+          "title": "Tactics",
+          "type": "array"
+        },
+        "technique": {
+          "$ref": "#/$defs/technique",
+          "title": "Technique"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "version",
+        "technique",
+        "tactics"
+      ],
+      "title": "Attack",
+      "type": "object"
+    },
+    "image": {
+      "properties": {
+        "labels": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Labels",
+          "type": "array"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "path": {
+          "title": "Path",
+          "type": "string"
+        },
+        "tag": {
+          "title": "Image Tag",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "uid"
+      ],
+      "title": "Image",
+      "type": "object"
+    },
+    "certificate": {
+      "properties": {
+        "created_time": {
+          "title": "Created Time",
+          "type": "integer"
+        },
+        "expiration_time": {
+          "title": "Expiration Time",
+          "type": "integer"
+        },
+        "fingerprints": {
+          "items": {
+            "$ref": "#/$defs/fingerprint"
+          },
+          "title": "Fingerprints",
+          "type": "array"
+        },
+        "issuer": {
+          "title": "Issuer Distinguished Name",
+          "type": "string"
+        },
+        "serial_number": {
+          "title": "Certificate Serial Number",
+          "type": "string"
+        },
+        "subject": {
+          "title": "Subject Distinguished Name",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "serial_number",
+        "issuer",
+        "fingerprints"
+      ],
+      "title": "Digital Certificate",
+      "type": "object"
+    },
+    "session": {
+      "properties": {
+        "created_time": {
+          "title": "Created Time",
+          "type": "integer"
+        },
+        "credential_uid": {
+          "title": "User Credential ID",
+          "type": "string"
+        },
+        "expiration_time": {
+          "title": "Expiration Time",
+          "type": "integer"
+        },
+        "is_remote": {
+          "title": "Remote",
+          "type": "boolean"
+        },
+        "issuer": {
+          "title": "Issuer Details",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "uuid": {
+          "title": "UUID",
+          "type": "string"
+        }
+      },
+      "title": "Session",
+      "type": "object"
+    },
+    "object": {
+      "additionalProperties": true,
+      "properties": {},
+      "title": "Object",
+      "type": "object"
+    },
+    "observable": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "reputation": {
+          "$ref": "#/$defs/reputation",
+          "title": "Reputation Scores"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "type_id": {
+          "enum": [
+            0,
+            1,
+            10,
+            2,
+            22,
+            23,
+            26,
+            27,
+            28,
+            29,
+            3,
+            30,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            99
+          ],
+          "title": "Type ID",
+          "type": "integer"
+        },
+        "value": {
+          "title": "Value",
+          "type": "string"
+        }
+      },
+      "required": [
+        "type_id",
+        "name"
+      ],
+      "title": "Observable",
+      "type": "object"
+    },
+    "finding": {
+      "properties": {
+        "created_time": {
+          "title": "Created Time",
+          "type": "integer"
+        },
+        "desc": {
+          "title": "Description",
+          "type": "string"
+        },
+        "first_seen_time": {
+          "title": "First Seen",
+          "type": "integer"
+        },
+        "last_seen_time": {
+          "title": "Last Seen",
+          "type": "integer"
+        },
+        "modified_time": {
+          "title": "Modified Time",
+          "type": "integer"
+        },
+        "product_uid": {
+          "title": "Product Identifier",
+          "type": "string"
+        },
+        "related_events": {
+          "items": {
+            "$ref": "#/$defs/related_event"
+          },
+          "title": "Related Events",
+          "type": "array"
+        },
+        "remediation": {
+          "$ref": "#/$defs/remediation",
+          "title": "Remediation"
+        },
+        "src_url": {
+          "title": "Source URL",
+          "type": "string"
+        },
+        "supporting_data": {
+          "title": "Supporting Data"
+        },
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "types": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Types",
+          "type": "array"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "uid",
+        "title"
+      ],
+      "title": "Finding Details",
+      "type": "object"
+    },
+    "product": {
+      "properties": {
+        "feature": {
+          "$ref": "#/$defs/feature",
+          "title": "Feature"
+        },
+        "lang": {
+          "title": "Language",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "path": {
+          "title": "Path",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "vendor_name": {
+          "title": "Vendor Name",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "vendor_name"
+      ],
+      "title": "Product",
+      "type": "object"
+    },
+    "account": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "type_id": {
+          "enum": [
+            0,
+            1,
+            10,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            99
+          ],
+          "title": "Type ID",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "title": "Account",
+      "type": "object"
+    },
+    "package": {
+      "properties": {
+        "architecture": {
+          "title": "Architecture",
+          "type": "string"
+        },
+        "epoch": {
+          "title": "Epoch",
+          "type": "integer"
+        },
+        "license": {
+          "title": "Software License",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "release": {
+          "title": "Software Release Details",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "version",
+        "name"
+      ],
+      "title": "Software Package",
+      "type": "object"
+    },
+    "cis_control": {
+      "properties": {
+        "control": {
+          "title": "Control",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "control"
+      ],
+      "title": "CIS Control",
+      "type": "object"
+    },
+    "reputation": {
+      "properties": {
+        "base_score": {
+          "title": "Reputation Score",
+          "type": "number"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "score": {
+          "title": "Reputation Score",
+          "type": "string"
+        },
+        "score_id": {
+          "enum": [
+            0,
+            1,
+            10,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            99
+          ],
+          "title": "Reputation Score ID",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "score_id",
+        "base_score"
+      ],
+      "title": "Reputation",
+      "type": "object"
+    },
+    "technique": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "title": "Technique",
+      "type": "object"
+    },
+    "related_event": {
+      "properties": {
+        "product_uid": {
+          "title": "Product Identifier",
+          "type": "string"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "type_uid": {
+          "title": "Type ID",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "uid"
+      ],
+      "title": "Related Event",
+      "type": "object"
+    },
+    "enrichment": {
+      "properties": {
+        "data": {
+          "title": "Data"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "value": {
+          "title": "Value",
+          "type": "string"
+        }
+      },
+      "required": [
+        "value",
+        "name",
+        "data"
+      ],
+      "title": "Enrichment",
+      "type": "object"
+    },
+    "file": {
+      "properties": {
+        "accessed_time": {
+          "title": "Accessed Time",
+          "type": "integer"
+        },
+        "accessor": {
+          "$ref": "#/$defs/user",
+          "title": "Accessor"
+        },
+        "attributes": {
+          "title": "Attributes",
+          "type": "integer"
+        },
+        "company_name": {
+          "title": "Company Name",
+          "type": "string"
+        },
+        "confidentiality": {
+          "title": "Confidentiality",
+          "type": "string"
+        },
+        "confidentiality_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            99
+          ],
+          "title": "Confidentiality ID",
+          "type": "integer"
+        },
+        "created_time": {
+          "title": "Created Time",
+          "type": "integer"
+        },
+        "creator": {
+          "$ref": "#/$defs/user",
+          "title": "Creator"
+        },
+        "desc": {
+          "title": "Description",
+          "type": "string"
+        },
+        "hashes": {
+          "items": {
+            "$ref": "#/$defs/fingerprint"
+          },
+          "title": "Hashes",
+          "type": "array"
+        },
+        "is_system": {
+          "title": "System",
+          "type": "boolean"
+        },
+        "mime_type": {
+          "title": "MIME type",
+          "type": "string"
+        },
+        "modified_time": {
+          "title": "Modified Time",
+          "type": "integer"
+        },
+        "modifier": {
+          "$ref": "#/$defs/user",
+          "title": "Modifier"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "owner": {
+          "$ref": "#/$defs/user",
+          "title": "Owner"
+        },
+        "parent_folder": {
+          "title": "Parent Folder",
+          "type": "string"
+        },
+        "path": {
+          "title": "Path",
+          "type": "string"
+        },
+        "product": {
+          "$ref": "#/$defs/product",
+          "title": "Product"
+        },
+        "security_descriptor": {
+          "title": "Security Descriptor",
+          "type": "string"
+        },
+        "signature": {
+          "$ref": "#/$defs/digital_signature",
+          "title": "Digital Signature"
+        },
+        "size": {
+          "title": "Size",
+          "type": "integer"
+        },
+        "type": {
+          "title": "Type",
+          "type": "string"
+        },
+        "type_id": {
+          "enum": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            99
+          ],
+          "title": "Type ID",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        },
+        "xattributes": {
+          "$ref": "#/$defs/object",
+          "title": "Extended Attributes"
+        }
+      },
+      "required": [
+        "type_id",
+        "name"
+      ],
+      "title": "File",
+      "type": "object"
+    },
+    "service": {
+      "properties": {
+        "labels": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Labels",
+          "type": "array"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "title": "Service",
+      "type": "object"
+    },
+    "cve": {
+      "properties": {
+        "created_time": {
+          "title": "Record Creation Date",
+          "type": "integer"
+        },
+        "cvss": {
+          "$ref": "#/$defs/cvss",
+          "title": "CVSS Score"
+        },
+        "cwe_uid": {
+          "title": "CWE UID",
+          "type": "string"
+        },
+        "cwe_url": {
+          "title": "CWE URL",
+          "type": "string"
+        },
+        "modified_time": {
+          "title": "Record Modified Date",
+          "type": "integer"
+        },
+        "product": {
+          "$ref": "#/$defs/product",
+          "title": "Product"
+        },
+        "type": {
+          "title": "Vulnerability Type",
+          "type": "string"
+        },
+        "uid": {
+          "title": "CVE ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "uid"
+      ],
+      "title": "CVE",
+      "type": "object"
+    },
+    "metadata": {
+      "properties": {
+        "correlation_uid": {
+          "title": "Correlation UID",
+          "type": "string"
+        },
+        "event_code": {
+          "title": "Event Code",
+          "type": "string"
+        },
+        "extension": {
+          "$ref": "#/$defs/extension",
+          "title": "Schema Extension"
+        },
+        "labels": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Labels",
+          "type": "array"
+        },
+        "log_name": {
+          "title": "Log Name",
+          "type": "string"
+        },
+        "log_provider": {
+          "title": "Log Provider",
+          "type": "string"
+        },
+        "log_version": {
+          "title": "Log Version",
+          "type": "string"
+        },
+        "logged_time": {
+          "title": "Logged Time",
+          "type": "integer"
+        },
+        "modified_time": {
+          "title": "Modified Time",
+          "type": "integer"
+        },
+        "original_time": {
+          "title": "Original Time",
+          "type": "string"
+        },
+        "processed_time": {
+          "title": "Processed Time",
+          "type": "integer"
+        },
+        "product": {
+          "$ref": "#/$defs/product",
+          "title": "Product"
+        },
+        "profiles": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Profiles",
+          "type": "array"
+        },
+        "sequence": {
+          "title": "Sequence Number",
+          "type": "integer"
+        },
+        "uid": {
+          "title": "Event UID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "version",
+        "product"
+      ],
+      "title": "Metadata",
+      "type": "object"
+    },
+    "metric": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "value": {
+          "title": "Value",
+          "type": "string"
+        }
+      },
+      "required": [
+        "value",
+        "name"
+      ],
+      "title": "Metric",
+      "type": "object"
+    },
+    "compliance": {
+      "properties": {
+        "requirements": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Requirements",
+          "type": "array"
+        },
+        "status": {
+          "title": "Status",
+          "type": "string"
+        },
+        "status_detail": {
+          "title": "Status Details",
+          "type": "string"
+        }
+      },
+      "title": "Compliance Details",
+      "type": "object"
+    },
+    "feature": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "title": "Feature",
+      "type": "object"
+    },
+    "remediation": {
+      "properties": {
+        "desc": {
+          "title": "Description",
+          "type": "string"
+        },
+        "kb_articles": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Knowledgebase Articles",
+          "type": "array"
+        }
+      },
+      "title": "Remediation",
+      "type": "object"
+    },
+    "vulnerability": {
+      "properties": {
+        "cve": {
+          "$ref": "#/$defs/cve",
+          "title": "CVE"
+        },
+        "desc": {
+          "title": "Description",
+          "type": "string"
+        },
+        "fix_available": {
+          "title": "Fix Availability",
+          "type": "boolean"
+        },
+        "kb_articles": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Knowledgebase Articles",
+          "type": "array"
+        },
+        "packages": {
+          "items": {
+            "$ref": "#/$defs/package"
+          },
+          "title": "Software Packages",
+          "type": "array"
+        },
+        "references": {
+          "items": {
+            "type": "string"
+          },
+          "title": "References",
+          "type": "array"
+        },
+        "related_vulnerabilities": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Related Vulnerabilities",
+          "type": "array"
+        },
+        "severity": {
+          "title": "Severity",
+          "type": "string"
+        },
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "vendor_name": {
+          "title": "Vendor Name",
+          "type": "string"
+        }
+      },
+      "required": [
+        "cve"
+      ],
+      "title": "Vulnerability Details",
+      "type": "object"
+    },
+    "extension": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        },
+        "version": {
+          "title": "Version",
+          "type": "string"
+        }
+      },
+      "required": [
+        "version",
+        "uid",
+        "name"
+      ],
+      "title": "Schema Extension",
+      "type": "object"
+    },
+    "container": {
+      "properties": {
+        "hash": {
+          "$ref": "#/$defs/fingerprint",
+          "title": "Hash"
+        },
+        "image": {
+          "$ref": "#/$defs/image",
+          "title": "Image"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "network_driver": {
+          "title": "Network Driver",
+          "type": "string"
+        },
+        "orchestrator": {
+          "title": "Orchestrator",
+          "type": "string"
+        },
+        "pod_uuid": {
+          "title": "Pod UUID",
+          "type": "string"
+        },
+        "runtime": {
+          "title": "Runtime",
+          "type": "string"
+        },
+        "size": {
+          "title": "Size",
+          "type": "integer"
+        },
+        "tag": {
+          "title": "Image Tag",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "required": [
+        "uid"
+      ],
+      "title": "Container",
+      "type": "object"
+    },
+    "organization": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "ou_name": {
+          "title": "Org Unit Name",
+          "type": "string"
+        },
+        "ou_uid": {
+          "title": "Org Unit ID",
+          "type": "string"
+        },
+        "uid": {
+          "title": "Unique ID",
+          "type": "string"
+        }
+      },
+      "title": "Organization",
+      "type": "object"
+    }
+  },
+  "$id": "https://schema.ocsf.io/schema/classes/security_finding",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "message": {
+      "title": "Message",
+      "type": "string"
+    },
+    "process": {
+      "$ref": "#/$defs/process",
+      "title": "Process"
+    },
+    "observables": {
+      "items": {
+        "$ref": "#/$defs/observable"
+      },
+      "title": "Observables",
+      "type": "array"
+    },
+    "state_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        99
+      ],
+      "title": "State ID",
+      "type": "integer"
+    },
+    "class_name": {
+      "title": "Class",
+      "type": "string"
+    },
+    "status_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        99
+      ],
+      "title": "Status ID",
+      "type": "integer"
+    },
+    "type_uid": {
+      "enum": [
+        200100,
+        200101,
+        200102,
+        200199
+      ],
+      "title": "Type ID",
+      "type": "integer"
+    },
+    "activity_name": {
+      "title": "Activity",
+      "type": "string"
+    },
+    "status": {
+      "title": "Status",
+      "type": "string"
+    },
+    "malware": {
+      "items": {
+        "$ref": "#/$defs/malware"
+      },
+      "title": "Malware",
+      "type": "array"
+    },
+    "impact_score": {
+      "title": "Impact",
+      "type": "integer"
+    },
+    "kill_chain": {
+      "items": {
+        "$ref": "#/$defs/kill_chain"
+      },
+      "title": "Kill Chain",
+      "type": "array"
+    },
+    "confidence_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        99
+      ],
+      "title": "Confidence Id",
+      "type": "integer"
+    },
+    "analytic": {
+      "$ref": "#/$defs/analytic",
+      "title": "Analytic"
+    },
+    "evidence": {
+      "title": "Evidence"
+    },
+    "timezone_offset": {
+      "title": "Timezone Offset",
+      "type": "integer"
+    },
+    "category_name": {
+      "title": "Category",
+      "type": "string"
+    },
+    "duration": {
+      "title": "Duration",
+      "type": "integer"
+    },
+    "activity_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        99
+      ],
+      "title": "Activity ID",
+      "type": "integer"
+    },
+    "end_time": {
+      "title": "End Time",
+      "type": "integer"
+    },
+    "impact": {
+      "title": "Impact",
+      "type": "string"
+    },
+    "class_uid": {
+      "const": 2001,
+      "title": "Class ID",
+      "type": "integer"
+    },
+    "start_time": {
+      "title": "Start Time",
+      "type": "integer"
+    },
+    "risk_score": {
+      "title": "Risk Score",
+      "type": "integer"
+    },
+    "confidence": {
+      "title": "Confidence",
+      "type": "string"
+    },
+    "finding": {
+      "$ref": "#/$defs/finding",
+      "title": "Finding"
+    },
+    "status_detail": {
+      "title": "Status Details",
+      "type": "string"
+    },
+    "risk_level": {
+      "title": "Risk Level",
+      "type": "string"
+    },
+    "impact_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        99
+      ],
+      "title": "Impact ID",
+      "type": "integer"
+    },
+    "raw_data": {
+      "title": "Raw Data",
+      "type": "string"
+    },
+    "unmapped": {
+      "$ref": "#/$defs/object",
+      "title": "Unmapped Data"
+    },
+    "confidence_score": {
+      "title": "Confidence Score",
+      "type": "integer"
+    },
+    "type_name": {
+      "title": "Type Name",
+      "type": "string"
+    },
+    "category_uid": {
+      "const": 2,
+      "title": "Category ID",
+      "type": "integer"
+    },
+    "severity_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        99
+      ],
+      "title": "Severity ID",
+      "type": "integer"
+    },
+    "resources": {
+      "items": {
+        "$ref": "#/$defs/resource_details"
+      },
+      "title": "Resources Array",
+      "type": "array"
+    },
+    "count": {
+      "title": "Count",
+      "type": "integer"
+    },
+    "enrichments": {
+      "items": {
+        "$ref": "#/$defs/enrichment"
+      },
+      "title": "Enrichments",
+      "type": "array"
+    },
+    "severity": {
+      "title": "Severity",
+      "type": "string"
+    },
+    "status_code": {
+      "title": "Status Code",
+      "type": "string"
+    },
+    "metadata": {
+      "$ref": "#/$defs/metadata",
+      "title": "Metadata"
+    },
+    "compliance": {
+      "$ref": "#/$defs/compliance",
+      "title": "Compliance"
+    },
+    "time": {
+      "title": "Event Time",
+      "type": "integer"
+    },
+    "vulnerabilities": {
+      "items": {
+        "$ref": "#/$defs/vulnerability"
+      },
+      "title": "Vulnerabilities",
+      "type": "array"
+    },
+    "risk_level_id": {
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "title": "Risk Level ID",
+      "type": "integer"
+    },
+    "data_sources": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Data Sources",
+      "type": "array"
+    },
+    "cis_csc": {
+      "items": {
+        "$ref": "#/$defs/cis_control"
+      },
+      "title": "CIS CSC",
+      "type": "array"
+    },
+    "nist": {
+      "items": {
+        "type": "string"
+      },
+      "title": "NIST List",
+      "type": "array"
+    },
+    "attacks": {
+      "items": {
+        "$ref": "#/$defs/attack"
+      },
+      "title": "Attacks",
+      "type": "array"
+    },
+    "state": {
+      "title": "State",
+      "type": "string"
+    }
+  },
+  "required": [
+    "metadata",
+    "category_uid",
+    "type_uid",
+    "class_uid",
+    "severity_id",
+    "state_id",
+    "activity_id",
+    "time",
+    "finding"
+  ],
+  "title": "Security Finding",
+  "type": "object"
+}

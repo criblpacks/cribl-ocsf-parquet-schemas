@@ -1,0 +1,87 @@
+{
+  "activity_id": 99,
+  "activity_name": "terrorist",
+  "category_name": "Audit Activity",
+  "category_uid": 3,
+  "class_name": "Access Activity",
+  "class_uid": 3006,
+  "data": "shares",
+  "end_time": 1686757004167691,
+  "http_request": {
+    "http_headers": [
+      {
+        "name": "immediately lung lanka",
+        "value": "ws predicted textile"
+      },
+      {
+        "name": "wesley exposure toolbox",
+        "value": "deficit statutory canal"
+      }
+    ],
+    "uid": "44105c22-0ac9-11ee-a2ac-0242ac110002",
+    "url": {
+      "category_ids": [
+        93,
+        4
+      ],
+      "hostname": "considerable.coop",
+      "path": "/shame/cardiovascular/dir/ballet/electric",
+      "port": 65183,
+      "query_string": "local mesa hybrid",
+      "scheme": "tcp dropped dealtime",
+      "text": "action"
+    },
+    "user_agent": "descending lucky difficulties",
+    "version": "1.0.0-rc.2"
+  },
+  "http_response": {
+    "code": 18,
+    "length": 21
+  },
+  "message": "criticism vast mali",
+  "metadata": {
+    "original_time": "professional speaker amsterdam",
+    "product": {
+      "feature": {
+        "name": "institutions vocals demonstrate",
+        "uid": "441016ea-0ac9-11ee-8032-0242ac110002",
+        "version": "1.0.0-rc.2"
+      },
+      "lang": "en",
+      "name": "coaches fonts rest",
+      "uid": "44101bf4-0ac9-11ee-9db3-0242ac110002",
+      "vendor_name": "ja hitachi urls",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "441023b0-0ac9-11ee-ac6f-0242ac110002",
+    "version": "1.0.0-rc.2"
+  },
+  "observables": [
+    {
+      "name": "descending samba forum",
+      "type": "Registry Value",
+      "type_id": 29
+    }
+  ],
+  "severity": "Unknown",
+  "severity_id": 0,
+  "src_endpoint": {
+    "hostname": "z.coop",
+    "instance_uid": "44104426-0ac9-11ee-b9b5-0242ac110002",
+    "interface_name": "san addiction bulletin",
+    "interface_uid": "4410494e-0ac9-11ee-ada7-0242ac110002",
+    "ip": "239.227.0.20",
+    "port": 8260,
+    "svc_name": "sic zoning streams",
+    "uid": "44104dd6-0ac9-11ee-9536-0242ac110002",
+    "vlan_uid": "4410516e-0ac9-11ee-9c6c-0242ac110002"
+  },
+  "status": "dies armstrong sullivan",
+  "time": 1686757004165825,
+  "timezone_offset": 96,
+  "type_name": "Access Activity: Other",
+  "type_uid": 300699
+}

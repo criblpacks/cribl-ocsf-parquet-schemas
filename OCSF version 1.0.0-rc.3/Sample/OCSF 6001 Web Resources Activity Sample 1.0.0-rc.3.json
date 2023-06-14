@@ -1,0 +1,87 @@
+{
+  "activity_id": 99,
+  "activity_name": "fitness",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resources Activity",
+  "class_uid": 6001,
+  "dst_endpoint": {
+    "hostname": "concerned.mobi",
+    "instance_uid": "14bd53da-0ac9-11ee-b190-0242ac110003",
+    "interface_name": "untitled rt coated",
+    "interface_uid": "14bd59ca-0ac9-11ee-a8a0-0242ac110003",
+    "ip": "20.13.141.2",
+    "mac": "82:46:53:EE:95:9:71:15",
+    "name": "lord bull winston",
+    "port": 36136,
+    "svc_name": "aboriginal th auckland",
+    "uid": "14bd641a-0ac9-11ee-94b9-0242ac110003"
+  },
+  "enrichments": [
+    {
+      "data": "plastic",
+      "name": "providence folk thanksgiving",
+      "provider": "statements sherman nextel",
+      "type": "virtually cinema startup",
+      "value": "general wrote gc"
+    }
+  ],
+  "metadata": {
+    "log_name": "responsibilities proposed uses",
+    "log_provider": "sensitive waiting monitoring",
+    "original_time": "screensavers its prague",
+    "product": {
+      "lang": "en",
+      "name": "uruguay thing ours",
+      "uid": "14bd8d50-0ac9-11ee-837a-0242ac110003",
+      "vendor_name": "shape projects tires",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686756924771704,
+  "timezone_offset": 63,
+  "type_name": "Web Resources Activity: Other",
+  "type_uid": 600199,
+  "web_resources": [
+    {
+      "data": "waterproof",
+      "url": {
+        "category_ids": [
+          83,
+          46
+        ],
+        "hostname": "colored.int",
+        "path": "promising legacy utils",
+        "port": 7244,
+        "query_string": "eau joining congress",
+        "url_string": "speech"
+      }
+    },
+    {
+      "data": "traveler",
+      "type": "expression scratch draw",
+      "uid": "14bd75b8-0ac9-11ee-9bf5-0242ac110003",
+      "url": {
+        "category_ids": [
+          51,
+          107
+        ],
+        "hostname": "emphasis.biz",
+        "path": "despite stated ultra",
+        "port": 47843,
+        "query_string": "philip shakespeare entries",
+        "scheme": "provider fax booty",
+        "subdomain": "pens motivated ebook",
+        "url_string": "fair"
+      }
+    }
+  ]
+}

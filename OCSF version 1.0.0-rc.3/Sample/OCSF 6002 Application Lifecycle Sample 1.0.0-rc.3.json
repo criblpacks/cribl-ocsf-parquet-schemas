@@ -1,0 +1,52 @@
+{
+  "activity_id": 1,
+  "activity_name": "Install",
+  "app": {
+    "feature": {
+      "name": "qualified metabolism sf",
+      "uid": "2b13ccd6-0ac9-11ee-8d75-0242ac110003",
+      "version": "1.0.0-rc.3"
+    },
+    "lang": "en",
+    "name": "linked collectible worse",
+    "uid": "2b13dbf4-0ac9-11ee-8b6f-0242ac110003",
+    "vendor_name": "mirror deposit came",
+    "version": "1.0.0-rc.3"
+  },
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "class_uid": 6002,
+  "duration": 84,
+  "end_time": 1686756962248210,
+  "metadata": {
+    "correlation_uid": "2b13e928-0ac9-11ee-bbd6-0242ac110003",
+    "event_code": "ruth",
+    "labels": [
+      "mem",
+      "product"
+    ],
+    "log_name": "coins vi kevin",
+    "log_provider": "chain trout friend",
+    "modified_time": 1686756962249418,
+    "original_time": "zen lemon commitment",
+    "processed_time": 1686756962249445,
+    "product": {
+      "lang": "en",
+      "name": "lanes fisheries trailers",
+      "vendor_name": "limited disability kong",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 80,
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status_code": "favorite",
+  "time": 1686756962248183,
+  "type_name": "Application Lifecycle: Install",
+  "type_uid": 600201
+}

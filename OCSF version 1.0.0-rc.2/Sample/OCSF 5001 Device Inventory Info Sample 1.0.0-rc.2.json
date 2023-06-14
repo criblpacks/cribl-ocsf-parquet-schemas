@@ -1,0 +1,33 @@
+{
+  "activity_id": 99,
+  "activity_name": "pentium",
+  "category_name": "Configuration/Inventory",
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "class_uid": 5001,
+  "message": "login millennium episodes",
+  "metadata": {
+    "modified_time": 1686757025712119,
+    "original_time": "msg archive mexican",
+    "product": {
+      "lang": "en",
+      "name": "cultures throw scene",
+      "path": "/triumph/expand/riverside/rc/recreation",
+      "uid": "50e79a96-0ac9-11ee-a2b4-0242ac110002",
+      "vendor_name": "necessary flying merchant",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "perl",
+  "status_id": 99,
+  "time": 1686757025712025,
+  "timezone_offset": 70,
+  "type_name": "Device Inventory Info: Other",
+  "type_uid": 500199
+}

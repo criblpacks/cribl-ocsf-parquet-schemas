@@ -1,0 +1,105 @@
+{
+  "activity_id": 9,
+  "activity_name": "Get Security",
+  "actor": {
+    "authorizations": [
+      {},
+      {
+        "policy": {
+          "desc": "owner bean appearance",
+          "name": "logged protection symphony",
+          "uid": "2c02aba8-0ac9-11ee-b142-0242ac110003"
+        }
+      }
+    ],
+    "idp": {
+      "name": "lawyers grade compounds",
+      "uid": "2c02b2f6-0ac9-11ee-baad-0242ac110003"
+    },
+    "user": {
+      "domain": "requests hong resource",
+      "name": "Combo",
+      "type": "User",
+      "type_id": 1
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "File System Activity",
+  "class_uid": 1001,
+  "create_mask": "jd teachers appearing",
+  "device": {
+    "autoscale_uid": "2c02e1f4-0ac9-11ee-bf57-0242ac110003",
+    "desc": "complicated partners le",
+    "hostname": "critical.net",
+    "hw_info": {
+      "bios_date": "similarly holder specify",
+      "cpu_bits": 21,
+      "cpu_cores": 31,
+      "cpu_speed": 11
+    },
+    "hypervisor": "brothers spending genome",
+    "imei": "task outline bye",
+    "instance_uid": "2c02d790-0ac9-11ee-adfa-0242ac110003",
+    "interface_name": "mar feelings feature",
+    "interface_uid": "2c02d286-0ac9-11ee-959a-0242ac110003",
+    "ip": "206.55.31.8",
+    "last_seen_time": 1686756963815488,
+    "name": "lighting initiatives monica",
+    "region": "heavily sponsorship article",
+    "risk_level": "specialists legitimate traveller",
+    "risk_score": 24,
+    "type": "Browser",
+    "type_id": 8,
+    "vpc_uid": "2c02cb9c-0ac9-11ee-9cac-0242ac110003"
+  },
+  "file": {
+    "confidentiality": "Unknown",
+    "confidentiality_id": 0,
+    "hashes": [
+      {
+        "algorithm": "TLSH",
+        "algorithm_id": 6,
+        "value": "8B38BAA46811571A4914058D741DAAE09B9C0A2AB0236AF5AF33C3DEA946833A7CE4FD31C953B7F1CE45245C3E14316B7DFA92B11F2161F4E79D0E63CBCC699D"
+      },
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "7053FEC3A85C6365E9096164CE5740F0A9A8588D7450850638C1604EFF4D27524A6F721FAF1401CB5B2610340B14F502387639ACAB29D0CA307BD91B5A3F9248"
+      }
+    ],
+    "mime_type": "decreased/do",
+    "name": "arguments.tex",
+    "parent_folder": "arch spectacular assumes/faculty.vcxproj",
+    "path": "arch spectacular assumes/faculty.vcxproj/arguments.tex",
+    "type": "Block Device",
+    "type_id": 4
+  },
+  "message": "operators remarkable latin",
+  "metadata": {
+    "event_code": "norm",
+    "log_name": "most benefits translations",
+    "log_provider": "advancement magazines offensive",
+    "modified_time": 1686756963815655,
+    "original_time": "focuses impressive forty",
+    "product": {
+      "lang": "en",
+      "name": "bottles knew manchester",
+      "vendor_name": "moldova britain watch",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "start_time": 1686756963815724,
+  "status_code": "disability",
+  "status_detail": "brought mozilla point",
+  "time": 1686756963813441,
+  "timezone_offset": 30,
+  "type_name": "File System Activity: Get Security",
+  "type_uid": 100109
+}

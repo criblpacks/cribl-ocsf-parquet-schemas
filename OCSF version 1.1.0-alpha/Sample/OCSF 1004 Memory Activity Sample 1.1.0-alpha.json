@@ -1,0 +1,373 @@
+{
+  "activity_id": 8,
+  "activity_name": "Write",
+  "actor": {
+    "invoked_by": "intranet paperbacks scanners",
+    "user": {
+      "org": {
+        "name": "romantic hardwood bookmarks",
+        "ou_name": "contacts developer fields",
+        "uid": "7aaa781c-0ac9-11ee-89f0-0242ac110004"
+      },
+      "type": "System",
+      "type_id": 3,
+      "uid": "7aaa7c9a-0ac9-11ee-93d6-0242ac110004"
+    }
+  },
+  "base_address": "researcher ceo actual",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Memory Activity",
+  "class_uid": 1004,
+  "device": {
+    "first_seen_time": 1686757095776723,
+    "hostname": "infected.jobs",
+    "hypervisor": "interactive wanting da",
+    "instance_uid": "7aaa914e-0ac9-11ee-9600-0242ac110004",
+    "interface_name": "memorial clip xl",
+    "interface_uid": "7aaa8ab4-0ac9-11ee-b3de-0242ac110004",
+    "ip": "184.227.10.198",
+    "is_compliant": false,
+    "is_personal": true,
+    "location": {
+      "city": "Stud abu",
+      "continent": "Antarctica",
+      "coordinates": [
+        135.9987,
+        13.9307
+      ],
+      "country": "TF",
+      "desc": "French Southern Territories"
+    },
+    "mac": "6:C6:1B:CB:4F:15:58:E5",
+    "name": "digital property animals",
+    "region": "calibration s era",
+    "subnet": "2.181.0.0/16",
+    "type": "Server",
+    "type_id": 1,
+    "uid_alt": "outside twice coordinates"
+  },
+  "message": "firewall random inns",
+  "metadata": {
+    "log_name": "cardiff municipality trusts",
+    "log_provider": "preston eye sweet",
+    "original_time": "diversity colombia even",
+    "product": {
+      "lang": "en",
+      "name": "organizer tired scroll",
+      "uid": "7aaa9ebe-0ac9-11ee-a5e6-0242ac110004",
+      "vendor_name": "police exception disappointed",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "process": {
+    "cmd_line": "offered jury bool",
+    "created_time": 1686757095777351,
+    "file": {
+      "attributes": 78,
+      "hashes": [
+        {
+          "algorithm": "MD5",
+          "algorithm_id": 1,
+          "value": "DF6FE9A731182EFB711DBBE7906D53B3"
+        },
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "C2AC5FA62B2D1F6FBBF7434A28C335C5EF85EB5E4AD0C5F9C314792A2F437E22"
+        }
+      ],
+      "modifier": {
+        "groups": [
+          {
+            "name": "applicant hopes trader",
+            "privileges": [
+              "rent undertaken arabic"
+            ],
+            "type": "miscellaneous nw cash",
+            "uid": "7aaad0fa-0ac9-11ee-ad22-0242ac110004"
+          },
+          {
+            "name": "mae limiting thomas",
+            "type": "whereas explosion passive",
+            "uid": "7aaad8f2-0ac9-11ee-bf5e-0242ac110004"
+          }
+        ],
+        "name": "Ra",
+        "type": "System",
+        "type_id": 3,
+        "uid": "7aaae05e-0ac9-11ee-97a4-0242ac110004"
+      },
+      "name": "ak.pl",
+      "parent_folder": "vertical bowl a/syria.dem",
+      "path": "vertical bowl a/syria.dem/ak.pl",
+      "security_descriptor": "provides logistics garbage",
+      "type": "Named Pipe",
+      "type_id": 6,
+      "xattributes": {}
+    },
+    "loaded_modules": [
+      "/lazy/printed/thermal/franchise/drilling.aspx",
+      "/stereo/humans/remains/traffic/portsmouth.fla"
+    ],
+    "name": "Interactive",
+    "parent_process": {
+      "created_time": 1686757095778937,
+      "file": {
+        "confidentiality": "algebra charging reflected",
+        "hashes": [
+          {
+            "algorithm": "magic",
+            "algorithm_id": 99,
+            "value": "B75EB8B543D355D86EF7B1C2081712F14FD5792CB85590DFC2A599802BD1F9E7"
+          },
+          {
+            "algorithm": "quickXorHash",
+            "algorithm_id": 7,
+            "value": "ADF67491D4FD05008FD439EF611EBC66E5CD4EC1B196BEFB628A4979C4296A4DB5CB5D4B2BD7AB4AD39DA3BFF9C649C1CE6B67D1F79C9B22E1ED36E4FA72FDAE"
+          }
+        ],
+        "is_system": true,
+        "modifier": {
+          "account": {
+            "name": "tt dvd rain",
+            "type": "GCP Account",
+            "type_id": 5,
+            "uid": "7aaafb2a-0ac9-11ee-a867-0242ac110004"
+          },
+          "domain": "dir cross racing",
+          "name": "Fd",
+          "type": "System",
+          "type_id": 3,
+          "uid": "7aab0016-0ac9-11ee-a022-0242ac110004"
+        },
+        "name": "motor.aspx",
+        "parent_folder": "mpg poland portable/easier.vob",
+        "path": "mpg poland portable/easier.vob/motor.aspx",
+        "security_descriptor": "watt reverse offshore",
+        "type": "Local Socket",
+        "type_id": 5
+      },
+      "name": "Generations",
+      "parent_process": {
+        "cmd_line": "economies circular referred",
+        "created_time": 1686757095779710,
+        "file": {
+          "accessed_time": 1686757095779816,
+          "confidentiality": "reservations",
+          "confidentiality_id": 99,
+          "name": "presence.7z",
+          "parent_folder": "machinery spice money/could.pptx",
+          "path": "machinery spice money/could.pptx/presence.7z",
+          "product": {
+            "lang": "en",
+            "name": "wit portion balanced",
+            "path": "send shore regular",
+            "uid": "7aab1b1e-0ac9-11ee-953f-0242ac110004",
+            "vendor_name": "law novels retrieve",
+            "version": "1.1.0-alpha"
+          },
+          "type": "Block Device",
+          "type_id": 4,
+          "version": "1.1.0-alpha"
+        },
+        "integrity": "Unknown",
+        "integrity_id": 0,
+        "name": "Updates",
+        "parent_process": {
+          "cmd_line": "clarke erotica acceptable",
+          "created_time": 1686757095780616,
+          "file": {
+            "accessed_time": 1686757095780739,
+            "hashes": [
+              {
+                "algorithm": "SHA-256",
+                "algorithm_id": 3,
+                "value": "57D59E28722DFD55524B8D4FAF279BD38F0A3F33106F9E54DFE9239FA2D0DFBF"
+              }
+            ],
+            "is_system": true,
+            "name": "slave.kml",
+            "parent_folder": "agrees sciences pride/constitute.kmz",
+            "path": "agrees sciences pride/constitute.kmz/slave.kml",
+            "size": 642504254,
+            "type": "Symbolic Link",
+            "type_id": 7,
+            "version": "1.1.0-alpha",
+            "xattributes": {}
+          },
+          "name": "Taxes",
+          "parent_process": {
+            "cmd_line": "drugs findarticles psp",
+            "created_time": 1686757095780993,
+            "file": {
+              "company_name": "Lionel Kathey",
+              "is_system": true,
+              "modified_time": 1686757095781157,
+              "name": "reduces.mim",
+              "parent_folder": "campaign dynamic christ/small.cue",
+              "path": "campaign dynamic christ/small.cue/reduces.mim",
+              "type": "Unknown",
+              "type_id": 0
+            },
+            "integrity": "Low",
+            "integrity_id": 2,
+            "name": "Clear",
+            "parent_process": {
+              "cmd_line": "yes fears disorders",
+              "created_time": 1686757095781305,
+              "file": {
+                "created_time": 1686757095781404,
+                "creator": {
+                  "name": "Crm",
+                  "type": "User",
+                  "type_id": 1,
+                  "uid": "7aab507a-0ac9-11ee-ba18-0242ac110004"
+                },
+                "desc": "male promoted saying",
+                "hashes": [
+                  {
+                    "algorithm": "Unknown",
+                    "algorithm_id": 0,
+                    "value": "87152A6DA3FB9F3DBF6D8F40772758DE1EF552FF11C316626FEA3B35841155EC22E6BB405BA17D7B8F59EB22985A105A368B1C1778E8A18A00CB85F30F4CD617"
+                  }
+                ],
+                "name": "mortgage.drv",
+                "parent_folder": "tunisia mins river/professionals.doc",
+                "path": "tunisia mins river/professionals.doc/mortgage.drv",
+                "type": "Unknown",
+                "type_id": 0,
+                "xattributes": {}
+              },
+              "integrity": "Unknown",
+              "integrity_id": 0,
+              "lineage": [
+                "household picks cables"
+              ],
+              "name": "Decorative",
+              "pid": 96,
+              "uid": "7aab5a34-0ac9-11ee-a8c1-0242ac110004",
+              "user": {
+                "full_name": "Slyvia Cyndi",
+                "name": "Palestine",
+                "type": "Unknown",
+                "type_id": 0,
+                "uid": "7aab64b6-0ac9-11ee-b098-0242ac110004",
+                "uid_alt": "terminology landing excel"
+              }
+            },
+            "pid": 13,
+            "uid": "7aab690c-0ac9-11ee-9ca3-0242ac110004",
+            "user": {
+              "credential_uid": "7aab75e6-0ac9-11ee-82c5-0242ac110004",
+              "email_addr": "Don@scuba.org",
+              "groups": [
+                {
+                  "name": "offshore grants shed",
+                  "privileges": [
+                    "uc suggests assurance"
+                  ],
+                  "uid": "7aab7cda-0ac9-11ee-a449-0242ac110004"
+                }
+              ],
+              "name": "Mind",
+              "org": {
+                "name": "rpm vpn encourage",
+                "ou_name": "ol canadian yet",
+                "uid": "7aab825c-0ac9-11ee-9ef2-0242ac110004"
+              },
+              "type": "Unknown",
+              "type_id": 0,
+              "uid": "7aab866c-0ac9-11ee-9af6-0242ac110004"
+            }
+          },
+          "tid": 76,
+          "uid": "7aab8aa4-0ac9-11ee-830c-0242ac110004",
+          "user": {
+            "account": {
+              "name": "anything honor effectively",
+              "type": "Azure AD Account",
+              "type_id": 6,
+              "uid": "7aab9242-0ac9-11ee-8fb3-0242ac110004"
+            },
+            "full_name": "Mariah Bruna",
+            "groups": [
+              {
+                "name": "lexmark subcommittee planet",
+                "uid": "7aab985a-0ac9-11ee-8c40-0242ac110004"
+              },
+              {
+                "name": "west wrestling wax",
+                "privileges": [
+                  "bernard spatial niagara",
+                  "optional sisters angry"
+                ],
+                "type": "poultry bringing australia"
+              }
+            ],
+            "name": "Thoughts",
+            "type": "bathroom",
+            "type_id": 99,
+            "uid": "7aab9d82-0ac9-11ee-b7a7-0242ac110004"
+          }
+        },
+        "pid": 20,
+        "session": {
+          "created_time": 1686757095783610,
+          "expiration_time": 1686757095783617,
+          "issuer": "doom member posts",
+          "uid": "7aaba41c-0ac9-11ee-bc84-0242ac110004"
+        },
+        "terminated_time": 1686757095783738,
+        "uid": "7aaba80e-0ac9-11ee-a7e6-0242ac110004",
+        "user": {
+          "email_addr": "Kellye@que.coop",
+          "name": "Draw",
+          "type": "Unknown",
+          "type_id": 0,
+          "uid": "7aabafa2-0ac9-11ee-9877-0242ac110004",
+          "uid_alt": "treat publicity friend"
+        }
+      },
+      "terminated_time": 1686757095784045,
+      "uid": "7aabb3c6-0ac9-11ee-b0ad-0242ac110004",
+      "user": {
+        "credential_uid": "7aabba42-0ac9-11ee-b667-0242ac110004",
+        "name": "Lyric",
+        "org": {
+          "name": "zambia bedroom quickly",
+          "ou_name": "continuity visits iso",
+          "uid": "7aabbf92-0ac9-11ee-b20d-0242ac110004"
+        },
+        "type": "System",
+        "type_id": 3,
+        "uid": "7aabc4ce-0ac9-11ee-8c75-0242ac110004"
+      }
+    },
+    "pid": 49,
+    "user": {
+      "account": {
+        "type": "AWS IAM User",
+        "type_id": 3,
+        "uid": "7aabcdb6-0ac9-11ee-bf67-0242ac110004"
+      },
+      "credential_uid": "7aabd126-0ac9-11ee-b4c2-0242ac110004",
+      "name": "Misc",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "7aabd522-0ac9-11ee-b9e0-0242ac110004"
+    }
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757095775585,
+  "timezone_offset": 74,
+  "type_name": "Memory Activity: Write",
+  "type_uid": 100408
+}

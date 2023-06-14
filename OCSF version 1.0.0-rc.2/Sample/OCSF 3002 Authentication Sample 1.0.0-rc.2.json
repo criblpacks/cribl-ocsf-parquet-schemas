@@ -1,0 +1,380 @@
+{
+  "activity_id": 4,
+  "activity_name": "Service Ticket",
+  "actor": {
+    "process": {
+      "cmd_line": "arrival thy forests",
+      "created_time": 1686757008704294,
+      "file": {
+        "accessor": {
+          "account_type": "LDAP Account",
+          "account_type_id": 1,
+          "groups": [
+            {
+              "name": "cbs transformation recognize",
+              "privileges": [
+                "install brands cameroon"
+              ],
+              "uid": "46c46f30-0ac9-11ee-963d-0242ac110002"
+            },
+            {
+              "name": "longer outside abraham",
+              "uid": "46c474f8-0ac9-11ee-b919-0242ac110002"
+            }
+          ],
+          "name": "Contributions",
+          "uid": "46c479f8-0ac9-11ee-b32c-0242ac110002"
+        },
+        "attributes": 31,
+        "confidentiality": "Confidential",
+        "confidentiality_id": 2,
+        "fingerprints": [
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "45FA75A45CBB7D0366AEF7374B0355879EA49833"
+          },
+          {
+            "algorithm": "SHA-256",
+            "algorithm_id": 3,
+            "value": "76806E2C372DB5358A574BA14D2264B6238C24CE6AD5D364C4C12CB1B87DDE98"
+          }
+        ],
+        "is_system": false,
+        "name": "meeting.fla",
+        "parent_folder": "/contains/management/entrance/fairy/manufacture/for.mim",
+        "path": "/contains/management/entrance/fairy/manufacture/for.mim/meeting.fla",
+        "product": {
+          "lang": "en",
+          "name": "our austin writer",
+          "uid": "46c48484-0ac9-11ee-aaab-0242ac110002",
+          "vendor_name": "hungarian areas ln",
+          "version": "1.0.0-rc.2"
+        },
+        "security_descriptor": "dat tx himself",
+        "size": 1257675225,
+        "type": "Unknown",
+        "type_id": 0,
+        "xattributes": {}
+      },
+      "loaded_modules": [
+        "/modified/pod/transexual/sick/tax.h"
+      ],
+      "name": "Resumes",
+      "parent_process": {
+        "cmd_line": "particles guitars agrees",
+        "created_time": 1686757008705420,
+        "file": {
+          "accessed_time": 1686757008705523,
+          "accessor": {
+            "account_type": "Azure AD Account",
+            "account_type_id": 6,
+            "org_uid": "46c49bae-0ac9-11ee-bc7f-0242ac110002",
+            "type": "easily direct mystery",
+            "uid": "46c4a2ca-0ac9-11ee-bd00-0242ac110002"
+          },
+          "fingerprints": [
+            {
+              "algorithm": "SHA-512",
+              "algorithm_id": 4,
+              "value": "4BA39A14E4E9A69F1DDB6E7BADE2BFC44C158CA5CA25C7C0DF986240393A60BB8A035548FD66A91E206692D14D9AABCD43FB0B8AC4FD37C9051DFD17587EA893"
+            },
+            {
+              "algorithm": "MD5",
+              "algorithm_id": 1,
+              "value": "8372C033B8BFEDB5B31457CE75373CB6"
+            }
+          ],
+          "name": "standards.toast",
+          "parent_folder": "/size/representatives/comedy/counter/receivers/sauce.png",
+          "path": "/size/representatives/comedy/counter/receivers/sauce.png/standards.toast",
+          "type": "Block Device",
+          "type_id": 4,
+          "xattributes": {}
+        },
+        "lineage": [
+          "sampling about pants",
+          "scripting flavor largely"
+        ],
+        "loaded_modules": [
+          "/pharmaceuticals/doc/instrumentation/wanted/durham.aif",
+          "/quick/christ/amongst/recommended/applications.3gp"
+        ],
+        "name": "Built",
+        "parent_process": {
+          "cmd_line": "zope texts georgia",
+          "created_time": 1686757008707014,
+          "file": {
+            "accessor": {
+              "name": "Talking",
+              "org_uid": "46c4d61e-0ac9-11ee-823f-0242ac110002",
+              "uid": "46c4da4c-0ac9-11ee-a881-0242ac110002"
+            },
+            "company_name": "Hubert Alecia",
+            "confidentiality": "economics formerly adequate",
+            "desc": "bumper reporter canberra",
+            "fingerprints": [
+              {
+                "algorithm": "SHA-512",
+                "algorithm_id": 4,
+                "value": "A33DD9AAC79A21506480CCFD2B5FD1D3F2F28720DD2BFE287F29E29C9FF2C97FD53DC91B4AFAF90F06A569AA84F4A262C21FA9D57078FE0A4921A96AB7EFA0A5"
+              }
+            ],
+            "modifier": {
+              "name": "Control",
+              "uid": "46c4e3ca-0ac9-11ee-83e7-0242ac110002",
+              "uuid": "46c4e794-0ac9-11ee-affb-0242ac110002"
+            },
+            "name": "drilling.txt",
+            "parent_folder": "/inside/reception/to/visual/us/copyrighted.hqx",
+            "path": "/inside/reception/to/visual/us/copyrighted.hqx/drilling.txt",
+            "type": "Character Device",
+            "type_id": 3,
+            "uid": "46c4eca8-0ac9-11ee-bfb7-0242ac110002",
+            "xattributes": {}
+          },
+          "integrity": "Medium",
+          "integrity_id": 3,
+          "name": "Questions",
+          "parent_process": {
+            "cmd_line": "beverly asia fault",
+            "created_time": 1686757008708129,
+            "file": {
+              "desc": "vietnamese boots zen",
+              "fingerprints": [
+                {
+                  "algorithm": "CTPH",
+                  "algorithm_id": 5,
+                  "value": "3C8E13CAB5C5DA789CE43021A4D0B2093786F09CAA2BECB45F842ACED93FAC7C7D71870B13595C37D9A39E2E10D1655C0F4478F0FAE995ACD37D4E6C616A0847"
+                },
+                {
+                  "algorithm": "Unknown",
+                  "algorithm_id": 0,
+                  "value": "9AC05ED2DFBB059CF1B9CD4AAB6757E22A09A086349CC018FAE33F326B3F6C0D1AD093149C53AC7A6491BBE72327A71FDB34D47CF970A5263AA75344453329C4"
+                }
+              ],
+              "is_system": true,
+              "name": "hollow.apk",
+              "owner": {
+                "account_type": "corpus leo rely",
+                "domain": "cloud apply adopt",
+                "name": "Slightly",
+                "uid": "46c50594-0ac9-11ee-8fa4-0242ac110002"
+              },
+              "parent_folder": "/surveys/pushed/lisa/among/articles/wanting.bin",
+              "path": "/surveys/pushed/lisa/among/articles/wanting.bin/hollow.apk",
+              "signature": {
+                "company_name": "Madelene Elnora",
+                "developer_uid": "46c50da0-0ac9-11ee-969d-0242ac110002"
+              },
+              "size": 4232842358,
+              "type": "Local Socket",
+              "type_id": 5,
+              "version": "1.0.0-rc.2"
+            },
+            "name": "Connectivity",
+            "parent_process": {
+              "cmd_line": "computational event provided",
+              "created_time": 1686757008708990,
+              "file": {
+                "company_name": "In Whitley",
+                "fingerprints": [
+                  {
+                    "algorithm": "magic",
+                    "algorithm_id": 99,
+                    "value": "2DD4A148E41A2AAEA02A219AD8DE8B681B8EED4EA9B72532E74CA1618B3D2F0C"
+                  }
+                ],
+                "name": "installations.asp",
+                "owner": {
+                  "email_addr": "Barb@bulgaria.int",
+                  "name": "Fabrics",
+                  "uid": "46c52272-0ac9-11ee-a0be-0242ac110002"
+                },
+                "parent_folder": "/sc/kenneth/worry/ave/yrs/athletes.vcd",
+                "path": "/sc/kenneth/worry/ave/yrs/athletes.vcd/installations.asp",
+                "product": {
+                  "lang": "en",
+                  "name": "hawk zinc thong",
+                  "uid": "46c5289e-0ac9-11ee-a825-0242ac110002",
+                  "vendor_name": "highlights burst desperate"
+                },
+                "size": 3715568584,
+                "type": "Character Device",
+                "type_id": 3
+              },
+              "name": "Stat",
+              "pid": 73,
+              "uid": "46c52e48-0ac9-11ee-ae5f-0242ac110002",
+              "user": {
+                "name": "Atomic",
+                "type": "readings",
+                "type_id": 99,
+                "uid": "46c53514-0ac9-11ee-a4b9-0242ac110002"
+              }
+            },
+            "pid": 33,
+            "xattributes": {}
+          },
+          "pid": 35,
+          "tid": 23,
+          "uid": "46c539ce-0ac9-11ee-9dd6-0242ac110002",
+          "user": {
+            "account_type": "GCP Account",
+            "account_type_id": 5,
+            "name": "Letting",
+            "uid": "46c5402c-0ac9-11ee-a4fe-0242ac110002"
+          },
+          "xattributes": {}
+        },
+        "pid": 65,
+        "tid": 65,
+        "uid": "46c54612-0ac9-11ee-9ee8-0242ac110002",
+        "user": {
+          "credential_uid": "46c54c2a-0ac9-11ee-8c29-0242ac110002",
+          "name": "Custody",
+          "type": "Unknown",
+          "type_id": 0,
+          "uid": "46c552d8-0ac9-11ee-b41d-0242ac110002"
+        }
+      },
+      "pid": 95,
+      "uid": "46c556ac-0ac9-11ee-8a2b-0242ac110002",
+      "user": {
+        "account_type": "Unknown",
+        "account_type_id": 0,
+        "groups": [
+          {
+            "name": "valium crew mega",
+            "privileges": [
+              "collective souls requires",
+              "eco badge enemies"
+            ],
+            "uid": "46c55e86-0ac9-11ee-9b8e-0242ac110002"
+          },
+          {
+            "name": "jesus streets moments",
+            "uid": "46c5626e-0ac9-11ee-9602-0242ac110002"
+          }
+        ]
+      }
+    },
+    "session": {
+      "created_time": 1686757008710967,
+      "issuer": "surgeons finland sole",
+      "uid": "46c5685e-0ac9-11ee-9bca-0242ac110002",
+      "uuid": "46c56bb0-0ac9-11ee-b801-0242ac110002"
+    },
+    "user": {
+      "account_type": "GCP Account",
+      "account_type_id": 5,
+      "credential_uid": "46c57150-0ac9-11ee-8391-0242ac110002",
+      "email_addr": "Audrie@applicants.mobi",
+      "org_uid": "46c5752e-0ac9-11ee-a16e-0242ac110002",
+      "uid": "46c5786c-0ac9-11ee-ab3c-0242ac110002"
+    }
+  },
+  "auth_protocol": "NTLM",
+  "auth_protocol_id": 1,
+  "category_name": "Audit Activity",
+  "category_uid": 3,
+  "class_name": "Authentication",
+  "class_uid": 3002,
+  "confidence": 54,
+  "dst_endpoint": {
+    "instance_uid": "46c43060-0ac9-11ee-810f-0242ac110002",
+    "interface_name": "lift jelsoft providing",
+    "interface_uid": "46c436e6-0ac9-11ee-8ee2-0242ac110002",
+    "intermediate_ips": [
+      "225.213.235.219",
+      "96.131.10.38"
+    ],
+    "ip": "3.78.225.13",
+    "name": "delays keno titles",
+    "port": 31236,
+    "svc_name": "outstanding proceeds piano",
+    "uid": "46c43dda-0ac9-11ee-8b9c-0242ac110002"
+  },
+  "http_request": {
+    "http_headers": [
+      {
+        "name": "karl station deal",
+        "value": "generators finishing ride"
+      }
+    ],
+    "http_method": "locally requirements intranet",
+    "prefix": "restore africa brochures",
+    "url": {
+      "categories": [
+        "patches scholarships alerts",
+        "courier fears albany"
+      ],
+      "hostname": "encouraged.nato",
+      "path": "/prefix/infections/bend/impact/marshall",
+      "port": 1148,
+      "query_string": "thereof cabin cookie",
+      "scheme": "waiting distribute recognize",
+      "text": "medical"
+    },
+    "user_agent": "curious describes zen",
+    "version": "1.0.0-rc.2"
+  },
+  "is_remote": false,
+  "logon_type": "Batch",
+  "logon_type_id": 4,
+  "message": "restore curtis planes",
+  "metadata": {
+    "product": {
+      "name": "projected lodging deaf",
+      "vendor_name": "focuses atmosphere expires",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 87,
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "src_endpoint": {
+    "hostname": "sudan.com",
+    "instance_uid": "46c44654-0ac9-11ee-aaae-0242ac110002",
+    "interface_name": "reading form chances",
+    "interface_uid": "46c44ad2-0ac9-11ee-8b7e-0242ac110002",
+    "intermediate_ips": [
+      "163.232.231.134",
+      "14.185.201.76"
+    ],
+    "ip": "234.171.134.104",
+    "location": {
+      "city": "Did trademark",
+      "continent": "North America",
+      "coordinates": [
+        92.5199,
+        86.1496
+      ],
+      "country": "GP",
+      "desc": "Guadeloupe"
+    },
+    "port": 23237,
+    "svc_name": "intermediate priced granny",
+    "uid": "46c452fc-0ac9-11ee-9caa-0242ac110002"
+  },
+  "start_time": 1686757008701778,
+  "status": "guild",
+  "status_detail": "oakland nails insertion",
+  "status_id": 99,
+  "time": 1686757008701792,
+  "timezone_offset": 46,
+  "type_name": "Authentication: Service Ticket",
+  "type_uid": 300204,
+  "user": {
+    "account_type": "swing tft wing",
+    "email_addr": "Nicolle@shepherd.mobi",
+    "name": "Port",
+    "type": "Admin",
+    "type_id": 2,
+    "uid": "46c40d2e-0ac9-11ee-a175-0242ac110002"
+  }
+}

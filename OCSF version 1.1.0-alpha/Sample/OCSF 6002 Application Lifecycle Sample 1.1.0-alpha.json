@@ -1,0 +1,41 @@
+{
+  "activity_id": 99,
+  "activity_name": "ie",
+  "app": {
+    "name": "december tomatoes councils",
+    "uid": "7c687492-0ac9-11ee-b0ee-0242ac110004",
+    "vendor_name": "difficulty learners mistress",
+    "version": "1.1.0-alpha"
+  },
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "class_uid": 6002,
+  "count": 94,
+  "end_time": 1686757098698605,
+  "metadata": {
+    "log_name": "le lenders bye",
+    "log_provider": "wooden excluded hopes",
+    "log_version": "illinois prev allowing",
+    "original_time": "manitoba diabetes studying",
+    "product": {
+      "name": "hunter issn rss",
+      "uid": "7c688496-0ac9-11ee-80dc-0242ac110004",
+      "vendor_name": "scout orders benz",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "status": "Success",
+  "status_code": "poverty",
+  "status_id": 1,
+  "time": 1686757098698569,
+  "timezone_offset": 42,
+  "type_name": "Application Lifecycle: Other",
+  "type_uid": 600299
+}

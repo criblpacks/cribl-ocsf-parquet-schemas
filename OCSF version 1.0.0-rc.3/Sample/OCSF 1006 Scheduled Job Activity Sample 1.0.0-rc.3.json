@@ -1,0 +1,80 @@
+{
+  "activity_id": 5,
+  "activity_name": "Disable",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Scheduled Job Activity",
+  "class_uid": 1006,
+  "device": {
+    "created_time": 1686756941816980,
+    "desc": "disco beings immunology",
+    "first_seen_time": 1686756941816956,
+    "hostname": "cow.int",
+    "interface_name": "blow grand manage",
+    "interface_uid": "1ee6217a-0ac9-11ee-bbe6-0242ac110003",
+    "ip": "131.102.26.54",
+    "last_seen_time": 1686756941816968,
+    "name": "seminars setting mortality",
+    "org": {
+      "name": "wilderness reports combined",
+      "ou_name": "migration mlb aus",
+      "uid": "1ee6283c-0ac9-11ee-b8ef-0242ac110003"
+    },
+    "region": "seats investigators closely",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "1ee62c10-0ac9-11ee-842b-0242ac110003"
+  },
+  "job": {
+    "cmd_line": "snapshot detected marble",
+    "created_time": 1686756941815708,
+    "desc": "gray corporation currently",
+    "file": {
+      "created_time": 1686756941816111,
+      "hashes": [
+        {
+          "algorithm": "SHA-256",
+          "algorithm_id": 3,
+          "value": "6A3DD6BD578F008F28DA42E795EA4D215271D7A73D97752E8E649212797EB53C"
+        },
+        {
+          "algorithm": "SHA-1",
+          "algorithm_id": 2,
+          "value": "5EB75E31B326ED7AAD182CDBC1329F78AEB2C5DE"
+        }
+      ],
+      "name": "strong.ics",
+      "type": "Folder",
+      "type_id": 2
+    },
+    "name": "hormone hack packages",
+    "run_state": "Unknown",
+    "run_state_id": 0
+  },
+  "message": "pig funded captain",
+  "metadata": {
+    "correlation_uid": "1ee6355c-0ac9-11ee-8757-0242ac110003",
+    "event_code": "dicke",
+    "log_name": "moment majority metallic",
+    "log_provider": "au jazz encounter",
+    "original_time": "thick beneficial iii",
+    "product": {
+      "path": "ave lion investigations",
+      "uid": "1ee6475e-0ac9-11ee-b0b4-0242ac110003",
+      "vendor_name": "chef syndrome s",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686756941815619,
+  "timezone_offset": 24,
+  "type_name": "Scheduled Job Activity: Disable",
+  "type_uid": 100605
+}

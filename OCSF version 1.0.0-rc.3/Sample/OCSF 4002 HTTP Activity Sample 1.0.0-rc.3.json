@@ -1,0 +1,115 @@
+{
+  "activity_id": 2,
+  "activity_name": "Delete",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "HTTP Activity",
+  "class_uid": 4002,
+  "connection_info": {
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 73,
+    "tcp_flags": 83
+  },
+  "dst_endpoint": {
+    "hostname": "run.nato",
+    "instance_uid": "30959e6e-0ac9-11ee-87f7-0242ac110003",
+    "interface_name": "florist bon mission",
+    "interface_uid": "3095a332-0ac9-11ee-ac97-0242ac110003",
+    "ip": "238.241.139.39",
+    "mac": "9F:A6:5F:F8:38:0:DB:70",
+    "name": "abuse coordination production",
+    "port": 3749,
+    "uid": "3095a7b0-0ac9-11ee-95c9-0242ac110003",
+    "vlan_uid": "3095ab2a-0ac9-11ee-8c4b-0242ac110003"
+  },
+  "end_time": 1686756971488418,
+  "http_request": {
+    "args": "parallel rebates foreign",
+    "http_headers": [
+      {
+        "name": "msgstr vegetation thousands",
+        "value": "membrane shoulder recovered"
+      },
+      {
+        "name": "shorter shopzilla arrives",
+        "value": "odd win dryer"
+      }
+    ],
+    "http_method": "HEAD",
+    "url": {
+      "category_ids": [
+        68,
+        38
+      ],
+      "hostname": "him.mobi",
+      "path": "vessels biological ni",
+      "port": 58756,
+      "query_string": "eddie visa chinese",
+      "scheme": "documents ict mesa",
+      "url_string": "participating"
+    },
+    "user_agent": "cosmetic ball was",
+    "version": "1.0.0-rc.3"
+  },
+  "http_response": {
+    "code": 26
+  },
+  "message": "rely airfare tony",
+  "metadata": {
+    "correlation_uid": "3095cad8-0ac9-11ee-8e69-0242ac110003",
+    "labels": [
+      "korean",
+      "mixture"
+    ],
+    "original_time": "everything columbia appreciated",
+    "product": {
+      "lang": "en",
+      "name": "danny sydney pricing",
+      "path": "beer cigarettes tennessee",
+      "uid": "3095d1ae-0ac9-11ee-aa3a-0242ac110003",
+      "vendor_name": "reload consumption cluster",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 36,
+    "version": "1.0.0-rc.3"
+  },
+  "observables": [
+    {
+      "name": "attending would lu",
+      "type": "Fingerprint",
+      "type_id": 30
+    },
+    {
+      "name": "refinance accompanied zope",
+      "type": "File Name",
+      "type_id": 7
+    }
+  ],
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "hostname": "lighter.mobi",
+    "instance_uid": "30958910-0ac9-11ee-ab93-0242ac110003",
+    "interface_uid": "30958dd4-0ac9-11ee-aaef-0242ac110003",
+    "ip": "192.56.56.211",
+    "name": "die bow ddr",
+    "port": 65424,
+    "svc_name": "simply reprint elected",
+    "uid": "3095931a-0ac9-11ee-b1e1-0242ac110003",
+    "vlan_uid": "3095969e-0ac9-11ee-bb9d-0242ac110003"
+  },
+  "status": "roommates",
+  "status_id": 99,
+  "time": 1686756971487817,
+  "timezone_offset": 27,
+  "traffic": {
+    "bytes": 928000986,
+    "packets": 3136516408
+  },
+  "type_name": "HTTP Activity: Delete",
+  "type_uid": 400202
+}

@@ -1,0 +1,226 @@
+{
+  "activity_id": 2,
+  "activity_name": "Read",
+  "actor": {
+    "process": {
+      "cmd_line": "luggage preserve lots",
+      "created_time": 1686757114702737,
+      "file": {
+        "accessor": {
+          "name": "Stopping",
+          "type": "User",
+          "type_id": 1,
+          "uid": "85f27eb8-0ac9-11ee-aa03-0242ac110004"
+        },
+        "hashes": [
+          {
+            "algorithm": "SHA-256",
+            "algorithm_id": 3,
+            "value": "2AD562319767157087DDA0DEC6391F4479F8A04869AB0CC8D3A9C3637DAE73B5"
+          },
+          {
+            "algorithm": "quickXorHash",
+            "algorithm_id": 7,
+            "value": "5EAAB3F8BD3771664DDA281C5BEED2FAE1390A19449670DC1ADED7B422E69F8582FF678839DB776346E30BD569CDC0F23A91CA0FFE018286EC8C03976D823C7A"
+          }
+        ],
+        "modified_time": 1686757114703085,
+        "modifier": {
+          "name": "Lender",
+          "type": "enabling",
+          "type_id": 99,
+          "uid": "85f287f0-0ac9-11ee-b9f9-0242ac110004"
+        },
+        "name": "deep.avi",
+        "parent_folder": "gay varies change/efficiently.db",
+        "path": "gay varies change/efficiently.db/deep.avi",
+        "type": "Folder",
+        "type_id": 2,
+        "xattributes": {}
+      },
+      "name": "Chick",
+      "parent_process": {
+        "cmd_line": "requiring degrees adapters",
+        "created_time": 1686757114703418,
+        "file": {
+          "created_time": 1686757114703736,
+          "hashes": [
+            {
+              "algorithm": "Unknown",
+              "algorithm_id": 0,
+              "value": "398BFE8924E0DFF545620B2AC69F8033E0F156E50A41B6A1A614DB8869F9781B13283944C87CE291694C23E1A1C15032FB9176C743C54308E4BC04277922EDA2"
+            },
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "48BFD8BB369938430F60FAD2C2CAA06C79413E2BFE5C1E775CDE2FDDBB7158D8"
+            }
+          ],
+          "name": "towards.ged",
+          "parent_folder": "yukon switzerland accused/crystal.heic",
+          "path": "yukon switzerland accused/crystal.heic/towards.ged",
+          "type": "Symbolic Link",
+          "type_id": 7
+        },
+        "name": "Lead",
+        "parent_process": {
+          "cmd_line": "sender panels pray",
+          "created_time": 1686757114703923,
+          "file": {
+            "created_time": 1686757114704012,
+            "hashes": [
+              {
+                "algorithm": "MD5",
+                "algorithm_id": 1,
+                "value": "5360AF35BDE9EBD8F01F492DC059593C"
+              }
+            ],
+            "name": "fired.sitx",
+            "parent_folder": "experiment calls correctly/therapist.js",
+            "path": "experiment calls correctly/therapist.js/fired.sitx",
+            "type": "Symbolic Link",
+            "type_id": 7,
+            "uid": "85f2ac58-0ac9-11ee-9990-0242ac110004"
+          },
+          "name": "Fear",
+          "pid": 24,
+          "tid": 10,
+          "uid": "85f2b19e-0ac9-11ee-9d8e-0242ac110004",
+          "user": {
+            "name": "Annotated",
+            "type": "User",
+            "type_id": 1,
+            "uid": "85f2b996-0ac9-11ee-adaf-0242ac110004"
+          }
+        },
+        "pid": 26,
+        "tid": 13,
+        "uid": "85f2bda6-0ac9-11ee-ac81-0242ac110004",
+        "user": {
+          "account": {
+            "uid": "85f2c6ac-0ac9-11ee-9721-0242ac110004"
+          },
+          "full_name": "Tyler Teresita",
+          "groups": [
+            {
+              "name": "mn corrections class",
+              "uid": "85f2cc60-0ac9-11ee-a386-0242ac110004"
+            },
+            {
+              "name": "von rational mi",
+              "uid": "85f2d0ca-0ac9-11ee-8f8a-0242ac110004"
+            }
+          ],
+          "name": "Signed",
+          "type": "material",
+          "type_id": 99,
+          "uid": "85f2d584-0ac9-11ee-b502-0242ac110004"
+        },
+        "xattributes": {}
+      },
+      "pid": 82,
+      "terminated_time": 1686757114705262,
+      "uid": "85f2d9ee-0ac9-11ee-a461-0242ac110004",
+      "user": {
+        "full_name": "Mardell Jamar",
+        "name": "Joan",
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "85f2e5ce-0ac9-11ee-bcf8-0242ac110004",
+        "uid_alt": "bug om mobile"
+      }
+    },
+    "session": {
+      "created_time": 1686757114705719,
+      "credential_uid": "85f2eca4-0ac9-11ee-9ea1-0242ac110004",
+      "expiration_time": 1686757114705838,
+      "is_remote": true,
+      "issuer": "transport houston explain",
+      "uid": "85f2f0d2-0ac9-11ee-bae6-0242ac110004"
+    },
+    "user": {
+      "groups": [
+        {
+          "desc": "positioning blacks conjunction",
+          "privileges": [
+            "ones prix vertex"
+          ],
+          "type": "hdtv und invest",
+          "uid": "85f2fc08-0ac9-11ee-98ed-0242ac110004"
+        },
+        {
+          "name": "appreciate mentor wma",
+          "uid": "85f30022-0ac9-11ee-96df-0242ac110004"
+        }
+      ],
+      "name": "Plates",
+      "type": "learn",
+      "type_id": 99,
+      "uid": "85f30446-0ac9-11ee-a3d4-0242ac110004"
+    }
+  },
+  "api": {
+    "operation": "sally allows mali",
+    "request": {
+      "uid": "85f322f0-0ac9-11ee-946f-0242ac110004"
+    },
+    "response": {
+      "code": 41,
+      "error": "transportation ict combinations",
+      "error_message": "dirty reporter handmade",
+      "flags": [
+        "truth similar scored"
+      ],
+      "message": "inputs firm dana"
+    }
+  },
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "API Activity",
+  "class_uid": 6003,
+  "message": "generation good essentially",
+  "metadata": {
+    "log_name": "wallpaper recreational mess",
+    "log_provider": "quest camping soon",
+    "original_time": "bubble bandwidth sweden",
+    "product": {
+      "lang": "en",
+      "name": "ron checking shade",
+      "uid": "85f3179c-0ac9-11ee-86cb-0242ac110004",
+      "vendor_name": "instructor gallery italiano",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "85f31bca-0ac9-11ee-9241-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "resources": [
+    {
+      "owner": {
+        "name": "Blow",
+        "type": "System",
+        "type_id": 3,
+        "uid": "85f30e46-0ac9-11ee-aad8-0242ac110004"
+      }
+    }
+  ],
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "build.biz",
+    "instance_uid": "85f25ae6-0ac9-11ee-abe7-0242ac110004",
+    "interface_uid": "85f25f82-0ac9-11ee-9b67-0242ac110004",
+    "ip": "76.64.76.234",
+    "name": "toxic i fort",
+    "svc_name": "blanket chile pickup",
+    "uid": "85f26810-0ac9-11ee-8009-0242ac110004"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757114702448,
+  "timezone_offset": 30,
+  "type_name": "API Activity: Read",
+  "type_uid": 600302
+}

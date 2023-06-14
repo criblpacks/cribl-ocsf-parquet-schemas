@@ -1,0 +1,244 @@
+{
+  "activity_id": 4,
+  "activity_name": "Invoke",
+  "actor": {
+    "process": {
+      "cmd_line": "dose copying expiration",
+      "created_time": 1686757106872264,
+      "file": {
+        "creator": {
+          "account": {
+            "type": "Linux Account",
+            "type_id": 9,
+            "uid": "8147b1b2-0ac9-11ee-a0fc-0242ac110004"
+          },
+          "groups": [
+            {
+              "name": "rendered via paypal",
+              "uid": "8147b810-0ac9-11ee-8c2a-0242ac110004"
+            }
+          ],
+          "type": "System",
+          "type_id": 3,
+          "uid": "8147bbe4-0ac9-11ee-b9aa-0242ac110004"
+        },
+        "desc": "month training boards",
+        "hashes": [
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "9066A8ADD0C3A3D577EF47C7514ADB6D12C0CA99"
+          }
+        ],
+        "name": "enhancements.tif",
+        "owner": {
+          "account": {
+            "name": "assets trance highlighted",
+            "type": "AWS IAM User",
+            "type_id": 3,
+            "uid": "8147ca3a-0ac9-11ee-9a52-0242ac110004"
+          },
+          "domain": "providers heat began",
+          "full_name": "Haydee Jodee",
+          "groups": [
+            {
+              "desc": "elected plugin opened",
+              "name": "genetics finishing chubby",
+              "privileges": [
+                "prime foundation intent"
+              ],
+              "uid": "8147d890-0ac9-11ee-baa8-0242ac110004"
+            },
+            {
+              "name": "fine were conclude",
+              "privileges": [
+                "sporting capacity ul",
+                "functionality corpus knives"
+              ]
+            }
+          ],
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "8147df70-0ac9-11ee-8be1-0242ac110004"
+        },
+        "parent_folder": "specialized literature lil/genome.crx",
+        "path": "specialized literature lil/genome.crx/enhancements.tif",
+        "type": "Symbolic Link",
+        "type_id": 7
+      },
+      "integrity": "Protected",
+      "integrity_id": 6,
+      "name": "Avon",
+      "parent_process": {
+        "cmd_line": "hungary commissioner armenia",
+        "file": {
+          "creator": {
+            "domain": "deferred planet smooth",
+            "org": {
+              "name": "routines twelve cuba",
+              "ou_name": "not incredible grants",
+              "ou_uid": "8147f7d0-0ac9-11ee-ba40-0242ac110004"
+            },
+            "type": "grow",
+            "type_id": 99,
+            "uid": "8147fc58-0ac9-11ee-933b-0242ac110004"
+          },
+          "hashes": [
+            {
+              "algorithm": "TLSH",
+              "algorithm_id": 6,
+              "value": "4ACF2DAE37C14131A96E44B1D612B0088E75C26600B82E82ED07155675932C7C3010F221745A3BDB6DB898A7A3720B7D8EBD78795ED19F5EA826666D6A5C9ADE"
+            }
+          ],
+          "is_system": false,
+          "name": "cove.docx",
+          "parent_folder": "configurations addition harmony/regions.jpg",
+          "path": "configurations addition harmony/regions.jpg/cove.docx",
+          "security_descriptor": "priest lands entertainment",
+          "type": "Character Device",
+          "type_id": 3
+        },
+        "integrity": "Unknown",
+        "integrity_id": 0,
+        "name": "Development",
+        "parent_process": {
+          "cmd_line": "plot guard dr",
+          "created_time": 1686757106874877,
+          "file": {
+            "created_time": 1686757106874974,
+            "desc": "pensions joining discrete",
+            "mime_type": "sale/relation",
+            "name": "adipex.db",
+            "owner": {
+              "credential_uid": "81481102-0ac9-11ee-82bf-0242ac110004",
+              "domain": "campaigns acre blvd",
+              "name": "Polish",
+              "type": "sleep",
+              "type_id": 99,
+              "uid": "81481936-0ac9-11ee-ab0b-0242ac110004",
+              "uid_alt": "way chem reader"
+            },
+            "parent_folder": "electronic law reg/music.txt",
+            "path": "electronic law reg/music.txt/adipex.db",
+            "size": 580395826,
+            "type": "Folder",
+            "type_id": 2
+          },
+          "name": "Ensure",
+          "pid": 37,
+          "tid": 61,
+          "uid": "81481f30-0ac9-11ee-a0ec-0242ac110004",
+          "user": {
+            "domain": "impression carriers hosted",
+            "email_addr": "Audrea@rules.jobs",
+            "name": "Luis",
+            "type": "Admin",
+            "type_id": 2,
+            "uid": "81482624-0ac9-11ee-a1c0-0242ac110004"
+          },
+          "xattributes": {}
+        },
+        "pid": 81,
+        "tid": 70,
+        "uid": "81482b6a-0ac9-11ee-acfb-0242ac110004",
+        "user": {
+          "account": {
+            "name": "precision greeting shot",
+            "uid": "814833da-0ac9-11ee-96f9-0242ac110004"
+          },
+          "name": "Bankruptcy",
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "81483808-0ac9-11ee-8b56-0242ac110004"
+        }
+      },
+      "pid": 41,
+      "uid": "81483b78-0ac9-11ee-a6b6-0242ac110004",
+      "user": {
+        "account": {
+          "name": "corn artists kb",
+          "type": "Azure AD Account",
+          "type_id": 6,
+          "uid": "81484442-0ac9-11ee-a702-0242ac110004"
+        },
+        "email_addr": "Beverley@optical.mil",
+        "name": "Palace",
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "814848f2-0ac9-11ee-bc2c-0242ac110004"
+      }
+    },
+    "user": {
+      "name": "Owen",
+      "type": "System",
+      "type_id": 3,
+      "uid": "81485112-0ac9-11ee-891b-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Kernel Activity",
+  "class_uid": 1003,
+  "count": 98,
+  "device": {
+    "domain": "austin plastics statutory",
+    "hostname": "debut.net",
+    "instance_uid": "81486710-0ac9-11ee-98b2-0242ac110004",
+    "interface_name": "micro incidence notifications",
+    "interface_uid": "814863a0-0ac9-11ee-9bf5-0242ac110004",
+    "ip": "138.69.38.159",
+    "is_managed": true,
+    "name": "platform metals coin",
+    "subnet": "20.66.0.0/16",
+    "type": "Mobile",
+    "type_id": 5,
+    "uid": "81485eaa-0ac9-11ee-ba56-0242ac110004"
+  },
+  "enrichments": [
+    {
+      "data": "geometry",
+      "name": "falling ownership colored",
+      "provider": "together thought rim",
+      "type": "garcia kevin laws",
+      "value": "plymouth happen hollow"
+    },
+    {
+      "data": "normally",
+      "name": "change usd mali",
+      "type": "novels treasury reservation",
+      "value": "financial signatures cited"
+    }
+  ],
+  "kernel": {
+    "is_system": true,
+    "name": "cleaners chief typing",
+    "type": "Shared Mutex",
+    "type_id": 1
+  },
+  "message": "postage wear futures",
+  "metadata": {
+    "correlation_uid": "81488812-0ac9-11ee-a90b-0242ac110004",
+    "log_name": "jones social logitech",
+    "original_time": "botswana act cn",
+    "product": {
+      "lang": "en",
+      "name": "someone legend perspectives",
+      "uid": "814894f6-0ac9-11ee-93a4-0242ac110004",
+      "vendor_name": "attorneys olympics nbc",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "814899a6-0ac9-11ee-8b2f-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "severity": "sections",
+  "severity_id": 99,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757106872057,
+  "timezone_offset": 0,
+  "type_name": "Kernel Activity: Invoke",
+  "type_uid": 100304
+}

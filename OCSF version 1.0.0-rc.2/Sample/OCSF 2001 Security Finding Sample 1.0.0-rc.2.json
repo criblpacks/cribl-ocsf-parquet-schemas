@@ -1,0 +1,90 @@
+{
+  "activity_id": 2,
+  "activity_name": "Update",
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Security Finding",
+  "class_uid": 2001,
+  "confidence": 10,
+  "finding": {
+    "desc": "delivering allied alpha",
+    "title": "operations registered someone",
+    "uid": "5d3b7d6c-0ac9-11ee-989d-0242ac110002"
+  },
+  "malware": [
+    {
+      "classification_ids": [
+        5,
+        16
+      ],
+      "name": "know appropriations october",
+      "provider": "programmers bbs from",
+      "uid": "5d3b5030-0ac9-11ee-b7b8-0242ac110002"
+    },
+    {
+      "classification_ids": [
+        2,
+        0
+      ],
+      "classifications": [
+        "trucks discounts temperature"
+      ],
+      "name": "suse matched drop",
+      "path": "/transparent/thomson/mention/ordering/petroleum",
+      "provider": "cdt premier organizer",
+      "uid": "5d3b5602-0ac9-11ee-a252-0242ac110002"
+    }
+  ],
+  "message": "bg tobago photograph",
+  "metadata": {
+    "modified_time": 1686757046393056,
+    "original_time": "sheets telescope compete",
+    "product": {
+      "feature": {
+        "name": "cardiff accordance came",
+        "uid": "5d3b4338-0ac9-11ee-9064-0242ac110002",
+        "version": "1.0.0-rc.2"
+      },
+      "lang": "en",
+      "name": "corner spin special",
+      "uid": "5d3b481a-0ac9-11ee-930a-0242ac110002",
+      "vendor_name": "confusion pi coordinate",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "resources": [
+    {
+      "group_name": "amino yrs decorating",
+      "labels": [
+        "vs",
+        "defensive"
+      ],
+      "name": "thick falls sr",
+      "uid": "5d3b658e-0ac9-11ee-9a6d-0242ac110002"
+    },
+    {
+      "cloud_partition": "bush chosen sacred",
+      "group_name": "dirty grants formerly",
+      "name": "wired landscapes ted",
+      "owner": {
+        "name": "Consent",
+        "uid": "5d3b6d40-0ac9-11ee-a036-0242ac110002"
+      },
+      "region": "hotmail rx stays",
+      "uid": "5d3b74e8-0ac9-11ee-9e16-0242ac110002"
+    }
+  ],
+  "severity": "Low",
+  "severity_id": 2,
+  "state": "differences",
+  "state_id": 99,
+  "status_code": "defeat",
+  "time": 1686757046392939,
+  "timezone_offset": 11,
+  "type_name": "Security Finding: Update",
+  "type_uid": 200102
+}

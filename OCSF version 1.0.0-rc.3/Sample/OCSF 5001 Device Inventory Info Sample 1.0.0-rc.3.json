@@ -1,0 +1,67 @@
+{
+  "activity_id": 1,
+  "activity_name": "Log",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "class_uid": 5001,
+  "device": {
+    "created_time": 1686756974443768,
+    "hostname": "chips.travel",
+    "interface_name": "cluster loops dublin",
+    "interface_uid": "32589b20-0ac9-11ee-9a63-0242ac110003",
+    "ip": "97.24.133.163",
+    "name": "age fcc explanation",
+    "os": {
+      "cpu_bits": 77,
+      "name": "pants sent enter",
+      "type": "Windows",
+      "type_id": 100
+    },
+    "region": "continued rights office",
+    "risk_level": "boats catalog cgi",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "3258a00c-0ac9-11ee-b0e5-0242ac110003"
+  },
+  "enrichments": [
+    {
+      "data": "knee",
+      "name": "accommodations trainers nine",
+      "provider": "clinic observation guards",
+      "type": "cdna vhs rings",
+      "value": "ent environment commission"
+    },
+    {
+      "data": "midlands",
+      "name": "sampling white result",
+      "provider": "tex persistent refer",
+      "type": "legally objectives aluminium",
+      "value": "hired tan bedroom"
+    }
+  ],
+  "metadata": {
+    "log_name": "counter accompanying phone",
+    "log_provider": "bridges vb verify",
+    "original_time": "knight advisors yourself",
+    "product": {
+      "lang": "en",
+      "name": "writing thursday scary",
+      "uid": "3258b218-0ac9-11ee-8f7c-0242ac110003",
+      "vendor_name": "prayers price nb",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686756974442636,
+  "timezone_offset": 26,
+  "type_name": "Device Inventory Info: Log",
+  "type_uid": 500101
+}

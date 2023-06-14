@@ -1,0 +1,286 @@
+{
+  "activity_id": 14,
+  "activity_name": "Open",
+  "actor": {
+    "process": {
+      "cmd_line": "pages deeper portrait",
+      "created_time": 1686757092783079,
+      "file": {
+        "accessed_time": 1686757092783188,
+        "attributes": 84,
+        "creator": {
+          "account": {
+            "name": "episode tires introduction",
+            "type": "LDAP Account",
+            "type_id": 1,
+            "uid": "78e1d390-0ac9-11ee-a5d8-0242ac110004"
+          },
+          "domain": "pencil karl const",
+          "full_name": "Sharda Jae",
+          "name": "Support",
+          "type": "Unknown",
+          "type_id": 0,
+          "uid": "78e1d8a4-0ac9-11ee-afac-0242ac110004"
+        },
+        "hashes": [
+          {
+            "algorithm": "MD5",
+            "algorithm_id": 1,
+            "value": "8176C7CE9FFF11522B8FEC1ECF898C82"
+          },
+          {
+            "algorithm": "quickXorHash",
+            "algorithm_id": 7,
+            "value": "E263E85597E1AB1ED614C2957CBA61C6779A20685D0877C88182696A9E8E8DE8E355101013D99D9D0832250C0147E8499D07ADCEB0F58F60A4B92558FB103E11"
+          }
+        ],
+        "name": "lessons.tif",
+        "parent_folder": "caution tropical combat/mali.mpg",
+        "path": "caution tropical combat/mali.mpg/lessons.tif",
+        "product": {
+          "lang": "en",
+          "name": "nurses afraid package",
+          "uid": "78e1e178-0ac9-11ee-b311-0242ac110004",
+          "vendor_name": "folders dude gratuit",
+          "version": "1.1.0-alpha"
+        },
+        "security_descriptor": "gen guinea pci",
+        "signature": {
+          "algorithm": "Authenticode",
+          "algorithm_id": 4,
+          "certificate": {
+            "created_time": 1686757092783831,
+            "expiration_time": 1686757092783838,
+            "fingerprints": [
+              {
+                "algorithm": "quickXorHash",
+                "algorithm_id": 7,
+                "value": "51CD50DC8601F9C1D637C89C3671BD6C4ECCB4D2CB7B62E9D53F258D15364EF9AAEF47D7B6A1A376F1A10E0082C5BE0267AC124EE091410355A213E9D71B0043"
+              },
+              {
+                "algorithm": "Unknown",
+                "algorithm_id": 0,
+                "value": "F3CFFF6678955EDFA2A4A339F7B3988761A94AB00A596D1F059084AAF89D958A87768CDD29F9BE51ABBC2A52F351BCE888AC56C9D7D1EC8B63B4018DCAA043DD"
+              }
+            ],
+            "issuer": "expressed href commander",
+            "serial_number": "gifts advise den",
+            "subject": "privilege bones comparable",
+            "version": "1.1.0-alpha"
+          }
+        },
+        "type": "Block Device",
+        "type_id": 4,
+        "uid": "78e1fdc0-0ac9-11ee-8bc1-0242ac110004"
+      },
+      "integrity": "islands",
+      "integrity_id": 99,
+      "name": "Right",
+      "parent_process": {
+        "cmd_line": "ram presidential collectibles",
+        "created_time": 1686757092784709,
+        "file": {
+          "confidentiality": "mt confidential bouquet",
+          "created_time": 1686757092784873,
+          "hashes": [
+            {
+              "algorithm": "MD5",
+              "algorithm_id": 1,
+              "value": "CDF1E220D89C2DCD2E000C3D105BF93E"
+            },
+            {
+              "algorithm": "SHA-512",
+              "algorithm_id": 4,
+              "value": "F6A16AF6223106D3E8974E7D648A79465D9D3E678D2DD244561ACE0249001B240F5F288759E3C4B9DEB622498DEA8AFB5A68162D2A0DAA5EF187BF8223E1AA55"
+            }
+          ],
+          "is_system": true,
+          "mime_type": "prove/recovered",
+          "name": "deadly.cfm",
+          "parent_folder": "sapphire mars usb/backgrounds.fnt",
+          "path": "sapphire mars usb/backgrounds.fnt/deadly.cfm",
+          "product": {
+            "feature": {
+              "name": "museums lasting xp",
+              "uid": "78e2167a-0ac9-11ee-9950-0242ac110004"
+            },
+            "lang": "en",
+            "name": "minute auctions albuquerque",
+            "uid": "78e21ada-0ac9-11ee-977e-0242ac110004",
+            "vendor_name": "master severe italia",
+            "version": "1.1.0-alpha"
+          },
+          "type": "Character Device",
+          "type_id": 3
+        },
+        "name": "Combat",
+        "parent_process": {
+          "cmd_line": "gradually claimed temporarily",
+          "created_time": 1686757092785369,
+          "file": {
+            "attributes": 52,
+            "created_time": 1686757092785463,
+            "hashes": [
+              {
+                "algorithm": "SHA-512",
+                "algorithm_id": 4,
+                "value": "747184EAB8B2E9959F38A751DEBF62CD15B12C8C1A71079720E4538C0581D77799A370DE7633794A285B091F94727B5A2FE6C3959DB9603146E9964890424D0F"
+              },
+              {
+                "algorithm": "CTPH",
+                "algorithm_id": 5,
+                "value": "6BCB8F265CFCF63770516A20940D8F3266DFC0FA6F47C045FE6D699A92B1A0B6E22AB2BA4C5668D2B510006498AE0940A3B35178F3E65C9478161D45DE6DD14B"
+              }
+            ],
+            "name": "doom.zip",
+            "parent_folder": "tribes michigan readings/harassment.c",
+            "path": "tribes michigan readings/harassment.c/doom.zip",
+            "product": {
+              "lang": "en",
+              "name": "opened split app",
+              "path": "valued harassment confusion",
+              "vendor_name": "hopefully control suggestion"
+            },
+            "type": "Character Device",
+            "type_id": 3,
+            "uid": "78e22f52-0ac9-11ee-b308-0242ac110004",
+            "xattributes": {}
+          },
+          "integrity": "Medium",
+          "integrity_id": 3,
+          "lineage": [
+            "screw observations buf",
+            "proud hb ps"
+          ],
+          "name": "Competitions",
+          "pid": 96,
+          "uid": "78e236b4-0ac9-11ee-9abe-0242ac110004"
+        },
+        "uid": "78e23a74-0ac9-11ee-abd2-0242ac110004"
+      },
+      "pid": 72,
+      "terminated_time": 1686757092786040,
+      "tid": 80,
+      "uid": "78e23e3e-0ac9-11ee-9b99-0242ac110004",
+      "user": {
+        "email_addr": "Thalia@hormone.pro",
+        "groups": [
+          {
+            "name": "caroline gays district"
+          },
+          {
+            "desc": "share understand tuner",
+            "name": "lincoln wearing village",
+            "privileges": [
+              "shirt hp movements",
+              "witch cord domains"
+            ],
+            "type": "older too respective",
+            "uid": "78e24762-0ac9-11ee-b52e-0242ac110004"
+          }
+        ],
+        "type": "pricing",
+        "type_id": 99,
+        "uid": "78e24b7c-0ac9-11ee-a18a-0242ac110004"
+      }
+    },
+    "user": {
+      "name": "Insects",
+      "type": "User",
+      "type_id": 1,
+      "uid": "78e2534c-0ac9-11ee-88d3-0242ac110004"
+    }
+  },
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network File Activity",
+  "class_uid": 4010,
+  "expiration_time": 1686757092786680,
+  "file": {
+    "creator": {
+      "full_name": "Candice Evelia",
+      "name": "Capital",
+      "org": {
+        "name": "seniors outlined although",
+        "uid": "78e25ed2-0ac9-11ee-9151-0242ac110004"
+      },
+      "type": "weapon",
+      "type_id": 99,
+      "uid": "78e26328-0ac9-11ee-bc54-0242ac110004"
+    },
+    "desc": "maple liability filed",
+    "hashes": [
+      {
+        "algorithm": "Unknown",
+        "algorithm_id": 0,
+        "value": "F116DCC538D959005686FDAA476FDBCA467905E53320A3B35CF0EF493D4639257C7B4F8D2CCF2DA20C192B5E8E5836ABDF89379D25EFEDE70996CFBD595FE46B"
+      },
+      {
+        "algorithm": "SHA-256",
+        "algorithm_id": 3,
+        "value": "6A3DD6BD578F008F28DA42E795EA4D215271D7A73D97752E8E649212797EB53C"
+      }
+    ],
+    "is_system": true,
+    "name": "generally.cfm",
+    "parent_folder": "hart modules ratio/contain.rar",
+    "path": "hart modules ratio/contain.rar/generally.cfm",
+    "type": "Block Device",
+    "type_id": 4,
+    "uid": "78e26b84-0ac9-11ee-a839-0242ac110004"
+  },
+  "metadata": {
+    "correlation_uid": "78e2726e-0ac9-11ee-b62b-0242ac110004",
+    "event_code": "carefully",
+    "log_name": "c verde ron",
+    "modified_time": 1686757092787485,
+    "original_time": "soldiers programming facilities",
+    "product": {
+      "feature": {
+        "name": "detroit transexual multi",
+        "uid": "78e279f8-0ac9-11ee-9701-0242ac110004",
+        "version": "1.1.0-alpha"
+      },
+      "lang": "en",
+      "name": "velvet ct afternoon",
+      "uid": "78e27df4-0ac9-11ee-adb2-0242ac110004",
+      "vendor_name": "offense thoroughly heights",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "domain": "mistress http fri",
+    "hostname": "organize.mil",
+    "instance_uid": "78e1ac1c-0ac9-11ee-bd8a-0242ac110004",
+    "interface_name": "judy optimize oliver",
+    "interface_uid": "78e1b0cc-0ac9-11ee-af36-0242ac110004",
+    "ip": "116.153.162.247",
+    "location": {
+      "city": "Exchange revisions",
+      "continent": "Oceania",
+      "coordinates": [
+        -118.4943,
+        12.1723
+      ],
+      "country": "TK",
+      "desc": "Tokelau"
+    },
+    "name": "robert fails relevance",
+    "svc_name": "latin peripherals neighbor",
+    "uid": "78e1bbc6-0ac9-11ee-bfbe-0242ac110004",
+    "vpc_uid": "78e1bfea-0ac9-11ee-bf23-0242ac110004"
+  },
+  "status": "Failure",
+  "status_code": "cloth",
+  "status_id": 2,
+  "time": 1686757092782902,
+  "timezone_offset": 11,
+  "type_name": "Network File Activity: Open",
+  "type_uid": 401014
+}

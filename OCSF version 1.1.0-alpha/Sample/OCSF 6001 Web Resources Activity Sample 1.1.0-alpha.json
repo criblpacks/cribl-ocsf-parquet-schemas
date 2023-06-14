@@ -1,0 +1,98 @@
+{
+  "activity_id": 2,
+  "activity_name": "Read",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resources Activity",
+  "class_uid": 6001,
+  "count": 69,
+  "dst_endpoint": {
+    "domain": "frost excerpt ensemble",
+    "hostname": "keys.gov",
+    "instance_uid": "679be652-0ac9-11ee-828f-0242ac110004",
+    "interface_uid": "679be9e0-0ac9-11ee-b580-0242ac110004",
+    "ip": "154.49.9.71",
+    "name": "formerly shuttle turned",
+    "port": 11984,
+    "svc_name": "excitement surname contact",
+    "uid": "679bf4e4-0ac9-11ee-9a69-0242ac110004"
+  },
+  "duration": 44,
+  "message": "students monte budgets",
+  "metadata": {
+    "extension": {
+      "name": "triumph senators bay",
+      "uid": "679c0844-0ac9-11ee-851c-0242ac110004",
+      "version": "1.1.0-alpha"
+    },
+    "log_name": "nigeria deleted trials",
+    "log_provider": "ventures wrestling partition",
+    "original_time": "assume indeed junior",
+    "product": {
+      "lang": "en",
+      "name": "techniques mistress isbn",
+      "uid": "679c3c60-0ac9-11ee-b6f0-0242ac110004",
+      "vendor_name": "slave cooking stone",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "679c42aa-0ac9-11ee-bd97-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "src_endpoint": {
+    "hostname": "costume.firm",
+    "instance_uid": "679bcda2-0ac9-11ee-8fba-0242ac110004",
+    "interface_uid": "679bd1f8-0ac9-11ee-9c6b-0242ac110004",
+    "ip": "92.35.43.98",
+    "name": "guess shield midnight",
+    "port": 34925,
+    "svc_name": "monaco idle chicks",
+    "uid": "679bd720-0ac9-11ee-b9b2-0242ac110004",
+    "vlan_uid": "679bde28-0ac9-11ee-8d4b-0242ac110004"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757063803672,
+  "type_name": "Web Resources Activity: Read",
+  "type_uid": 600102,
+  "web_resources": [
+    {
+      "name": "speakers acer announcements",
+      "type": "necessary reactions modes",
+      "url": {
+        "category_ids": [
+          59,
+          18
+        ],
+        "hostname": "karma.arpa",
+        "path": "calibration rim assumptions",
+        "port": 53642,
+        "query_string": "determined encryption initially",
+        "scheme": "lessons turkey capable",
+        "url_string": "portions"
+      }
+    },
+    {
+      "labels": [
+        "iv",
+        "liverpool"
+      ],
+      "url": {
+        "category_ids": [
+          16
+        ],
+        "hostname": "carb.nato",
+        "path": "fund offensive bearing",
+        "port": 13573,
+        "query_string": "stack ser direction",
+        "scheme": "median hypothesis peoples",
+        "subdomain": "programs nw seek",
+        "url_string": "galleries"
+      }
+    }
+  ]
+}

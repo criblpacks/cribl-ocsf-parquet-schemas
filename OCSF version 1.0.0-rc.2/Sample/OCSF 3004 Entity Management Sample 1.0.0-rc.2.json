@@ -1,0 +1,38 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "category_name": "Audit Activity",
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "class_uid": 3004,
+  "entity": {
+    "name": "intelligent lookup sun",
+    "type": "incomplete greetings investigation",
+    "uid": "4d170aa0-0ac9-11ee-bc24-0242ac110002",
+    "version": "1.0.0-rc.2"
+  },
+  "message": "hospitals grass slave",
+  "metadata": {
+    "correlation_uid": "4d16fa38-0ac9-11ee-8916-0242ac110002",
+    "original_time": "kingston italian ride",
+    "product": {
+      "lang": "en",
+      "name": "lower gasoline memories",
+      "uid": "4d170226-0ac9-11ee-a5e0-0242ac110002",
+      "vendor_name": "sku johnson guides",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757019311675,
+  "timezone_offset": 5,
+  "type_name": "Entity Management: Create",
+  "type_uid": 300401
+}

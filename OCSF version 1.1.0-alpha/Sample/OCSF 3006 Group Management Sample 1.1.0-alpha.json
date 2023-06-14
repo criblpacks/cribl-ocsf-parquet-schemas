@@ -1,0 +1,56 @@
+{
+  "activity_id": 4,
+  "activity_name": "Remove User",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "class_uid": 3006,
+  "duration": 74,
+  "end_time": 1686757088661321,
+  "group": {
+    "name": "obligations tube img",
+    "uid": "766ce64a-0ac9-11ee-a803-0242ac110004"
+  },
+  "message": "planet move oc",
+  "metadata": {
+    "log_name": "madison take legendary",
+    "log_provider": "dts sealed headed",
+    "log_version": "reform san earning",
+    "logged_time": 1686757088661770,
+    "modified_time": 1686757088661783,
+    "original_time": "developing sell cadillac",
+    "product": {
+      "lang": "en",
+      "name": "dressed leading blow",
+      "path": "balanced beneficial morrison",
+      "uid": "766cf1c6-0ac9-11ee-91fc-0242ac110004",
+      "vendor_name": "christine bits better",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "privileges": [
+    "openings polish dust",
+    "houses dryer floating"
+  ],
+  "severity": "Unknown",
+  "severity_id": 0,
+  "start_time": 1686757088662009,
+  "status": "tools conditioning vertex",
+  "status_code": "billy",
+  "time": 1686757088660946,
+  "timezone_offset": 74,
+  "type_name": "Group Management: Remove User",
+  "type_uid": 300604,
+  "user": {
+    "domain": "miracle emerging were",
+    "email_addr": "Kay@fares.name",
+    "name": "Prominent",
+    "type": "Admin",
+    "type_id": 2,
+    "uid": "766cd826-0ac9-11ee-a135-0242ac110004"
+  }
+}

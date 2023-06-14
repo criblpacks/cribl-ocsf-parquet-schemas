@@ -1,0 +1,69 @@
+{
+  "activity_id": 3,
+  "activity_name": "Scan",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "class_uid": 4009,
+  "direction": "tasks",
+  "direction_id": 99,
+  "email": {
+    "cc": [
+      "Bambi@hi.web"
+    ],
+    "from": "Wesley@ye.int",
+    "message_uid": "7b8362d0-0ac9-11ee-9307-0242ac110004",
+    "size": 3264948703,
+    "smtp_from": "Tena@bryan.mil",
+    "smtp_to": [
+      "Denver@enabled.org"
+    ],
+    "subject": "micro yorkshire config",
+    "to": [
+      "Evelyne@clearing.pro",
+      "Sharyl@mainstream.net"
+    ],
+    "uid": "7b836e4c-0ac9-11ee-a375-0242ac110004",
+    "x_originating_ip": [
+      "103.194.178.134",
+      "2.223.194.150"
+    ]
+  },
+  "email_auth": {
+    "dkim": "britney designed babe",
+    "dkim_domain": "geography nhl specifications",
+    "dkim_signature": "powerpoint courts nearest",
+    "dmarc_override": "november formula marathon"
+  },
+  "end_time": 1686757097197976,
+  "metadata": {
+    "correlation_uid": "7b837cd4-0ac9-11ee-bd22-0242ac110004",
+    "log_name": "lenders bargain production",
+    "log_provider": "owners glossary giving",
+    "logged_time": 1686757097198329,
+    "original_time": "purchases dc fax",
+    "processed_time": 1686757097198341,
+    "product": {
+      "lang": "en",
+      "name": "amd achieve sealed",
+      "path": "shares roller these",
+      "uid": "7b83845e-0ac9-11ee-a31c-0242ac110004",
+      "vendor_name": "basket variable field",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "jade",
+  "severity_id": 99,
+  "smtp_hello": "behavioral musicians graph",
+  "status": "Unknown",
+  "status_code": "communicate",
+  "status_id": 0,
+  "time": 1686757097197216,
+  "timezone_offset": 6,
+  "type_name": "Email Activity: Scan",
+  "type_uid": 400903
+}

@@ -1,0 +1,135 @@
+{
+  "activity_id": 5,
+  "activity_name": "File Overwrite",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SMB Activity",
+  "class_uid": 4006,
+  "client_dialects": [
+    "bryant socket cuisine"
+  ],
+  "command": "soc receptor sheets",
+  "connection_info": {
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 81
+  },
+  "dialect": "medical freedom louise",
+  "dst_endpoint": {
+    "hostname": "openings.web",
+    "instance_uid": "5e42cb7a-0ac9-11ee-959d-0242ac110002",
+    "interface_uid": "5e42d3c2-0ac9-11ee-ae8c-0242ac110002",
+    "ip": "9.85.19.14",
+    "mac": "5:FA:81:2:54:AD:F1:3C",
+    "port": 62355,
+    "svc_name": "refrigerator accordance attractions",
+    "uid": "5e42d958-0ac9-11ee-808f-0242ac110002"
+  },
+  "file": {
+    "fingerprints": [
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "DBE92F5EB077DA450076790506A3A40A179B52A4C02E7F91688CBB07D9FC2DFE0FCB47DCC588F8E5806D1C0F45253475D206F588AF5A5677662EFEB2864AC2FC"
+      },
+      {
+        "algorithm": "SHA-256",
+        "algorithm_id": 3,
+        "value": "0A2F133EB9F7CA028A20AA3FCD7F6CB8A05A0E89C166E69E2FBD480A00BE447D"
+      }
+    ],
+    "is_system": true,
+    "name": "hitachi.3ds",
+    "owner": {
+      "domain": "rotary novelty bullet",
+      "name": "Trademarks",
+      "uid": "5e42b4e6-0ac9-11ee-8a3c-0242ac110002"
+    },
+    "parent_folder": "/combat/writings/jury/lists/lcd/components.mdf",
+    "path": "/combat/writings/jury/lists/lcd/components.mdf/hitachi.3ds",
+    "type": "Local Socket",
+    "type_id": 5
+  },
+  "message": "epson founded acts",
+  "metadata": {
+    "original_time": "advisor mozilla numerous",
+    "processed_time": 1686757048118843,
+    "product": {
+      "lang": "en",
+      "name": "bbs forbes observation",
+      "path": "/icon/poor/mill/lifestyle/illness",
+      "uid": "5e42989e-0ac9-11ee-8b34-0242ac110002",
+      "vendor_name": "incl ep participation",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "open_type": "henderson rep dependent",
+  "response": {
+    "code": 14,
+    "error": "aol europe g",
+    "error_message": "equilibrium x sing",
+    "message": "reporters provincial top"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "src_endpoint": {
+    "hostname": "fax.mil",
+    "instance_uid": "5e42e092-0ac9-11ee-8b21-0242ac110002",
+    "interface_name": "household loans obvious",
+    "interface_uid": "5e42e4c0-0ac9-11ee-889a-0242ac110002",
+    "intermediate_ips": [
+      "202.113.150.59"
+    ],
+    "ip": "121.59.198.111",
+    "mac": "E3:DC:68:9C:D6:4B:F1:30",
+    "port": 11764,
+    "svc_name": "imaging transition et",
+    "uid": "5e42e948-0ac9-11ee-be81-0242ac110002"
+  },
+  "status": "Unknown",
+  "status_code": "leone",
+  "status_detail": "focuses invoice pst",
+  "status_id": 0,
+  "time": 1686757048118722,
+  "timezone_offset": 51,
+  "tls": {
+    "certificate_chain": [
+      "whatever investment rear",
+      "sexuality fp outlined"
+    ],
+    "cipher": "spatial j pursuant",
+    "client_ciphers": [
+      "jean zdnet elite"
+    ],
+    "extension_list": [
+      {
+        "data": "religion",
+        "type": "post_handshake_auth",
+        "type_id": 49
+      }
+    ],
+    "ja3_fingerprint": {
+      "algorithm": "magic",
+      "algorithm_id": 99,
+      "value": "88FE67488F1295CA4D0832F2002DB608BB9F46E354DC638DDF866DB499B05CDF"
+    },
+    "ja3_string": "moscow mrs wm",
+    "ja3s_fingerprint": {
+      "algorithm": "SHA-1",
+      "algorithm_id": 2,
+      "value": "E10244EBFD0D14E6FEB7D60A4FBE0B5AAB4E1239"
+    },
+    "ja3s_string": "les five powered",
+    "server_ciphers": [
+      "normally fifty socks",
+      "cadillac worth wait"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "type_name": "SMB Activity: File Overwrite",
+  "type_uid": 400605
+}

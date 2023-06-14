@@ -1,0 +1,109 @@
+{
+  "activity_id": 5,
+  "activity_name": "Refuse",
+  "answers": [
+    {
+      "class": "amongst tap modern",
+      "packet_uid": 25,
+      "rdata": "actions rv heroes",
+      "type": "amount advantages name"
+    },
+    {
+      "class": "specials hate layer",
+      "flag_ids": [
+        1
+      ],
+      "flags": [
+        "hostels zero myrtle",
+        "stamps faster briefs"
+      ],
+      "packet_uid": 89,
+      "rdata": "wash sodium evaluate",
+      "ttl": 42,
+      "type": "batman decision nm"
+    }
+  ],
+  "app_name": "throat charles errors",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "class_uid": 4003,
+  "dst_endpoint": {
+    "hostname": "organization.travel",
+    "instance_uid": "169acbba-0ac9-11ee-af8a-0242ac110003",
+    "interface_name": "viewed okay davis",
+    "ip": "37.16.160.210",
+    "name": "lynn specifics crude",
+    "port": 14967,
+    "svc_name": "sends father tions",
+    "uid": "169ad092-0ac9-11ee-a05f-0242ac110003"
+  },
+  "end_time": 1686756927901329,
+  "message": "heart baptist relevant",
+  "metadata": {
+    "labels": [
+      "poetry",
+      "exercise"
+    ],
+    "log_name": "recruiting reserves indicates",
+    "log_provider": "penalty newcastle siemens",
+    "original_time": "nut creates delivered",
+    "product": {
+      "lang": "en",
+      "name": "conventions engagement mighty",
+      "uid": "169b0cf6-0ac9-11ee-97e4-0242ac110003",
+      "vendor_name": "diagram bedford text",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "proxy": {
+    "hostname": "charts.pro",
+    "instance_uid": "169aed20-0ac9-11ee-b4d0-0242ac110003",
+    "interface_uid": "169af1c6-0ac9-11ee-a9c9-0242ac110003",
+    "ip": "41.126.118.47",
+    "name": "ty carries closes",
+    "uid": "169af694-0ac9-11ee-8522-0242ac110003",
+    "vpc_uid": "169af9fa-0ac9-11ee-b5b5-0242ac110003"
+  },
+  "query": {
+    "class": "concerned excluded entry",
+    "hostname": "backed.cat",
+    "opcode_id": 6,
+    "packet_uid": 62,
+    "type": "completely execute eating"
+  },
+  "response_time": 1686756927901306,
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "domain": "warriors certificates conducting",
+    "hostname": "easter.travel",
+    "instance_uid": "169abb3e-0ac9-11ee-97c2-0242ac110003",
+    "interface_name": "city assignments travels",
+    "ip": "179.218.30.34",
+    "location": {
+      "city": "Brunswick capitol",
+      "continent": "Oceania",
+      "coordinates": [
+        74.8345,
+        52.8467
+      ],
+      "country": "TK",
+      "desc": "Tokelau"
+    },
+    "name": "catch marc transparent",
+    "port": 541,
+    "svc_name": "thumbnail cbs dispatch",
+    "uid": "169ac43a-0ac9-11ee-ba94-0242ac110003"
+  },
+  "status": "periodically",
+  "status_id": 99,
+  "time": 1686756927900993,
+  "timezone_offset": 22,
+  "type_name": "DNS Activity: Refuse",
+  "type_uid": 400305
+}

@@ -1,0 +1,69 @@
+{
+  "activity_id": 1,
+  "activity_name": "Log",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "class_uid": 5002,
+  "device": {
+    "hostname": "research.gov",
+    "hw_info": {
+      "cpu_count": 44
+    },
+    "instance_uid": "1be0f090-0ac9-11ee-882c-0242ac110003",
+    "interface_name": "launched receipt addressing",
+    "interface_uid": "1be0e758-0ac9-11ee-86df-0242ac110003",
+    "ip": "86.4.97.24",
+    "name": "though repair surveillance",
+    "network_interfaces": [
+      {
+        "hostname": "buttons.edu",
+        "ip": "78.173.135.30",
+        "mac": "68:E3:7C:11:8E:5A:99:D3",
+        "name": "statutes programmes patients",
+        "type": "Wireless",
+        "type_id": 2
+      },
+      {
+        "ip": "71.104.208.150",
+        "mac": "E8:E6:98:AF:BA:8F:5E:B5",
+        "name": "fraction hearts bottom",
+        "type": "kodak",
+        "type_id": 99
+      }
+    ],
+    "region": "aquarium logan vienna",
+    "risk_level": "Medium",
+    "risk_level_id": 2,
+    "type": "Server",
+    "type_id": 1,
+    "uid": "1be0ebb8-0ac9-11ee-ac86-0242ac110003",
+    "uid_alt": "bibliographic scanned influenced"
+  },
+  "end_time": 1686756936748624,
+  "message": "null several barriers",
+  "metadata": {
+    "log_name": "capable substitute lab",
+    "log_provider": "tank merry spots",
+    "original_time": "cu jc amanda",
+    "product": {
+      "lang": "en",
+      "name": "anyone thumbs roland",
+      "uid": "1be0fca2-0ac9-11ee-aedc-0242ac110003",
+      "vendor_name": "tagged hair tasks",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686756936748603,
+  "timezone_offset": 46,
+  "type_name": "Device Config State: Log",
+  "type_uid": 500201
+}

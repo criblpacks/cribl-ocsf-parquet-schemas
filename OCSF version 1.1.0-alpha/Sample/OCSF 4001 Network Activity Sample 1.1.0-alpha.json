@@ -1,0 +1,90 @@
+{
+  "activity_id": 1,
+  "activity_name": "Open",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network Activity",
+  "class_uid": 4001,
+  "connection_info": {
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 4,
+    "tcp_flags": 56
+  },
+  "dst_endpoint": {
+    "hostname": "coding.coop",
+    "instance_uid": "6ab902ac-0ac9-11ee-a1cf-0242ac110004",
+    "ip": "198.130.214.130",
+    "location": {
+      "city": "Debate later",
+      "continent": "North America",
+      "coordinates": [
+        150.87,
+        74.1778
+      ],
+      "country": "CU",
+      "desc": "Cuba, Republic of"
+    },
+    "name": "attached city motherboard",
+    "port": 62601,
+    "svc_name": "composite meyer exports",
+    "uid": "6ab90a72-0ac9-11ee-9dd6-0242ac110004"
+  },
+  "duration": 41,
+  "message": "alter puts allocated",
+  "metadata": {
+    "event_code": "designated",
+    "log_name": "mc utilization parental",
+    "log_provider": "somewhat downloadable st",
+    "logged_time": 1686757069028308,
+    "original_time": "diagram ethical authority",
+    "product": {
+      "lang": "en",
+      "name": "startup earn nvidia",
+      "uid": "6ab91efe-0ac9-11ee-832e-0242ac110004",
+      "vendor_name": "subscribe d avenue",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "observables": [
+    {
+      "name": "ask clear fireplace",
+      "reputation": {
+        "base_score": 15.5399,
+        "provider": "cannon glass thumbs",
+        "score": "Probably Malicious",
+        "score_id": 9
+      },
+      "type": "Fingerprint",
+      "type_id": 30
+    }
+  ],
+  "severity": "High",
+  "severity_id": 4,
+  "src_endpoint": {
+    "hostname": "joel.travel",
+    "instance_uid": "6ab8ed08-0ac9-11ee-bba2-0242ac110004",
+    "interface_name": "electoral contact stopped",
+    "interface_uid": "6ab8f280-0ac9-11ee-b0c4-0242ac110004",
+    "ip": "5.220.162.249",
+    "mac": "59:2F:CC:BC:78:31:37:50",
+    "name": "um yea recorders",
+    "port": 3141,
+    "uid": "6ab8f758-0ac9-11ee-9fd7-0242ac110004",
+    "vpc_uid": "6ab8fadc-0ac9-11ee-ab21-0242ac110004"
+  },
+  "status": "bet",
+  "status_id": 99,
+  "time": 1686757069027622,
+  "timezone_offset": 30,
+  "traffic": {
+    "bytes": 1515752972,
+    "packets": 3700747192
+  },
+  "type_name": "Network Activity: Open",
+  "type_uid": 400101
+}

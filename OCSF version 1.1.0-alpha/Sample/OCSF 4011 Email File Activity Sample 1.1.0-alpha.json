@@ -1,0 +1,89 @@
+{
+  "activity_name": "tulsa federal craft",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "class_uid": 4011,
+  "count": 57,
+  "duration": 56,
+  "email_uid": "72bf760c-0ac9-11ee-8686-0242ac110004",
+  "enrichments": [
+    {
+      "data": "tamil",
+      "name": "ellen sexuality losses",
+      "provider": "sleeping leader penalty",
+      "type": "www abraham sword",
+      "value": "seems scared profiles"
+    },
+    {
+      "data": "deeper",
+      "name": "obesity kenneth athletes",
+      "provider": "another audience constraint",
+      "value": "voyeurweb guardian specifically"
+    }
+  ],
+  "file": {
+    "attributes": 97,
+    "created_time": 1686757082492113,
+    "creator": {
+      "name": "Agree",
+      "type": "System",
+      "type_id": 3,
+      "uid": "72bf88a4-0ac9-11ee-9b8e-0242ac110004"
+    },
+    "hashes": [
+      {
+        "algorithm": "MD5",
+        "algorithm_id": 1,
+        "value": "D705CCE2E286AB268F8D163815732373"
+      },
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "FD88E22F6B7EB50D6BC360A3FC0AF73829CDC4FD"
+      }
+    ],
+    "is_system": false,
+    "modifier": {
+      "credential_uid": "72bf92f4-0ac9-11ee-8c91-0242ac110004",
+      "email_addr": "Earnest@spirituality.edu",
+      "name": "Occupational",
+      "type": "reduces",
+      "type_id": 99,
+      "uid": "72bf984e-0ac9-11ee-bc02-0242ac110004",
+      "uid_alt": "gothic either expanded"
+    },
+    "name": "component.xls",
+    "parent_folder": "charge classification per/autumn.class",
+    "path": "charge classification per/autumn.class/component.xls",
+    "security_descriptor": "extract battlefield isaac",
+    "type": "Regular File",
+    "type_id": 1,
+    "uid": "72bf9db2-0ac9-11ee-961c-0242ac110004"
+  },
+  "message": "ch awards welfare",
+  "metadata": {
+    "log_name": "customized hacker suddenly",
+    "log_provider": "volume muscle sister",
+    "product": {
+      "lang": "en",
+      "name": "xbox innovations pr",
+      "uid": "72bfa780-0ac9-11ee-aaf4-0242ac110004",
+      "vendor_name": "angeles boom abstract",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "manufacturers",
+  "severity_id": 99,
+  "start_time": 1686757082493237,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757082491431,
+  "timezone_offset": 36,
+  "type_name": "Email File Activity: Receive",
+  "type_uid": 401102
+}

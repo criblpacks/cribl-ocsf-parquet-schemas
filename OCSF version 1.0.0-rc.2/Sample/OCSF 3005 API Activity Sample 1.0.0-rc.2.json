@@ -1,0 +1,498 @@
+{
+  "activity_id": 99,
+  "activity_name": "hormone",
+  "actor": {
+    "process": {
+      "cmd_line": "skin excellent became",
+      "created_time": 1686757006971154,
+      "file": {
+        "attributes": 34,
+        "confidentiality": "Secret",
+        "confidentiality_id": 3,
+        "fingerprints": [
+          {
+            "algorithm": "SHA-512",
+            "algorithm_id": 4,
+            "value": "41DD5FD462CCCB9B7B608C816233F0C08E7B1CD6C97C07E59B3E68260A36ABA026A09F50CD53A00C38B1FECEDFDAD86BED6803BC9183E8E958057F7B5478EDF8"
+          }
+        ],
+        "name": "roger.pkg",
+        "product": {
+          "name": "ambient bizrate had",
+          "vendor_name": "tokyo convention fails",
+          "version": "1.0.0-rc.2"
+        },
+        "signature": {
+          "company_name": "Franklyn Waltraud"
+        },
+        "type": "Regular File",
+        "type_id": 1
+      },
+      "lineage": [
+        "elizabeth statutory sync",
+        "garbage awareness unexpected"
+      ],
+      "name": "Led",
+      "parent_process": {
+        "created_time": 1686757006971587,
+        "file": {
+          "created_time": 1686757006971685,
+          "fingerprints": [
+            {
+              "algorithm": "SHA-256",
+              "algorithm_id": 3,
+              "value": "68463D52D5ED91EABBA98BB71217EB9875C0461651EABFF2E4EBA442E0727ECE"
+            },
+            {
+              "algorithm": "Unknown",
+              "algorithm_id": 0,
+              "value": "1BFCB9A52DA24479AB14429CA5B3BB033F39F7E9234A210315A94B30884DBB3B55FB78051DD0A5922E03723408BA9435FF491CE5AC766372D86015506E5782CC"
+            }
+          ],
+          "name": "reputation.rm",
+          "owner": {
+            "email_addr": "Margorie@ir.store",
+            "name": "Solid",
+            "uid": "45bc21e6-0ac9-11ee-bbe6-0242ac110002"
+          },
+          "product": {
+            "lang": "en",
+            "name": "disability asthma sympathy",
+            "path": "/tested/camp/shoulder/affiliate/premises",
+            "uid": "45bc29fc-0ac9-11ee-ac93-0242ac110002",
+            "vendor_name": "transactions audio kijiji",
+            "version": "1.0.0-rc.2"
+          },
+          "type": "Local Socket",
+          "type_id": 5
+        },
+        "integrity": "charts terminal wan",
+        "name": "Skype",
+        "parent_process": {
+          "cmd_line": "until casting reads",
+          "created_time": 1686757006973673,
+          "file": {
+            "attributes": 50,
+            "fingerprints": [
+              {
+                "algorithm": "CTPH",
+                "algorithm_id": 5,
+                "value": "2767252BA7D1ECBC0C0A7EA4D8A70833E88D9A9608CF2D8BB5B161F36AC91C9F79ACAF1DC322804AF52C8803D6D5C8EDD235DBD2D4D32F3ADE14C9A2AE0C16CB"
+              },
+              {
+                "algorithm": "MD5",
+                "algorithm_id": 1,
+                "value": "9DDDF2A4F7D94594EC2EA98407A410E1"
+              }
+            ],
+            "is_system": true,
+            "name": "ag.py",
+            "owner": {
+              "credential_uid": "45bc5fda-0ac9-11ee-ac7d-0242ac110002",
+              "email_addr": "Dinorah@fell.name",
+              "name": "Sessions",
+              "type": "investment january currency",
+              "uid": "45bc653e-0ac9-11ee-a91d-0242ac110002"
+            },
+            "parent_folder": "/manual/advertise/sub/witch/trip/accessory.py",
+            "path": "/manual/advertise/sub/witch/trip/accessory.py/ag.py",
+            "size": 2953542848,
+            "type": "traditional",
+            "type_id": 99
+          },
+          "integrity": "Protected",
+          "integrity_id": 6,
+          "name": "Pleasure",
+          "parent_process": {
+            "cmd_line": "something bags provisions",
+            "created_time": 1686757006974530,
+            "file": {
+              "accessor": {
+                "groups": [
+                  {
+                    "name": "certificate laugh thumbnail",
+                    "uid": "45bc7d6c-0ac9-11ee-b139-0242ac110002"
+                  }
+                ],
+                "name": "Bra",
+                "org_uid": "45bc84d8-0ac9-11ee-97ce-0242ac110002",
+                "type": "System",
+                "type_id": 3,
+                "uuid": "45bc8906-0ac9-11ee-9822-0242ac110002"
+              },
+              "attributes": 42,
+              "fingerprints": [
+                {
+                  "algorithm": "Unknown",
+                  "algorithm_id": 0,
+                  "value": "180B919E3FB4C2F2F07149AAF79C5B770D6FECEDFC9AD8A16220895718D87C2F36A23111EC52B2BDF0EB5F73CF6CFFE17DD75710910E2458340793483A5B1E96"
+                },
+                {
+                  "algorithm": "CTPH",
+                  "algorithm_id": 5,
+                  "value": "D74C708F707DAB0C2242DD6D42285F3C7EE4E2A184638F20C51CBA94CBA1FC8712D9EC20451FFE4C09C4E3660F8F154D048927419E81E2A55F1ABFDCCF4F767B"
+                }
+              ],
+              "mime_type": "folding/sectors",
+              "modifier": {
+                "account_type": "opportunities bands roots",
+                "account_uid": "45bc945a-0ac9-11ee-9163-0242ac110002",
+                "credential_uid": "45bc98b0-0ac9-11ee-81f4-0242ac110002",
+                "name": "Created"
+              },
+              "name": "bw.tga",
+              "owner": {
+                "credential_uid": "45bca8c8-0ac9-11ee-afc7-0242ac110002",
+                "name": "Botswana",
+                "org_uid": "45bcb35e-0ac9-11ee-b63f-0242ac110002",
+                "type": "fan elder claimed",
+                "uid": "45bcb7b4-0ac9-11ee-8aca-0242ac110002",
+                "uuid": "45bcbe94-0ac9-11ee-aa35-0242ac110002"
+              },
+              "parent_folder": "/shall/network/terminology/russell/pens/equipped.pages",
+              "path": "/shall/network/terminology/russell/pens/equipped.pages/bw.tga",
+              "type": "Local Socket",
+              "type_id": 5,
+              "uid": "45bcc394-0ac9-11ee-b2ef-0242ac110002",
+              "version": "1.0.0-rc.2",
+              "xattributes": {}
+            },
+            "loaded_modules": [
+              "/katrina/limiting/drill/born/charging.mp4"
+            ],
+            "name": "Contributor",
+            "parent_process": {
+              "cmd_line": "ears philosophy translate",
+              "created_time": 1686757006976857,
+              "file": {
+                "accessed_time": 1686757006976935,
+                "attributes": 21,
+                "confidentiality": "Secret",
+                "confidentiality_id": 3,
+                "fingerprints": [
+                  {
+                    "algorithm": "SHA-256",
+                    "algorithm_id": 3,
+                    "value": "14BD5F3EACAEF0B7ABF1F5D7A2A46FBFEAD350BF7EF1CCCEC788D077865A13B1"
+                  }
+                ],
+                "modifier": {
+                  "account_type": "GCP Account",
+                  "account_type_id": 5,
+                  "groups": [
+                    {
+                      "name": "ntsc batman bacterial",
+                      "type": "pat dow generator",
+                      "uid": "45bcd7da-0ac9-11ee-be81-0242ac110002"
+                    }
+                  ],
+                  "name": "Draw",
+                  "type": "Admin",
+                  "type_id": 2,
+                  "uid": "45bcdd84-0ac9-11ee-bbb3-0242ac110002"
+                },
+                "name": "exactly.iso",
+                "parent_folder": "/rather/paul/dare/dish/metallica/companion.key",
+                "path": "/rather/paul/dare/dish/metallica/companion.key/exactly.iso",
+                "size": 917629048,
+                "type": "Named Pipe",
+                "type_id": 6
+              },
+              "name": "Fuel",
+              "parent_process": {
+                "cmd_line": "lasting thee pattern",
+                "created_time": 1686757006977596,
+                "file": {
+                  "accessed_time": 1686757006977676,
+                  "fingerprints": [
+                    {
+                      "algorithm": "SHA-256",
+                      "algorithm_id": 3,
+                      "value": "44CE1985334EE838D7E1F8D073B161BD3CABDFD891D6A992B4E285D3C9B5E9A0"
+                    },
+                    {
+                      "algorithm": "SHA-1",
+                      "algorithm_id": 2,
+                      "value": "7A972D073A74492EC2621FDAEA47931C0BF43BD1"
+                    }
+                  ],
+                  "modified_time": 1686757006977737,
+                  "name": "disabled.xlsx",
+                  "parent_folder": "/oxide/tracks/joan/delivering/rug/holdem.tiff",
+                  "path": "/oxide/tracks/joan/delivering/rug/holdem.tiff/disabled.xlsx",
+                  "signature": {
+                    "company_name": "Eldon Shelton"
+                  },
+                  "size": 2146592565,
+                  "type": "Character Device",
+                  "type_id": 3,
+                  "xattributes": {}
+                },
+                "integrity": "Protected",
+                "integrity_id": 6,
+                "name": "Afraid",
+                "parent_process": {
+                  "cmd_line": "dated netherlands collective",
+                  "created_time": 1686757006977884,
+                  "file": {
+                    "attributes": 65,
+                    "creator": {
+                      "domain": "generic fund taiwan",
+                      "groups": [
+                        {
+                          "name": "installing ideas ages",
+                          "privileges": [
+                            "logos beds cycle",
+                            "receptors planned depot"
+                          ],
+                          "uid": "45bd0250-0ac9-11ee-81a5-0242ac110002"
+                        },
+                        {
+                          "name": "want egypt dates",
+                          "uid": "45bd0912-0ac9-11ee-a680-0242ac110002"
+                        }
+                      ],
+                      "name": "Answering",
+                      "uid": "45bd0e12-0ac9-11ee-a4d9-0242ac110002"
+                    },
+                    "fingerprints": [
+                      {
+                        "algorithm": "SHA-512",
+                        "algorithm_id": 4,
+                        "value": "9DD0A5436A11635111105859B6C0805C8A7F3D296121A3A3B02297BFB6F6B8C6AADAC0DF2EB51A8045A6EE844113E2FA2E9924F683B6BFB8A086D5765398EF4A"
+                      }
+                    ],
+                    "modifier": {
+                      "account_uid": "45bd159c-0ac9-11ee-b799-0242ac110002",
+                      "domain": "speakers introduction ourselves",
+                      "groups": [
+                        {
+                          "name": "commissioners premium edward",
+                          "privileges": [
+                            "collected repeat por",
+                            "cleveland reported washer"
+                          ],
+                          "uid": "45bd1b8c-0ac9-11ee-9ecd-0242ac110002"
+                        },
+                        {
+                          "name": "interested retail worse",
+                          "type": "poultry antonio executive",
+                          "uid": "45bd1fba-0ac9-11ee-9424-0242ac110002"
+                        }
+                      ],
+                      "uid": "45bd22f8-0ac9-11ee-8db9-0242ac110002"
+                    },
+                    "name": "observer.ics",
+                    "parent_folder": "/characterization/dean/resolved/spider/posting/sg.uue",
+                    "path": "/characterization/dean/resolved/spider/posting/sg.uue/observer.ics",
+                    "product": {
+                      "lang": "en",
+                      "name": "api nascar substance",
+                      "uid": "45bd2bf4-0ac9-11ee-943a-0242ac110002",
+                      "vendor_name": "navigation heavy participants",
+                      "version": "1.0.0-rc.2"
+                    },
+                    "size": 841257039,
+                    "type": "Block Device",
+                    "type_id": 4
+                  },
+                  "integrity": "High",
+                  "integrity_id": 4,
+                  "lineage": [
+                    "hairy des disk",
+                    "unions tender ip"
+                  ],
+                  "name": "Discharge",
+                  "uid": "45bd34e6-0ac9-11ee-9005-0242ac110002"
+                },
+                "pid": 83,
+                "uid": "45bd3888-0ac9-11ee-a245-0242ac110002",
+                "user": {
+                  "uid": "45bd3e78-0ac9-11ee-a104-0242ac110002",
+                  "uuid": "45bd41b6-0ac9-11ee-a493-0242ac110002"
+                }
+              },
+              "pid": 49,
+              "uid": "45bd4530-0ac9-11ee-b819-0242ac110002",
+              "xattributes": {}
+            },
+            "pid": 85,
+            "uid": "45bd4986-0ac9-11ee-9e17-0242ac110002",
+            "user": {
+              "account_type": "instant imported jesus",
+              "domain": "partition effectiveness pain",
+              "name": "Reforms",
+              "org_uid": "45bd58cc-0ac9-11ee-a88c-0242ac110002",
+              "uid": "45bd5d2c-0ac9-11ee-8d8c-0242ac110002"
+            }
+          },
+          "pid": 46,
+          "session": {
+            "created_time": 1686757006980693,
+            "expiration_time": 1686757006980701,
+            "issuer": "produces tropical women",
+            "uid": "45bd63bc-0ac9-11ee-b9dd-0242ac110002"
+          },
+          "uid": "45bd67d6-0ac9-11ee-b4f9-0242ac110002",
+          "user": {
+            "account_type": "LDAP Account",
+            "account_type_id": 1,
+            "account_uid": "45bd6da8-0ac9-11ee-8727-0242ac110002",
+            "email_addr": "Ted@machine.name",
+            "name": "Physically",
+            "uid": "45bd71fe-0ac9-11ee-901c-0242ac110002"
+          }
+        },
+        "pid": 83,
+        "uid": "45bd755a-0ac9-11ee-b0a8-0242ac110002",
+        "user": {
+          "domain": "meeting gadgets rats",
+          "name": "Extending",
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "45bd7ba4-0ac9-11ee-b3b9-0242ac110002"
+        },
+        "xattributes": {}
+      },
+      "pid": 5,
+      "sandbox": "managers specific execution",
+      "uid": "45bd8446-0ac9-11ee-a66b-0242ac110002",
+      "user": {
+        "uid": "45bd8af4-0ac9-11ee-a03f-0242ac110002"
+      }
+    },
+    "user": {
+      "account_type": "AWS IAM User",
+      "account_type_id": 3,
+      "domain": "videos administrators garmin",
+      "groups": [
+        {
+          "desc": "detroit prague sb",
+          "name": "assignments region holds"
+        },
+        {
+          "name": "humans voip continues",
+          "privileges": [
+            "stupid boys results",
+            "dpi converter violence"
+          ],
+          "uid": "45bd9526-0ac9-11ee-a9f6-0242ac110002"
+        }
+      ],
+      "name": "Telling",
+      "uid": "45bd9918-0ac9-11ee-8ada-0242ac110002"
+    }
+  },
+  "api": {
+    "operation": "nails compression shortcuts",
+    "response": {
+      "code": 50,
+      "error": "ensuring kiss robots",
+      "error_message": "mat as latter",
+      "message": "bennett companies ge"
+    }
+  },
+  "category_name": "Audit Activity",
+  "category_uid": 3,
+  "class_name": "API Activity",
+  "class_uid": 3005,
+  "end_time": 1686757006968113,
+  "enrichments": [
+    {
+      "data": "essentials",
+      "name": "bookmarks hamburg columnists",
+      "provider": "modems algeria flow",
+      "type": "worst gold eggs",
+      "value": "rising toshiba solo"
+    },
+    {
+      "data": "inventory",
+      "name": "california hit blocking",
+      "provider": "village labs fundamental",
+      "type": "smooth subsequent estimated",
+      "value": "restrict spokesman consent"
+    }
+  ],
+  "message": "head revised bought",
+  "metadata": {
+    "logged_time": 1686757006967714,
+    "modified_time": 1686757006967719,
+    "original_time": "supplements advice warranties",
+    "processed_time": 1686757006967728,
+    "product": {
+      "lang": "en",
+      "name": "goes range villas",
+      "path": "/published/grad/downtown/yes/thu",
+      "uid": "45bb7278-0ac9-11ee-b184-0242ac110002",
+      "vendor_name": "rage bearing prevention",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "resources": [
+    {
+      "criticality": "source enhancing islands",
+      "details": "drops aaron textile",
+      "group_name": "dont march childrens",
+      "name": "subsidiaries representative templates",
+      "owner": {
+        "name": "Safer",
+        "type": "System",
+        "type_id": 3,
+        "uid": "45bb98e8-0ac9-11ee-9fae-0242ac110002"
+      },
+      "region": "bird essays ae",
+      "uid": "45bb9d70-0ac9-11ee-b226-0242ac110002"
+    },
+    {
+      "account_uid": "45bba14e-0ac9-11ee-b007-0242ac110002",
+      "criticality": "lenses plug amenities",
+      "details": "burn boolean marks",
+      "device": {
+        "autoscale_uid": "45bbbaa8-0ac9-11ee-8169-0242ac110002",
+        "hostname": "started.store",
+        "imei": "phone international associated",
+        "instance_uid": "45bbb59e-0ac9-11ee-9717-0242ac110002",
+        "interface_name": "thousand provincial failing",
+        "interface_uid": "45bbbf12-0ac9-11ee-b44d-0242ac110002",
+        "ip": "242.62.168.87",
+        "name": "facility wellington asylum",
+        "org_unit": "buck suits belief",
+        "region": "cab hire guaranteed",
+        "type": "Mobile",
+        "type_id": 5,
+        "uid": "45bbc3ea-0ac9-11ee-9c6a-0242ac110002",
+        "uuid": "45bbb06c-0ac9-11ee-8036-0242ac110002"
+      },
+      "group_name": "baseline rewards var",
+      "name": "store cnet corners",
+      "type": "capability mozilla skill",
+      "uid": "45bbc868-0ac9-11ee-a175-0242ac110002"
+    }
+  ],
+  "severity": "Informational",
+  "severity_id": 1,
+  "src_endpoint": {
+    "hostname": "international.arpa",
+    "instance_uid": "45bbd20e-0ac9-11ee-91df-0242ac110002",
+    "interface_name": "thank owned millennium",
+    "interface_uid": "45bbdcae-0ac9-11ee-b07b-0242ac110002",
+    "intermediate_ips": [
+      "223.131.189.101"
+    ],
+    "ip": "147.72.207.58",
+    "port": 25550,
+    "uid": "45bbe190-0ac9-11ee-af5b-0242ac110002",
+    "vlan_uid": "45bbe528-0ac9-11ee-a331-0242ac110002"
+  },
+  "status": "Unknown",
+  "status_detail": "seminars gathering tennessee",
+  "status_id": 0,
+  "time": 1686757006967417,
+  "timezone_offset": 73,
+  "type_name": "API Activity: Other",
+  "type_uid": 300599
+}

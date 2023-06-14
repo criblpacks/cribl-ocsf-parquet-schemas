@@ -1,0 +1,166 @@
+{
+  "activity_id": 1,
+  "activity_name": "Access Grant",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "class_uid": 6004,
+  "http_request": {
+    "url": {
+      "categories": [
+        "concluded compiled but",
+        "citizen requiring career"
+      ],
+      "category_ids": [
+        37
+      ],
+      "hostname": "psychological.arpa",
+      "path": "tft minority negative",
+      "port": 58810,
+      "scheme": "trend entertainment renewal",
+      "url_string": "petite"
+    },
+    "user_agent": "smile cedar banner",
+    "version": "1.0.0-rc.3",
+    "x_forwarded_for": [
+      "128.50.69.201",
+      "142.155.99.198"
+    ]
+  },
+  "message": "integer sally intelligence",
+  "metadata": {
+    "correlation_uid": "15a4b28e-0ac9-11ee-b423-0242ac110003",
+    "event_code": "sally",
+    "log_name": "log completed reprint",
+    "log_provider": "classifieds transferred securely",
+    "original_time": "advisors satin salem",
+    "processed_time": 1686756926288385,
+    "product": {
+      "name": "iceland def counties",
+      "uid": "15a4bce8-0ac9-11ee-b3e0-0242ac110003",
+      "vendor_name": "france function employees",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "observables": [
+    {
+      "name": "laboratories backed demonstration",
+      "reputation": {
+        "base_score": 33.0226,
+        "provider": "leaving programming ons",
+        "score": "Unknown",
+        "score_id": 0
+      },
+      "type": "Registry Value",
+      "type_id": 29
+    }
+  ],
+  "severity": "High",
+  "severity_id": 4,
+  "src_endpoint": {
+    "instance_uid": "15a41536-0ac9-11ee-bfa2-0242ac110003",
+    "intermediate_ips": [
+      "204.176.255.108",
+      "148.232.239.235"
+    ],
+    "ip": "90.8.217.121",
+    "name": "courage mandate code",
+    "port": 63279,
+    "svc_name": "appraisal sheet bang",
+    "uid": "15a42774-0ac9-11ee-b72f-0242ac110003"
+  },
+  "start_time": 1686756926288637,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686756926284797,
+  "timezone_offset": 9,
+  "tls": {
+    "certificate": {
+      "expiration_time": 1686756926285133,
+      "fingerprints": [
+        {
+          "algorithm": "Unknown",
+          "algorithm_id": 0,
+          "value": "37BC26C57B0F9ABC2A3524487368B76CAD4C8B89E48DD462727057D73E7D17B9D1418815E9904CCA9BA3AFED26A08F71234D2953DD457413A4929B20D42B1A89"
+        },
+        {
+          "algorithm": "SHA-1",
+          "algorithm_id": 2,
+          "value": "68F55551796668375C528BD96B0D0FBC847BD123"
+        }
+      ],
+      "issuer": "digest participate cooperative",
+      "serial_number": "sentences thanksgiving bought"
+    },
+    "certificate_chain": [
+      "mono skilled clearing",
+      "refused champions involved"
+    ],
+    "cipher": "guess cents badly",
+    "client_ciphers": [
+      "transexual fg liberty",
+      "vertex typing hungry"
+    ],
+    "extension_list": [
+      {
+        "data": "taken",
+        "type": "lose",
+        "type_id": 99
+      },
+      {
+        "type": "oid_filters",
+        "type_id": 48
+      }
+    ],
+    "ja3_hash": {
+      "algorithm": "SHA-512",
+      "algorithm_id": 4,
+      "value": "629A6680634AC8C001EB80BF6CB524284842ACB9490B715E3EFA25CC89BCE51DE8866DA8D1441B0863CCB6FD77E7740C02C19346B7734C9D8C38693524DCBC8B"
+    },
+    "ja3s_hash": {
+      "algorithm": "MD5",
+      "algorithm_id": 1,
+      "value": "CC935C5FAF4C8F7A0468D7552A9B8138"
+    },
+    "sni": "issue forbidden antibodies",
+    "version": "1.0.0-rc.3"
+  },
+  "type_name": "Web Resource Access Activity: Access Grant",
+  "type_uid": 600401,
+  "web_resources": [
+    {
+      "desc": "deep square display",
+      "labels": [
+        "vista"
+      ],
+      "type": "matt ships pro",
+      "url": {
+        "category_ids": [
+          26,
+          7
+        ],
+        "hostname": "let.arpa",
+        "path": "arrest legends assumes",
+        "port": 28598,
+        "query_string": "sudan discuss messages",
+        "scheme": "changed digital lowest",
+        "url_string": "pork"
+      }
+    },
+    {
+      "url": {
+        "category_ids": [
+          110,
+          51
+        ],
+        "hostname": "corruption.store",
+        "path": "spectrum status mods",
+        "url_string": "practitioners"
+      }
+    }
+  ]
+}

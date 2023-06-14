@@ -1,0 +1,67 @@
+{
+  "activity_id": 99,
+  "activity_name": "investigators",
+  "category_name": "Audit Activity",
+  "category_uid": 3,
+  "class_name": "Authorization",
+  "class_uid": 3003,
+  "confidence": 45,
+  "data": "petite",
+  "dst_endpoint": {
+    "hostname": "district.museum",
+    "interface_name": "numerical rehabilitation work",
+    "interface_uid": "4808cfe4-0ac9-11ee-ab59-0242ac110002",
+    "intermediate_ips": [
+      "194.82.119.55"
+    ],
+    "ip": "73.82.42.234",
+    "name": "geography sheriff realtors",
+    "port": 317,
+    "svc_name": "assessed designed get",
+    "uid": "4808d4c6-0ac9-11ee-b37f-0242ac110002",
+    "vlan_uid": "4808d872-0ac9-11ee-ba48-0242ac110002"
+  },
+  "duration": 52,
+  "message": "attempted watched college",
+  "metadata": {
+    "modified_time": 1686757010829785,
+    "original_time": "chance claimed convenient",
+    "product": {
+      "lang": "en",
+      "name": "armor throughout ml",
+      "uid": "4808b8c4-0ac9-11ee-bd71-0242ac110002",
+      "vendor_name": "functions remedy intent",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "4808bd06-0ac9-11ee-b545-0242ac110002",
+    "version": "1.0.0-rc.2"
+  },
+  "privileges": [
+    "case explicitly ae"
+  ],
+  "severity": "Informational",
+  "severity_id": 1,
+  "start_time": 1686757010829054,
+  "status": "acer",
+  "status_code": "installed",
+  "status_id": 99,
+  "time": 1686757010829066,
+  "timezone_offset": 92,
+  "type_name": "Authorization: Other",
+  "type_uid": 300399,
+  "user": {
+    "account_uid": "4808a42e-0ac9-11ee-9ef4-0242ac110002",
+    "email_addr": "Ardath@evident.firm",
+    "groups": [
+      {
+        "name": "stronger reject cure",
+        "uid": "4808ab2c-0ac9-11ee-b50b-0242ac110002"
+      }
+    ],
+    "name": "Distances",
+    "uid": "4808afd2-0ac9-11ee-9f8e-0242ac110002"
+  }
+}

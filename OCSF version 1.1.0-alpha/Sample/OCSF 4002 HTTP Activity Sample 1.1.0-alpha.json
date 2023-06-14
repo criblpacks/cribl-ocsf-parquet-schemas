@@ -1,0 +1,123 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "HTTP Activity",
+  "class_uid": 4002,
+  "dst_endpoint": {
+    "hostname": "reaction.biz",
+    "instance_uid": "822cabfa-0ac9-11ee-ab4c-0242ac110004",
+    "ip": "222.4.166.228",
+    "name": "ltd soviet watson",
+    "port": 40687,
+    "subnet_uid": "822cb0d2-0ac9-11ee-b610-0242ac110004",
+    "svc_name": "defined conspiracy entrance",
+    "uid": "822cb46a-0ac9-11ee-958f-0242ac110004",
+    "vlan_uid": "822cb78a-0ac9-11ee-9d71-0242ac110004"
+  },
+  "http_request": {
+    "args": "meat mpeg potential",
+    "http_headers": [
+      {
+        "name": "subdivision wine zoo",
+        "value": "unlike magnitude illustrations"
+      },
+      {
+        "name": "k ch chevrolet",
+        "value": "maintenance sara dual"
+      }
+    ],
+    "url": {
+      "categories": [
+        "noted stroke gift"
+      ],
+      "category_ids": [
+        3,
+        45
+      ],
+      "hostname": "toy.nato",
+      "path": "customs transcripts solve",
+      "port": 27760,
+      "query_string": "specification perception visibility",
+      "scheme": "receiver trans buyer",
+      "url_string": "ranger"
+    },
+    "user_agent": "sur southwest chronic",
+    "version": "1.1.0-alpha"
+  },
+  "http_response": {
+    "code": 57
+  },
+  "message": "pins accompanied local",
+  "metadata": {
+    "extension": {
+      "name": "tide childhood ira",
+      "uid": "822ccf22-0ac9-11ee-8975-0242ac110004",
+      "version": "1.1.0-alpha"
+    },
+    "log_name": "ranging worse oz",
+    "log_provider": "releases norton parts",
+    "original_time": "schedule philip fighting",
+    "product": {
+      "feature": {
+        "name": "adults tower sent",
+        "uid": "822cd724-0ac9-11ee-9659-0242ac110004",
+        "version": "1.1.0-alpha"
+      },
+      "lang": "en",
+      "name": "equity keith trials",
+      "uid": "822cddf0-0ac9-11ee-86e6-0242ac110004",
+      "vendor_name": "ahead attached blank",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "observables": [
+    {
+      "name": "gore suspended id",
+      "reputation": {
+        "base_score": 29.1735,
+        "provider": "cited cents numerous",
+        "score": "revisions",
+        "score_id": 99
+      },
+      "type": "IP Address",
+      "type_id": 2
+    },
+    {
+      "name": "detective momentum encourage",
+      "reputation": {
+        "base_score": 6.5433,
+        "provider": "riding appeals ltd",
+        "score": "Unknown",
+        "score_id": 0
+      },
+      "type": "Geo Location",
+      "type_id": 26
+    }
+  ],
+  "severity": "extraction",
+  "severity_id": 99,
+  "src_endpoint": {
+    "instance_uid": "822c94b2-0ac9-11ee-b76e-0242ac110004",
+    "interface_name": "already both fu",
+    "interface_uid": "822c9af2-0ac9-11ee-83e3-0242ac110004",
+    "name": "supposed pharmacy lanes",
+    "port": 18633,
+    "subnet_uid": "822c9f84-0ac9-11ee-9da0-0242ac110004",
+    "svc_name": "ser performer assignments",
+    "uid": "822ca3ee-0ac9-11ee-bb2c-0242ac110004"
+  },
+  "status_detail": "committed redeem cs",
+  "time": 1686757108373202,
+  "traffic": {
+    "bytes": 2135008106,
+    "packets": 3134593254
+  },
+  "type_name": "HTTP Activity: Unknown",
+  "type_uid": 400200
+}

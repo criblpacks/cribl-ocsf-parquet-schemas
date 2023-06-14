@@ -1,0 +1,43 @@
+{
+  "activity_id": 2,
+  "activity_name": "Revoke Privileges",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "User Access Management",
+  "class_uid": 3005,
+  "duration": 20,
+  "message": "accessible opens summaries",
+  "metadata": {
+    "log_name": "crossword seal pale",
+    "log_version": "pockets compact hay",
+    "original_time": "attend rm notion",
+    "product": {
+      "lang": "en",
+      "uid": "2ec24c4a-0ac9-11ee-ace3-0242ac110003",
+      "vendor_name": "js dies concept",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "privileges": [
+    "estimation labels receptors",
+    "regulation erp blonde"
+  ],
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686756968424509,
+  "timezone_offset": 22,
+  "type_name": "User Access Management: Revoke Privileges",
+  "type_uid": 300502,
+  "user": {
+    "name": "Editing",
+    "type": "victor",
+    "type_id": 99,
+    "uid": "2ec23700-0ac9-11ee-8bc5-0242ac110003"
+  }
+}

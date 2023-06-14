@@ -1,0 +1,449 @@
+{
+  "activity_id": 7,
+  "activity_name": "Read",
+  "actor": {
+    "user": {
+      "account_type": "deposits austria filtering",
+      "email_addr": "Agripina@bicycle.net",
+      "groups": [
+        {
+          "desc": "challenged carey kick",
+          "name": "height springfield extend",
+          "type": "secrets assessments nicaragua",
+          "uid": "53efff08-0ac9-11ee-ba59-0242ac110002"
+        },
+        {
+          "desc": "strike off disposition",
+          "name": "pl albert judges",
+          "privileges": [
+            "galaxy festivals mid"
+          ],
+          "uid": "53f0043a-0ac9-11ee-9230-0242ac110002"
+        }
+      ],
+      "name": "District",
+      "uid": "53f00b38-0ac9-11ee-b9cc-0242ac110002"
+    }
+  },
+  "base_address": "everyday instrumental o",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Memory Activity",
+  "class_uid": 1004,
+  "confidence": 24,
+  "device": {
+    "autoscale_uid": "53efe298-0ac9-11ee-9b5d-0242ac110002",
+    "desc": "juan variable babies",
+    "hostname": "detailed.jobs",
+    "imei": "timer discuss chrysler",
+    "interface_name": "ecology soul procedures",
+    "interface_uid": "53efedd8-0ac9-11ee-940f-0242ac110002",
+    "ip": "91.60.47.9",
+    "is_compliant": false,
+    "is_managed": false,
+    "name": "extract cached ohio",
+    "network_interfaces": [
+      {
+        "hostname": "implies.info",
+        "ip": "103.22.177.50",
+        "mac": "F1:B8:9C:26:E3:5:65:25",
+        "name": "released reflects rouge",
+        "type": "Wired",
+        "type_id": 1
+      },
+      {
+        "hostname": "identifies.int",
+        "ip": "231.227.75.171",
+        "mac": "6B:2D:28:2A:B0:EB:8F:F2",
+        "name": "veterinary poor thirty",
+        "type": "Wireless",
+        "type_id": 2,
+        "uid": "53efd8ca-0ac9-11ee-9932-0242ac110002"
+      }
+    ],
+    "region": "cialis rj guarantee",
+    "risk_level": "High",
+    "risk_level_id": 3,
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "53eff364-0ac9-11ee-aab1-0242ac110002",
+    "vlan_uid": "53efe6ee-0ac9-11ee-9584-0242ac110002"
+  },
+  "enrichments": [
+    {
+      "data": "usb",
+      "name": "dvds bonus tulsa",
+      "provider": "license implementing jamie",
+      "type": "semester adidas integration",
+      "value": "replied title arm"
+    },
+    {
+      "data": "pink",
+      "name": "songs violence ahead",
+      "provider": "administrator pump vocal",
+      "type": "render performance arbitration",
+      "value": "mall dakota dell"
+    }
+  ],
+  "message": "carry chem charter",
+  "metadata": {
+    "modified_time": 1686757030798469,
+    "original_time": "transition waiting retrieve",
+    "processed_time": 1686757030798481,
+    "product": {
+      "feature": {
+        "name": "judges chief counters",
+        "uid": "53efc11e-0ac9-11ee-b341-0242ac110002",
+        "version": "1.0.0-rc.2"
+      },
+      "lang": "en",
+      "name": "touring ae asn",
+      "uid": "53efc60a-0ac9-11ee-a41a-0242ac110002",
+      "vendor_name": "schools relation heel",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "observables": [
+    {
+      "name": "surprising retrieved dependence",
+      "type": "Email",
+      "type_id": 22
+    },
+    {
+      "name": "cycling martial hip",
+      "type": "Registry Value",
+      "type_id": 29
+    }
+  ],
+  "process": {
+    "cmd_line": "stopped classroom rankings",
+    "created_time": 1686757030800989,
+    "file": {
+      "accessed_time": 1686757030801117,
+      "attributes": 97,
+      "created_time": 1686757030801122,
+      "creator": {
+        "account_uid": "53f01b64-0ac9-11ee-8be3-0242ac110002",
+        "domain": "participate specialists gay",
+        "name": "Bizarre",
+        "type": "System",
+        "type_id": 3,
+        "uid": "53f0208c-0ac9-11ee-80da-0242ac110002"
+      },
+      "fingerprints": [
+        {
+          "algorithm": "MD5",
+          "algorithm_id": 1,
+          "value": "1374B1FEB2FB7DD51F4F0AFDD6157847"
+        },
+        {
+          "algorithm": "Unknown",
+          "algorithm_id": 0,
+          "value": "39F673D5AF60FEB5360CAE29F0BBEBE8407202B1ADB6450396B2DEE90EC194B2DE34A0F5304143A60E5D9332148C88B3E22CA235C5DEEBA1EAB6D2AD2B403D00"
+        }
+      ],
+      "is_system": true,
+      "modified_time": 1686757030801498,
+      "name": "near.rtf",
+      "owner": {
+        "account_type": "engine respective disc",
+        "name": "Plot",
+        "org_uid": "53f02bcc-0ac9-11ee-b5b1-0242ac110002",
+        "uid": "53f02fb4-0ac9-11ee-9695-0242ac110002"
+      },
+      "parent_folder": "/dakota/nursing/finds/labels/security/rick.svg",
+      "path": "/dakota/nursing/finds/labels/security/rick.svg/near.rtf",
+      "type": "Local Socket",
+      "type_id": 5,
+      "version": "1.0.0-rc.2",
+      "xattributes": {}
+    },
+    "lineage": [
+      "feelings di examples",
+      "funky context penetration"
+    ],
+    "name": "Expanded",
+    "parent_process": {
+      "cmd_line": "five amplifier priority",
+      "created_time": 1686757030801996,
+      "file": {
+        "creator": {
+          "account_type": "Azure AD Account",
+          "account_type_id": 6,
+          "domain": "bond lan capabilities",
+          "name": "Jack",
+          "org_uid": "53f05836-0ac9-11ee-b179-0242ac110002",
+          "uid": "53f05c28-0ac9-11ee-8d78-0242ac110002",
+          "uuid": "53f05fb6-0ac9-11ee-99cd-0242ac110002"
+        },
+        "fingerprints": [
+          {
+            "algorithm": "CTPH",
+            "algorithm_id": 5,
+            "value": "E0B90342AC6DB347A1818DC5DB0C7DC6497B72E3913AAE030E011E894AE89E3326ABE7581D47B77D32328DE62B27D3202D32C2813D3C6DF204908F0026806678"
+          }
+        ],
+        "name": "reflection.b",
+        "parent_folder": "/three/changelog/evaluation/hayes/outdoors/copyrighted.key",
+        "path": "/three/changelog/evaluation/hayes/outdoors/copyrighted.key/reflection.b",
+        "product": {
+          "lang": "en",
+          "name": "applicable bang cia",
+          "uid": "53f068bc-0ac9-11ee-9fa5-0242ac110002",
+          "vendor_name": "finger begins luxury",
+          "version": "1.0.0-rc.2"
+        },
+        "security_descriptor": "macromedia equilibrium periodic",
+        "signature": {
+          "company_name": "Alethia Maude"
+        },
+        "type": "Block Device",
+        "type_id": 4,
+        "version": "1.0.0-rc.2"
+      },
+      "name": "Cheaper",
+      "parent_process": {
+        "cmd_line": "notebooks presenting chuck",
+        "created_time": 1686757030803442,
+        "file": {
+          "fingerprints": [
+            {
+              "algorithm": "CTPH",
+              "algorithm_id": 5,
+              "value": "8A91FA92122B9D4503BB3D5DAF3C52B8CFA648B220EB43DB451BBDBCBDE1801D504C26E204F68D436D79B35F1C043EDEB4A015133FEFC8ECD6456E5AC4988CA5"
+            },
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "634C05469CBC3160C3EB4E95569C8853D218476EC178663F2733695F6D70C6CC"
+            }
+          ],
+          "is_system": true,
+          "modifier": {
+            "domain": "bibliography transform causing",
+            "email_addr": "Hosea@tiny.arpa",
+            "name": "Romantic",
+            "org_uid": "53f07d52-0ac9-11ee-8b41-0242ac110002",
+            "type": "User",
+            "type_id": 1,
+            "uid": "53f08176-0ac9-11ee-a178-0242ac110002"
+          },
+          "name": "johnson.rtf",
+          "parent_folder": "/tracy/imagine/mess/del/means/took.log",
+          "path": "/tracy/imagine/mess/del/means/took.log/johnson.rtf",
+          "product": {
+            "lang": "en",
+            "name": "dom specialty excellent",
+            "path": "/opening/arena/recommendation/coast/stand",
+            "uid": "53f088f6-0ac9-11ee-99ba-0242ac110002",
+            "vendor_name": "dr furnishings alternative",
+            "version": "1.0.0-rc.2"
+          },
+          "type": "Regular File",
+          "type_id": 1
+        },
+        "name": "Argued",
+        "parent_process": {
+          "cmd_line": "connecticut croatia expiration",
+          "created_time": 1686757030804223,
+          "file": {
+            "confidentiality": "yemen intensive memo",
+            "desc": "concerning consensus notify",
+            "fingerprints": [
+              {
+                "algorithm": "SHA-512",
+                "algorithm_id": 4,
+                "value": "90609B9B10D9A16325F2A79F08A65CB3D3B5A7ED4B9A37A403030CC74AAB5693848BC62C4B582A635E4AEBDFB8D8BC7CCB98A52539C663F590662F6721A96EF2"
+              }
+            ],
+            "name": "rm.dem",
+            "owner": {
+              "groups": [
+                {
+                  "desc": "icq enemy traditions",
+                  "name": "protected period grade",
+                  "privileges": [
+                    "transexuales printer purple"
+                  ],
+                  "uid": "53f0a02a-0ac9-11ee-883c-0242ac110002"
+                }
+              ],
+              "name": "Pump",
+              "type": "revealed webmaster pleased",
+              "uid": "53f0a87c-0ac9-11ee-a183-0242ac110002"
+            },
+            "parent_folder": "/attend/coat/lung/possible/relax/staff.css",
+            "path": "/attend/coat/lung/possible/relax/staff.css/rm.dem",
+            "product": {
+              "lang": "en",
+              "name": "customer discounts blues",
+              "uid": "53f0aed0-0ac9-11ee-b403-0242ac110002",
+              "vendor_name": "entitled jews sonic",
+              "version": "1.0.0-rc.2"
+            },
+            "type": "Local Socket",
+            "type_id": 5,
+            "xattributes": {}
+          },
+          "name": "Dow",
+          "parent_process": {
+            "file": {
+              "fingerprints": [
+                {
+                  "algorithm": "Unknown",
+                  "algorithm_id": 0,
+                  "value": "F9D27E10232047CB566CDD9CECD1AA10B86EE0698A18DF04146F836ECC6126C88B6DB39735F52B09B487FF67907A3300522C9507AABC35543F815395A808E551"
+                },
+                {
+                  "algorithm": "MD5",
+                  "algorithm_id": 1,
+                  "value": "C5946EB9400717FD6F40E26E36CDB498"
+                }
+              ],
+              "name": "closest.xhtml",
+              "parent_folder": "/chapters/carpet/plugin/legally/rb/grant.m3u",
+              "path": "/chapters/carpet/plugin/legally/rb/grant.m3u/closest.xhtml",
+              "type": "Folder",
+              "type_id": 2
+            },
+            "name": "Th",
+            "parent_process": {
+              "cmd_line": "knowledgestorm bookmarks brown",
+              "created_time": 1686757030805462,
+              "file": {
+                "created_time": 1686757030805535,
+                "is_system": true,
+                "name": "feat.mim",
+                "parent_folder": "/laughing/european/pad/cabinets/desert/recommend.tar",
+                "path": "/laughing/european/pad/cabinets/desert/recommend.tar/feat.mim",
+                "security_descriptor": "quotations recreational impressive",
+                "size": 978798123,
+                "type": "Local Socket",
+                "type_id": 5,
+                "xattributes": {}
+              },
+              "integrity": "Protected",
+              "integrity_id": 6,
+              "loaded_modules": [
+                "/arthritis/giants/ever/resources/publicity.tar"
+              ],
+              "name": "Genome",
+              "parent_process": {
+                "created_time": 1686757030805745,
+                "file": {
+                  "company_name": "Lynetta Daria",
+                  "created_time": 1686757030805841,
+                  "fingerprints": [
+                    {
+                      "algorithm": "CTPH",
+                      "algorithm_id": 5,
+                      "value": "DB8E6D3F8C1EA8B25A996413041EF961FC8444DEBC1D9F4983AB6F4D8BE89B565B8562F654D3597E35DDD2DDFBCB48DCAC4BB868720D2D7EDAF5B469FDF9827B"
+                    }
+                  ],
+                  "name": "became.thm",
+                  "owner": {
+                    "account_uid": "53f0d4f0-0ac9-11ee-9354-0242ac110002",
+                    "name": "Kings",
+                    "uid": "53f0d93c-0ac9-11ee-b824-0242ac110002"
+                  },
+                  "parent_folder": "/uniprotkb/simple/artist/profit/dish/represented.sql",
+                  "path": "/uniprotkb/simple/artist/profit/dish/represented.sql/became.thm",
+                  "product": {
+                    "lang": "en",
+                    "name": "placement poll brandon",
+                    "uid": "53f0df36-0ac9-11ee-b857-0242ac110002",
+                    "vendor_name": "numerical prayers brighton",
+                    "version": "1.0.0-rc.2"
+                  },
+                  "security_descriptor": "confidence operational rabbit",
+                  "signature": {
+                    "company_name": "Jama Andre",
+                    "created_time": 1686757030806353
+                  },
+                  "size": 2017777295,
+                  "type": "Unknown",
+                  "type_id": 0
+                },
+                "name": "Sparc",
+                "tid": 84,
+                "uid": "53f0e68e-0ac9-11ee-becf-0242ac110002",
+                "user": {
+                  "account_type": "LDAP Account",
+                  "account_type_id": 1,
+                  "account_uid": "53f0ec7e-0ac9-11ee-9c1f-0242ac110002",
+                  "name": "Trackbacks",
+                  "uid": "53f0f066-0ac9-11ee-b4db-0242ac110002"
+                }
+              },
+              "pid": 42,
+              "sandbox": "tracy route bug",
+              "uid": "53f0f44e-0ac9-11ee-9744-0242ac110002",
+              "user": {
+                "name": "Duration",
+                "uid": "53f0fce6-0ac9-11ee-aba9-0242ac110002",
+                "uuid": "53f10042-0ac9-11ee-b7ff-0242ac110002"
+              }
+            },
+            "tid": 69,
+            "uid": "53f10394-0ac9-11ee-8130-0242ac110002",
+            "user": {
+              "account_uid": "53f10aec-0ac9-11ee-b0a7-0242ac110002",
+              "credential_uid": "53f10e48-0ac9-11ee-abc6-0242ac110002",
+              "name": "Beans",
+              "type": "advertisers est likes",
+              "uid": "53f11258-0ac9-11ee-a1f0-0242ac110002"
+            }
+          },
+          "pid": 46,
+          "sandbox": "save coordinated proud",
+          "terminated_time": 1686757030807628,
+          "tid": 39,
+          "uid": "53f1164a-0ac9-11ee-82a3-0242ac110002"
+        },
+        "pid": 42,
+        "sandbox": "floyd offensive kept",
+        "session": {
+          "created_time": 1686757030807764,
+          "issuer": "waves accommodation butts",
+          "uid": "53f11c26-0ac9-11ee-8192-0242ac110002",
+          "uuid": "53f12040-0ac9-11ee-a22c-0242ac110002"
+        },
+        "tid": 89,
+        "uid": "53f12360-0ac9-11ee-b4db-0242ac110002",
+        "user": {
+          "name": "Arrow",
+          "org_uid": "53f12950-0ac9-11ee-8cc9-0242ac110002",
+          "uid": "53f12c7a-0ac9-11ee-be60-0242ac110002"
+        }
+      },
+      "uid": "53f12fae-0ac9-11ee-bbc4-0242ac110002",
+      "user": {
+        "account_type": "tiny electronics televisions",
+        "account_uid": "53f13706-0ac9-11ee-8c8c-0242ac110002",
+        "domain": "lending proposals reading",
+        "name": "Producer",
+        "uid": "53f13b5c-0ac9-11ee-972a-0242ac110002"
+      }
+    },
+    "pid": 71,
+    "terminated_time": 1686757030808669,
+    "uid": "53f14142-0ac9-11ee-9e69-0242ac110002",
+    "user": {
+      "name": "Matrix",
+      "org_uid": "53f1482c-0ac9-11ee-b1e8-0242ac110002",
+      "uid": "53f14b7e-0ac9-11ee-b782-0242ac110002"
+    }
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757030798305,
+  "timezone_offset": 46,
+  "type_name": "Memory Activity: Read",
+  "type_uid": 100407
+}

@@ -1,0 +1,142 @@
+{
+  "activity_id": 3,
+  "activity_name": "Reset",
+  "app_name": "ray pp blame",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "class_uid": 4007,
+  "connection_info": {
+    "direction": "Outbound",
+    "direction_id": 2
+  },
+  "count": 18,
+  "dst_endpoint": {
+    "domain": "proposals mirror iowa",
+    "hostname": "core.aero",
+    "instance_uid": "31726a06-0ac9-11ee-866b-0242ac110003",
+    "interface_name": "linking tribunal bucks",
+    "interface_uid": "31726e52-0ac9-11ee-b8ae-0242ac110003",
+    "ip": "127.75.38.60",
+    "location": {
+      "city": "Acdbentity alias",
+      "continent": "Africa",
+      "coordinates": [
+        -93.7319,
+        -69.9188
+      ],
+      "country": "BI",
+      "desc": "Burundi, Republic of"
+    },
+    "svc_name": "whole beatles genome",
+    "vlan_uid": "317275b4-0ac9-11ee-a877-0242ac110003"
+  },
+  "end_time": 1686756972935388,
+  "metadata": {
+    "log_name": "explaining warriors joy",
+    "log_provider": "shipments sublimedirectory release",
+    "log_version": "align students excessive",
+    "original_time": "bp licence dump",
+    "product": {
+      "lang": "en",
+      "name": "statement bg occupied",
+      "path": "introduces beverage assure",
+      "uid": "3172f52a-0ac9-11ee-b6bd-0242ac110003",
+      "vendor_name": "wc vincent wendy",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "protocol_ver": "1",
+  "proxy": {
+    "domain": "probably owners waiting",
+    "hostname": "creatures.com",
+    "instance_uid": "3172c03c-0ac9-11ee-8cd5-0242ac110003",
+    "interface_name": "buffer ons moral",
+    "interface_uid": "3172c49c-0ac9-11ee-8a96-0242ac110003",
+    "intermediate_ips": [
+      "240.18.69.207",
+      "138.100.147.215"
+    ],
+    "ip": "37.92.32.120",
+    "name": "interstate pad indigenous",
+    "port": 20718,
+    "subnet_uid": "3172c910-0ac9-11ee-937c-0242ac110003",
+    "uid": "3172cc6c-0ac9-11ee-a581-0242ac110003"
+  },
+  "server_hassh": {
+    "algorithm": "optimize gr si",
+    "fingerprint": {
+      "algorithm": "MD5",
+      "algorithm_id": 1,
+      "value": "0248294805144AA6FCB711C4E9908FE1"
+    }
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "hostname": "reminder.org",
+    "instance_uid": "31724832-0ac9-11ee-8d06-0242ac110003",
+    "interface_name": "oracle anderson reproduced",
+    "interface_uid": "31725688-0ac9-11ee-8273-0242ac110003",
+    "ip": "135.221.22.249",
+    "name": "cas thorough geneva",
+    "port": 11374,
+    "svc_name": "aggressive movement suspension",
+    "uid": "31725c1e-0ac9-11ee-9b2a-0242ac110003",
+    "vlan_uid": "31725fd4-0ac9-11ee-b894-0242ac110003"
+  },
+  "start_time": 1686756972938604,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686756972934761,
+  "timezone_offset": 35,
+  "tls": {
+    "certificate": {
+      "created_time": 1686756972935499,
+      "expiration_time": 1686756972935502,
+      "fingerprints": [
+        {
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7,
+          "value": "73F26E01F97DFE6E6516A949262BAF10CB5F7BE9CD4FCDF3D4ED0C3B5F6CF2C9B9A27AF18F1C0424E30A20A6EC2C2DC4EF3FB7CB361E98B5D42F9176EDFACCA1"
+        },
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "0A8EFC2909F479123B639E376D80B7908387E7B4B169A0361D4B86556A35EB3F"
+        }
+      ],
+      "issuer": "draw bind disability",
+      "serial_number": "advertisers yr fall",
+      "version": "1.0.0-rc.3"
+    },
+    "certificate_chain": [
+      "physics angela mothers",
+      "helena show garmin"
+    ],
+    "cipher": "fire lines cord",
+    "client_ciphers": [
+      "fill dictionaries scoop",
+      "horizon tf chi"
+    ],
+    "handshake_dur": 10,
+    "ja3_hash": {
+      "algorithm": "MD5",
+      "algorithm_id": 1,
+      "value": "F910FF3A8628EBDA9C67ED678703FD7D"
+    },
+    "ja3s_hash": {
+      "algorithm": "CTPH",
+      "algorithm_id": 5,
+      "value": "3F4194A15557CB8099C56F27C8C006DAD23F41B1B2F8BAFC1CCC93711A92BA79B0FEDC8134098F62ECAE1F8724F55344DE466E994FD66D7A7385C5ED54300510"
+    },
+    "sni": "conference concerts categories",
+    "version": "1.0.0-rc.3"
+  },
+  "type_name": "SSH Activity: Reset",
+  "type_uid": 400703
+}

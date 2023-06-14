@@ -1,0 +1,114 @@
+{
+  "activity_id": 1,
+  "activity_name": "Log",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "class_uid": 5002,
+  "device": {
+    "groups": [
+      {
+        "name": "tar dem slight",
+        "privileges": [
+          "taiwan russian pty",
+          "fan prescribed conducted"
+        ],
+        "uid": "6e478c90-0ac9-11ee-9178-0242ac110004"
+      },
+      {
+        "name": "manchester snow live",
+        "uid": "6e47917c-0ac9-11ee-ae4d-0242ac110004"
+      }
+    ],
+    "hostname": "clinic.aero",
+    "image": {
+      "name": "iso repeated wifi",
+      "uid": "6e479b7c-0ac9-11ee-ae22-0242ac110004"
+    },
+    "imei": "fleece mirror copyrights",
+    "instance_uid": "6e47b346-0ac9-11ee-a631-0242ac110004",
+    "interface_name": "taking colon accessories",
+    "interface_uid": "6e47a34c-0ac9-11ee-8872-0242ac110004",
+    "last_seen_time": 1686757074996139,
+    "location": {
+      "city": "N refurbished",
+      "continent": "Asia",
+      "coordinates": [
+        -117.1568,
+        48.704
+      ],
+      "country": "GE",
+      "desc": "Georgia"
+    },
+    "name": "contracts shipment columbus",
+    "network_interfaces": [
+      {
+        "hostname": "combined.edu",
+        "ip": "66.61.14.146",
+        "mac": "51:2A:2C:82:B8:7D:A4:A3",
+        "name": "email municipal placed",
+        "namespace": "adapted jam picks",
+        "type": "Unknown",
+        "type_id": 0
+      },
+      {
+        "hostname": "st.arpa",
+        "mac": "B6:DC:CD:D3:51:99:DF:2A",
+        "name": "peak temple dies",
+        "type": "Unknown",
+        "type_id": 0
+      }
+    ],
+    "region": "wing visits fear",
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "6e479f32-0ac9-11ee-a8e5-0242ac110004",
+    "uid_alt": "unable prep kelkoo"
+  },
+  "duration": 14,
+  "message": "favorites bills databases",
+  "metadata": {
+    "correlation_uid": "6e47bf08-0ac9-11ee-be6b-0242ac110004",
+    "labels": [
+      "issn"
+    ],
+    "log_name": "patricia don strengths",
+    "log_provider": "macromedia durham aquatic",
+    "logged_time": 1686757074996431,
+    "original_time": "consumption sustainable helicopter",
+    "product": {
+      "lang": "en",
+      "name": "nottingham grave therapy",
+      "uid": "6e47ed8e-0ac9-11ee-a13d-0242ac110004",
+      "vendor_name": "experts secrets regard",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 75,
+    "uid": "6e47f270-0ac9-11ee-848a-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "observables": [
+    {
+      "name": "adds words capture",
+      "type": "Process Name",
+      "type_id": 9
+    },
+    {
+      "name": "enable war gym",
+      "type": "Geo Location",
+      "type_id": 26
+    }
+  ],
+  "severity": "Informational",
+  "severity_id": 1,
+  "start_time": 1686757074997744,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757074994485,
+  "timezone_offset": 78,
+  "type_name": "Device Config State: Log",
+  "type_uid": 500201
+}

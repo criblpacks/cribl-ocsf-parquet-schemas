@@ -1,0 +1,71 @@
+{
+  "activity_id": 99,
+  "activity_name": "letters",
+  "analytic": {
+    "desc": "unlimited bracelets faced",
+    "name": "transexuales tablet benefits",
+    "type": "Learning (ML/DL)",
+    "type_id": 4,
+    "uid": "747afebc-0ac9-11ee-b7bf-0242ac110004"
+  },
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Security Finding",
+  "class_uid": 2001,
+  "confidence": "High",
+  "confidence_id": 3,
+  "data_sources": [
+    "lawyer peers dk"
+  ],
+  "finding": {
+    "first_seen_time": 1686757085397057,
+    "last_seen_time": 1686757085397069,
+    "title": "prominent cas doctrine",
+    "uid": "747ae13e-0ac9-11ee-b1af-0242ac110004"
+  },
+  "impact": "High",
+  "impact_id": 3,
+  "message": "nebraska bills nothing",
+  "metadata": {
+    "log_name": "sudan stainless solo",
+    "log_provider": "brandon dim performing",
+    "original_time": "wiki deaths distributions",
+    "product": {
+      "lang": "en",
+      "name": "perry pm competitive",
+      "uid": "747b07c2-0ac9-11ee-b641-0242ac110004",
+      "vendor_name": "raleigh inspections tattoo",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "resources": [
+    {},
+    {
+      "labels": [
+        "jackets",
+        "dash"
+      ],
+      "owner": {
+        "name": "Arrest",
+        "type": "User",
+        "type_id": 1,
+        "uid": "747af746-0ac9-11ee-809a-0242ac110004"
+      },
+      "version": "1.1.0-alpha"
+    }
+  ],
+  "severity": "Unknown",
+  "severity_id": 0,
+  "state": "In Progress",
+  "state_id": 2,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757085397883,
+  "timezone_offset": 93,
+  "type_name": "Security Finding: Other",
+  "type_uid": 200199
+}

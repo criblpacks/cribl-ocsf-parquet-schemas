@@ -1,0 +1,100 @@
+{
+  "activity_id": 3,
+  "activity_name": "Reset",
+  "answers": [
+    {
+      "class": "brothers communist rs",
+      "packet_uid": 70,
+      "rdata": "commodities acquire synthetic",
+      "ttl": 35,
+      "type": "appraisal weight nu"
+    },
+    {
+      "class": "congressional cemetery having",
+      "packet_uid": 89,
+      "rdata": "thirty fragrances violin",
+      "ttl": 31,
+      "type": "latitude instrumental unsubscribe"
+    }
+  ],
+  "app_name": "steering latin completing",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "class_uid": 4003,
+  "dst_endpoint": {
+    "domain": "soviet dns friend",
+    "hostname": "circulation.biz",
+    "instance_uid": "69c5f0c6-0ac9-11ee-aa11-0242ac110004",
+    "interface_name": "suffer foul vanilla",
+    "interface_uid": "69c5f4ea-0ac9-11ee-9a42-0242ac110004",
+    "intermediate_ips": [
+      "188.119.2.38",
+      "151.234.145.216"
+    ],
+    "ip": "172.230.191.238",
+    "name": "suggests home posts",
+    "port": 64685,
+    "svc_name": "joe cables highlight",
+    "uid": "69c5fda0-0ac9-11ee-92c5-0242ac110004",
+    "vlan_uid": "69c60138-0ac9-11ee-a413-0242ac110004"
+  },
+  "message": "unlimited divorce answers",
+  "metadata": {
+    "extension": {
+      "name": "overview frost madagascar",
+      "uid": "69c61b0a-0ac9-11ee-9f5e-0242ac110004",
+      "version": "1.1.0-alpha"
+    },
+    "log_name": "phentermine banner smart",
+    "log_provider": "and hamburg ranking",
+    "original_time": "ken corpus prizes",
+    "product": {
+      "path": "analysts rogers gay",
+      "uid": "69c62960-0ac9-11ee-97e4-0242ac110004",
+      "vendor_name": "ss desperate traditional",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "query": {
+    "class": "back gadgets cycling",
+    "hostname": "ethiopia.arpa",
+    "opcode_id": 3,
+    "packet_uid": 67,
+    "type": "communicate frontier video"
+  },
+  "query_time": 1686757067435611,
+  "response_time": 1686757067435249,
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "greg.nato",
+    "interface_name": "pre valuation substance",
+    "interface_uid": "69c5e09a-0ac9-11ee-b09e-0242ac110004",
+    "ip": "223.157.185.152",
+    "location": {
+      "city": "Fantasy zip",
+      "continent": "North America",
+      "coordinates": [
+        17.5564,
+        -34.7612
+      ],
+      "country": "PR",
+      "desc": "Puerto Rico, Commonwealth of"
+    },
+    "name": "carol blog enterprises",
+    "svc_name": "witness wichita verde",
+    "uid": "69c5e964-0ac9-11ee-872c-0242ac110004"
+  },
+  "status": "Unknown",
+  "status_detail": "motherboard offline cloud",
+  "status_id": 0,
+  "time": 1686757067434642,
+  "timezone_offset": 20,
+  "type_name": "DNS Activity: Reset",
+  "type_uid": 400303
+}

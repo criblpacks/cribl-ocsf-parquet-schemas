@@ -1,0 +1,42 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "class_uid": 3004,
+  "comment": "metallica query serving",
+  "duration": 87,
+  "entity": {
+    "name": "fresh finally andrews",
+    "type": "advantage dead shall",
+    "version": "1.0.0-rc.3"
+  },
+  "message": "owned canada soldiers",
+  "metadata": {
+    "correlation_uid": "282dbfc2-0ac9-11ee-9c2f-0242ac110003",
+    "log_name": "warranty breeds texture",
+    "log_provider": "random syria impaired",
+    "log_version": "somehow vertex naturals",
+    "original_time": "tampa battery attachments",
+    "product": {
+      "lang": "en",
+      "name": "comes said ftp",
+      "uid": "282dc896-0ac9-11ee-8473-0242ac110003",
+      "vendor_name": "logical step ruled",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686756957384949,
+  "timezone_offset": 98,
+  "type_name": "Entity Management: Create",
+  "type_uid": 300401
+}

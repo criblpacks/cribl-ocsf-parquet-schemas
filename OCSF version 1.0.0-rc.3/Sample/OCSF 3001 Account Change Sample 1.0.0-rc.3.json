@@ -1,0 +1,234 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "actor": {
+    "process": {
+      "cmd_line": "statewide mounts cant",
+      "created_time": 1686756946494199,
+      "file": {
+        "company_name": "Maryam Octavia",
+        "desc": "relay pricing herald",
+        "hashes": [
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "7BABC233DE26AB19EAD1B9C278128D5C434910EE"
+          },
+          {
+            "algorithm": "magic",
+            "algorithm_id": 99,
+            "value": "ACB96BFE83F690743B1A8CBCC533AA9A2DF169C304ACA171A263774A55686D59"
+          }
+        ],
+        "is_system": false,
+        "name": "industrial.psd",
+        "owner": {
+          "full_name": "Janessa Loida",
+          "name": "Fires",
+          "org": {
+            "ou_name": "branches iso treaty",
+            "uid": "21afee22-0ac9-11ee-be8a-0242ac110003"
+          },
+          "type": "User",
+          "type_id": 1,
+          "uid": "21aff2f0-0ac9-11ee-a278-0242ac110003"
+        },
+        "parent_folder": "bio fold tramadol/ct.crx",
+        "path": "bio fold tramadol/ct.crx/industrial.psd",
+        "type": "Regular File",
+        "type_id": 1
+      },
+      "name": "Verbal",
+      "parent_process": {
+        "cmd_line": "overview literacy medicaid",
+        "created_time": 1686756946495069,
+        "file": {
+          "created_time": 1686756946495191,
+          "hashes": [
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "951D66710B760302344CD6820322D2075A2929C2B1B08709BAC4187826816D55"
+            }
+          ],
+          "name": "metric.mpa",
+          "product": {
+            "lang": "en",
+            "name": "rid aviation location",
+            "uid": "21b00dbc-0ac9-11ee-b8b7-0242ac110003",
+            "vendor_name": "tions ai brazil",
+            "version": "1.0.0-rc.3"
+          },
+          "type": "separation",
+          "type_id": 99,
+          "uid": "21b01348-0ac9-11ee-b412-0242ac110003"
+        },
+        "name": "Lottery",
+        "parent_process": {
+          "cmd_line": "civic doors asin",
+          "created_time": 1686756946495744,
+          "file": {
+            "accessed_time": 1686756946495834,
+            "confidentiality": "Unknown",
+            "confidentiality_id": 0,
+            "hashes": [
+              {
+                "algorithm": "SHA-1",
+                "algorithm_id": 2,
+                "value": "48E09A425762DA44E8AA0BB4FC594ABC9B5412F1"
+              },
+              {
+                "algorithm": "TLSH",
+                "algorithm_id": 6,
+                "value": "D5715C8FAD7FC8470E555004DBA8C74DF7FF551C177BDD0C7F0C686D6553471189367C7CE7005BAC08DCCEC0F522330694CAE3D0631664E1BB269218C2CD8A16"
+              }
+            ],
+            "modified_time": 1686756946495888,
+            "name": "import.db",
+            "parent_folder": "harrison rule soundtrack/profits.obj",
+            "path": "harrison rule soundtrack/profits.obj/import.db",
+            "signature": {
+              "algorithm": "Authenticode",
+              "algorithm_id": 4,
+              "certificate": {
+                "created_time": 1686756946495956,
+                "expiration_time": 1686756946495958,
+                "fingerprints": [
+                  {
+                    "algorithm": "magic",
+                    "algorithm_id": 99,
+                    "value": "59FBE229F380C0A4852631B9C4897B807786AA37729D293CF8AF0085E773F660"
+                  },
+                  {
+                    "algorithm": "CTPH",
+                    "algorithm_id": 5,
+                    "value": "E2935876BC633115D7D1750F4E4D4C7129E937802B5B5BC4F7E5A6EA96D4F29DB0C06999E3AAD59FED47CA4FFB90EB85FAFA80CC0354522E0BCB36F03B7401AF"
+                  }
+                ],
+                "issuer": "identity belt d",
+                "serial_number": "japan person victorian",
+                "subject": "assign fake german",
+                "version": "1.0.0-rc.3"
+              },
+              "created_time": 1686756946496021
+            },
+            "type": "Block Device",
+            "type_id": 4
+          },
+          "integrity": "Untrusted",
+          "integrity_id": 1,
+          "lineage": [
+            "tar executed effort"
+          ],
+          "name": "Officially",
+          "uid": "21b02b80-0ac9-11ee-9f7c-0242ac110003",
+          "user": {
+            "credential_uid": "21b03198-0ac9-11ee-9e60-0242ac110003",
+            "domain": "wine carefully de",
+            "email_addr": "Darby@stamp.nato",
+            "name": "Overhead",
+            "type": "Unknown",
+            "type_id": 0,
+            "uid": "21b03de6-0ac9-11ee-accb-0242ac110003"
+          }
+        },
+        "pid": 30,
+        "uid": "21b04296-0ac9-11ee-af19-0242ac110003",
+        "user": {
+          "name": "Championship",
+          "type": "Unknown",
+          "type_id": 0,
+          "uid": "21b04958-0ac9-11ee-8897-0242ac110003"
+        },
+        "xattributes": {}
+      },
+      "pid": 87,
+      "user": {
+        "org": {
+          "name": "regard cry hiv",
+          "ou_name": "vitamins productivity venezuela",
+          "uid": "21b05204-0ac9-11ee-a348-0242ac110003"
+        },
+        "type": "System",
+        "type_id": 3,
+        "uid": "21b0563c-0ac9-11ee-a530-0242ac110003"
+      }
+    },
+    "session": {
+      "created_time": 1686756946497331,
+      "is_remote": false,
+      "issuer": "adrian projection challenge",
+      "uid": "21b05cd6-0ac9-11ee-82f7-0242ac110003",
+      "uuid": "21b06032-0ac9-11ee-8b2b-0242ac110003"
+    },
+    "user": {
+      "domain": "val requiring mysql",
+      "name": "Prepaid",
+      "org": {
+        "name": "acute shaped corps"
+      },
+      "type": "User",
+      "type_id": 1,
+      "uid": "21b0679e-0ac9-11ee-ba1b-0242ac110003"
+    }
+  },
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "class_uid": 3001,
+  "enrichments": [
+    {
+      "data": "butler",
+      "name": "phil engage flight",
+      "provider": "loose sandwich particular",
+      "type": "both legends singles",
+      "value": "release diversity punishment"
+    },
+    {
+      "data": "behavior",
+      "name": "belt minerals merchandise",
+      "provider": "prostores caps departure",
+      "type": "consulting affects euros",
+      "value": "controls fatal breast"
+    }
+  ],
+  "message": "partners shed repository",
+  "metadata": {
+    "log_name": "asthma adopted regulation",
+    "product": {
+      "lang": "en",
+      "name": "listprice qatar embassy",
+      "uid": "21b0754a-0ac9-11ee-94c9-0242ac110003",
+      "vendor_name": "library specialties centre"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "thinkpad",
+  "severity_id": 99,
+  "src_endpoint": {
+    "hostname": "triangle.museum",
+    "instance_uid": "21afb6b4-0ac9-11ee-8234-0242ac110003",
+    "interface_uid": "21afbad8-0ac9-11ee-99e5-0242ac110003",
+    "ip": "53.73.201.68",
+    "port": 25214,
+    "subnet_uid": "21afbf6a-0ac9-11ee-a01f-0242ac110003",
+    "svc_name": "working recorders floppy",
+    "uid": "21afcc1c-0ac9-11ee-92d5-0242ac110003"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686756946493768,
+  "timezone_offset": 87,
+  "type_name": "Account Change: Create",
+  "type_uid": 300101,
+  "user": {
+    "full_name": "Chung Kassandra",
+    "name": "Heard",
+    "type": "System",
+    "type_id": 3,
+    "uid": "21afd6b2-0ac9-11ee-b9ef-0242ac110003"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "activity_id": 6,
+  "activity_name": "Traffic",
+  "app_name": "consumers beings gender",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network Activity",
+  "class_uid": 4001,
+  "dst_endpoint": {
+    "domain": "attachment opponents acknowledge",
+    "hostname": "clips.mil",
+    "instance_uid": "55e19ede-0ac9-11ee-a067-0242ac110002",
+    "interface_name": "subsidiaries handle court",
+    "interface_uid": "55e1a348-0ac9-11ee-857f-0242ac110002",
+    "ip": "192.77.91.185",
+    "port": 27875,
+    "subnet_uid": "55e1a726-0ac9-11ee-9646-0242ac110002",
+    "svc_name": "incentive rhythm bouquet",
+    "uid": "55e1ab0e-0ac9-11ee-bbf9-0242ac110002"
+  },
+  "enrichments": [
+    {
+      "data": "demonstrate",
+      "name": "integer organizations latinas",
+      "type": "cindy pub unsubscribe",
+      "value": "gba warrior demonstrates"
+    },
+    {
+      "data": "maple",
+      "name": "athens radios cups",
+      "provider": "polished degrees hair",
+      "value": "u instruction reliable"
+    }
+  ],
+  "message": "configure barbados propose",
+  "metadata": {
+    "labels": [
+      "midnight",
+      "shipment"
+    ],
+    "original_time": "transparency water gem",
+    "product": {
+      "lang": "en",
+      "name": "booking anytime traveling",
+      "uid": "55e187b4-0ac9-11ee-8b84-0242ac110002",
+      "vendor_name": "fraction organizing hd",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "saturday.store",
+    "instance_uid": "55e1b3d8-0ac9-11ee-823c-0242ac110002",
+    "interface_name": "intranet ties listening",
+    "interface_uid": "55e1b7de-0ac9-11ee-b3e1-0242ac110002",
+    "ip": "171.213.64.223",
+    "port": 30418,
+    "subnet_uid": "55e1be50-0ac9-11ee-81e7-0242ac110002",
+    "svc_name": "tribes letting testament",
+    "uid": "55e1c2a6-0ac9-11ee-bc7d-0242ac110002",
+    "vpc_uid": "55e1c5f8-0ac9-11ee-97bf-0242ac110002"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757034060789,
+  "timezone_offset": 77,
+  "type_name": "Network Activity: Traffic",
+  "type_uid": 400106
+}

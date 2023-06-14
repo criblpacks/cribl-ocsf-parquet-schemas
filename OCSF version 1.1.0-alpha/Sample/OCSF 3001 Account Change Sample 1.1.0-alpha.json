@@ -1,0 +1,467 @@
+{
+  "activity_id": 6,
+  "activity_name": "Delete",
+  "actor": {
+    "idp": {
+      "name": "define cube fun",
+      "uid": "73a51d88-0ac9-11ee-a8e5-0242ac110004"
+    },
+    "invoked_by": "violation oliver reception",
+    "process": {
+      "cmd_line": "milton xbox problems",
+      "created_time": 1686757083997050,
+      "file": {
+        "creator": {
+          "full_name": "Marianne Georgeann",
+          "groups": [
+            {
+              "desc": "need construct netscape",
+              "name": "samuel humanities hans",
+              "type": "exam hungry cartoons",
+              "uid": "73a52ea4-0ac9-11ee-b739-0242ac110004"
+            }
+          ],
+          "org": {
+            "name": "ukraine prepaid conditioning",
+            "ou_name": "republicans windows portable",
+            "ou_uid": "73a533ea-0ac9-11ee-8fc5-0242ac110004",
+            "uid": "73a53822-0ac9-11ee-a642-0242ac110004"
+          },
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "73a54510-0ac9-11ee-ba37-0242ac110004"
+        },
+        "name": "implementing.ged",
+        "parent_folder": "ultimately shoe reasoning/playing.sdf",
+        "path": "ultimately shoe reasoning/playing.sdf/implementing.ged",
+        "type": "Character Device",
+        "type_id": 3
+      },
+      "integrity": "High",
+      "integrity_id": 4,
+      "name": "Instances",
+      "parent_process": {
+        "cmd_line": "clarity com thehun",
+        "created_time": 1686757083998132,
+        "file": {
+          "accessed_time": 1686757083998250,
+          "company_name": "Edna Faviola",
+          "name": "game.swf",
+          "type": "Local Socket",
+          "type_id": 5
+        },
+        "integrity": "steve driven ghana",
+        "name": "Cinema",
+        "parent_process": {
+          "cmd_line": "benchmark incidence champion",
+          "file": {
+            "confidentiality": "nudist webpage periodically",
+            "hashes": [
+              {
+                "algorithm": "MD5",
+                "algorithm_id": 1,
+                "value": "A73F21BFB3E85EF11CE6737B2D2BE55B"
+              },
+              {
+                "algorithm": "magic",
+                "algorithm_id": 99,
+                "value": "6FC4674FE11018935346CC92B0110E9EC85A1D1E98DE0077935038889808D715"
+              }
+            ],
+            "modifier": {
+              "domain": "based alias emerging",
+              "email_addr": "Pam@artificial.gov",
+              "full_name": "Lasandra April",
+              "name": "Websites",
+              "type": "User",
+              "type_id": 1,
+              "uid": "73a567b6-0ac9-11ee-9ce1-0242ac110004"
+            },
+            "name": "buffalo.tga",
+            "type": "promotes",
+            "type_id": 99
+          },
+          "lineage": [
+            "operate hands indians"
+          ],
+          "name": "Literally",
+          "parent_process": {
+            "cmd_line": "hq ivory limitations",
+            "created_time": 1686757083999071,
+            "file": {
+              "accessed_time": 1686757083999180,
+              "hashes": [
+                {
+                  "algorithm": "SHA-512",
+                  "algorithm_id": 4,
+                  "value": "C80970078CA511731CB74AFF87904C48141642740A7C9ABDCB330EDA97FF2525A9D26962873C66F217A69E6C94080258BC4416EEECBC8C647C204BC9BEBBD0DA"
+                },
+                {
+                  "algorithm": "SHA-256",
+                  "algorithm_id": 3,
+                  "value": "EE3170D06527503FDB6190FFE1CE8BCAE0AC310C729B26DE51C1FF29DABA4FC1"
+                }
+              ],
+              "name": "ranking.mpa",
+              "parent_folder": "announcements tunes cap/technical.max",
+              "path": "announcements tunes cap/technical.max/ranking.mpa",
+              "signature": {
+                "algorithm": "Authenticode",
+                "algorithm_id": 4,
+                "certificate": {
+                  "created_time": 1686757083999304,
+                  "expiration_time": 1686757083999307,
+                  "fingerprints": [
+                    {
+                      "algorithm": "MD5",
+                      "algorithm_id": 1,
+                      "value": "7B44CCFBDEBF1D59EAD0B0BF0A027001"
+                    },
+                    {
+                      "algorithm": "magic",
+                      "algorithm_id": 99,
+                      "value": "1DF09F09725104241DB122A8EC4E5ACF20CEB8E71D8BBA6D165B8CACC0312FCA"
+                    }
+                  ],
+                  "issuer": "qt twelve rankings",
+                  "serial_number": "series diverse funded",
+                  "subject": "dietary compaq lol"
+                },
+                "developer_uid": "73a58246-0ac9-11ee-9074-0242ac110004"
+              },
+              "type": "Local Socket",
+              "type_id": 5,
+              "version": "1.1.0-alpha"
+            },
+            "name": "Benz",
+            "parent_process": {
+              "cmd_line": "andrea beads std",
+              "created_time": 1686757083999722,
+              "file": {
+                "created_time": 1686757083999831,
+                "hashes": [
+                  {
+                    "algorithm": "SHA-1",
+                    "algorithm_id": 2,
+                    "value": "6FA5FBBC16C8F82EA478E5B933B345E46DD285EA"
+                  },
+                  {
+                    "algorithm": "MD5",
+                    "algorithm_id": 1,
+                    "value": "AD593811D38337DFA5BEC0180250F965"
+                  }
+                ],
+                "name": "accountability.mdf",
+                "parent_folder": "bonds moderators earnings/fog.tax2020",
+                "path": "bonds moderators earnings/fog.tax2020/accountability.mdf",
+                "product": {
+                  "lang": "en",
+                  "name": "sacramento tap craig",
+                  "uid": "73a597b8-0ac9-11ee-a36c-0242ac110004",
+                  "vendor_name": "app armor cooler",
+                  "version": "1.1.0-alpha"
+                },
+                "size": 2911040301,
+                "type": "Unknown",
+                "type_id": 0
+              },
+              "integrity": "Low",
+              "integrity_id": 2,
+              "name": "Ford",
+              "parent_process": {
+                "cmd_line": "iran planners ozone",
+                "created_time": 1686757084000248,
+                "file": {
+                  "company_name": "Carissa Isa",
+                  "hashes": [
+                    {
+                      "algorithm": "Unknown",
+                      "algorithm_id": 0,
+                      "value": "A939333FCD417043B965B047C4539683C12522658286DC5B6964634D267B791ECC06E126E96BC58FBF5A23E10A278B18EC655BC23B4E331824BEDC8600CD7257"
+                    },
+                    {
+                      "algorithm": "SHA-256",
+                      "algorithm_id": 3,
+                      "value": "D7D5DCC369426E2E5F8DCB89AF4308B0DAED6E55910D53395CE38BD6DD1A9456"
+                    }
+                  ],
+                  "name": "concentration.msg",
+                  "parent_folder": "km researcher sized/contamination.cbr",
+                  "path": "km researcher sized/contamination.cbr/concentration.msg",
+                  "type": "Unknown",
+                  "type_id": 0
+                },
+                "name": "Calculate",
+                "parent_process": {
+                  "cmd_line": "question sponsor novels",
+                  "created_time": 1686757084000571,
+                  "file": {
+                    "accessed_time": 1686757084000751,
+                    "creator": {
+                      "account": {
+                        "name": "walls headphones telephone",
+                        "type": "Windows Account",
+                        "type_id": 2,
+                        "uid": "73a5bbf8-0ac9-11ee-bbdb-0242ac110004"
+                      },
+                      "name": "Empirical",
+                      "type": "warming",
+                      "type_id": 99,
+                      "uid": "73a5c0bc-0ac9-11ee-94c9-0242ac110004"
+                    },
+                    "desc": "groups peace premises",
+                    "hashes": [
+                      {
+                        "algorithm": "SHA-512",
+                        "algorithm_id": 4,
+                        "value": "4780A547D0B2424072AA07F285387D375C49184EA75D888DC53622D35A0A0651B66A84D0C883D0F0EF0A4FEB415557103CA662598158453190804DEAFBA005FF"
+                      },
+                      {
+                        "algorithm": "SHA-256",
+                        "algorithm_id": 3,
+                        "value": "A4C7815E0CA14C6D3D3EFCB44385A184CED6740707B91C908ED53E8EA4929A89"
+                      }
+                    ],
+                    "is_system": true,
+                    "modified_time": 1686757084001159,
+                    "name": "scout.gif",
+                    "parent_folder": "adequate shoppers bull/hurt.htm",
+                    "path": "adequate shoppers bull/hurt.htm/scout.gif",
+                    "type": "Folder",
+                    "type_id": 2
+                  },
+                  "name": "Burton",
+                  "parent_process": {
+                    "cmd_line": "gst italy gas",
+                    "created_time": 1686757084001316,
+                    "file": {
+                      "accessed_time": 1686757084001416,
+                      "attributes": 4,
+                      "hashes": [
+                        {
+                          "algorithm": "TLSH",
+                          "algorithm_id": 6,
+                          "value": "4BF514F22D0CE3705428E645C4D8B11CBDCC2801D3771204649F234027A64BF696B8DEAEAE737D420D4CC4B7AC470E2A5828BBB8652C7C3E9B6BECB407B9A506"
+                        },
+                        {
+                          "algorithm": "TLSH",
+                          "algorithm_id": 6,
+                          "value": "2AC9EBA6D59C922E53265926E4AB21273006ACAABAE954FF5A288025032011294DE6A60533572334107A3AA8E42379673BA88B7CF2BBAB6106FBA26A6AE2799F"
+                        }
+                      ],
+                      "name": "author.pptx",
+                      "parent_folder": "variance antigua porsche/broadway.asf",
+                      "path": "variance antigua porsche/broadway.asf/author.pptx",
+                      "signature": {
+                        "algorithm": "DSA",
+                        "algorithm_id": 1,
+                        "certificate": {
+                          "created_time": 1686757084001613,
+                          "expiration_time": 1686757084001617,
+                          "fingerprints": [
+                            {
+                              "algorithm": "MD5",
+                              "algorithm_id": 1,
+                              "value": "59EA424568C393A39971AAC664B73D9F"
+                            },
+                            {
+                              "algorithm": "magic",
+                              "algorithm_id": 99,
+                              "value": "41EC7A06BF6490D887A2B5D2CC31819A211F1BD45825177DDC51EE09A8FAFE70"
+                            }
+                          ],
+                          "issuer": "families marble strengthen",
+                          "serial_number": "comprehensive councils medieval",
+                          "subject": "doe z patrick"
+                        }
+                      },
+                      "type": "Symbolic Link",
+                      "type_id": 7
+                    },
+                    "name": "Lean",
+                    "pid": 88,
+                    "tid": 28,
+                    "uid": "73a5de4e-0ac9-11ee-9dff-0242ac110004",
+                    "user": {
+                      "email_addr": "Reda@simulation.museum",
+                      "name": "Told",
+                      "type": "Unknown",
+                      "type_id": 0,
+                      "uid": "73a5e97a-0ac9-11ee-899d-0242ac110004"
+                    }
+                  },
+                  "pid": 91,
+                  "sandbox": "firms vc values",
+                  "session": {
+                    "created_time": 1686757084002191,
+                    "credential_uid": "73a5efc4-0ac9-11ee-87fd-0242ac110004",
+                    "is_remote": true,
+                    "issuer": "michael se introducing",
+                    "uid": "73a5f578-0ac9-11ee-b772-0242ac110004"
+                  },
+                  "uid": "73a5f906-0ac9-11ee-9aae-0242ac110004",
+                  "user": {
+                    "account": {
+                      "name": "intent closer lightbox",
+                      "type": "AWS Account",
+                      "type_id": 10,
+                      "uid": "73a60086-0ac9-11ee-be5c-0242ac110004"
+                    },
+                    "groups": [
+                      {
+                        "name": "refers ph advertisement",
+                        "privileges": [
+                          "tgp lender consisting"
+                        ],
+                        "uid": "73a60770-0ac9-11ee-8936-0242ac110004"
+                      },
+                      {
+                        "desc": "landscapes powell refuse",
+                        "name": "secretariat uw cave",
+                        "type": "adjust determination contacted",
+                        "uid": "73a60be4-0ac9-11ee-a3ba-0242ac110004"
+                      }
+                    ],
+                    "name": "Retain",
+                    "type": "alloy",
+                    "type_id": 99,
+                    "uid": "73a60ffe-0ac9-11ee-b2d0-0242ac110004"
+                  }
+                },
+                "pid": 29,
+                "uid": "73a61382-0ac9-11ee-975e-0242ac110004",
+                "user": {
+                  "name": "Circulation",
+                  "type": "Unknown",
+                  "type_id": 0,
+                  "uid": "73a61b5c-0ac9-11ee-8b07-0242ac110004",
+                  "uid_alt": "immune dropped relaxation"
+                }
+              },
+              "pid": 56,
+              "uid": "73a61f58-0ac9-11ee-90eb-0242ac110004",
+              "user": {
+                "domain": "tune y lone",
+                "name": "Pics",
+                "type": "Unknown",
+                "type_id": 0,
+                "uid": "73a626f6-0ac9-11ee-9aad-0242ac110004"
+              }
+            },
+            "pid": 87,
+            "terminated_time": 1686757084003718,
+            "uid": "73a62ac0-0ac9-11ee-9a32-0242ac110004",
+            "user": {
+              "email_addr": "Aurea@compare.jobs",
+              "name": "Declare",
+              "org": {
+                "ou_name": "control congress mn",
+                "ou_uid": "73a63254-0ac9-11ee-8e8a-0242ac110004",
+                "uid": "73a635ce-0ac9-11ee-abc8-0242ac110004"
+              },
+              "type": "Admin",
+              "type_id": 2,
+              "uid": "73a639b6-0ac9-11ee-b28c-0242ac110004"
+            },
+            "xattributes": {}
+          },
+          "pid": 57,
+          "user": {
+            "full_name": "Owen Albertina",
+            "name": "Cove",
+            "type": "Unknown",
+            "type_id": 0,
+            "uid": "73a640fa-0ac9-11ee-a744-0242ac110004"
+          }
+        },
+        "pid": 99,
+        "uid": "73a645dc-0ac9-11ee-b5d3-0242ac110004"
+      },
+      "pid": 32,
+      "uid": "73a649ba-0ac9-11ee-af39-0242ac110004",
+      "user": {
+        "email_addr": "Nenita@beds.net",
+        "name": "Mars",
+        "type": "Admin",
+        "type_id": 2,
+        "uid": "73a651f8-0ac9-11ee-b3e4-0242ac110004"
+      }
+    },
+    "session": {
+      "created_time": 1686757084004859,
+      "is_remote": true,
+      "issuer": "due ya vanilla",
+      "uid": "73a657f2-0ac9-11ee-a01d-0242ac110004"
+    },
+    "user": {
+      "account": {
+        "name": "either avoid our",
+        "type": "Azure AD Account",
+        "type_id": 6,
+        "uid": "73a660a8-0ac9-11ee-acde-0242ac110004"
+      },
+      "name": "Accordingly",
+      "type": "System",
+      "type_id": 3,
+      "uid": "73a6651c-0ac9-11ee-a9cb-0242ac110004"
+    }
+  },
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "class_uid": 3001,
+  "message": "officer ci donations",
+  "metadata": {
+    "correlation_uid": "73a68542-0ac9-11ee-a241-0242ac110004",
+    "log_name": "cinema trades asin",
+    "original_time": "easily interracial beverly",
+    "product": {
+      "name": "halifax trained aqua",
+      "uid": "73a68be6-0ac9-11ee-a9fb-0242ac110004",
+      "vendor_name": "breaks match louise",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 64,
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "Unknown",
+  "status_detail": "bargains elections better",
+  "status_id": 0,
+  "time": 1686757083996030,
+  "timezone_offset": 81,
+  "type_name": "Account Change: Delete",
+  "type_uid": 300106,
+  "user": {
+    "credential_uid": "73a506e0-0ac9-11ee-a6ed-0242ac110004",
+    "full_name": "Gwenda Brinda",
+    "groups": [
+      {
+        "name": "chambers maintained blow"
+      },
+      {
+        "name": "straight irc rico"
+      }
+    ],
+    "name": "Bridges",
+    "type": "prescribed",
+    "type_id": 99,
+    "uid": "73a5163a-0ac9-11ee-998f-0242ac110004"
+  },
+  "user_result": {
+    "account": {
+      "name": "motorola teachers mae",
+      "type": "Azure AD Account",
+      "type_id": 6,
+      "uid": "73a66d28-0ac9-11ee-b56f-0242ac110004"
+    },
+    "name": "Hash",
+    "type": "plans",
+    "type_id": 99,
+    "uid": "73a67b9c-0ac9-11ee-bfe2-0242ac110004"
+  }
+}

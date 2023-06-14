@@ -1,0 +1,179 @@
+{
+  "activity_id": 2,
+  "activity_name": "Read",
+  "actor": {
+    "idp": {
+      "uid": "58a00d4a-0ac9-11ee-ad54-0242ac110002"
+    },
+    "process": {
+      "cmd_line": "agreement ad tall",
+      "created_time": 1686757038665405,
+      "file": {
+        "accessor": {
+          "account_type": "updating tactics gamecube",
+          "groups": [
+            {
+              "name": "bikes ultra search",
+              "privileges": [
+                "cruz mississippi display",
+                "creation measuring estonia"
+              ],
+              "type": "satin badly tyler",
+              "uid": "58a01fe2-0ac9-11ee-a46d-0242ac110002"
+            },
+            {
+              "name": "classification framework df",
+              "uid": "58a0249c-0ac9-11ee-b3e4-0242ac110002"
+            }
+          ],
+          "name": "Leu",
+          "org_uid": "58a02910-0ac9-11ee-bca1-0242ac110002",
+          "type": "cst tiles bible",
+          "uid": "58a02d20-0ac9-11ee-96b8-0242ac110002"
+        },
+        "confidentiality": "Secret",
+        "confidentiality_id": 3,
+        "fingerprints": [
+          {
+            "algorithm": "SHA-256",
+            "algorithm_id": 3,
+            "value": "A7518CC15100BE58C0129E68D206121E725E85C8F911352B7647A1B84A5BE090"
+          }
+        ],
+        "mime_type": "servers/notice",
+        "name": "dealer.pspimage",
+        "owner": {
+          "account_uid": "58a03a18-0ac9-11ee-9b59-0242ac110002",
+          "credential_uid": "58a03e8c-0ac9-11ee-98ab-0242ac110002",
+          "domain": "bachelor oracle primary",
+          "email_addr": "Dewayne@actual.com",
+          "name": "Reaching",
+          "type": "System",
+          "type_id": 3
+        },
+        "parent_folder": "/stunning/wifi/club/charge/scenic/sap.nes",
+        "path": "/stunning/wifi/club/charge/scenic/sap.nes/dealer.pspimage",
+        "security_descriptor": "pieces vegas canal",
+        "size": 1394200985,
+        "type": "Regular File",
+        "type_id": 1,
+        "uid": "58a0451c-0ac9-11ee-a49d-0242ac110002"
+      },
+      "lineage": [
+        "salaries shirts temporarily",
+        "qt removable regard"
+      ],
+      "name": "Difference",
+      "pid": 41,
+      "sandbox": "und toolkit victoria",
+      "uid": "58a04af8-0ac9-11ee-8f76-0242ac110002",
+      "user": {
+        "name": "Devices",
+        "org_uid": "58a05228-0ac9-11ee-98f1-0242ac110002",
+        "type": "System",
+        "type_id": 3,
+        "uid": "58a05a20-0ac9-11ee-a85b-0242ac110002",
+        "uuid": "58a063da-0ac9-11ee-b5eb-0242ac110002"
+      },
+      "xattributes": {}
+    },
+    "user": {
+      "credential_uid": "58a06e66-0ac9-11ee-8291-0242ac110002",
+      "name": "Afford",
+      "type": "Unknown",
+      "type_id": 0,
+      "uid": "58a072f8-0ac9-11ee-b2e4-0242ac110002"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Registry Key Activity",
+  "class_uid": 1008,
+  "create_mask": "tables citizen pit",
+  "device": {
+    "desc": "door kinase lone",
+    "hostname": "explicitly.pro",
+    "hypervisor": "hamburg enough governor",
+    "instance_uid": "589ff56c-0ac9-11ee-8c59-0242ac110002",
+    "interface_uid": "58a005c0-0ac9-11ee-bfd7-0242ac110002",
+    "ip": "239.133.148.135",
+    "is_compliant": false,
+    "is_personal": true,
+    "name": "monitoring waters attempt",
+    "network_interfaces": [
+      {
+        "hostname": "ultimate.coop",
+        "ip": "212.3.37.67",
+        "mac": "D6:DE:EC:27:29:F7:D8:FD",
+        "namespace": "rocket dans verify",
+        "type": "Wireless",
+        "type_id": 2
+      },
+      {
+        "hostname": "particularly.biz",
+        "mac": "8F:48:77:9F:37:E6:C1:92",
+        "name": "sans phone equivalent",
+        "type": "Wired",
+        "type_id": 1
+      }
+    ],
+    "region": "wage saddam reader",
+    "risk_level": "Critical",
+    "risk_level_id": 4,
+    "risk_score": 37,
+    "type": "Browser",
+    "type_id": 8,
+    "uuid": "589ff0da-0ac9-11ee-a0ff-0242ac110002",
+    "vlan_uid": "58a00200-0ac9-11ee-a13c-0242ac110002"
+  },
+  "duration": 67,
+  "message": "shop bicycle hypothesis",
+  "metadata": {
+    "labels": [
+      "richardson"
+    ],
+    "original_time": "markers beverly afford",
+    "product": {
+      "feature": {
+        "name": "proprietary hobbies feelings",
+        "uid": "589fd488-0ac9-11ee-bf0e-0242ac110002",
+        "version": "1.0.0-rc.2"
+      },
+      "lang": "en",
+      "name": "par grounds stayed",
+      "path": "/even/respected/point/dow/shoppers",
+      "uid": "589fda00-0ac9-11ee-94a8-0242ac110002",
+      "vendor_name": "til division counted",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 29,
+    "version": "1.0.0-rc.2"
+  },
+  "observables": [
+    {
+      "name": "secret prior contains",
+      "type": "Endpoint",
+      "type_id": 20
+    },
+    {
+      "name": "fears thrown pleased",
+      "type": "cv",
+      "type_id": 99
+    }
+  ],
+  "reg_key": {
+    "modified_time": 1686757038663449,
+    "path": "/smithsonian/temple/cartridges/zum/gt"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "starsmerchant",
+  "status_id": 99,
+  "time": 1686757038663479,
+  "timezone_offset": 16,
+  "type_name": "Registry Key Activity: Read",
+  "type_uid": 100802
+}

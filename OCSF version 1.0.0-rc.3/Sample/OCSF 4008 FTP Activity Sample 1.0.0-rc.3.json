@@ -1,0 +1,102 @@
+{
+  "activity_id": 99,
+  "activity_name": "covered",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "class_uid": 4008,
+  "codes": [
+    55
+  ],
+  "command": "scientists qld sl",
+  "command_responses": [
+    "consent sources boundaries",
+    "bc eve retro"
+  ],
+  "connection_info": {
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 30,
+    "protocol_ver": "2.3.2"
+  },
+  "dst_endpoint": {
+    "hostname": "determination.net",
+    "instance_uid": "2437a9fa-0ac9-11ee-b33f-0242ac110003",
+    "interface_name": "business smaller inspection",
+    "interface_uid": "2437ae00-0ac9-11ee-94f8-0242ac110003",
+    "intermediate_ips": [
+      "134.4.29.162",
+      "231.6.164.146"
+    ],
+    "ip": "23.27.198.149",
+    "name": "server edited mother",
+    "port": 17878,
+    "svc_name": "nova announcements jewellery",
+    "uid": "2437b29c-0ac9-11ee-8410-0242ac110003"
+  },
+  "message": "condo firm lazy",
+  "metadata": {
+    "extension": {
+      "name": "quotes feedback tagged",
+      "uid": "2437d6dc-0ac9-11ee-af12-0242ac110003",
+      "version": "1.0.0-rc.3"
+    },
+    "log_name": "biotechnology transmission wicked",
+    "log_provider": "versus town artists",
+    "modified_time": 1686756950740792,
+    "original_time": "program executed troops",
+    "product": {
+      "name": "acids web maple",
+      "uid": "2437df4c-0ac9-11ee-8210-0242ac110003",
+      "vendor_name": "value sapphire crimes",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "2437e398-0ac9-11ee-97f4-0242ac110003",
+    "version": "1.0.0-rc.3"
+  },
+  "name": "changes mazda manually",
+  "observables": [
+    {
+      "name": "destination chose skilled",
+      "type": "MAC Address",
+      "type_id": 3
+    },
+    {
+      "name": "icons meals lightbox",
+      "reputation": {
+        "base_score": 97.1768,
+        "provider": "reflection pairs were",
+        "score": "Very Safe",
+        "score_id": 1
+      },
+      "type": "Process Name",
+      "type_id": 9
+    }
+  ],
+  "port": 13136,
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "hostname": "deny.travel",
+    "instance_uid": "24378e8e-0ac9-11ee-893f-0242ac110003",
+    "interface_name": "mysql considered james",
+    "interface_uid": "2437942e-0ac9-11ee-8c6e-0242ac110003",
+    "ip": "87.94.146.150",
+    "name": "headlines hull deposit",
+    "port": 59212,
+    "subnet_uid": "243798d4-0ac9-11ee-8816-0242ac110003",
+    "svc_name": "foo mn master",
+    "uid": "24379e9c-0ac9-11ee-8d1e-0242ac110003",
+    "vlan_uid": "2437a22a-0ac9-11ee-931a-0242ac110003"
+  },
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686756950739414,
+  "timezone_offset": 75,
+  "type": "probability nirvana s",
+  "type_name": "FTP Activity: Other",
+  "type_uid": 400899
+}

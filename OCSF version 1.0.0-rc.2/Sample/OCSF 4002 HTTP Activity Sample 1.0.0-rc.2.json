@@ -1,0 +1,101 @@
+{
+  "activity_id": 1,
+  "activity_name": "Open",
+  "app_name": "jewel shipped singles",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "HTTP Activity",
+  "class_uid": 4002,
+  "connection_info": {
+    "direction": "judge",
+    "direction_id": 99,
+    "protocol_num": 25
+  },
+  "dst_endpoint": {
+    "hostname": "phoenix.arpa",
+    "instance_uid": "4ffce528-0ac9-11ee-970c-0242ac110002",
+    "interface_name": "refuse chairman patents",
+    "ip": "111.119.251.40",
+    "mac": "B0:1D:A6:CD:4A:BB:E4:6B",
+    "port": 11701,
+    "svc_name": "trap shield warrant",
+    "vlan_uid": "4ffcea64-0ac9-11ee-920a-0242ac110002"
+  },
+  "duration": 16,
+  "http_request": {
+    "http_headers": [
+      {
+        "name": "clark rose wp",
+        "value": "finances news ethnic"
+      },
+      {
+        "name": "np chess passion",
+        "value": "disaster hits syndication"
+      }
+    ],
+    "http_method": "lunch flour justify",
+    "referrer": "passwords middle acquired",
+    "url": {
+      "categories": [
+        "perfectly internet departure",
+        "referring refrigerator minutes"
+      ],
+      "category_ids": [
+        33
+      ],
+      "hostname": "hometown.mobi",
+      "path": "/learn/provider/defence/odds/recognize",
+      "port": 60960,
+      "query_string": "handmade neighbor japanese",
+      "scheme": "air mix acceptable",
+      "text": "add"
+    },
+    "user_agent": "addition has das",
+    "version": "1.0.0-rc.2",
+    "x_forwarded_for": [
+      "51.246.210.133",
+      "96.203.38.7"
+    ]
+  },
+  "http_response": {
+    "code": 5,
+    "latency": 63,
+    "message": "inch silk polish"
+  },
+  "message": "flashing deserve products",
+  "metadata": {
+    "correlation_uid": "4ffcc6b0-0ac9-11ee-a667-0242ac110002",
+    "logged_time": 1686757024173441,
+    "original_time": "newport bios ten",
+    "product": {
+      "lang": "en",
+      "name": "athletic width closure",
+      "uid": "4ffcce1c-0ac9-11ee-bae9-0242ac110002",
+      "vendor_name": "punch male alcohol",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 61,
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "croatia.mil",
+    "instance_uid": "4ffcf0fe-0ac9-11ee-8696-0242ac110002",
+    "interface_name": "prix leu genuine",
+    "interface_uid": "4ffcf662-0ac9-11ee-9472-0242ac110002",
+    "ip": "214.71.68.22",
+    "port": 55486,
+    "svc_name": "sometimes thumbnails tiger",
+    "uid": "4ffd0882-0ac9-11ee-9552-0242ac110002"
+  },
+  "status": "Success",
+  "status_detail": "deviation documentation scenes",
+  "status_id": 1,
+  "time": 1686757024173072,
+  "type_name": "HTTP Activity: Open",
+  "type_uid": 400201
+}

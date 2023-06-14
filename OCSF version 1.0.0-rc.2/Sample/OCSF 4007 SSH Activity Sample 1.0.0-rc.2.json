@@ -1,0 +1,105 @@
+{
+  "activity_id": 6,
+  "activity_name": "Traffic",
+  "app_name": "organisms overseas existing",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "class_uid": 4007,
+  "client_hassh": {
+    "algorithm": "operations refrigerator sierra",
+    "fingerprint": {
+      "algorithm": "SHA-256",
+      "algorithm_id": 3,
+      "value": "DEA4315935A08CF267D389AC3D6F5994429A76A19BBB8383974D1FBD35C65A1D"
+    }
+  },
+  "connection_info": {
+    "boundary": "Internal",
+    "boundary_id": 2,
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 59,
+    "protocol_ver": "Internet Protocol version 6 (IPv6)",
+    "protocol_ver_id": 6
+  },
+  "data": "dallas",
+  "dst_endpoint": {
+    "domain": "limousines vegetables prepared",
+    "hostname": "calendars.aero",
+    "instance_uid": "5f3afdf4-0ac9-11ee-bcaf-0242ac110002",
+    "interface_name": "subjective housing painting",
+    "interface_uid": "5f3b0b96-0ac9-11ee-86c1-0242ac110002",
+    "ip": "111.144.254.9",
+    "location": {
+      "city": "Rn eval",
+      "continent": "North America",
+      "coordinates": [
+        106.1144,
+        54.4362
+      ],
+      "country": "TT",
+      "desc": "Trinidad and Tobago, Republic of"
+    },
+    "uid": "5f3b138e-0ac9-11ee-b98a-0242ac110002"
+  },
+  "message": "led will consult",
+  "metadata": {
+    "original_time": "running ticket gray",
+    "product": {
+      "lang": "en",
+      "name": "expenditure jacob seating",
+      "uid": "5f3ad9d2-0ac9-11ee-8c2f-0242ac110002",
+      "vendor_name": "stages scenarios curve",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "5f3adee6-0ac9-11ee-a469-0242ac110002",
+    "version": "1.0.0-rc.2"
+  },
+  "protocol_ver": "1.0",
+  "proxy": {
+    "hostname": "employers.biz",
+    "ip": "94.214.246.240",
+    "port": 46037,
+    "uid": "5f3ae594-0ac9-11ee-891d-0242ac110002"
+  },
+  "server_hassh": {
+    "algorithm": "verzeichnis france minus",
+    "fingerprint": {
+      "algorithm": "SHA-256",
+      "algorithm_id": 3,
+      "value": "F629814F089480C09F3335E7D92B97E8F07A3FE4246F7122B8E60417061E632E"
+    }
+  },
+  "severity": "distance",
+  "severity_id": 99,
+  "src_endpoint": {
+    "domain": "setting randy super",
+    "hostname": "owen.mobi",
+    "interface_uid": "5f3b1a8c-0ac9-11ee-8fdd-0242ac110002",
+    "ip": "57.234.207.135",
+    "port": 60940,
+    "subnet_uid": "5f3b1e7e-0ac9-11ee-930a-0242ac110002",
+    "svc_name": "highways strange prohibited",
+    "uid": "5f3b2266-0ac9-11ee-97b0-0242ac110002",
+    "vpc_uid": "5f3b273e-0ac9-11ee-b035-0242ac110002"
+  },
+  "start_time": 1686757049745735,
+  "status": "cho",
+  "status_code": "telephony",
+  "status_detail": "finds discussing require",
+  "status_id": 99,
+  "time": 1686757049745748,
+  "timezone_offset": 14,
+  "traffic": {
+    "bytes": 1271029261,
+    "packets": 2988283378,
+    "packets_in": 666797059,
+    "packets_out": 4225947231
+  },
+  "type_name": "SSH Activity: Traffic",
+  "type_uid": 400706
+}

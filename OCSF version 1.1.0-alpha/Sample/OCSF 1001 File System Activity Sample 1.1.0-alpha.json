@@ -1,0 +1,113 @@
+{
+  "access_mask": 10,
+  "activity_id": 5,
+  "activity_name": "Rename",
+  "actor": {
+    "authorizations": [
+      {},
+      {
+        "decision": "session airline opposition"
+      }
+    ],
+    "user": {
+      "groups": [
+        {
+          "name": "ids successfully www",
+          "type": "vocational use partially",
+          "uid": "7d3ac604-0ac9-11ee-9968-0242ac110004"
+        }
+      ],
+      "name": "Dg",
+      "type": "System",
+      "type_id": 3,
+      "uid": "7d3acb18-0ac9-11ee-8638-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "File System Activity",
+  "class_uid": 1001,
+  "count": 96,
+  "create_mask": "beneficial reporters mac",
+  "device": {
+    "created_time": 1686757100078803,
+    "imei": "hiv two park",
+    "instance_uid": "7d3b0358-0ac9-11ee-9153-0242ac110004",
+    "interface_name": "guest landscape though",
+    "interface_uid": "7d3aff34-0ac9-11ee-a773-0242ac110004",
+    "ip": "170.133.91.24",
+    "is_managed": true,
+    "modified_time": 1686757100078796,
+    "name": "referenced toolbox dash",
+    "region": "panels controller ty",
+    "risk_score": 97,
+    "type": "Server",
+    "type_id": 1,
+    "uid": "7d3afac0-0ac9-11ee-951a-0242ac110004",
+    "vpc_uid": "7d3af6ce-0ac9-11ee-8a71-0242ac110004"
+  },
+  "file": {
+    "accessed_time": 1686757100077469,
+    "company_name": "Lakisha Migdalia",
+    "creator": {
+      "account": {
+        "name": "parts totally projection",
+        "type": "AWS IAM Role",
+        "type_id": 4,
+        "uid": "7d3ad81a-0ac9-11ee-b982-0242ac110004"
+      },
+      "name": "Protein",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "7d3adcfc-0ac9-11ee-b51f-0242ac110004",
+      "uid_alt": "distributions cradle cream"
+    },
+    "hashes": [
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "979B5B5641799556A49F0AD8E535C784C690E44B92FCC300CD545F29EBC9E8619A1B01E62191335422DB4A9BDA992EDACF9E3417FE416A94890077256152BFB5"
+      },
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "09407639790BBB3778E1C2A9F81C0680186097D1"
+      }
+    ],
+    "name": "shows.mid",
+    "parent_folder": "gift furnishings cement/destruction.png",
+    "path": "gift furnishings cement/destruction.png/shows.mid",
+    "type": "Regular File",
+    "type_id": 1,
+    "uid": "7d3ae53a-0ac9-11ee-8ed5-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "file_diff": "washington due album",
+  "message": "uc liberty ceramic",
+  "metadata": {
+    "correlation_uid": "7d3b0d4e-0ac9-11ee-8759-0242ac110004",
+    "log_provider": "greek dated respondents",
+    "modified_time": 1686757100079056,
+    "product": {
+      "lang": "en",
+      "name": "surgeon participant tab",
+      "path": "theories sa yrs",
+      "uid": "7d3b1852-0ac9-11ee-a7d9-0242ac110004",
+      "vendor_name": "complaint ie rocket",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "7d3b1d70-0ac9-11ee-9a8f-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757100076727,
+  "timezone_offset": 28,
+  "type_name": "File System Activity: Rename",
+  "type_uid": 100105
+}

@@ -1,0 +1,132 @@
+{
+  "activity_id": 5,
+  "activity_name": "TLS Handshake",
+  "app_name": "stephanie citation renew",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "certificate_chain": [
+    "minutes entities secrets",
+    "ashley teach killer"
+  ],
+  "class_name": "RDP Activity",
+  "class_uid": 4005,
+  "connection_info": {
+    "direction": "reserved",
+    "direction_id": 99,
+    "protocol_num": 87,
+    "tcp_flags": 25,
+    "uid": "57b0e4c2-0ac9-11ee-aca8-0242ac110002"
+  },
+  "dst_endpoint": {
+    "hostname": "stage.mobi",
+    "instance_uid": "57b0fb60-0ac9-11ee-86e5-0242ac110002",
+    "interface_uid": "57b0ff7a-0ac9-11ee-8ef2-0242ac110002",
+    "ip": "139.0.222.190",
+    "mac": "A3:F9:7C:C7:1B:47:E8:C8",
+    "port": 60058,
+    "subnet_uid": "57b103b2-0ac9-11ee-af1d-0242ac110002",
+    "svc_name": "sq focuses say",
+    "uid": "57b10b3c-0ac9-11ee-8851-0242ac110002",
+    "vpc_uid": "57b10f88-0ac9-11ee-82fd-0242ac110002"
+  },
+  "enrichments": [
+    {
+      "data": "litigation",
+      "name": "camcorders james motors",
+      "provider": "word legitimate clubs",
+      "type": "volleyball sites runtime",
+      "value": "politics em monster"
+    },
+    {
+      "data": "remaining",
+      "name": "smallest poverty mines",
+      "provider": "jade holes thumbnail",
+      "type": "supply oriental streets",
+      "value": "radius wp least"
+    }
+  ],
+  "message": "julia maybe disclose",
+  "metadata": {
+    "original_time": "analyze placed peoples",
+    "processed_time": 1686757037096855,
+    "product": {
+      "lang": "en",
+      "name": "correspondence map smaller",
+      "path": "/kyle/comment/simpson/author/alternate",
+      "uid": "57b0c604-0ac9-11ee-9e21-0242ac110002",
+      "vendor_name": "mai western bite",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "protocol_ver": "4.1.0",
+  "request": {
+    "uid": "57b0dba8-0ac9-11ee-9d8e-0242ac110002"
+  },
+  "response": {
+    "code": 61,
+    "error": "bermuda cosmetics mh",
+    "error_message": "collector institutions walter",
+    "flags": [
+      "meditation bass boolean",
+      "wr outputs farms"
+    ],
+    "message": "qualities acute commission"
+  },
+  "severity": "armenia",
+  "severity_id": 99,
+  "src_endpoint": {
+    "instance_uid": "57b115f0-0ac9-11ee-9afa-0242ac110002",
+    "interface_name": "recorded expand stations",
+    "interface_uid": "57b11aa0-0ac9-11ee-a86e-0242ac110002",
+    "ip": "168.73.179.32",
+    "port": 63915,
+    "svc_name": "informed crops ti",
+    "uid": "57b11f28-0ac9-11ee-9421-0242ac110002"
+  },
+  "time": 1686757037096647,
+  "timezone_offset": 15,
+  "tls": {
+    "alert": 49,
+    "certificate": {
+      "created_time": 1686757037098013,
+      "expiration_time": 1686757037098020,
+      "fingerprint": {
+        "algorithm": "Unknown",
+        "algorithm_id": 0,
+        "value": "8A1C79D46A6EC709420544D9F5A54C6ED43F3E0CFCE5BDEB2A4ACB2E5FC4A803B3DE5FB1A7B56A33287E6DCD87D56FA1BFF8BA97421897175F171EC4B33F7855"
+      },
+      "issuer_dn": "competitions moved joseph",
+      "serial_number": "leading indicates windows",
+      "subject_dn": "investor mini cart",
+      "version": "1.0.0-rc.2"
+    },
+    "certificate_chain": [
+      "baskets belarus netscape",
+      "rim malawi rebate"
+    ],
+    "client_ciphers": [
+      "positions lawyers genuine",
+      "alternative cgi circle"
+    ],
+    "handshake_dur": 94,
+    "ja3_fingerprint": {
+      "algorithm": "SHA-1",
+      "algorithm_id": 2,
+      "value": "991ECCFFE16F2DA8F9CB10BE8B91CFC9D07B724A"
+    },
+    "ja3_string": "ears say centered",
+    "ja3s_fingerprint": {
+      "algorithm": "Unknown",
+      "algorithm_id": 0,
+      "value": "30F918F38D9AD0E0BDBA666A5F45AB7B0971EBCB26B01D18665216FEFEF75FB12DE24684D0E1D740E0D09D152CB67431C2F244AD452FC5813D44B87EFD7603D6"
+    },
+    "sni": "looksmart tucson deemed",
+    "version": "1.0.0-rc.2"
+  },
+  "type_name": "RDP Activity: TLS Handshake",
+  "type_uid": 400505
+}

@@ -1,0 +1,118 @@
+{
+  "activity_id": 99,
+  "activity_name": "mother",
+  "actor": {
+    "invoked_by": "nurses worse assistance",
+    "session": {
+      "created_time": 1686756955618142,
+      "is_remote": false,
+      "issuer": "house maria repository",
+      "uid": "2720176a-0ac9-11ee-bdef-0242ac110003"
+    },
+    "user": {
+      "account": {
+        "name": "epa clocks licking",
+        "type": "Azure AD Account",
+        "type_id": 6,
+        "uid": "272020d4-0ac9-11ee-afa0-0242ac110003"
+      },
+      "groups": [
+        {
+          "name": "considering cg satisfaction"
+        },
+        {
+          "name": "generators gardens brian",
+          "type": "messenger reef aluminum"
+        }
+      ],
+      "name": "Wheat",
+      "type": "System",
+      "type_id": 3,
+      "uid": "2720282c-0ac9-11ee-b1d4-0242ac110003"
+    }
+  },
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network File Activity",
+  "class_uid": 4010,
+  "end_time": 1686756955618723,
+  "enrichments": [
+    {
+      "data": "who",
+      "name": "verbal ties trust",
+      "provider": "contrast relative finally",
+      "type": "taiwan backup statements",
+      "value": "plug mac execution"
+    },
+    {
+      "data": "arcade",
+      "name": "ddr galleries beside",
+      "type": "villas nn engines",
+      "value": "relying fits charges"
+    }
+  ],
+  "file": {
+    "hashes": [
+      {
+        "algorithm": "SHA-256",
+        "algorithm_id": 3,
+        "value": "7FDFDA5F50A433AE127A784FC143105FB6D93FEDEC7601DDEB3D1D584F83DE05"
+      }
+    ],
+    "modified_time": 1686756955618904,
+    "modifier": {
+      "type": "User",
+      "type_id": 1,
+      "uid": "272036be-0ac9-11ee-9466-0242ac110003"
+    },
+    "name": "fears.cur",
+    "owner": {
+      "name": "Thereby",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "27204474-0ac9-11ee-a2c8-0242ac110003"
+    },
+    "parent_folder": "resorts rental completed/polyester.sav",
+    "path": "resorts rental completed/polyester.sav/fears.cur",
+    "type": "Local Socket",
+    "type_id": 5,
+    "version": "1.0.0-rc.3",
+    "xattributes": {}
+  },
+  "message": "recording alumni provide",
+  "metadata": {
+    "event_code": "kay",
+    "log_name": "entity pollution system",
+    "original_time": "finest jobs fragrances",
+    "product": {
+      "lang": "en",
+      "name": "want objective bags",
+      "uid": "27205a2c-0ac9-11ee-b5fd-0242ac110003",
+      "vendor_name": "nov pp dining",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "domain": "ap trout dts",
+    "hostname": "exit.coop",
+    "instance_uid": "271ff3a2-0ac9-11ee-8d29-0242ac110003",
+    "interface_name": "logic muslim path",
+    "interface_uid": "271ff8f2-0ac9-11ee-b616-0242ac110003",
+    "ip": "58.142.143.154",
+    "name": "franklin dying great",
+    "port": 41308,
+    "svc_name": "var jesus matches",
+    "uid": "271ffdde-0ac9-11ee-ad5d-0242ac110003",
+    "vpc_uid": "2720096e-0ac9-11ee-bfb6-0242ac110003"
+  },
+  "start_time": 1686756955620022,
+  "time": 1686756955617937,
+  "type_name": "Network File Activity: Other",
+  "type_uid": 401099
+}

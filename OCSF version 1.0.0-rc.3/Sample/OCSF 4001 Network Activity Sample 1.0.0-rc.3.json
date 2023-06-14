@@ -1,0 +1,91 @@
+{
+  "activity_id": 5,
+  "activity_name": "Refuse",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network Activity",
+  "class_uid": 4001,
+  "connection_info": {
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_name": "psychiatry humanities reflect",
+    "protocol_num": 31,
+    "uid": "17a0cbc2-0ac9-11ee-9170-0242ac110003"
+  },
+  "dst_endpoint": {
+    "domain": "technique theology zdnet",
+    "hostname": "edgar.coop",
+    "instance_uid": "17a0bbdc-0ac9-11ee-af14-0242ac110003",
+    "interface_name": "group medication instrumentation",
+    "interface_uid": "17a0c03c-0ac9-11ee-8cc8-0242ac110003",
+    "ip": "111.59.160.76",
+    "port": 6304,
+    "svc_name": "should examination purposes",
+    "uid": "17a0c4b0-0ac9-11ee-83b3-0242ac110003"
+  },
+  "end_time": 1686756929618235,
+  "message": "differences slovak cookbook",
+  "metadata": {
+    "log_name": "locally ashley zen",
+    "log_version": "dl applying fire",
+    "modified_time": 1686756929618526,
+    "original_time": "harvard odd associate",
+    "processed_time": 1686756929618536,
+    "product": {
+      "lang": "en",
+      "name": "costume reasonably dragon",
+      "uid": "17a0deaa-0ac9-11ee-9194-0242ac110003",
+      "vendor_name": "anywhere est around",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "degree.gov",
+    "instance_uid": "17a0a2dc-0ac9-11ee-aad2-0242ac110003",
+    "interface_name": "doubt traditions join",
+    "intermediate_ips": [
+      "61.203.181.175",
+      "145.69.153.0"
+    ],
+    "ip": "125.240.119.214",
+    "name": "laptop preliminary maritime",
+    "port": 36556,
+    "svc_name": "imposed random paper",
+    "uid": "17a0b1d2-0ac9-11ee-bea7-0242ac110003"
+  },
+  "status_code": "ask",
+  "time": 1686756929617569,
+  "timezone_offset": 82,
+  "tls": {
+    "cipher": "investors trail jacob",
+    "client_ciphers": [
+      "correspondence seeks quick",
+      "explaining discusses health"
+    ],
+    "handshake_dur": 75,
+    "ja3_hash": {
+      "algorithm": "MD5",
+      "algorithm_id": 1,
+      "value": "0F699DFAEBACCC1F11A3F84ED452A30C"
+    },
+    "ja3s_hash": {
+      "algorithm": "SHA-1",
+      "algorithm_id": 2,
+      "value": "BDB480DE655AA6EC75CA058C849C4FAF3C0F75B1"
+    },
+    "sni": "stockings incurred dns",
+    "version": "1.0.0-rc.3"
+  },
+  "traffic": {
+    "bytes": 3317102325,
+    "packets": 3465711698
+  },
+  "type_name": "Network Activity: Refuse",
+  "type_uid": 400105
+}

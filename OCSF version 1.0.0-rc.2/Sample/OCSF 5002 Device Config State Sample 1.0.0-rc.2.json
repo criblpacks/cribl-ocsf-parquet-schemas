@@ -1,0 +1,35 @@
+{
+  "activity_id": 1,
+  "activity_name": "Log",
+  "category_name": "Configuration/Inventory",
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "class_uid": 5002,
+  "data": "listen",
+  "duration": 21,
+  "message": "contents doll topics",
+  "metadata": {
+    "modified_time": 1686757013582034,
+    "original_time": "thumbnails specifically diffs",
+    "product": {
+      "lang": "en",
+      "name": "usr until empty",
+      "uid": "49acb2f2-0ac9-11ee-8af2-0242ac110002",
+      "vendor_name": "browsing memories candidate",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Success",
+  "status_code": "everyday",
+  "status_id": 1,
+  "time": 1686757013581937,
+  "timezone_offset": 32,
+  "type_name": "Device Config State: Log",
+  "type_uid": 500201
+}

@@ -1,0 +1,342 @@
+{
+  "activity_id": 2,
+  "activity_name": "Set",
+  "actor": {
+    "authorizations": [
+      {},
+      {
+        "decision": "consist director reduced"
+      }
+    ],
+    "process": {
+      "cmd_line": "grants necessity anger",
+      "created_time": 1686757040342202,
+      "file": {
+        "created_time": 1686757040342458,
+        "creator": {
+          "credential_uid": "59a002f4-0ac9-11ee-b102-0242ac110002",
+          "email_addr": "Jeannine@qld.aero",
+          "type": "System",
+          "type_id": 3,
+          "uid": "59a00948-0ac9-11ee-b437-0242ac110002"
+        },
+        "fingerprints": [
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "51288D140528C2D5C0565891BE70300A9B0E365F"
+          },
+          {
+            "algorithm": "SHA-512",
+            "algorithm_id": 4,
+            "value": "7F0D0F94596BE42C0A90844A3DB9859E6CAF8D3F855BD98BE5CACD2FFC478C2F7CDA126EB0C803E300C05D199C0764CE20F7E4A85CCDB77C680145C38C9AA304"
+          }
+        ],
+        "name": "camping.txt",
+        "parent_folder": "/reasons/strengths/skip/qualify/seekers/crop.max",
+        "path": "/reasons/strengths/skip/qualify/seekers/crop.max/camping.txt",
+        "type": "Block Device",
+        "type_id": 4
+      },
+      "name": "Trek",
+      "parent_process": {
+        "cmd_line": "referrals democratic culture",
+        "created_time": 1686757040343143,
+        "file": {
+          "creator": {
+            "account_type": "irrigation shares textiles",
+            "name": "Western",
+            "uid": "59a022ca-0ac9-11ee-9d03-0242ac110002"
+          },
+          "fingerprints": [
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "21ECC4336411D2DF874BD529BF7391E57DF70A101F15982AA7018350B4A5D349"
+            },
+            {
+              "algorithm": "SHA-1",
+              "algorithm_id": 2,
+              "value": "585822927C035DD87EC37356325311840ABE3508"
+            }
+          ],
+          "name": "weekly.hqx",
+          "parent_folder": "/explosion/designs/colleague/spread/cet/systems.jar",
+          "path": "/explosion/designs/colleague/spread/cet/systems.jar/weekly.hqx",
+          "size": 402937425,
+          "type": "Character Device",
+          "type_id": 3
+        },
+        "loaded_modules": [
+          "/sunglasses/colleagues/antibody/pig/roughly.m4a",
+          "/lopez/dns/yoga/et/heads.sav"
+        ],
+        "name": "Supported",
+        "parent_process": {
+          "cmd_line": "pixels family varied",
+          "created_time": 1686757040343823,
+          "file": {
+            "company_name": "Armando Renna",
+            "confidentiality": "Confidential",
+            "confidentiality_id": 2,
+            "fingerprints": [
+              {
+                "algorithm": "SHA-512",
+                "algorithm_id": 4,
+                "value": "535796F336C1C03464B85BFF9233951F07A97552A706B5EDA7940BB0C72F702D8F7634DB1D7F3A222B0272140BEA83B218147E22244A68F3AD01273AF8E34850"
+              },
+              {
+                "algorithm": "Unknown",
+                "algorithm_id": 0,
+                "value": "438DB00BE88D970B30BCB97DFC093E4C4422B4F1BCF519A8ED9576120ADE48C76CF8B86D243067BC911140ECBC163F06E180FF635E0DEA4CECF0DBFC08BDED1C"
+              }
+            ],
+            "modifier": {
+              "name": "Sudden",
+              "org_uid": "59a03f6c-0ac9-11ee-9bd9-0242ac110002",
+              "type": "Unknown",
+              "type_id": 0,
+              "uid": "59a044b2-0ac9-11ee-bafc-0242ac110002"
+            },
+            "name": "harmony.lua",
+            "parent_folder": "/award/consumption/oclc/aggregate/principle/horses.mdf",
+            "path": "/award/consumption/oclc/aggregate/principle/horses.mdf/harmony.lua",
+            "product": {
+              "lang": "en",
+              "name": "cultures eau relatives",
+              "uid": "59a04f66-0ac9-11ee-8c7a-0242ac110002",
+              "vendor_name": "theories xml ss",
+              "version": "1.0.0-rc.2"
+            },
+            "size": 1216615676,
+            "type": "Named Pipe",
+            "type_id": 6
+          },
+          "integrity": "labor poland yang",
+          "name": "Gate",
+          "parent_process": {
+            "cmd_line": "knit seniors elegant",
+            "created_time": 1686757040344917,
+            "file": {
+              "confidentiality": "insulin centres director",
+              "created_time": 1686757040345961,
+              "desc": "kenya lists advisory",
+              "fingerprints": [
+                {
+                  "algorithm": "magic",
+                  "algorithm_id": 99,
+                  "value": "91E9EF04C0B6828C0E77E1440FA54BF81C2CB8198BA446B90C6C3131E04D61B3"
+                }
+              ],
+              "mime_type": "grew/deaf",
+              "name": "budapest.cur",
+              "parent_folder": "/researcher/estate/lies/fatal/hope/reasoning.dtd",
+              "path": "/researcher/estate/lies/fatal/hope/reasoning.dtd/budapest.cur",
+              "type": "Local Socket",
+              "type_id": 5
+            },
+            "parent_process": {
+              "cmd_line": "batch designing rod",
+              "created_time": 1686757040346243,
+              "file": {
+                "accessed_time": 1686757040346445,
+                "attributes": 27,
+                "confidentiality": "communist greeting treasures",
+                "creator": {
+                  "account_uid": "59a0a0ce-0ac9-11ee-9eb5-0242ac110002",
+                  "credential_uid": "59a0a68c-0ac9-11ee-9575-0242ac110002",
+                  "name": "Farmers",
+                  "type": "syndicate downloaded democratic",
+                  "uid": "59a0ad80-0ac9-11ee-83d4-0242ac110002"
+                },
+                "fingerprints": [
+                  {
+                    "algorithm": "SHA-512",
+                    "algorithm_id": 4,
+                    "value": "6163CDC7962473142ADF6DA1E4C2B6DB26C7391242E8BBD4EE04661FEC7DF2C941477A0394334EEE5002B17ED4164502FEE4342047E61B7F299B5C98BE241602"
+                  }
+                ],
+                "name": "stan.csr",
+                "owner": {
+                  "name": "Lens",
+                  "uuid": "59a0baf0-0ac9-11ee-af09-0242ac110002"
+                },
+                "parent_folder": "/tears/italia/estate/nba/celebs/metallic.3g2",
+                "path": "/tears/italia/estate/nba/celebs/metallic.3g2/stan.csr",
+                "size": 1223456746,
+                "type": "Symbolic Link",
+                "type_id": 7
+              },
+              "integrity": "Low",
+              "integrity_id": 2,
+              "loaded_modules": [
+                "/conservative/every/apply/an/window.ics",
+                "/focusing/range/dash/rocky/sp.log"
+              ],
+              "name": "Sms",
+              "parent_process": {
+                "cmd_line": "commission configuring earnings",
+                "created_time": 1686757040347673,
+                "file": {
+                  "confidentiality": "refinance induced comfort",
+                  "fingerprints": [
+                    {
+                      "algorithm": "MD5",
+                      "algorithm_id": 1,
+                      "value": "1313181A9D0CB1824989D27A9730376F"
+                    }
+                  ],
+                  "mime_type": "halifax/surname",
+                  "name": "several.accdb",
+                  "parent_folder": "/opposition/legendary/commodity/wc/blair/seat.tax2020",
+                  "path": "/opposition/legendary/commodity/wc/blair/seat.tax2020/several.accdb",
+                  "type": "Character Device",
+                  "type_id": 3
+                },
+                "name": "Freeware",
+                "pid": 82,
+                "user": {
+                  "account_type": "Windows Account",
+                  "account_type_id": 2,
+                  "account_uid": "59a0e174-0ac9-11ee-9a5f-0242ac110002",
+                  "credential_uid": "59a0e7f0-0ac9-11ee-85fd-0242ac110002",
+                  "domain": "rugby amendment selected",
+                  "name": "Holland",
+                  "org_uid": "59a0f02e-0ac9-11ee-b130-0242ac110002",
+                  "uid": "59a0f6aa-0ac9-11ee-a423-0242ac110002"
+                }
+              },
+              "pid": 81,
+              "tid": 98,
+              "uid": "59a0fc54-0ac9-11ee-9c42-0242ac110002",
+              "user": {
+                "account_uid": "59a105fa-0ac9-11ee-8932-0242ac110002",
+                "name": "Va",
+                "type": "holders radical jackson",
+                "uid": "59a10c44-0ac9-11ee-9e32-0242ac110002"
+              }
+            },
+            "pid": 31,
+            "user": {
+              "groups": [
+                {
+                  "name": "transport unwrap nationally",
+                  "uid": "59a11ffe-0ac9-11ee-87c4-0242ac110002"
+                }
+              ],
+              "name": "Violence",
+              "uid": "59a1260c-0ac9-11ee-800f-0242ac110002"
+            }
+          },
+          "pid": 59,
+          "uid": "59a12b20-0ac9-11ee-a10b-0242ac110002",
+          "user": {
+            "account_type": "headline sensitive trades",
+            "account_uid": "59a1373c-0ac9-11ee-a554-0242ac110002",
+            "email_addr": "Lashanda@jack.coop",
+            "name": "Rep",
+            "type": "restriction lived largest",
+            "uid": "59a13e76-0ac9-11ee-a3a1-0242ac110002",
+            "uuid": "59a143a8-0ac9-11ee-a1f9-0242ac110002"
+          }
+        },
+        "pid": 70,
+        "session": {
+          "created_time": 1686757040350993,
+          "issuer": "sewing rain cats",
+          "uid": "59a14cea-0ac9-11ee-b79d-0242ac110002"
+        },
+        "terminated_time": 1686757040351160,
+        "uid": "59a1521c-0ac9-11ee-b70b-0242ac110002",
+        "user": {
+          "groups": [
+            {
+              "desc": "dimensional farmers matters",
+              "name": "studios logical farm",
+              "uid": "59a1600e-0ac9-11ee-87f8-0242ac110002"
+            }
+          ],
+          "name": "Finance",
+          "org_uid": "59a165c2-0ac9-11ee-9967-0242ac110002",
+          "uid": "59a16a68-0ac9-11ee-a8e3-0242ac110002"
+        }
+      },
+      "pid": 79,
+      "uid": "59a16f22-0ac9-11ee-b9da-0242ac110002",
+      "user": {
+        "account_type": "workforce campus lesser",
+        "org_uid": "59a1786e-0ac9-11ee-ba7f-0242ac110002",
+        "uid": "59a17cce-0ac9-11ee-81d1-0242ac110002"
+      },
+      "xattributes": {}
+    },
+    "session": {
+      "created_time": 1686757040352520,
+      "expiration_time": 1686757040352529,
+      "issuer": "graph lucia screensaver",
+      "uid": "59a1889a-0ac9-11ee-b521-0242ac110002"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Registry Value Activity",
+  "class_uid": 1009,
+  "device": {
+    "hostname": "borough.int",
+    "instance_uid": "599fc3fc-0ac9-11ee-a4c2-0242ac110002",
+    "interface_name": "addiction lenses product",
+    "interface_uid": "599fdb94-0ac9-11ee-9841-0242ac110002",
+    "ip": "115.236.167.5",
+    "location": {
+      "city": "Suite proved",
+      "continent": "Europe",
+      "coordinates": [
+        -41.868,
+        -78.8296
+      ],
+      "country": "RU",
+      "desc": "Russian Federation"
+    },
+    "mac": "2:C0:5F:E3:A1:49:EE:6D",
+    "name": "specialized pc needed",
+    "risk_level": "Medium",
+    "risk_level_id": 2,
+    "risk_score": 11,
+    "type": "Mobile",
+    "type_id": 5,
+    "uid": "599fe332-0ac9-11ee-9d5d-0242ac110002"
+  },
+  "end_time": 1686757040340560,
+  "message": "readily cab contributing",
+  "metadata": {
+    "correlation_uid": "599fa192-0ac9-11ee-bc1e-0242ac110002",
+    "original_time": "violence procedures olympus",
+    "product": {
+      "lang": "en",
+      "name": "mineral variation hierarchy",
+      "uid": "599fad4a-0ac9-11ee-8996-0242ac110002",
+      "vendor_name": "amateur washington hybrid"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 50,
+    "version": "1.0.0-rc.2"
+  },
+  "reg_value": {
+    "is_default": false,
+    "name": "mud usgs bend",
+    "path": "/affiliation/loop/compounds/eg/contributed",
+    "type": "REG_BINARY",
+    "type_id": 1
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Success",
+  "status_code": "drums",
+  "status_id": 1,
+  "time": 1686757040339860,
+  "timezone_offset": 54,
+  "type_name": "Registry Value Activity: Set",
+  "type_uid": 100902
+}

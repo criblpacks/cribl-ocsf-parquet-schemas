@@ -1,0 +1,61 @@
+{
+  "activity_id": 1,
+  "activity_name": "Assign Privileges",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "class_uid": 3006,
+  "duration": 81,
+  "enrichments": [
+    {
+      "data": "kings",
+      "name": "hispanic records zu",
+      "provider": "imported julian firms",
+      "type": "jumping se per",
+      "value": "carey trader malaysia"
+    }
+  ],
+  "group": {
+    "name": "bloom recognition perry",
+    "privileges": [
+      "kick segment ncaa"
+    ],
+    "uid": "255d1310-0ac9-11ee-956d-0242ac110003"
+  },
+  "message": "accessibility oil burn",
+  "metadata": {
+    "log_name": "wy benchmark mug",
+    "log_provider": "felt slope twice",
+    "product": {
+      "feature": {
+        "name": "prominent independent struck",
+        "uid": "255d224c-0ac9-11ee-8f70-0242ac110003",
+        "version": "1.0.0-rc.3"
+      },
+      "lang": "en",
+      "uid": "255d26b6-0ac9-11ee-9925-0242ac110003",
+      "vendor_name": "equally pregnancy spell",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "start_time": 1686756952663035,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686756952661706,
+  "timezone_offset": 83,
+  "type_name": "Group Management: Assign Privileges",
+  "type_uid": 300601,
+  "user": {
+    "domain": "cup blood isp",
+    "name": "Editors",
+    "type": "System",
+    "type_id": 3,
+    "uid": "255d04d8-0ac9-11ee-b542-0242ac110003"
+  }
+}

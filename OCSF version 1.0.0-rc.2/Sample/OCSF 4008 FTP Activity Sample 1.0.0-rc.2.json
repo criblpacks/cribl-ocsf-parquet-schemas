@@ -1,0 +1,85 @@
+{
+  "activity_id": 5,
+  "activity_name": "Rename",
+  "app_name": "keeping fighters floral",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "class_uid": 4008,
+  "codes": [
+    18,
+    58
+  ],
+  "command": "shows injuries like",
+  "command_responses": [
+    "children has problems"
+  ],
+  "connection_info": {
+    "boundary": "Internet/VPC Gateway",
+    "boundary_id": 5,
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 7
+  },
+  "dst_endpoint": {
+    "domain": "mating confirm emotional",
+    "hostname": "dictionaries.arpa",
+    "instance_uid": "4f22244c-0ac9-11ee-b3dc-0242ac110002",
+    "interface_name": "platinum obligations point",
+    "interface_uid": "4f222942-0ac9-11ee-a957-0242ac110002",
+    "ip": "208.163.105.16",
+    "port": 36426,
+    "svc_name": "search polar resulting",
+    "uid": "4f222dde-0ac9-11ee-8266-0242ac110002"
+  },
+  "message": "tension may athletic",
+  "metadata": {
+    "original_time": "instruments twisted suspension",
+    "product": {
+      "feature": {
+        "name": "mysimon pace nightmare",
+        "uid": "4f21f95e-0ac9-11ee-a998-0242ac110002",
+        "version": "1.0.0-rc.2"
+      },
+      "lang": "en",
+      "name": "lines pose dvd",
+      "uid": "4f21fe4a-0ac9-11ee-b902-0242ac110002",
+      "vendor_name": "spanking keep reed",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 40,
+    "version": "1.0.0-rc.2"
+  },
+  "name": "ins subsidiary su",
+  "observables": [
+    {
+      "name": "invited consistency providers",
+      "type": "Process",
+      "type_id": 25
+    }
+  ],
+  "port": 37702,
+  "severity": "simulations",
+  "severity_id": 99,
+  "src_endpoint": {
+    "domain": "singh accidents jungle",
+    "hostname": "extending.nato",
+    "instance_uid": "4f2239e6-0ac9-11ee-a6f1-0242ac110002",
+    "interface_name": "sullivan pad employ",
+    "ip": "219.194.197.181",
+    "port": 36931,
+    "svc_name": "liz fm dropped",
+    "uid": "4f223fcc-0ac9-11ee-a727-0242ac110002",
+    "vlan_uid": "4f22438c-0ac9-11ee-b9c2-0242ac110002"
+  },
+  "status": "defend",
+  "status_id": 99,
+  "time": 1686757022739178,
+  "timezone_offset": 97,
+  "type": "activists treasure keno",
+  "type_name": "FTP Activity: Rename",
+  "type_uid": 400805
+}

@@ -1,0 +1,72 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "actor": {
+    "invoked_by": "section scanning gave",
+    "user": {
+      "email_addr": "Sal@individuals.museum",
+      "groups": [
+        {
+          "desc": "wiring exclude samba",
+          "name": "liz remove cameron",
+          "uid": "44ebff02-0ac9-11ee-96ea-0242ac110002"
+        },
+        {
+          "name": "cocktail diversity ph",
+          "type": "decide intent motion",
+          "uid": "44ec0420-0ac9-11ee-b911-0242ac110002"
+        }
+      ],
+      "name": "Parameter",
+      "uid": "44ec086c-0ac9-11ee-9f92-0242ac110002"
+    }
+  },
+  "category_name": "Audit Activity",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "class_uid": 3001,
+  "data": "burden",
+  "message": "renewable contemporary continuing",
+  "metadata": {
+    "correlation_uid": "44ebc30c-0ac9-11ee-9fa6-0242ac110002",
+    "original_time": "teachers through mental",
+    "product": {
+      "name": "doctors signature gathering",
+      "uid": "44ebc910-0ac9-11ee-a3d6-0242ac110002",
+      "vendor_name": "melbourne modeling images",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 0,
+    "uid": "44ebce38-0ac9-11ee-86bb-0242ac110002",
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "hostname": "resumes.int",
+    "interface_name": "lucy oo american",
+    "ip": "10.61.169.254",
+    "port": 22000,
+    "subnet_uid": "44ebe9f4-0ac9-11ee-9e6f-0242ac110002",
+    "svc_name": "tyler xp dawn",
+    "uid": "44ebee68-0ac9-11ee-bb20-0242ac110002"
+  },
+  "start_time": 1686757005606157,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757005606170,
+  "timezone_offset": 90,
+  "type_name": "Account Change: Create",
+  "type_uid": 300101,
+  "user": {
+    "account_type": "AWS IAM Role",
+    "account_type_id": 4,
+    "account_uid": "44ebb286-0ac9-11ee-b349-0242ac110002",
+    "name": "Plumbing",
+    "org_uid": "44ebb89e-0ac9-11ee-a464-0242ac110002",
+    "uid": "44ebbc5e-0ac9-11ee-94d1-0242ac110002"
+  }
+}

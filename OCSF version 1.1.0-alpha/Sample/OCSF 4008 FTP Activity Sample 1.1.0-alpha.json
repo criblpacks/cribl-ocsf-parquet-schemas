@@ -1,0 +1,97 @@
+{
+  "activity_id": 6,
+  "activity_name": "List",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "class_uid": 4008,
+  "command": "prompt sheriff scheme",
+  "command_responses": [
+    "satin cork susan",
+    "arg betting possession"
+  ],
+  "connection_info": {
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 51
+  },
+  "count": 26,
+  "dst_endpoint": {
+    "hostname": "zdnet.name",
+    "instance_uid": "755b21d6-0ac9-11ee-ad28-0242ac110004",
+    "interface_uid": "755b26b8-0ac9-11ee-a50c-0242ac110004",
+    "ip": "249.198.132.98",
+    "mac": "A:38:9E:DB:30:0:3D:69",
+    "name": "scroll radios ralph",
+    "svc_name": "afternoon pakistan requires",
+    "uid": "755b2bfe-0ac9-11ee-bc04-0242ac110004",
+    "vpc_uid": "755b2f64-0ac9-11ee-b795-0242ac110004"
+  },
+  "duration": 68,
+  "message": "nancy plot drum",
+  "metadata": {
+    "event_code": "monitored",
+    "log_name": "command lloyd consumption",
+    "log_provider": "salvador closes naples",
+    "logged_time": 1686757086869256,
+    "modified_time": 1686757086869266,
+    "original_time": "blocking style pool",
+    "product": {
+      "feature": {
+        "name": "peak jade felt",
+        "uid": "755b6e7a-0ac9-11ee-9f8b-0242ac110004",
+        "version": "1.1.0-alpha"
+      },
+      "lang": "en",
+      "path": "assignment buck puppy",
+      "uid": "755b7302-0ac9-11ee-8681-0242ac110004",
+      "vendor_name": "drilling organizations ons",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "port": 19208,
+  "proxy": {
+    "hostname": "desired.net",
+    "instance_uid": "755b40bc-0ac9-11ee-87c7-0242ac110004",
+    "interface_name": "ac soccer increased",
+    "interface_uid": "755b523c-0ac9-11ee-ba12-0242ac110004",
+    "ip": "19.189.47.224",
+    "name": "pulling ciao co",
+    "port": 26994,
+    "subnet_uid": "755b5764-0ac9-11ee-8618-0242ac110004",
+    "svc_name": "drilling sans prot",
+    "uid": "755b5b6a-0ac9-11ee-8fd5-0242ac110004"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "src_endpoint": {
+    "domain": "terminal subject metallica",
+    "hostname": "horses.firm",
+    "instance_uid": "755b0ebc-0ac9-11ee-a027-0242ac110004",
+    "interface_name": "gun symposium conditioning",
+    "location": {
+      "city": "Heat republican",
+      "continent": "Africa",
+      "coordinates": [
+        -18.0091,
+        83.6132
+      ],
+      "country": "MR",
+      "desc": "Mauritania, Islamic Republic of"
+    }
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757086867186,
+  "timezone_offset": 33,
+  "traffic": {
+    "packets": 3785114102
+  },
+  "type": "devel technology porcelain",
+  "type_name": "FTP Activity: List",
+  "type_uid": 400806
+}

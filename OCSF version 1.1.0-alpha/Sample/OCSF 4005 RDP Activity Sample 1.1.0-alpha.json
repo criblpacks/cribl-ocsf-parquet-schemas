@@ -1,0 +1,98 @@
+{
+  "activity_id": 3,
+  "activity_name": "Connect Request",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "RDP Activity",
+  "class_uid": 4005,
+  "connection_info": {
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_name": "introduced files nottingham",
+    "protocol_num": 94
+  },
+  "dst_endpoint": {
+    "hostname": "stored.com",
+    "instance_uid": "7e12f63c-0ac9-11ee-be2e-0242ac110004",
+    "interface_name": "prizes strips confusion",
+    "interface_uid": "7e12fb3c-0ac9-11ee-9062-0242ac110004",
+    "ip": "182.1.169.181",
+    "name": "drive processor finally",
+    "port": 56705,
+    "svc_name": "recipe circulation harmful"
+  },
+  "duration": 85,
+  "message": "sas dvds belle",
+  "metadata": {
+    "log_name": "parameters gt ahead",
+    "log_provider": "mel distinction establishment",
+    "original_time": "comfortable wagner deborah",
+    "product": {
+      "lang": "en",
+      "name": "webcast learn values",
+      "uid": "7e13276a-0ac9-11ee-bf5c-0242ac110004",
+      "vendor_name": "trivia mother residential",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "protocol_ver": "4.4.1",
+  "proxy": {
+    "hostname": "pieces.store",
+    "instance_uid": "7e130d3e-0ac9-11ee-a638-0242ac110004",
+    "interface_uid": "7e1310c2-0ac9-11ee-9388-0242ac110004",
+    "intermediate_ips": [
+      "128.135.31.27",
+      "15.227.51.72"
+    ],
+    "ip": "16.186.181.146",
+    "port": 20001,
+    "svc_name": "probability brunette beijing",
+    "uid": "7e131676-0ac9-11ee-b3ab-0242ac110004"
+  },
+  "remote_display": {},
+  "request": {
+    "uid": "7e1305fa-0ac9-11ee-b16a-0242ac110004"
+  },
+  "response": {
+    "code": 27,
+    "error": "programmers trinidad thereof",
+    "error_message": "rear concepts technician",
+    "message": "launches shopzilla announcement"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "interface_name": "vulnerable loc parenting",
+    "intermediate_ips": [
+      "204.121.167.60",
+      "210.168.155.4"
+    ],
+    "location": {
+      "city": "Dom mastercard",
+      "continent": "Africa",
+      "coordinates": [
+        -67.9992,
+        -33.1723
+      ],
+      "country": "EG",
+      "desc": "Egypt, Arab Republic of"
+    },
+    "name": "start constitutional given",
+    "port": 16140,
+    "uid": "7e12ea84-0ac9-11ee-bad3-0242ac110004"
+  },
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757101493731,
+  "timezone_offset": 44,
+  "traffic": {
+    "bytes": 95808574,
+    "packets": 915819808
+  },
+  "type_name": "RDP Activity: Connect Request",
+  "type_uid": 400503
+}

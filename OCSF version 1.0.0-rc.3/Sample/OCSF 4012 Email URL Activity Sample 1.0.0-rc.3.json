@@ -1,0 +1,53 @@
+{
+  "activity_id": 99,
+  "activity_name": "savings",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email URL Activity",
+  "class_uid": 4012,
+  "count": 21,
+  "email_uid": "263f9a5a-0ac9-11ee-b8f9-0242ac110003",
+  "message": "rivers smtp precise",
+  "metadata": {
+    "event_code": "promotions",
+    "labels": [
+      "gave",
+      "keyboard"
+    ],
+    "log_name": "feet english go",
+    "log_provider": "falls moisture separate",
+    "logged_time": 1686756954147416,
+    "original_time": "beaches fingers discover",
+    "product": {
+      "name": "sorry sap ste",
+      "uid": "263faf9a-0ac9-11ee-89bf-0242ac110003",
+      "vendor_name": "founded notified trick"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 23,
+    "version": "1.0.0-rc.3"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "status": "conjunction",
+  "status_id": 99,
+  "time": 1686756954146852,
+  "timezone_offset": 87,
+  "type_name": "Email URL Activity: Other",
+  "type_uid": 401299,
+  "url": {
+    "category_ids": [
+      32,
+      3
+    ],
+    "hostname": "supports.nato",
+    "path": "crossing zope chains",
+    "port": 14365,
+    "resource_type": "qatar operational harm",
+    "scheme": "ethnic sm defendant",
+    "subdomain": "fleece vampire person",
+    "url_string": "fireplace"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Scheduled Job Activity",
+  "class_uid": 1006,
+  "device": {
+    "autoscale_uid": "70e37d56-0ac9-11ee-9931-0242ac110004",
+    "hostname": "animal.travel",
+    "instance_uid": "70e37824-0ac9-11ee-ab84-0242ac110004",
+    "interface_name": "listening harold milan",
+    "interface_uid": "70e3728e-0ac9-11ee-b958-0242ac110004",
+    "is_compliant": false,
+    "name": "estimates cal printer",
+    "network_interfaces": [
+      {
+        "hostname": "anyway.aero",
+        "ip": "22.218.74.18",
+        "name": "caused layout restrict",
+        "type": "Mobile",
+        "type_id": 3
+      }
+    ],
+    "region": "racing cds intermediate",
+    "subnet": "22.102.83.0/24",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "70e36db6-0ac9-11ee-9c32-0242ac110004"
+  },
+  "enrichments": [
+    {
+      "data": "duplicate",
+      "name": "technician deadly apr",
+      "provider": "forty nearest asin",
+      "type": "belarus offered hydrogen",
+      "value": "fitted lc blink"
+    },
+    {
+      "data": "winners",
+      "name": "care healthcare fg",
+      "provider": "pose win animation",
+      "type": "volumes competitions product",
+      "value": "news handbags travelers"
+    }
+  ],
+  "job": {
+    "cmd_line": "unto wires exhibitions",
+    "created_time": 1686757079370108,
+    "desc": "techniques vampire ugly",
+    "file": {
+      "accessed_time": 1686757079370384,
+      "accessor": {
+        "credential_uid": "70e3345e-0ac9-11ee-bcfa-0242ac110004",
+        "name": "Oral",
+        "type": "User",
+        "type_id": 1,
+        "uid": "70e339ae-0ac9-11ee-aa90-0242ac110004"
+      },
+      "company_name": "Darrel Lise",
+      "hashes": [
+        {
+          "algorithm": "MD5",
+          "algorithm_id": 1,
+          "value": "376B94363486C8D7CD1C00D34DE9B188"
+        },
+        {
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7,
+          "value": "ABE44364E37B757851CE7AE20261A7F4B13119E4286E16B74701B3B6FCF3538D0B083D24B5C86EFE857A20750CC2426F65B965D755035E5DB8D02D1105988E0B"
+        }
+      ],
+      "mime_type": "seating/support",
+      "modified_time": 1686757079370882,
+      "name": "entitled.7z",
+      "parent_folder": "essentials symptoms inner/muze.tmp",
+      "path": "essentials symptoms inner/muze.tmp/entitled.7z",
+      "product": {
+        "lang": "en",
+        "name": "significant max witnesses",
+        "uid": "70e3441c-0ac9-11ee-a349-0242ac110004",
+        "vendor_name": "associates craig dame",
+        "version": "1.1.0-alpha"
+      },
+      "signature": {
+        "algorithm": "Unknown",
+        "algorithm_id": 0,
+        "certificate": {
+          "created_time": 1686757079371138,
+          "expiration_time": 1686757079371143,
+          "fingerprints": [
+            {
+              "algorithm": "SHA-256",
+              "algorithm_id": 3,
+              "value": "985604C2B60243122C24D4E18363E6434C535923BE05F760204A1AEF023AAE9B"
+            }
+          ],
+          "issuer": "write contained deal",
+          "serial_number": "urgent quantitative pizza",
+          "subject": "arrested diameter races"
+        }
+      },
+      "size": 608308649,
+      "type": "Named Pipe",
+      "type_id": 6,
+      "xattributes": {}
+    },
+    "last_run_time": 1686757079371234,
+    "name": "stories acknowledge think",
+    "run_state": "jm",
+    "run_state_id": 99
+  },
+  "message": "culture conversation george",
+  "metadata": {
+    "event_code": "nearest",
+    "log_name": "kijiji pearl laptop",
+    "log_provider": "social senegal trips",
+    "log_version": "tutorials desirable perfume",
+    "original_time": "gulf cj theology",
+    "product": {
+      "feature": {
+        "name": "ebony thanks labels",
+        "uid": "70e388c8-0ac9-11ee-a361-0242ac110004",
+        "version": "1.1.0-alpha"
+      },
+      "lang": "en",
+      "name": "graphs domain crucial",
+      "uid": "70e38d14-0ac9-11ee-8ade-0242ac110004",
+      "vendor_name": "mode summit fetish",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "70e3911a-0ac9-11ee-9b8b-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "start_time": 1686757079373256,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757079370017,
+  "timezone_offset": 84,
+  "type_name": "Scheduled Job Activity: Unknown",
+  "type_uid": 100600
+}

@@ -1,0 +1,103 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Scheduled Job Activity",
+  "class_uid": 1006,
+  "data": "advise",
+  "device": {
+    "autoscale_uid": "5c62b9e6-0ac9-11ee-9394-0242ac110002",
+    "desc": "remained alloy uncertainty",
+    "groups": [
+      {
+        "name": "school subscriptions peripheral"
+      },
+      {
+        "name": "combo alberta costume",
+        "privileges": [
+          "advances shade been",
+          "cotton abu analytical"
+        ],
+        "type": "uniform worker debate",
+        "uid": "5c62b59a-0ac9-11ee-9a33-0242ac110002"
+      }
+    ],
+    "imei": "hygiene miss television",
+    "instance_uid": "5c62adac-0ac9-11ee-9cd4-0242ac110002",
+    "interface_name": "flickr cast puzzles",
+    "ip": "214.38.115.209",
+    "is_compliant": false,
+    "name": "sort athens cleaning",
+    "region": "newspaper experiencing sweet",
+    "risk_level": "paragraph exotic ten",
+    "type": "Desktop",
+    "type_id": 2,
+    "uid": "5c62beb4-0ac9-11ee-99b0-0242ac110002"
+  },
+  "job": {
+    "cmd_line": "proceed prayer showcase",
+    "created_time": 1686757044972739,
+    "desc": "courses pgp plasma",
+    "file": {
+      "company_name": "Venetta Shaina",
+      "confidentiality": "Top Secret",
+      "confidentiality_id": 4,
+      "fingerprints": [
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "E78E3903C5F41E1AD3D23EFC498192A2D1E8247B6D26D038AD2F8298181438EE"
+        }
+      ],
+      "name": "merchandise.vb",
+      "parent_folder": "/hdtv/injured/sight/maldives/circuit/potato.drv",
+      "path": "/hdtv/injured/sight/maldives/circuit/potato.drv/merchandise.vb",
+      "product": {
+        "feature": {
+          "name": "cocktail region troops",
+          "uid": "5c629b28-0ac9-11ee-9450-0242ac110002",
+          "version": "1.0.0-rc.2"
+        },
+        "lang": "en",
+        "name": "crossword shakira settlement",
+        "uid": "5c629fe2-0ac9-11ee-a412-0242ac110002",
+        "vendor_name": "cfr incident describes",
+        "version": "1.0.0-rc.2"
+      },
+      "type": "Unknown",
+      "type_id": 0,
+      "version": "1.0.0-rc.2"
+    },
+    "last_run_time": 1686757044973617,
+    "name": "database constraints conduct",
+    "run_state": "Stopped",
+    "run_state_id": 4
+  },
+  "message": "determines entities superb",
+  "metadata": {
+    "modified_time": 1686757044972201,
+    "original_time": "municipal wichita boots",
+    "product": {
+      "lang": "en",
+      "name": "size postcards classes",
+      "uid": "5c62758a-0ac9-11ee-ba6d-0242ac110002",
+      "vendor_name": "biological generators tier"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 51,
+    "uid": "5c627b2a-0ac9-11ee-b77d-0242ac110002",
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Success",
+  "status_detail": "compared mattress diamonds",
+  "status_id": 1,
+  "time": 1686757044972034,
+  "timezone_offset": 33,
+  "type_name": "Scheduled Job Activity: Create",
+  "type_uid": 100601
+}

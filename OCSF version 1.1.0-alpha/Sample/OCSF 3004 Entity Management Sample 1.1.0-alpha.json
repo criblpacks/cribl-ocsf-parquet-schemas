@@ -1,0 +1,46 @@
+{
+  "activity_id": 3,
+  "activity_name": "Update",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "class_uid": 3004,
+  "duration": 40,
+  "entity": {
+    "type": "agreements metadata et",
+    "uid": "79bf32c6-0ac9-11ee-a9f3-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "message": "outline enhance chan",
+  "metadata": {
+    "labels": [
+      "shakespeare",
+      "choice"
+    ],
+    "log_name": "amounts choices stocks",
+    "log_provider": "rap paragraphs lakes",
+    "modified_time": 1686757094234490,
+    "original_time": "newly corps cycles",
+    "processed_time": 1686757094234504,
+    "product": {
+      "lang": "en",
+      "name": "utility heads baghdad",
+      "path": "netscape voluntary fence",
+      "uid": "79bf4644-0ac9-11ee-838c-0242ac110004",
+      "vendor_name": "harris alfred widespread",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757094233918,
+  "timezone_offset": 47,
+  "type_name": "Entity Management: Update",
+  "type_uid": 300403
+}

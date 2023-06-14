@@ -1,0 +1,133 @@
+{
+  "activity_id": 2,
+  "activity_name": "Unload",
+  "actor": {
+    "idp": {
+      "name": "treaty thick temporarily",
+      "uid": "71c3e706-0ac9-11ee-a079-0242ac110004"
+    },
+    "user": {
+      "credential_uid": "71c3ef12-0ac9-11ee-8053-0242ac110004",
+      "full_name": "John Eun",
+      "name": "Utils",
+      "type": "User",
+      "type_id": 1,
+      "uid": "71c3f408-0ac9-11ee-a39c-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Module Activity",
+  "class_uid": 1005,
+  "count": 87,
+  "device": {
+    "domain": "impaired gs totals",
+    "hostname": "ons.net",
+    "instance_uid": "71c43f1c-0ac9-11ee-ab36-0242ac110004",
+    "interface_name": "surface technique computation",
+    "interface_uid": "71c431fc-0ac9-11ee-ad0b-0242ac110004",
+    "ip": "54.152.27.73",
+    "is_personal": false,
+    "is_trusted": true,
+    "last_seen_time": 1686757080845525,
+    "region": "francis repeated arrived",
+    "risk_level": "includes visible receivers",
+    "type": "Laptop",
+    "type_id": 3,
+    "uid": "71c42d6a-0ac9-11ee-8bc4-0242ac110004"
+  },
+  "end_time": 1686757080843578,
+  "message": "cheats triangle gb",
+  "metadata": {
+    "correlation_uid": "71c44944-0ac9-11ee-a177-0242ac110004",
+    "log_name": "sensor makes vc",
+    "log_provider": "features bald seventh",
+    "modified_time": 1686757080845778,
+    "original_time": "barrier property edit",
+    "product": {
+      "lang": "en",
+      "name": "holocaust instances bulgarian",
+      "uid": "71c455ce-0ac9-11ee-828e-0242ac110004",
+      "vendor_name": "option animated trap",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "module": {
+    "base_address": "eh replace will",
+    "file": {
+      "accessed_time": 1686757080842341,
+      "company_name": "Mariah Simonne",
+      "confidentiality": "Top Secret",
+      "confidentiality_id": 4,
+      "desc": "lesson yrs planner",
+      "hashes": [
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "979749E712F467A3599257F4C5A66C628791AE2F842C2F16383D69EF0867D8A8"
+        },
+        {
+          "algorithm": "SHA-256",
+          "algorithm_id": 3,
+          "value": "12E5CD979EA8C28245158C34A97B04ACBA64AC008E780742B507420464A1B966"
+        }
+      ],
+      "is_system": true,
+      "modifier": {
+        "full_name": "Digna Billye",
+        "name": "Okay",
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "71c3d432-0ac9-11ee-bc5e-0242ac110004",
+        "uid_alt": "border encouraged conversation"
+      },
+      "name": "jessica.pspimage",
+      "parent_folder": "vbulletin tobago washer/packs.fon",
+      "path": "vbulletin tobago washer/packs.fon/jessica.pspimage",
+      "signature": {
+        "algorithm": "Authenticode",
+        "algorithm_id": 4,
+        "certificate": {
+          "created_time": 1686757080842907,
+          "expiration_time": 1686757080842913,
+          "fingerprints": [
+            {
+              "algorithm": "TLSH",
+              "algorithm_id": 6,
+              "value": "5DA359DDD4D214AD1B44C731A4A44441EF4FEDD29FC023D67D33EA1F01AA84EED18D549698FE3C0FC87810476CC2068D6B836901978C89F88E11E2ED1086F2DF"
+            },
+            {
+              "algorithm": "SHA-512",
+              "algorithm_id": 4,
+              "value": "D40D94A5A686F0C7353CA0285160CC8B491B2163C85EDE1C8A54F8771CD7964250CCA599282E6F0C0B997FD36D3FE5ACA22424511105AFEA19663F2D7142C04A"
+            }
+          ],
+          "issuer": "firewire uniprotkb workflow",
+          "serial_number": "lo interracial consisting",
+          "subject": "plaintiff treasury sox",
+          "version": "1.1.0-alpha"
+        }
+      },
+      "size": 4188173806,
+      "type": "Unknown",
+      "type_id": 0
+    },
+    "function_name": "just solo moments",
+    "load_type": "Standard",
+    "load_type_id": 1,
+    "start_address": "particular microwave direction",
+    "type": "scout ownership worlds"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Unknown",
+  "status_detail": "sep drugs audience",
+  "status_id": 0,
+  "time": 1686757080841868,
+  "type_name": "Module Activity: Unload",
+  "type_uid": 100502
+}

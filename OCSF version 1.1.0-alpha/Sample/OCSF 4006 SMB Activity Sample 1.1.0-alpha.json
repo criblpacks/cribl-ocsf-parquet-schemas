@@ -1,0 +1,85 @@
+{
+  "activity_id": 99,
+  "activity_name": "saint",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SMB Activity",
+  "class_uid": 4006,
+  "client_dialects": [
+    "subscribers admitted implies"
+  ],
+  "command": "ghz cool be",
+  "connection_info": {
+    "direction": "analysts",
+    "direction_id": 99,
+    "protocol_num": 90
+  },
+  "dialect": "indicator lemon thunder",
+  "dst_endpoint": {
+    "domain": "trustee firmware about",
+    "hostname": "appliance.gov",
+    "instance_uid": "700b00de-0ac9-11ee-8e13-0242ac110004",
+    "interface_name": "sas maria ctrl",
+    "interface_uid": "700b062e-0ac9-11ee-8ad5-0242ac110004",
+    "ip": "114.129.173.235",
+    "name": "backgrounds apps depend",
+    "port": 22635,
+    "subnet_uid": "700b0c14-0ac9-11ee-8c7b-0242ac110004",
+    "svc_name": "institutions powered invalid",
+    "uid": "700b1024-0ac9-11ee-bdb5-0242ac110004"
+  },
+  "enrichments": [
+    {
+      "data": "giant",
+      "name": "insights management qty",
+      "provider": "coaches sheriff circular",
+      "type": "reasonable threats poetry",
+      "value": "model tokyo jews"
+    }
+  ],
+  "message": "prime nextel cartridges",
+  "metadata": {
+    "log_name": "understanding prayer mon",
+    "log_provider": "card holly followed",
+    "original_time": "temple bikes marilyn",
+    "processed_time": 1686757077954381,
+    "product": {
+      "lang": "en",
+      "uid": "700b1ed4-0ac9-11ee-b176-0242ac110004",
+      "vendor_name": "warning discovery porsche",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 37,
+    "version": "1.1.0-alpha"
+  },
+  "open_type": "rescue towns titles",
+  "response": {
+    "error": "stars half norman",
+    "message": "balance rated sheer"
+  },
+  "severity": "correction",
+  "severity_id": 99,
+  "share_type": "Pipe",
+  "share_type_id": 2,
+  "src_endpoint": {
+    "domain": "romantic academy lounge",
+    "hostname": "lcd.biz",
+    "instance_uid": "700aebbc-0ac9-11ee-ab57-0242ac110004",
+    "interface_name": "wales mlb defeat",
+    "interface_uid": "700af0bc-0ac9-11ee-a037-0242ac110004",
+    "ip": "244.126.22.21",
+    "name": "garcia restaurants wav",
+    "port": 58,
+    "svc_name": "vulnerability profile bolt",
+    "uid": "700af558-0ac9-11ee-a483-0242ac110004"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757077953475,
+  "timezone_offset": 5,
+  "type_name": "SMB Activity: Other",
+  "type_uid": 400699
+}

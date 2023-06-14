@@ -1,0 +1,139 @@
+{
+  "activity_id": 99,
+  "activity_name": "lane",
+  "app_name": "screw assembly uniprotkb",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SMB Activity",
+  "class_uid": 4006,
+  "client_dialects": [
+    "clinical comply bulgarian",
+    "thompson beef finals"
+  ],
+  "connection_info": {
+    "boundary": "Gateway VPC",
+    "boundary_id": 10,
+    "direction": "Inbound",
+    "direction_id": 1,
+    "protocol_name": "evident depend gays",
+    "protocol_num": 81
+  },
+  "count": 3,
+  "dialect": "hobby acres alt",
+  "dst_endpoint": {
+    "hostname": "walk.jobs",
+    "interface_name": "investing dropped baseball",
+    "interface_uid": "1e04b398-0ac9-11ee-9430-0242ac110003",
+    "ip": "19.133.10.239",
+    "name": "payment stream zealand",
+    "port": 38752,
+    "svc_name": "indoor thunder invasion",
+    "uid": "1e04bb18-0ac9-11ee-a81b-0242ac110003"
+  },
+  "duration": 45,
+  "file": {
+    "created_time": 1686756940339853,
+    "hashes": [
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "4E8C064919566EDEB73AA74912A81B38F36B604B"
+      },
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "2A902277B171309D46FB6FFB4B95ECAB928E733E0F3B7E22F079F8F9C6A603ABC9BAB036F6BDAC4A69067D661CC309938C2B9210A9F5A3976404E8810641BA14"
+      }
+    ],
+    "name": "triumph.mdf",
+    "parent_folder": "derived frozen printer/viewer.3g2",
+    "path": "derived frozen printer/viewer.3g2/triumph.mdf",
+    "signature": {
+      "algorithm": "ECDSA",
+      "algorithm_id": 3,
+      "certificate": {
+        "expiration_time": 1686756940340154,
+        "fingerprints": [
+          {
+            "algorithm": "quickXorHash",
+            "algorithm_id": 7,
+            "value": "28BFB3D425DD6595D0DCFEE303A1B94D3A5700D42741B2D8981CB963334E2771D3940489E002F52B759BB987A09757E263D1DDDC530AB0696AF20678A46B97B6"
+          },
+          {
+            "algorithm": "TLSH",
+            "algorithm_id": 6,
+            "value": "B58AFBA2F7CFABEB47A5255A2A13B296A4D897140024C2EF9B3C42449197D36D2AFC5617358DB1D946F0E08C747FE866F82039F69A1FBEE4ABEEFA82BBC34F33"
+          }
+        ],
+        "issuer": "assessments lincoln alfred",
+        "serial_number": "jason formats nerve",
+        "subject": "clearance expressed swaziland",
+        "version": "1.0.0-rc.3"
+      }
+    },
+    "type": "Folder",
+    "type_id": 2
+  },
+  "message": "kinds pvc depending",
+  "metadata": {
+    "correlation_uid": "1e04e7a0-0ac9-11ee-a21a-0242ac110003",
+    "labels": [
+      "electro",
+      "newer"
+    ],
+    "log_name": "amongst hwy flu",
+    "log_provider": "practitioner organization fog",
+    "original_time": "march emerging kde",
+    "product": {
+      "lang": "en",
+      "name": "delivered puerto czech",
+      "uid": "1e04f074-0ac9-11ee-be58-0242ac110003",
+      "vendor_name": "limousines biographies est",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "observables": [
+    {
+      "name": "thursday flying ae",
+      "type": "IP Address",
+      "type_id": 2
+    },
+    {
+      "name": "alice bbc combo",
+      "type": "Resource UID",
+      "type_id": 10
+    }
+  ],
+  "open_type": "france mpg reprint",
+  "response": {
+    "code": 43,
+    "error": "spiritual biotechnology gambling",
+    "error_message": "undefined explicit demonstrates",
+    "message": "mass toxic pupils"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "share_type": "sea",
+  "share_type_id": 99,
+  "src_endpoint": {
+    "hostname": "np.edu",
+    "instance_uid": "1e049bba-0ac9-11ee-acf3-0242ac110003",
+    "interface_name": "bits somerset doug",
+    "interface_uid": "1e04a178-0ac9-11ee-ae03-0242ac110003",
+    "ip": "252.91.247.33",
+    "name": "bool mississippi missions",
+    "svc_name": "back jar rarely",
+    "uid": "1e04a6a0-0ac9-11ee-85c2-0242ac110003",
+    "vpc_uid": "1e04aa4c-0ac9-11ee-8670-0242ac110003"
+  },
+  "status": "finds abortion encouraged",
+  "status_code": "old",
+  "time": 1686756940339066,
+  "timezone_offset": 47,
+  "type_name": "SMB Activity: Other",
+  "type_uid": 400699
+}

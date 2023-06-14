@@ -1,0 +1,62 @@
+{
+  "attempt": 19,
+  "banner": "pay authorization labeled",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "class_uid": 4009,
+  "direction": "Inbound",
+  "direction_id": 1,
+  "email": {
+    "cc": [
+      "Chaya@short.name"
+    ],
+    "from": "Kristina@charlotte.info",
+    "message_uid": "4c44e9a8-0ac9-11ee-8e49-0242ac110002",
+    "reply_to": "Zachariah@underlying.name",
+    "size": 1260159363,
+    "smtp_from": "Rebecca@cheese.jobs",
+    "smtp_to": [
+      "Vivien@cult.aero"
+    ],
+    "subject": "providers possibility speech",
+    "to": [
+      "Karlene@jr.web",
+      "Ronna@curve.biz"
+    ],
+    "uid": "4c44ef8e-0ac9-11ee-9861-0242ac110002"
+  },
+  "email_auth": {
+    "dkim": "assured i athletes",
+    "dkim_domain": "college swimming scenes",
+    "dkim_signature": "reading drop warranties",
+    "dmarc": "excited indirect comparative",
+    "dmarc_override": "software sg baseball",
+    "dmarc_policy": "forestry extent obtain"
+  },
+  "message": "cas cds our",
+  "metadata": {
+    "modified_time": 1686757017934737,
+    "product": {
+      "lang": "en",
+      "name": "mambo distinction devices",
+      "uid": "4c44df94-0ac9-11ee-90ea-0242ac110002",
+      "vendor_name": "dog commissioner illegal",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "smtp_hello": "haiti hist guidance",
+  "start_time": 1686757017934664,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757017934677,
+  "timezone_offset": 50,
+  "type_name": "Email Activity: Scan",
+  "type_uid": 400903
+}

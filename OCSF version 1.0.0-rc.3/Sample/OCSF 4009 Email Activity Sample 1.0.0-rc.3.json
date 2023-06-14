@@ -1,0 +1,64 @@
+{
+  "attempt": 26,
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "class_uid": 4009,
+  "direction": "Outbound",
+  "direction_id": 2,
+  "duration": 94,
+  "email": {
+    "cc": [
+      "Neil@accurate.biz",
+      "Fawn@shipping.travel"
+    ],
+    "from": "Latrisha@powell.pro",
+    "message_uid": "2a37d7d0-0ac9-11ee-a48b-0242ac110003",
+    "raw_header": "sporting craig caring",
+    "reply_to": "Rosio@limits.gov",
+    "size": 2463335463,
+    "smtp_from": "Maribel@nothing.gov",
+    "to": [
+      "Vanesa@mixture.pro"
+    ],
+    "uid": "2a37e2de-0ac9-11ee-b763-0242ac110003",
+    "x_originating_ip": [
+      "97.110.105.227"
+    ]
+  },
+  "email_auth": {
+    "dkim": "francisco rpm va",
+    "dkim_domain": "recover authentication lean",
+    "dkim_signature": "revenues choice acceptable",
+    "dmarc": "called discover exclude",
+    "dmarc_override": "solve edgar organizing",
+    "dmarc_policy": "security mhz instruction",
+    "spf": "sticks rt allan"
+  },
+  "message": "extremely insects precisely",
+  "metadata": {
+    "log_name": "morgan values derby",
+    "log_provider": "filme adjustments barcelona",
+    "processed_time": 1686756960807532,
+    "product": {
+      "lang": "en",
+      "name": "rm potential lobby",
+      "uid": "2a37ef22-0ac9-11ee-8c5e-0242ac110003",
+      "vendor_name": "exclude heavy gains",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "raw_data": "independently ftp interest",
+  "severity": "Low",
+  "severity_id": 2,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686756960806447,
+  "timezone_offset": 51,
+  "type_name": "Email Activity: Send",
+  "type_uid": 400901
+}

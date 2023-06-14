@@ -1,0 +1,82 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "auth_protocol": "SAML",
+  "auth_protocol_id": 5,
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "certificate": {
+    "created_time": 1686757113219692,
+    "expiration_time": 1686757113219699,
+    "fingerprints": [
+      {
+        "algorithm": "magic",
+        "algorithm_id": 99,
+        "value": "193015A29F6F8FDC73FF4ECD779C68DF80BB2D61317FB31C18B164D95EED128A"
+      },
+      {
+        "algorithm": "TLSH",
+        "algorithm_id": 6,
+        "value": "CB535E152EA216CB7EE1A6D784C3C657238C57FCD8CFD40F7D028FD50524EEE166196C445CFDA878CF38E56732F90D9EC4084A2FD4E1AF686A012E644182E880"
+      }
+    ],
+    "issuer": "ala responsibilities tries",
+    "serial_number": "belle greatest gaming",
+    "subject": "nodes weights doctors",
+    "version": "1.1.0-alpha"
+  },
+  "class_name": "Authentication",
+  "class_uid": 3002,
+  "count": 98,
+  "dst_endpoint": {
+    "hostname": "preparation.arpa",
+    "instance_uid": "85101424-0ac9-11ee-b4cd-0242ac110004",
+    "interface_name": "tension rays differences",
+    "interface_uid": "85101d20-0ac9-11ee-ac3e-0242ac110004",
+    "ip": "78.53.131.130",
+    "name": "announced about proceedings",
+    "port": 22646,
+    "svc_name": "verse move poultry",
+    "uid": "8510227a-0ac9-11ee-a451-0242ac110004",
+    "vpc_uid": "85102608-0ac9-11ee-87f1-0242ac110004"
+  },
+  "end_time": 1686757113220018,
+  "is_remote": false,
+  "logon_type": "New Credentials",
+  "logon_type_id": 9,
+  "message": "elsewhere magnet explanation",
+  "metadata": {
+    "log_provider": "really cnet broker",
+    "original_time": "specifically rock extra",
+    "product": {
+      "name": "brazil productivity employment",
+      "uid": "851043d6-0ac9-11ee-b957-0242ac110004",
+      "vendor_name": "eh globe incorporate",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 62,
+    "version": "1.1.0-alpha"
+  },
+  "service": {
+    "name": "console anymore hard",
+    "uid": "85103a94-0ac9-11ee-8c60-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1686757113218765,
+  "timezone_offset": 93,
+  "type_name": "Authentication: Unknown",
+  "type_uid": 300200,
+  "user": {
+    "credential_uid": "851032ec-0ac9-11ee-a96c-0242ac110004",
+    "name": "Plays",
+    "type": "User",
+    "type_id": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "activity_id": 6,
+  "activity_name": "Traffic",
+  "answers": [
+    {
+      "class": "resulted mlb dimensions",
+      "packet_uid": 62,
+      "rdata": "adds reject ashley",
+      "ttl": 23,
+      "type": "over fuzzy optimize"
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "class_uid": 4003,
+  "data": "oman",
+  "dst_endpoint": {
+    "hostname": "rug.org",
+    "instance_uid": "4b7486d2-0ac9-11ee-b0b8-0242ac110002",
+    "interface_name": "psychology cake also",
+    "interface_uid": "4b748d12-0ac9-11ee-b415-0242ac110002",
+    "ip": "107.140.163.22",
+    "svc_name": "mortality matter beyond",
+    "uid": "4b7491ae-0ac9-11ee-9b45-0242ac110002"
+  },
+  "message": "choir rock contest",
+  "metadata": {
+    "processed_time": 1686757016568727,
+    "product": {
+      "name": "understand landing widespread",
+      "uid": "4b746de6-0ac9-11ee-b632-0242ac110002",
+      "vendor_name": "balanced entries delivered",
+      "version": "1.0.0-rc.2"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "query": {
+    "class": "experimental deborah chosen",
+    "hostname": "peripheral.int",
+    "opcode": "dating frontier acquisitions",
+    "opcode_id": 1,
+    "packet_uid": 40,
+    "type": "potential answers chemistry"
+  },
+  "response_time": 1686757016569022,
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "hostname": "essential.aero",
+    "instance_uid": "4b749820-0ac9-11ee-91a9-0242ac110002",
+    "interface_name": "excerpt syracuse statements",
+    "ip": "53.50.154.216",
+    "port": 35869,
+    "svc_name": "rs documented archive",
+    "uid": "4b749ce4-0ac9-11ee-bb3e-0242ac110002"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757016568662,
+  "timezone_offset": 72,
+  "type_name": "DNS Activity: Traffic",
+  "type_uid": 400306
+}

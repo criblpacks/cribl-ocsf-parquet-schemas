@@ -1,0 +1,93 @@
+{
+  "activity_id": 5,
+  "activity_name": "Refuse",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "class_uid": 4007,
+  "client_hassh": {
+    "algorithm": "bahamas ann cut",
+    "fingerprint": {
+      "algorithm": "SHA-256",
+      "algorithm_id": 3,
+      "value": "D1A749AD879B6C07E1F356B260BA81F9CB5B4376072280C9994A5C125165B701"
+    }
+  },
+  "connection_info": {
+    "boundary": "Internet Gateway",
+    "boundary_id": 11,
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 5,
+    "protocol_ver": "3.2",
+    "tcp_flags": 72
+  },
+  "count": 35,
+  "dst_endpoint": {
+    "hostname": "houses.info",
+    "instance_uid": "833949a4-0ac9-11ee-8d98-0242ac110004",
+    "interface_name": "watched frequent dj",
+    "interface_uid": "83394e2c-0ac9-11ee-b554-0242ac110004",
+    "ip": "224.195.11.121",
+    "name": "victims roy beginner",
+    "port": 30941,
+    "svc_name": "terrorist alike respected",
+    "uid": "833952a0-0ac9-11ee-bd2a-0242ac110004"
+  },
+  "duration": 12,
+  "message": "lonely trustees allows",
+  "metadata": {
+    "labels": [
+      "ml",
+      "naturals"
+    ],
+    "log_name": "nose simple interior",
+    "log_provider": "computation thursday offices",
+    "modified_time": 1686757110134302,
+    "processed_time": 1686757110134309,
+    "product": {
+      "lang": "en",
+      "name": "restrictions l proposition",
+      "uid": "833974f6-0ac9-11ee-8077-0242ac110004",
+      "vendor_name": "isaac softball brothers",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "833979ec-0ac9-11ee-a5c6-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "protocol_ver": "3.4",
+  "server_hassh": {
+    "algorithm": "ftp souls competitive",
+    "fingerprint": {
+      "algorithm": "SHA-1",
+      "algorithm_id": 2,
+      "value": "B26DC72D261A92C1CFD1E643717E450A84CF2122"
+    }
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "hostname": "travelling.jobs",
+    "instance_uid": "83392d16-0ac9-11ee-9822-0242ac110004",
+    "interface_name": "gourmet abu packets",
+    "interface_uid": "8339393c-0ac9-11ee-8bfe-0242ac110004",
+    "intermediate_ips": [
+      "22.18.193.157",
+      "148.254.164.44"
+    ],
+    "ip": "149.24.38.98",
+    "name": "reprints souls else",
+    "port": 24525,
+    "svc_name": "toxic quick coral",
+    "uid": "83393f7c-0ac9-11ee-94e0-0242ac110004"
+  },
+  "start_time": 1686757110135059,
+  "status": "dice amateur lexmark",
+  "time": 1686757110133562,
+  "timezone_offset": 77,
+  "type_name": "SSH Activity: Refuse",
+  "type_uid": 400705
+}

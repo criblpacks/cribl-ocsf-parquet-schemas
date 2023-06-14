@@ -1,0 +1,76 @@
+{
+  "activity_id": 99,
+  "activity_name": "great",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "class_uid": 5001,
+  "device": {
+    "created_time": 1686757111698162,
+    "domain": "bedroom implement privilege",
+    "first_seen_time": 1686757111698133,
+    "hostname": "botswana.net",
+    "instance_uid": "8427fc0c-0ac9-11ee-97dd-0242ac110004",
+    "interface_name": "sites bus visual",
+    "interface_uid": "8427f770-0ac9-11ee-bb8b-0242ac110004",
+    "ip": "181.172.205.155",
+    "is_managed": true,
+    "modified_time": 1686757111698159,
+    "name": "given atlanta guard",
+    "network_interfaces": [
+      {
+        "hostname": "bikini.gov",
+        "ip": "89.158.158.148",
+        "mac": "2C:13:E8:3C:2B:39:E2:E",
+        "type": "brought",
+        "type_id": 99
+      },
+      {
+        "hostname": "how.firm",
+        "ip": "225.212.66.185",
+        "mac": "E2:E8:83:3F:E9:32:CF:61",
+        "name": "interpretation joke jews",
+        "namespace": "out finnish buried",
+        "type": "advanced",
+        "type_id": 99
+      }
+    ],
+    "region": "possibility bones paying",
+    "subnet": "18.0.0.0/8",
+    "type": "Browser",
+    "type_id": 8,
+    "uid": "8427f202-0ac9-11ee-a6a2-0242ac110004"
+  },
+  "duration": 66,
+  "message": "sega forum liked",
+  "metadata": {
+    "labels": [
+      "simultaneously"
+    ],
+    "log_name": "metadata artists big",
+    "log_provider": "ever omega lord",
+    "logged_time": 1686757111698300,
+    "original_time": "fired asp identity",
+    "product": {
+      "lang": "en",
+      "name": "excessive chat dosage",
+      "uid": "84280986-0ac9-11ee-8db0-0242ac110004",
+      "vendor_name": "murphy model centuries",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "84280dd2-0ac9-11ee-ac8e-0242ac110004",
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "Failure",
+  "status_detail": "arbitration said pipeline",
+  "status_id": 2,
+  "time": 1686757111697245,
+  "timezone_offset": 79,
+  "type_name": "Device Inventory Info: Other",
+  "type_uid": 500199
+}

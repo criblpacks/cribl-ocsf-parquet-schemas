@@ -1,0 +1,64 @@
+{
+  "activity_id": 9,
+  "activity_name": "Expire",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "class_uid": 4004,
+  "count": 23,
+  "data": "hierarchy",
+  "dst_endpoint": {
+    "hostname": "queen.aero",
+    "instance_uid": "4a82660e-0ac9-11ee-8a50-0242ac110002",
+    "interface_name": "surge must revolution",
+    "interface_uid": "4a826a8c-0ac9-11ee-97e1-0242ac110002",
+    "ip": "254.117.151.10",
+    "port": 33018,
+    "subnet_uid": "4a826ec4-0ac9-11ee-81a6-0242ac110002",
+    "svc_name": "developers echo sox",
+    "uid": "4a8272c0-0ac9-11ee-8c06-0242ac110002"
+  },
+  "end_time": 1686757014982578,
+  "metadata": {
+    "original_time": "exchange relative liable",
+    "product": {
+      "feature": {
+        "name": "switzerland seeking though",
+        "uid": "4a825ae2-0ac9-11ee-986c-0242ac110002",
+        "version": "1.0.0-rc.2"
+      },
+      "lang": "en",
+      "name": "gift beach council",
+      "path": "/blond/kill/acts/taxi/entities",
+      "vendor_name": "compressed dash unsubscribe"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.2"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "src_endpoint": {
+    "domain": "chip tions students",
+    "hostname": "central.pro",
+    "instance_uid": "4a828b2a-0ac9-11ee-bdfc-0242ac110002",
+    "interface_name": "cells streams myrtle",
+    "interface_uid": "4a828f94-0ac9-11ee-b2e4-0242ac110002",
+    "intermediate_ips": [
+      "66.14.117.209",
+      "234.168.55.154"
+    ],
+    "ip": "60.38.233.75",
+    "port": 19079,
+    "svc_name": "lib noble recording",
+    "uid": "4a839f9c-0ac9-11ee-bf52-0242ac110002"
+  },
+  "start_time": 1686757014982160,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757014982173,
+  "timezone_offset": 95,
+  "type_name": "DHCP Activity: Expire",
+  "type_uid": 400409
+}

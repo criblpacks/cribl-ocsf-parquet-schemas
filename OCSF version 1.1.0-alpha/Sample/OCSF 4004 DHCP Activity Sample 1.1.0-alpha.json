@@ -1,0 +1,59 @@
+{
+  "activity_id": 99,
+  "activity_name": "istanbul",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "class_uid": 4004,
+  "dst_endpoint": {
+    "hostname": "brilliant.int",
+    "instance_uid": "7f0ebbc0-0ac9-11ee-a478-0242ac110004",
+    "interface_name": "judge eddie respondents",
+    "interface_uid": "7f0ebfee-0ac9-11ee-8a8a-0242ac110004",
+    "ip": "141.20.92.101",
+    "name": "comprehensive packs either",
+    "port": 57940,
+    "svc_name": "change rca represent",
+    "uid": "7f0ec444-0ac9-11ee-8f19-0242ac110004"
+  },
+  "duration": 31,
+  "is_renewal": false,
+  "message": "predict visiting ferrari",
+  "metadata": {
+    "correlation_uid": "7f0ecc3c-0ac9-11ee-8935-0242ac110004",
+    "event_code": "planet",
+    "log_name": "freight presidential many",
+    "log_provider": "tip examples rip",
+    "logged_time": 1686757103145124,
+    "original_time": "putting trek lebanon",
+    "product": {
+      "lang": "en",
+      "uid": "7f0eee56-0ac9-11ee-843f-0242ac110004",
+      "vendor_name": "assigned comparisons d"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "gossip.coop",
+    "interface_name": "literacy opposite postal",
+    "interface_uid": "7f0eaa18-0ac9-11ee-a46f-0242ac110004",
+    "ip": "175.171.254.211",
+    "name": "laundry sacred tail",
+    "port": 57671,
+    "svc_name": "outer experts private",
+    "uid": "7f0eb012-0ac9-11ee-b13e-0242ac110004"
+  },
+  "start_time": 1686757103145375,
+  "status": "Unknown",
+  "status_code": "speech",
+  "status_id": 0,
+  "time": 1686757103143749,
+  "timezone_offset": 11,
+  "type_name": "DHCP Activity: Other",
+  "type_uid": 400499
+}

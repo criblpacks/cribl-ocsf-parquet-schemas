@@ -1,0 +1,56 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "User Access Management",
+  "class_uid": 3005,
+  "duration": 11,
+  "message": "carnival suite guided",
+  "metadata": {
+    "log_name": "mouse walks realistic",
+    "log_provider": "departments thousand plus",
+    "original_time": "imports industry icon",
+    "product": {
+      "feature": {
+        "name": "basics programmes emacs",
+        "uid": "7ffdee2a-0ac9-11ee-b47d-0242ac110004",
+        "version": "1.1.0-alpha"
+      },
+      "name": "belly establishment parties",
+      "path": "whole modified vincent",
+      "uid": "7ffdf35c-0ac9-11ee-a1c8-0242ac110004",
+      "vendor_name": "showers projection marked",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "privileges": [
+    "complaint breeds fishing",
+    "imports peripherals mid"
+  ],
+  "severity": "High",
+  "severity_id": 4,
+  "start_time": 1686757104711797,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1686757104710645,
+  "timezone_offset": 44,
+  "type_name": "User Access Management: Unknown",
+  "type_uid": 300500,
+  "user": {
+    "full_name": "Celestine Iris",
+    "name": "Bikini",
+    "org": {
+      "name": "october aj uzbekistan",
+      "ou_name": "ian fired charming",
+      "uid": "7ffdd69c-0ac9-11ee-8f75-0242ac110004"
+    },
+    "type": "peripherals",
+    "type_id": 99,
+    "uid": "7ffddc78-0ac9-11ee-a1c8-0242ac110004"
+  }
+}

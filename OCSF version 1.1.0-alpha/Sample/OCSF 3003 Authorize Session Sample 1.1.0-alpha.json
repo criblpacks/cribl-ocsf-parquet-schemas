@@ -1,0 +1,61 @@
+{
+  "activity_id": 1,
+  "activity_name": "Assign Privileges",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Authorize Session",
+  "class_uid": 3003,
+  "count": 95,
+  "group": {
+    "desc": "styles scored thesaurus",
+    "uid": "6c583a2e-0ac9-11ee-9adc-0242ac110004"
+  },
+  "message": "dl secretariat transport",
+  "metadata": {
+    "log_name": "airline fill serial",
+    "original_time": "mas losses aim",
+    "processed_time": 1686757071749083,
+    "product": {
+      "feature": {
+        "name": "civilization salvador magic",
+        "uid": "6c58453c-0ac9-11ee-a7df-0242ac110004",
+        "version": "1.1.0-alpha"
+      },
+      "lang": "en",
+      "name": "transmit tn ag",
+      "path": "download senator mart",
+      "uid": "6c5849b0-0ac9-11ee-bcdf-0242ac110004",
+      "vendor_name": "mix sin novels",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 98,
+    "version": "1.1.0-alpha"
+  },
+  "privileges": [
+    "english spirits sons"
+  ],
+  "session": {
+    "created_time": 1686757071747936,
+    "is_remote": false,
+    "issuer": "awards tp wins",
+    "uid": "6c581a12-0ac9-11ee-a6a7-0242ac110004",
+    "uuid": "6c581e22-0ac9-11ee-b43a-0242ac110004"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1686757071748280,
+  "timezone_offset": 3,
+  "type_name": "Authorize Session: Assign Privileges",
+  "type_uid": 300301,
+  "user": {
+    "name": "Pupils",
+    "type": "System",
+    "type_id": 3,
+    "uid": "6c582d86-0ac9-11ee-87a2-0242ac110004"
+  }
+}

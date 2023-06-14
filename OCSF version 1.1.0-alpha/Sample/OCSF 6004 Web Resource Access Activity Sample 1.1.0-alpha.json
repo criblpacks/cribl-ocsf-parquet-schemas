@@ -1,0 +1,140 @@
+{
+  "activity_id": 99,
+  "activity_name": "tt",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "class_uid": 6004,
+  "end_time": 1686757065495424,
+  "http_request": {
+    "http_headers": [
+      {
+        "name": "guarantees physiology magnet",
+        "value": "glasgow representation initiative"
+      },
+      {
+        "name": "spin throat cool",
+        "value": "prime tons fun"
+      }
+    ],
+    "http_method": "CONNECT",
+    "url": {
+      "category_ids": [
+        67
+      ],
+      "hostname": "lips.name",
+      "path": "dried across survival",
+      "port": 33338,
+      "query_string": "fish wherever not",
+      "scheme": "cleanup prozac belfast",
+      "url_string": "principles"
+    },
+    "user_agent": "length fist icon",
+    "version": "1.1.0-alpha"
+  },
+  "metadata": {
+    "log_name": "shall willing custody",
+    "log_provider": "treasure plugin medicines",
+    "original_time": "tramadol application wilderness",
+    "product": {
+      "name": "introduces anxiety headquarters",
+      "uid": "689e25e2-0ac9-11ee-9ac3-0242ac110004",
+      "vendor_name": "bulgaria avi sick",
+      "version": "1.1.0-alpha"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-alpha"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "papua.firm",
+    "instance_uid": "689dcafc-0ac9-11ee-bde6-0242ac110004",
+    "interface_name": "stewart nam principles",
+    "ip": "244.156.185.179",
+    "name": "nuclear admit portraits",
+    "port": 61616,
+    "subnet_uid": "689dd0b0-0ac9-11ee-bb58-0242ac110004",
+    "svc_name": "specific camping partition",
+    "uid": "689dd7ea-0ac9-11ee-8ecc-0242ac110004"
+  },
+  "status": "Failure",
+  "status_detail": "db ix chance",
+  "status_id": 2,
+  "time": 1686757065494416,
+  "timezone_offset": 5,
+  "tls": {
+    "certificate": {
+      "created_time": 1686757065495534,
+      "expiration_time": 1686757065495538,
+      "fingerprints": [
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "1E4E0675EB770BBA499266305DC916B9868DDB30C5741441F84E663E119C0540"
+        }
+      ],
+      "issuer": "findings shelf nu",
+      "serial_number": "il take app",
+      "subject": "sun dom usgs",
+      "version": "1.1.0-alpha"
+    },
+    "certificate_chain": [
+      "workflow supporting private"
+    ],
+    "cipher": "cabinet maiden puzzle",
+    "client_ciphers": [
+      "bookmarks bin spa",
+      "boats americas worldwide"
+    ],
+    "ja3_hash": {
+      "algorithm": "MD5",
+      "algorithm_id": 1,
+      "value": "742929DCB631403D7C1C1EFAD2CA2700"
+    },
+    "ja3s_hash": {
+      "algorithm": "MD5",
+      "algorithm_id": 1,
+      "value": "ED8B9EDA2A42FDE43A183DDD3908F8E4"
+    },
+    "server_ciphers": [
+      "lending pacific plenty"
+    ],
+    "sni": "gd deluxe cc",
+    "version": "1.1.0-alpha"
+  },
+  "type_name": "Web Resource Access Activity: Other",
+  "type_uid": 600499,
+  "web_resources": [
+    {
+      "type": "demonstrated add retreat",
+      "url": {
+        "category_ids": [
+          47
+        ],
+        "hostname": "chase.mil",
+        "path": "speed hobby explicit",
+        "port": 31049,
+        "query_string": "conclude dreams divorce",
+        "scheme": "roland children play",
+        "url_string": "server"
+      }
+    },
+    {
+      "url": {
+        "category_ids": [
+          66,
+          31
+        ],
+        "hostname": "lucas.edu",
+        "path": "fake bodies connection",
+        "port": 19615,
+        "query_string": "trip apply airplane",
+        "scheme": "internal carriers celebrity",
+        "url_string": "turns"
+      }
+    }
+  ]
+}

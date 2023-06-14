@@ -1,0 +1,220 @@
+{
+  "activity_id": 2,
+  "activity_name": "Update",
+  "analytic": {
+    "name": "such reserved suite",
+    "type": "creates",
+    "type_id": 99
+  },
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Security Finding",
+  "class_uid": 2001,
+  "evidence": "aluminum",
+  "finding": {
+    "product_uid": "22fa55c4-0ac9-11ee-86e8-0242ac110003",
+    "src_url": "hl",
+    "title": "knives capable cameroon",
+    "types": [
+      "plasma theories qld",
+      "correction opportunity camping"
+    ],
+    "uid": "22fa68ca-0ac9-11ee-b47c-0242ac110003"
+  },
+  "impact": "Critical",
+  "impact_id": 4,
+  "message": "autos she flashers",
+  "metadata": {
+    "log_name": "st leaving anything",
+    "log_provider": "trinidad sticks verde",
+    "original_time": "impact cable web",
+    "product": {
+      "feature": {
+        "name": "believed hr proven",
+        "version": "1.0.0-rc.3"
+      },
+      "lang": "en",
+      "name": "fact watches we",
+      "uid": "22fa967e-0ac9-11ee-a589-0242ac110003",
+      "vendor_name": "capable rat died",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "process": {
+    "cmd_line": "frame clinic cleaners",
+    "created_time": 1686756948661796,
+    "file": {
+      "attributes": 8,
+      "creator": {
+        "name": "Cached",
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "22faaace-0ac9-11ee-a7f4-0242ac110003",
+        "uid_alt": "mining ruby ink"
+      },
+      "desc": "symphony inner accent",
+      "hashes": [
+        {
+          "algorithm": "Unknown",
+          "algorithm_id": 0,
+          "value": "E4316CBEFA8B5F0493FA11D95C313BBB14B842E083F6BBD7D33221E99B9D1BBBB8AA77E9504BA848A362E885A0D485927F2E7E8E8AA3365761C722C7AD2986FD"
+        },
+        {
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7,
+          "value": "BDEB5946584624F4516251B501A7D420C3A42737C0301133887F371677CAF9B5DDF96C4F6C9E2225A884E39F44EE7D34367BD62681A7C5C7BD9D73A70F245B6B"
+        }
+      ],
+      "modified_time": 1686756948665948,
+      "name": "weed.tmp",
+      "parent_folder": "lodging mathematical forecasts/september.dtd",
+      "path": "lodging mathematical forecasts/september.dtd/weed.tmp",
+      "type": "Regular File",
+      "type_id": 1
+    },
+    "lineage": [
+      "jeep exists mu",
+      "latitude lid vulnerability"
+    ],
+    "name": "Regulatory",
+    "parent_process": {
+      "cmd_line": "hairy rover neighbor",
+      "created_time": 1686756948666332,
+      "name": "Soma",
+      "parent_process": {
+        "cmd_line": "font effective operate",
+        "created_time": 1686756948666450,
+        "file": {
+          "creator": {
+            "groups": [
+              {
+                "name": "style mauritius oil",
+                "privileges": [
+                  "aj radius multimedia"
+                ],
+                "uid": "22fb63ba-0ac9-11ee-a59e-0242ac110003"
+              },
+              {
+                "name": "recognition increase offshore",
+                "uid": "22fb68c4-0ac9-11ee-94fd-0242ac110003"
+              }
+            ],
+            "name": "Grad",
+            "type": "Admin",
+            "type_id": 2
+          },
+          "hashes": [
+            {
+              "algorithm": "SHA-512",
+              "algorithm_id": 4,
+              "value": "428321E30BDACD5B86203C75AF1F4DBA6EAB5FF0B8B70C30D97BF6F4005E3F2E5099BE003976741FB840905E9D48D7BED5D790B95A6C3FB0EB80E6938BFA8643"
+            },
+            {
+              "algorithm": "MD5",
+              "algorithm_id": 1,
+              "value": "46FE79A0A8AD96134E0183967F457476"
+            }
+          ],
+          "is_system": false,
+          "name": "b.mpg",
+          "parent_folder": "nuts forbes revelation/fixed.vcd",
+          "path": "nuts forbes revelation/fixed.vcd/b.mpg",
+          "product": {
+            "lang": "en",
+            "name": "auction stopping compliance",
+            "uid": "22fb7594-0ac9-11ee-baad-0242ac110003",
+            "vendor_name": "patches evidence income",
+            "version": "1.0.0-rc.3"
+          },
+          "size": 4188270249,
+          "type": "Symbolic Link",
+          "type_id": 7
+        },
+        "pid": 36,
+        "sandbox": "hb jill absent",
+        "uid": "22fb7c1a-0ac9-11ee-bbee-0242ac110003",
+        "user": {
+          "name": "Bookstore",
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "22fb8336-0ac9-11ee-ac9a-0242ac110003",
+          "uid_alt": "isp usa science"
+        }
+      },
+      "session": {
+        "created_time": 1686756948667738,
+        "is_remote": false,
+        "uid": "22fc6a80-0ac9-11ee-b46e-0242ac110003"
+      },
+      "terminated_time": 1686756948673615,
+      "uid": "22fc7052-0ac9-11ee-ba13-0242ac110003",
+      "user": {
+        "account": {
+          "name": "arcade assisted minimal",
+          "type": "Windows Account",
+          "type_id": 2,
+          "uid": "22fc7bd8-0ac9-11ee-a71d-0242ac110003"
+        },
+        "domain": "discussing america endangered",
+        "email_addr": "Jenice@indicators.firm",
+        "full_name": "Travis Lavonna",
+        "name": "Snowboard",
+        "org": {
+          "ou_name": "characterization annoying gross",
+          "uid": "22fcca0c-0ac9-11ee-abf0-0242ac110003"
+        },
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "22fcd038-0ac9-11ee-b2d6-0242ac110003"
+      }
+    },
+    "pid": 30,
+    "user": {
+      "name": "Mold",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "22fcd998-0ac9-11ee-b9d2-0242ac110003",
+      "uid_alt": "stephanie distribute rx"
+    },
+    "xattributes": {}
+  },
+  "resources": [
+    {
+      "owner": {
+        "account": {
+          "name": "philips mi beds",
+          "type": "AWS IAM User",
+          "type_id": 3,
+          "uid": "22fcfcf2-0ac9-11ee-9f61-0242ac110003"
+        },
+        "full_name": "Stacie Renda",
+        "name": "Exotic",
+        "org": {
+          "name": "loads bell paint",
+          "uid": "22fd059e-0ac9-11ee-821a-0242ac110003"
+        },
+        "type": "User",
+        "type_id": 1,
+        "uid": "22fd0a1c-0ac9-11ee-9450-0242ac110003"
+      },
+      "type": "belgium managed secure",
+      "uid": "22fd0e7c-0ac9-11ee-b22a-0242ac110003"
+    }
+  ],
+  "risk_level": "Low",
+  "risk_level_id": 1,
+  "severity": "Unknown",
+  "severity_id": 0,
+  "state": "Resolved",
+  "state_id": 4,
+  "status": "Failure",
+  "status_code": "initiatives",
+  "status_id": 2,
+  "time": 1686756948660627,
+  "type_name": "Security Finding: Update",
+  "type_uid": 200102
+}

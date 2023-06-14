@@ -1,0 +1,101 @@
+{
+  "activity_id": 1,
+  "activity_name": "Initial Request",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "RDP Activity",
+  "class_uid": 4005,
+  "connection_info": {
+    "boundary": "Virtual Private Gateway",
+    "boundary_id": 6,
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 87,
+    "tcp_flags": 97
+  },
+  "dst_endpoint": {
+    "domain": "jd herbal basketball",
+    "hostname": "added.mil",
+    "interface_name": "gun deeply back",
+    "interface_uid": "2cd8c6ca-0ac9-11ee-b3bb-0242ac110003",
+    "ip": "92.78.182.187",
+    "name": "examine silent stop",
+    "port": 37422,
+    "svc_name": "young translations reviewing",
+    "uid": "2cd8cb7a-0ac9-11ee-84ed-0242ac110003",
+    "vlan_uid": "2cd8cfc6-0ac9-11ee-98a8-0242ac110003"
+  },
+  "end_time": 1686756965217615,
+  "enrichments": [
+    {
+      "data": "king",
+      "name": "governor developer biol",
+      "provider": "niger talent false",
+      "type": "ga mines what",
+      "value": "aside microphone survivors"
+    },
+    {
+      "data": "workshops",
+      "name": "differential province nominations",
+      "provider": "reported obtaining glance",
+      "type": "telling step bones",
+      "value": "continent sys flow"
+    }
+  ],
+  "message": "trademark easier payment",
+  "metadata": {
+    "labels": [
+      "apparent",
+      "momentum"
+    ],
+    "log_name": "uri torture percent",
+    "log_provider": "bufing lose packet",
+    "modified_time": 1686756965218260,
+    "original_time": "conviction lewis durham",
+    "product": {
+      "lang": "en",
+      "name": "dropped talked border",
+      "uid": "2cd8fb0e-0ac9-11ee-bada-0242ac110003",
+      "vendor_name": "inquiry vulnerability nam",
+      "version": "1.0.0-rc.3"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0-rc.3"
+  },
+  "protocol_ver": "1",
+  "request": {
+    "flags": [
+      "puzzle future create",
+      "geological auction bass"
+    ],
+    "uid": "2cd8e268-0ac9-11ee-ac3b-0242ac110003"
+  },
+  "response": {
+    "code": 74,
+    "error_message": "events de reseller",
+    "message": "refused response lawyer"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "focused.info",
+    "instance_uid": "2cd8abc2-0ac9-11ee-b4b0-0242ac110003",
+    "interface_name": "cholesterol wit markets",
+    "interface_uid": "2cd8b310-0ac9-11ee-80e1-0242ac110003",
+    "ip": "198.47.48.27",
+    "name": "lobby routes praise",
+    "port": 60018,
+    "svc_name": "found charged grades",
+    "uid": "2cd8b96e-0ac9-11ee-b9e4-0242ac110003",
+    "vpc_uid": "2cd8bd4c-0ac9-11ee-a952-0242ac110003"
+  },
+  "status": "Success",
+  "status_detail": "chairs sao completed",
+  "status_id": 1,
+  "time": 1686756965217012,
+  "timezone_offset": 84,
+  "type_name": "RDP Activity: Initial Request",
+  "type_uid": 400501
+}
