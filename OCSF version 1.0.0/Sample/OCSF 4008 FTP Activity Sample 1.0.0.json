@@ -1,0 +1,94 @@
+{
+  "activity_id": 3,
+  "activity_name": "Poll",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "class_uid": 4008,
+  "codes": [
+    89
+  ],
+  "command": "offerings disorders directive",
+  "command_responses": [
+    "russia detect gauge",
+    "switzerland samsung copper"
+  ],
+  "connection_info": {
+    "direction": "inspection",
+    "direction_id": 99,
+    "protocol_name": "float ing project",
+    "protocol_num": 60,
+    "uid": "5a864430-3607-11ee-a43f-0242ac110004"
+  },
+  "dst_endpoint": {
+    "domain": "reforms architecture wma",
+    "hostname": "arrangement.nato",
+    "instance_uid": "5a867504-3607-11ee-ae74-0242ac110004",
+    "interface_uid": "5a867874-3607-11ee-9d5c-0242ac110004",
+    "ip": "68.185.240.215",
+    "name": "ought gratuit sport",
+    "port": 59889,
+    "svc_name": "used dublin robots",
+    "vpc_uid": "5a867cac-3607-11ee-8937-0242ac110004"
+  },
+  "duration": 6,
+  "metadata": {
+    "log_name": "laura landing jul",
+    "log_provider": "gathering camel optical",
+    "original_time": "round tribune approximate",
+    "processed_time": 1691511570647614,
+    "product": {
+      "feature": {
+        "name": "source gap frequency",
+        "uid": "5a86354e-3607-11ee-be82-0242ac110004",
+        "version": "1.0.0"
+      },
+      "lang": "en",
+      "name": "printers corpus bailey",
+      "uid": "5a863a94-3607-11ee-a33d-0242ac110004",
+      "vendor_name": "credit brave chuck",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "name": "manhattan chapters radius",
+  "port": 18574,
+  "proxy": {
+    "hostname": "sentence.gov",
+    "ip": "114.109.158.157",
+    "name": "equal bad sporting",
+    "port": 60642,
+    "svc_name": "risk strengths ha",
+    "uid": "5a866280-3607-11ee-bff0-0242ac110004",
+    "vpc_uid": "5a866c58-3607-11ee-86fe-0242ac110004"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "hostname": "dicke.mil",
+    "instance_uid": "5a864d68-3607-11ee-ba63-0242ac110004",
+    "interface_name": "remarkable spin dare",
+    "interface_uid": "5a865196-3607-11ee-840e-0242ac110004",
+    "ip": "123.59.171.232",
+    "name": "thumbnails thousand sewing",
+    "port": 6981,
+    "svc_name": "acute auckland reporting",
+    "uid": "5a865614-3607-11ee-92db-0242ac110004",
+    "vpc_uid": "5a865966-3607-11ee-902d-0242ac110004"
+  },
+  "status": "serving",
+  "status_code": "hide",
+  "status_detail": "hotel handed lol",
+  "status_id": 99,
+  "time": 1691511570648197,
+  "timezone_offset": 98,
+  "traffic": {
+    "packets": 3910695260
+  },
+  "type": "ep sellers vietnam",
+  "type_name": "FTP Activity: Poll",
+  "type_uid": 400803
+}

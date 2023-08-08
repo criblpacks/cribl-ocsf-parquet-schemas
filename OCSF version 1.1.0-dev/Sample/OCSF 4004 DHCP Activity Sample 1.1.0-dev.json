@@ -1,0 +1,71 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "class_uid": 4004,
+  "dst_endpoint": {
+    "hostname": "msg.pro",
+    "instance_uid": "401d6c9a-3607-11ee-9b72-0242ac110005",
+    "interface_name": "britain ipaq roses",
+    "interface_uid": "401d7636-3607-11ee-a530-0242ac110005",
+    "ip": "71.208.211.99",
+    "location": {
+      "city": "Very descriptions",
+      "continent": "Africa",
+      "coordinates": [
+        10.5743,
+        -64.1597
+      ],
+      "country": "YT",
+      "desc": "Mayotte"
+    },
+    "name": "three unwrap madonna",
+    "port": 18088,
+    "svc_name": "yamaha vacuum correctly",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "401d86b2-3607-11ee-9c5d-0242ac110005"
+  },
+  "metadata": {
+    "correlation_uid": "401da0a2-3607-11ee-92ec-0242ac110005",
+    "log_name": "elite expectations ignored",
+    "log_provider": "certainly documented teachers",
+    "log_version": "patients brain environment",
+    "original_time": "carmen lowest fact",
+    "processed_time": 1691511526342017,
+    "product": {
+      "name": "institute informed david",
+      "uid": "401dae44-3607-11ee-a81a-0242ac110005",
+      "url_string": "maine",
+      "vendor_name": "gb fifty je",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "domain": "tucson web oo",
+    "instance_uid": "401d8f68-3607-11ee-824e-0242ac110005",
+    "interface_name": "fat aggressive rope",
+    "ip": "210.231.162.117",
+    "name": "nikon raleigh than",
+    "port": 33608,
+    "svc_name": "exit paintball tell",
+    "type": "Server",
+    "type_id": 1,
+    "uid": "401d945e-3607-11ee-9ffa-0242ac110005",
+    "vlan_uid": "401d97d8-3607-11ee-a9c6-0242ac110005"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511526340206,
+  "timezone_offset": 55,
+  "type_name": "DHCP Activity: Unknown",
+  "type_uid": 400400
+}

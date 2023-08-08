@@ -1,0 +1,149 @@
+{
+  "activity_id": 4,
+  "activity_name": "Enable",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Scheduled Job Activity",
+  "class_uid": 1006,
+  "device": {
+    "first_seen_time": 1691511528500142,
+    "hostname": "del.jobs",
+    "hw_info": {
+      "bios_ver": "1",
+      "cpu_speed": 45,
+      "desktop_display": {
+        "color_depth": 14,
+        "physical_height": 47,
+        "physical_orientation": 11,
+        "physical_width": 70
+      }
+    },
+    "instance_uid": "4166e478-3607-11ee-a755-0242ac110005",
+    "interface_name": "del reward fcc",
+    "ip": "144.141.162.210",
+    "is_compliant": true,
+    "is_personal": true,
+    "is_trusted": false,
+    "name": "services io portrait",
+    "type": "recorded",
+    "type_id": 99,
+    "uid": "4166e9aa-3607-11ee-bbfe-0242ac110005",
+    "vpc_uid": "4166fb02-3607-11ee-b38e-0242ac110005"
+  },
+  "duration": 73,
+  "end_time": 1691511528501458,
+  "enrichments": [
+    {
+      "data": "yarn",
+      "name": "dan cleanup bc",
+      "provider": "metallica basic kate",
+      "type": "syracuse rh fx",
+      "value": "funny duncan manufactured"
+    },
+    {
+      "data": "thou",
+      "name": "blogging gets engines",
+      "provider": "ipaq precious iraqi",
+      "type": "illustrations tri ton",
+      "value": "links humor volt"
+    }
+  ],
+  "job": {
+    "cmd_line": "succeed finnish certification",
+    "created_time": 1691511528500393,
+    "desc": "missouri worked hungarian",
+    "file": {
+      "attributes": 96,
+      "confidentiality": "Unknown",
+      "confidentiality_id": 0,
+      "desc": "uniprotkb celebrity ff",
+      "hashes": [
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "21055733AF33555ACA4A71BDC87D13819CDE6CF3E49AEBD8DB3BCB15A457A0BE"
+        },
+        {
+          "algorithm": "CTPH",
+          "algorithm_id": 5,
+          "value": "DED22C9BD082054E5B07AEF730300F30CE3AB6605AAC47BD0E583A56B768DF642813F276FAF6A012BFDD37404B590FE1A5496F7D600D9E4A0BD763FD6F2DAEE7"
+        }
+      ],
+      "name": "agreement.ged",
+      "owner": {
+        "name": "Contained",
+        "type": "Unknown",
+        "type_id": 0
+      },
+      "parent_folder": "challenges analyzes appropriate/receivers.swift",
+      "path": "challenges analyzes appropriate/receivers.swift/agreement.ged",
+      "signature": {
+        "algorithm": "RSA",
+        "algorithm_id": 2,
+        "certificate": {
+          "created_time": 1691511528501061,
+          "expiration_time": 1691511528501069,
+          "fingerprints": [
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "15FEE91700477E882C223AC789B237C16DD8BC9EF9BD9C3944B306FD9DEA405A"
+            }
+          ],
+          "issuer": "buy society occupations",
+          "serial_number": "arg pens concerning",
+          "version": "1.1.0-dev"
+        },
+        "digest": {
+          "algorithm": "Unknown",
+          "algorithm_id": 0,
+          "value": "883BF9753268175CFE9617D482380785131AE434AFF62B72845DF65714CFDC6ACD447AEA5B10FC379054FAA841E24151F4D0AD27E28E14A3F299E159278041B7"
+        }
+      },
+      "type": "Character Device",
+      "type_id": 3
+    },
+    "name": "happening campaigns neighbors",
+    "next_run_time": 1691511528501388,
+    "run_state": "ecuador coming stan"
+  },
+  "message": "burlington implied function",
+  "metadata": {
+    "correlation_uid": "416734b4-3607-11ee-8b58-0242ac110005",
+    "extension": {
+      "name": "politics bloggers muscles",
+      "uid": "4167409e-3607-11ee-8ac0-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "log_name": "runtime attack deleted",
+    "log_provider": "phpbb contacting approximately",
+    "logged_time": 1691511528502120,
+    "original_time": "consent dave above",
+    "product": {
+      "name": "upcoming generating boutique",
+      "uid": "4167490e-3607-11ee-b31b-0242ac110005",
+      "vendor_name": "translation hold cooked",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 57,
+    "version": "1.1.0-dev"
+  },
+  "observables": [
+    {
+      "name": "ampland sh dried",
+      "type": "IP Address",
+      "type_id": 2
+    }
+  ],
+  "severity": "listed",
+  "severity_id": 99,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511528499107,
+  "timezone_offset": 50,
+  "type_name": "Scheduled Job Activity: Enable",
+  "type_uid": 100604
+}

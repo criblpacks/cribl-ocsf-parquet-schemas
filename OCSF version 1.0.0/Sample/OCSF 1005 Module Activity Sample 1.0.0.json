@@ -1,0 +1,303 @@
+{
+  "activity_id": 99,
+  "activity_name": "introductory",
+  "actor": {
+    "idp": {
+      "name": "marathon gloves e",
+      "uid": "509b292c-3607-11ee-a70a-0242ac110004"
+    },
+    "invoked_by": "mandate worn backgrounds",
+    "process": {
+      "cmd_line": "football boat affiliated",
+      "created_time": 1691511554008214,
+      "file": {
+        "attributes": 72,
+        "hashes": [
+          {
+            "algorithm": "MD5",
+            "algorithm_id": 1,
+            "value": "CC73D86F27072284FD08BA61CDACCA42"
+          },
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "88F559F64FBC2D9656EFDF76079203B85DF98D94"
+          }
+        ],
+        "name": "newton.csv",
+        "parent_folder": "cliff sale adipex/voted.rar",
+        "path": "cliff sale adipex/voted.rar/newton.csv",
+        "signature": {
+          "algorithm": "Authenticode",
+          "algorithm_id": 4,
+          "certificate": {
+            "created_time": 1691511554010088,
+            "expiration_time": 1691511554010095,
+            "fingerprints": [
+              {
+                "algorithm": "CTPH",
+                "algorithm_id": 5,
+                "value": "04EF85527F5264DCB3FDE51766FD84D84007D5E6E9E58A27D1FA31E789EDA9FFDB90954D73A2A0D4B77AE5CFDA56D319FA504839158458E055D9F1C017436CCD"
+              }
+            ],
+            "issuer": "sink society headed",
+            "serial_number": "draws variation bibliographic",
+            "subject": "wto balloon pharmaceuticals",
+            "version": "1.0.0"
+          }
+        },
+        "type": "Local Socket",
+        "type_id": 5,
+        "xattributes": {}
+      },
+      "integrity": "shipment accommodate existed",
+      "loaded_modules": [
+        "/bigger/effective/supplied/subsequently/mix.tar.gz",
+        "/sending/immediate/grade/yeah/legally.iso"
+      ],
+      "name": "Horizon",
+      "parent_process": {
+        "cmd_line": "macintosh gentleman hdtv",
+        "created_time": 1691511554010342,
+        "file": {
+          "confidentiality": "Not Confidential",
+          "confidentiality_id": 1,
+          "created_time": 1691511554010429,
+          "hashes": [
+            {
+              "algorithm": "magic",
+              "algorithm_id": 99,
+              "value": "6ED0174176094B4BD274CA30C887F0D4103F4DD5DD8F4964003A31A5F533BA7A"
+            }
+          ],
+          "name": "funded.vcxproj",
+          "owner": {
+            "name": "Northeast",
+            "type": "System",
+            "type_id": 3,
+            "uid": "509be254-3607-11ee-a67c-0242ac110004"
+          },
+          "parent_folder": "mouse davis formed/conversation.rss",
+          "path": "mouse davis formed/conversation.rss/funded.vcxproj",
+          "type": "Named Pipe",
+          "type_id": 6
+        },
+        "loaded_modules": [
+          "/calendars/shop/george/bookings/done.db",
+          "/cooper/ipaq/rational/lit/equipment.php"
+        ],
+        "name": "Sandwich",
+        "parent_process": {
+          "cmd_line": "referenced billing arranged",
+          "created_time": 1691511554013099,
+          "file": {
+            "name": "ht.com",
+            "type": "specialists",
+            "type_id": 99
+          },
+          "name": "Framework",
+          "parent_process": {
+            "cmd_line": "proudly pays walker",
+            "integrity": "relevance enter differ",
+            "lineage": [
+              "teams graphical integrate"
+            ],
+            "name": "Rehabilitation",
+            "parent_process": {
+              "cmd_line": "greatest wt ver",
+              "created_time": 1691511554013446,
+              "file": {
+                "confidentiality": "Confidential",
+                "confidentiality_id": 2,
+                "hashes": [
+                  {
+                    "algorithm": "magic",
+                    "algorithm_id": 99,
+                    "value": "42E0935E99C361831D722A874952005409BDA560141332A0CD80A45A4C5F0046"
+                  },
+                  {
+                    "algorithm": "magic",
+                    "algorithm_id": 99,
+                    "value": "E4A2073D539661B9B713D3D115DBD38CF40A5DD9FA41AAB8AC9BC664E18711D4"
+                  }
+                ],
+                "modified_time": 1691511554013570,
+                "name": "erotica.htm",
+                "parent_folder": "ff underwear paul/wants.cue",
+                "path": "ff underwear paul/wants.cue/erotica.htm",
+                "type": "Named Pipe",
+                "type_id": 6
+              },
+              "integrity": "feels",
+              "integrity_id": 99,
+              "loaded_modules": [
+                "/spain/fix/benefits/facial/prix.vob",
+                "/fire/financial/rising/jpg/motivated.msg"
+              ],
+              "name": "Tab",
+              "pid": 73,
+              "uid": "509c09e6-3607-11ee-9aac-0242ac110004",
+              "user": {
+                "name": "Administration",
+                "type": "Unknown",
+                "type_id": 0,
+                "uid": "509c1ac6-3607-11ee-8172-0242ac110004"
+              }
+            },
+            "pid": 76,
+            "sandbox": "studied wa folders",
+            "tid": 65,
+            "uid": "509c1f30-3607-11ee-98f2-0242ac110004",
+            "user": {
+              "full_name": "Selina Luz",
+              "name": "Specialty",
+              "type": "Unknown",
+              "type_id": 0,
+              "uid": "509c2606-3607-11ee-b7e3-0242ac110004"
+            }
+          },
+          "pid": 8,
+          "tid": 77,
+          "uid": "509c2994-3607-11ee-bdbd-0242ac110004",
+          "user": {
+            "email_addr": "Rene@determining.travel",
+            "name": "Touring",
+            "type": "User",
+            "type_id": 1,
+            "uid": "509c343e-3607-11ee-bec1-0242ac110004",
+            "uid_alt": "opinion checked companion"
+          }
+        },
+        "sandbox": "ever tea amber",
+        "tid": 54,
+        "uid": "509c3934-3607-11ee-8ce6-0242ac110004",
+        "user": {
+          "account": {
+            "type": "Linux Account",
+            "type_id": 9,
+            "uid": "509c4104-3607-11ee-b669-0242ac110004"
+          },
+          "credential_uid": "509c446a-3607-11ee-9f5e-0242ac110004",
+          "domain": "judy friendship shadows",
+          "full_name": "Joana Margarite",
+          "groups": [
+            {
+              "name": "pda designs quantitative",
+              "uid": "509c4abe-3607-11ee-a8bc-0242ac110004"
+            }
+          ],
+          "name": "Styles",
+          "type": "System",
+          "type_id": 3,
+          "uid": "509c4e9c-3607-11ee-842e-0242ac110004"
+        }
+      },
+      "pid": 90,
+      "sandbox": "younger complications wm"
+    },
+    "session": {
+      "created_time": 1691511554015683,
+      "is_remote": false,
+      "issuer": "termination vehicle smooth",
+      "uid": "509c56c6-3607-11ee-a025-0242ac110004"
+    },
+    "user": {
+      "credential_uid": "509c5cb6-3607-11ee-afc9-0242ac110004",
+      "name": "List",
+      "type": "System",
+      "type_id": 3,
+      "uid": "509c60d0-3607-11ee-9318-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Module Activity",
+  "class_uid": 1005,
+  "device": {
+    "created_time": 1691511554016436,
+    "hostname": "remained.name",
+    "interface_name": "amended algorithm mercy",
+    "interface_uid": "509c6aee-3607-11ee-a1ef-0242ac110004",
+    "ip": "161.38.146.89",
+    "last_seen_time": 1691511554016229,
+    "name": "branch bizrate harris",
+    "region": "negotiation much dow",
+    "risk_score": 26,
+    "subnet_uid": "509c726e-3607-11ee-87d2-0242ac110004",
+    "type": "sleeps",
+    "type_id": 99,
+    "uid": "509c6e5e-3607-11ee-be6b-0242ac110004",
+    "vpc_uid": "509c76b0-3607-11ee-bfcd-0242ac110004"
+  },
+  "message": "new preceding deferred",
+  "metadata": {
+    "log_name": "hospitality spyware oecd",
+    "logged_time": 1691511554005689,
+    "original_time": "grain beliefs discovered",
+    "product": {
+      "lang": "en",
+      "uid": "509aece6-3607-11ee-95b8-0242ac110004",
+      "url_string": "jar",
+      "vendor_name": "investigators bits movies",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "module": {
+    "base_address": "anticipated origins renaissance",
+    "file": {
+      "accessed_time": 1691511554007459,
+      "desc": "carbon circular pete",
+      "hashes": [
+        {
+          "algorithm": "CTPH",
+          "algorithm_id": 5,
+          "value": "4E8E3D0311E0F6322FD05D5D20FFD432508047CE0A159BEBA9B1F669806FEDFB97B2921A1150C3648F44FC2B6B2E15FEFDD9F96A1D04A52EE4954904D4A0FF57"
+        }
+      ],
+      "mime_type": "continuing/waterproof",
+      "modifier": {
+        "credential_uid": "509b1ce8-3607-11ee-9796-0242ac110004",
+        "email_addr": "Sheba@holmes.store",
+        "full_name": "Lori Karie",
+        "name": "Methodology",
+        "type": "Admin",
+        "type_id": 2
+      },
+      "name": "ing.kmz",
+      "parent_folder": "age eminem malaysia/nevada.wsf",
+      "path": "age eminem malaysia/nevada.wsf/ing.kmz",
+      "security_descriptor": "hybrid reload scratch",
+      "type": "trace",
+      "type_id": 99,
+      "version": "1.0.0"
+    },
+    "load_type": "ShellCode",
+    "load_type_id": 3,
+    "start_address": "mug composite rip",
+    "type": "gt roster naked"
+  },
+  "observables": [
+    {
+      "name": "looksmart pipes notices",
+      "type": "Email",
+      "type_id": 22
+    },
+    {
+      "name": "decimal francis ignore",
+      "type": "Registry Key",
+      "type_id": 28
+    }
+  ],
+  "severity": "Low",
+  "severity_id": 2,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1691511554006605,
+  "timezone_offset": 22,
+  "type_name": "Module Activity: Other",
+  "type_uid": 100599
+}

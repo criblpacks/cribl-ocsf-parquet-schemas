@@ -1,0 +1,53 @@
+{
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email URL Activity",
+  "class_uid": 4012,
+  "count": 39,
+  "email_uid": "54a9b16e-3607-11ee-adb5-0242ac110004",
+  "message": "stolen library moon",
+  "metadata": {
+    "extension": {
+      "name": "envelope sap xerox",
+      "uid": "54a99526-3607-11ee-bd9e-0242ac110004",
+      "version": "1.0.0"
+    },
+    "log_name": "china potatoes sophisticated",
+    "log_provider": "theta legislature dsc",
+    "original_time": "douglas infants sponsorship",
+    "product": {
+      "lang": "en",
+      "name": "twins resort potatoes",
+      "uid": "54a9a50c-3607-11ee-a495-0242ac110004",
+      "url_string": "asn",
+      "vendor_name": "gl violin ja",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "raw_data": "worm rh persian",
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Failure",
+  "status_code": "briefly",
+  "status_id": 2,
+  "time": 1691511560814058,
+  "timezone_offset": 79,
+  "type_name": "Email URL Activity: Send",
+  "type_uid": 401201,
+  "url": {
+    "category_ids": [
+      50,
+      121
+    ],
+    "hostname": "guided.store",
+    "path": "affiliation region athletics",
+    "port": 46417,
+    "query_string": "seeks purchase streets",
+    "scheme": "breach stats shopzilla",
+    "url_string": "rush"
+  }
+}

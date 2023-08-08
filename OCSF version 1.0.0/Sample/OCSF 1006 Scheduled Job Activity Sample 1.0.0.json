@@ -1,0 +1,86 @@
+{
+  "activity_id": 3,
+  "activity_name": "Delete",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Scheduled Job Activity",
+  "class_uid": 1006,
+  "device": {
+    "desc": "term john array",
+    "hostname": "polls.cat",
+    "instance_uid": "53c95e2a-3607-11ee-9cbd-0242ac110004",
+    "interface_name": "verified breeding actions",
+    "ip": "187.190.14.122",
+    "mac": "30:A4:B2:2D:28:6E:51:C2",
+    "region": "institutes auburn specified",
+    "type": "iron",
+    "type_id": 99,
+    "uid": "53c9595c-3607-11ee-99df-0242ac110004",
+    "vpc_uid": "53c96280-3607-11ee-a07c-0242ac110004"
+  },
+  "duration": 18,
+  "end_time": 1691511559343642,
+  "job": {
+    "cmd_line": "diff ordinary arrive",
+    "created_time": 1691511559344276,
+    "desc": "overcome encoding convicted",
+    "file": {
+      "accessor": {
+        "name": "Constitutes",
+        "type": "System",
+        "type_id": 3,
+        "uid": "53c9705e-3607-11ee-a0e4-0242ac110004"
+      },
+      "creator": {
+        "email_addr": "Liza@binary.edu",
+        "name": "Concerned",
+        "type": "System",
+        "type_id": 3,
+        "uid": "53c98404-3607-11ee-9801-0242ac110004"
+      },
+      "hashes": [
+        {
+          "algorithm": "MD5",
+          "algorithm_id": 1,
+          "value": "4B0F1559226DC5C26D97DD4EF788A85A"
+        }
+      ],
+      "name": "rentals.vcf",
+      "parent_folder": "obtaining matters brazilian/cite.pkg",
+      "path": "obtaining matters brazilian/cite.pkg/rentals.vcf",
+      "type": "Named Pipe",
+      "type_id": 6,
+      "xattributes": {}
+    },
+    "last_run_time": 1691511559345297,
+    "name": "dc adequate corp",
+    "run_state": "Ready",
+    "run_state_id": 1
+  },
+  "message": "soa training simpsons",
+  "metadata": {
+    "event_code": "incentive",
+    "log_name": "br pressed insert",
+    "original_time": "condition explained suited",
+    "processed_time": 1691511559343147,
+    "product": {
+      "lang": "en",
+      "name": "savage learning specialty",
+      "uid": "53c946f6-3607-11ee-bf04-0242ac110004",
+      "vendor_name": "channel replication commonly",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1691511559343634,
+  "timezone_offset": 90,
+  "type_name": "Scheduled Job Activity: Delete",
+  "type_uid": 100603
+}

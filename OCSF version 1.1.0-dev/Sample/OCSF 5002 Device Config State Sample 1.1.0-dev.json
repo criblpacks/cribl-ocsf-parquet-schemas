@@ -1,0 +1,263 @@
+{
+  "activity_id": 2,
+  "activity_name": "Collect",
+  "actor": {
+    "process": {
+      "name": "Storage",
+      "parent_process": {
+        "cmd_line": "corporate strikes via",
+        "created_time": 1691511524179041,
+        "file": {
+          "accessor": {
+            "credential_uid": "3ed3aec6-3607-11ee-bacc-0242ac110005",
+            "name": "Op",
+            "type": "System",
+            "type_id": 3,
+            "uid": "3ed3b402-3607-11ee-88a3-0242ac110005",
+            "uid_alt": "connectors victory federation"
+          },
+          "attributes": 95,
+          "confidentiality": "photographers saints though",
+          "hashes": [
+            {
+              "algorithm": "quickXorHash",
+              "algorithm_id": 7,
+              "value": "3EFA4D2C0ED2860913EF10AC6BB25C8F98A1610C53A1558CA738269733C7A016A184E3020287817838CEFE4F716E6FBD1644313F787EE57CAFF9324C9A1A8673"
+            }
+          ],
+          "name": "various.ged",
+          "owner": {
+            "email_addr": "Brendan@inflation.museum",
+            "name": "Vhs",
+            "type": "Admin",
+            "type_id": 2
+          },
+          "parent_folder": "positioning easier signup/realized.csv",
+          "path": "positioning easier signup/realized.csv/various.ged",
+          "product": {
+            "name": "assistance sao baking",
+            "path": "vehicles mph fruit",
+            "uid": "3ed3d022-3607-11ee-a48b-0242ac110005",
+            "url_string": "hand",
+            "vendor_name": "folder hygiene apparent",
+            "version": "1.1.0-dev"
+          },
+          "security_descriptor": "membership intensive dictionary",
+          "signature": {
+            "algorithm": "DSA",
+            "algorithm_id": 1,
+            "certificate": {
+              "created_time": 1691511524180477,
+              "expiration_time": 1691511524180484,
+              "fingerprints": [
+                {
+                  "algorithm": "SHA-1",
+                  "algorithm_id": 2,
+                  "value": "B1F6E510EB0F015B9D2BD5B22764CD95AE00D908"
+                }
+              ],
+              "issuer": "habitat budget arrivals",
+              "serial_number": "poultry amp periodic",
+              "subject": "make college atmosphere",
+              "version": "1.1.0-dev"
+            }
+          },
+          "type": "collection",
+          "type_id": 99
+        },
+        "integrity": "Protected",
+        "integrity_id": 6,
+        "name": "Rentals",
+        "parent_process": {
+          "cmd_line": "contamination shame points",
+          "created_time": 1691511524180670,
+          "file": {
+            "accessor": {
+              "credential_uid": "3ed3eb0c-3607-11ee-8fcc-0242ac110005",
+              "domain": "recorder default protection",
+              "name": "Tt",
+              "type": "Admin",
+              "type_id": 2,
+              "uid": "3ed3f0de-3607-11ee-9415-0242ac110005"
+            },
+            "company_name": "Aurora Cedric",
+            "created_time": 1691511524181233,
+            "creator": {
+              "name": "Geological",
+              "type": "System",
+              "type_id": 3,
+              "uid": "3ed3fbec-3607-11ee-b9a2-0242ac110005",
+              "uid_alt": "cn auburn adjustments"
+            },
+            "desc": "portal pin thru",
+            "hashes": [
+              {
+                "algorithm": "SHA-256",
+                "algorithm_id": 3,
+                "value": "0B135E8DE8F42B4BADDB5E580400B8C2DC56F9204758314C2BE7019AA9D8D98A"
+              }
+            ],
+            "name": "exam.srt",
+            "parent_folder": "solar senate greetings/drive.wmv",
+            "path": "solar senate greetings/drive.wmv/exam.srt",
+            "size": 268967742,
+            "type": "Regular File",
+            "type_id": 1
+          },
+          "name": "Renewal",
+          "pid": 24,
+          "session": {
+            "created_time": 1691511524181647,
+            "credential_uid": "3ed405f6-3607-11ee-ba9c-0242ac110005",
+            "expiration_time": 1691511524181763,
+            "is_remote": true,
+            "uid": "3ed409d4-3607-11ee-a20d-0242ac110005"
+          },
+          "uid": "3ed40d26-3607-11ee-8e0a-0242ac110005",
+          "user": {
+            "account": {
+              "name": "streams land mug",
+              "uid": "3ed41aa0-3607-11ee-9d3c-0242ac110005"
+            },
+            "groups": [
+              {
+                "name": "wales commissions largest",
+                "type": "created ruling pee"
+              },
+              {
+                "uid": "3ed42054-3607-11ee-9f10-0242ac110005"
+              }
+            ],
+            "type": "intel",
+            "type_id": 99,
+            "uid": "3ed4243c-3607-11ee-868a-0242ac110005"
+          }
+        },
+        "sandbox": "separately respiratory lesbians",
+        "terminated_time": 1691511524182549,
+        "uid": "3ed42860-3607-11ee-aa7d-0242ac110005",
+        "user": {
+          "account": {
+            "name": "adding geographic motel",
+            "type": "Mac OS Account",
+            "type_id": 7,
+            "uid": "3ed4329c-3607-11ee-95bc-0242ac110005"
+          },
+          "name": "Headers",
+          "type": "User",
+          "type_id": 1,
+          "uid": "3ed436fc-3607-11ee-a513-0242ac110005"
+        }
+      },
+      "pid": 12,
+      "sandbox": "panel technology mood",
+      "uid": "3ed43ada-3607-11ee-89d8-0242ac110005",
+      "user": {
+        "name": "Imagine",
+        "type": "Admin",
+        "type_id": 2,
+        "uid": "3ed44516-3607-11ee-b430-0242ac110005",
+        "uid_alt": "trends violin exhibitions"
+      }
+    },
+    "user": {
+      "name": "Nowhere",
+      "type": "System",
+      "type_id": 3,
+      "uid": "3ed44e76-3607-11ee-8f18-0242ac110005"
+    }
+  },
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "class_uid": 5002,
+  "device": {
+    "groups": [
+      {
+        "name": "antenna karaoke guides",
+        "uid": "3ed457f4-3607-11ee-bc15-0242ac110005"
+      },
+      {
+        "name": "declare watershed approved",
+        "uid": "3ed45bfa-3607-11ee-87a9-0242ac110005"
+      }
+    ],
+    "hw_info": {
+      "cpu_count": 22,
+      "cpu_type": "walter organisms australia",
+      "serial_number": "seekers websites xanax"
+    },
+    "instance_uid": "3ed461e0-3607-11ee-bda5-0242ac110005",
+    "interface_name": "feof border tour",
+    "interface_uid": "3ed46b5e-3607-11ee-810e-0242ac110005",
+    "ip": "130.197.76.160",
+    "is_personal": false,
+    "modified_time": 1691511524184441,
+    "name": "impacts integrating cameroon",
+    "region": "tanzania learned messages",
+    "type": "Laptop",
+    "type_id": 3,
+    "uid": "3ed4658c-3607-11ee-b1e3-0242ac110005",
+    "uid_alt": "bug coordinated johns",
+    "vpc_uid": "3ed46e92-3607-11ee-b179-0242ac110005"
+  },
+  "enrichments": [
+    {
+      "data": "incentive",
+      "name": "auckland registrar views",
+      "provider": "walked skin lang",
+      "type": "predictions strengthening lib",
+      "value": "dating recorders hardly"
+    },
+    {
+      "data": "otherwise",
+      "name": "fruit mobility de",
+      "provider": "navigation bend tgp",
+      "type": "mold dog dream",
+      "value": "transparent attitudes january"
+    }
+  ],
+  "message": "appeared playlist proud",
+  "metadata": {
+    "log_name": "recommendations catalyst id",
+    "log_provider": "keyboard expansys agricultural",
+    "original_time": "evil unnecessary copied",
+    "processed_time": 1691511524184598,
+    "product": {
+      "feature": {
+        "name": "gamma club remains",
+        "uid": "3ed47ae0-3607-11ee-b330-0242ac110005"
+      },
+      "name": "wt agents matt",
+      "uid": "3ed47ebe-3607-11ee-97ed-0242ac110005",
+      "vendor_name": "specials partnership borough",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "3ed48530-3607-11ee-bfef-0242ac110005",
+    "version": "1.1.0-dev"
+  },
+  "observables": [
+    {
+      "name": "ru toner jul",
+      "type": "IP Address",
+      "type_id": 2,
+      "value": "eur engine stick"
+    },
+    {
+      "name": "remind counting undo",
+      "type": "Registry Value",
+      "type_id": 29
+    }
+  ],
+  "severity": "High",
+  "severity_id": 4,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511524178651,
+  "timezone_offset": 76,
+  "type_name": "Device Config State: Collect",
+  "type_uid": 500202
+}

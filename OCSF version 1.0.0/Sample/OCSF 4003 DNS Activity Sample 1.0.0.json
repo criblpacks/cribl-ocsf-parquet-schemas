@@ -1,0 +1,80 @@
+{
+  "activity_id": 1,
+  "activity_name": "Query",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "class_uid": 4003,
+  "count": 90,
+  "dst_endpoint": {
+    "hostname": "houston.biz",
+    "instance_uid": "517f7302-3607-11ee-adda-0242ac110004",
+    "interface_name": "viewing occasions hot",
+    "ip": "244.95.24.226",
+    "mac": "EC:E4:7D:24:C8:6A:17:8B",
+    "name": "enables performing requesting",
+    "port": 10312,
+    "subnet_uid": "517f77b2-3607-11ee-a2f4-0242ac110004",
+    "svc_name": "respiratory dem lingerie",
+    "uid": "517f7b86-3607-11ee-81b6-0242ac110004",
+    "vlan_uid": "517f7ed8-3607-11ee-a118-0242ac110004"
+  },
+  "duration": 91,
+  "enrichments": [
+    {
+      "data": "election",
+      "name": "lance eg closely",
+      "provider": "sight yesterday insects",
+      "type": "association cnet reader",
+      "value": "offensive wrestling issn"
+    },
+    {
+      "data": "albany",
+      "name": "analyst switched core",
+      "provider": "accredited benz which",
+      "type": "gods shaw blades",
+      "value": "eleven fail bolt"
+    }
+  ],
+  "message": "japan verified awesome",
+  "metadata": {
+    "log_name": "beauty offer dependent",
+    "log_version": "parliament governance within",
+    "original_time": "exhibit judicial means",
+    "product": {
+      "lang": "en",
+      "name": "score had cabinets",
+      "uid": "517f525a-3607-11ee-ace1-0242ac110004",
+      "vendor_name": "found lookup professor",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "query_time": 1691511555503883,
+  "response_time": 1691511555503446,
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "domain": "intend intention high",
+    "hostname": "front.edu",
+    "instance_uid": "517f5cdc-3607-11ee-b96c-0242ac110004",
+    "interface_name": "cf premiere planner",
+    "interface_uid": "517f6196-3607-11ee-9454-0242ac110004",
+    "ip": "0.91.165.72",
+    "mac": "35:F:59:56:74:66:44:B5",
+    "name": "attract leave resolve",
+    "port": 64927,
+    "svc_name": "monday tree romania",
+    "uid": "517f663c-3607-11ee-8f4b-0242ac110004"
+  },
+  "status": "democrats",
+  "status_code": "ground",
+  "status_id": 99,
+  "time": 1691511555503417,
+  "timezone_offset": 93,
+  "type_name": "DNS Activity: Query",
+  "type_uid": 400301
+}

@@ -1,0 +1,67 @@
+{
+  "activity_id": 3,
+  "activity_name": "Scan",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "class_uid": 4009,
+  "direction": "Outbound",
+  "direction_id": 2,
+  "email": {
+    "from": "Hannah@conservative.museum",
+    "message_uid": "4ab1334e-3607-11ee-9c75-0242ac110005",
+    "reply_to": "Reginia@people.coop",
+    "size": 4081512608,
+    "smtp_from": "Dominica@tragedy.store",
+    "smtp_to": [
+      "Lucrecia@variable.pro",
+      "Minna@planning.travel"
+    ],
+    "to": [
+      "Treva@epinions.int",
+      "Mandie@kevin.firm"
+    ],
+    "uid": "4ab13e3e-3607-11ee-b7b6-0242ac110005",
+    "x_originating_ip": [
+      "154.117.182.187",
+      "82.156.45.194"
+    ]
+  },
+  "email_auth": {
+    "dkim": "catherine lift sw",
+    "dkim_domain": "secured department head",
+    "dkim_signature": "eric variety refused",
+    "dmarc": "survivor this resource",
+    "dmarc_override": "bio museum vg",
+    "dmarc_policy": "knee notifications jan",
+    "spf": "commit ec jason"
+  },
+  "message": "philippines springer feedback",
+  "metadata": {
+    "log_name": "mats biol assault",
+    "log_provider": "philips speaks fires",
+    "modified_time": 1691511544086697,
+    "original_time": "paste foods lanes",
+    "product": {
+      "name": "customized wines then",
+      "path": "assignments shed sets",
+      "uid": "4ab14d70-3607-11ee-bcab-0242ac110005",
+      "url_string": "virgin",
+      "vendor_name": "reproduce bit acquisition",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "smtp_hello": "saved same sagem",
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511544085864,
+  "timezone_offset": 72,
+  "type_name": "Email Activity: Scan",
+  "type_uid": 400903
+}

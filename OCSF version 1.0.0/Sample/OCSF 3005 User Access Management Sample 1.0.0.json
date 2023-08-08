@@ -1,0 +1,61 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "User Access Management",
+  "class_uid": 3005,
+  "enrichments": [
+    {
+      "data": "younger",
+      "name": "gamecube deserve dir",
+      "provider": "shops houses excited",
+      "type": "sent inns reviews",
+      "value": "lucas its realm"
+    },
+    {
+      "data": "bangkok",
+      "name": "connecticut decimal linear",
+      "provider": "definitions clubs injection",
+      "type": "psychology threats rv",
+      "value": "budapest stuart assembled"
+    }
+  ],
+  "metadata": {
+    "event_code": "saving",
+    "log_name": "throwing candle eugene",
+    "log_provider": "reprints kodak elizabeth",
+    "logged_time": 1691511567569426,
+    "original_time": "historic wet warm",
+    "product": {
+      "lang": "en",
+      "name": "grants enhanced numerical",
+      "uid": "58b08210-3607-11ee-8000-0242ac110004",
+      "url_string": "upgrades",
+      "vendor_name": "questionnaire trademarks burst",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "privileges": [
+    "subjective funny wrong"
+  ],
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "treatments",
+  "status_code": "cambridge",
+  "status_id": 99,
+  "time": 1691511567569916,
+  "timezone_offset": 65,
+  "type_name": "User Access Management: Unknown",
+  "type_uid": 300500,
+  "user": {
+    "name": "Plane",
+    "type": "System",
+    "type_id": 3,
+    "uid": "58b09174-3607-11ee-a412-0242ac110004"
+  }
+}

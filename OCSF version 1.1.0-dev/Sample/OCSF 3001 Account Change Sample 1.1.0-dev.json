@@ -1,0 +1,196 @@
+{
+  "activity_id": 7,
+  "activity_name": "Attach Policy",
+  "actor": {
+    "idp": {
+      "name": "ss gentleman password",
+      "uid": "4b1eb2c0-3607-11ee-b82d-0242ac110005"
+    },
+    "process": {
+      "cmd_line": "baltimore calculators theatre",
+      "created_time": 1691511544803930,
+      "file": {
+        "hashes": [
+          {
+            "algorithm": "Unknown",
+            "algorithm_id": 0,
+            "value": "6061DD0307040501DC424C419A89C0ED78C0D4EEB3BB872BD51C23F6990B42BBFE30F079449E07E73485B0DEBBEEC083853719F7DC201A7EE167ED8A671B7FF0"
+          }
+        ],
+        "name": "im.wma",
+        "parent_folder": "goto kept wheat/connections.db",
+        "path": "goto kept wheat/connections.db/im.wma",
+        "size": 2966159739,
+        "type": "Block Device",
+        "type_id": 4,
+        "uid": "4b1edae8-3607-11ee-8778-0242ac110005"
+      },
+      "integrity": "Unknown",
+      "integrity_id": 0,
+      "lineage": [
+        "speeches thru fatty"
+      ],
+      "name": "Fm",
+      "parent_process": {
+        "cmd_line": "tr wrist beds",
+        "created_time": 1691511544805039,
+        "file": {
+          "creator": {
+            "email_addr": "Fransisca@passes.info",
+            "type": "User",
+            "type_id": 1
+          },
+          "hashes": [
+            {
+              "algorithm": "TLSH",
+              "algorithm_id": 6,
+              "value": "49F4E36F0CB5A9D034D33DA75BD53E5256F66AFF7B177EADF5057BF8C77C2412A543F26F22DE8AE4D282A393F0B2B63450FF144783C1671F12FB607C585A9C7B"
+            },
+            {
+              "algorithm": "CTPH",
+              "algorithm_id": 5,
+              "value": "2D8B5FF0027F8A940A6A3DD5E01593DAC287F7999677A80A9205CB263956615E275416E0585CBEF9047AD7394798C4839CA74BBF7A25E85525B46DD122B75B3C"
+            }
+          ],
+          "modified_time": 1691511544805296,
+          "name": "praise.txt",
+          "parent_folder": "tactics california ipod/delivery.b",
+          "path": "tactics california ipod/delivery.b/praise.txt",
+          "type": "Symbolic Link",
+          "type_id": 7,
+          "version": "1.1.0-dev"
+        },
+        "lineage": [
+          "parameters align th"
+        ],
+        "name": "Covers",
+        "parent_process": {
+          "cmd_line": "aruba investigated thomas",
+          "created_time": 1691511544805556,
+          "integrity": "Untrusted",
+          "integrity_id": 1,
+          "name": "Couple",
+          "pid": 35,
+          "sandbox": "studios junk census",
+          "uid": "4b1efcf8-3607-11ee-af76-0242ac110005",
+          "user": {
+            "account": {
+              "name": "bathroom res accuracy",
+              "type": "LDAP Account",
+              "type_id": 1,
+              "uid": "4b1f07ca-3607-11ee-8ee5-0242ac110005"
+            },
+            "groups": [
+              {
+                "name": "retrieve happened php",
+                "uid": "4b1f0f7c-3607-11ee-8f3e-0242ac110005"
+              },
+              {
+                "name": "rim happens crops",
+                "uid": "4b1f13be-3607-11ee-8e51-0242ac110005"
+              }
+            ],
+            "name": "Pb",
+            "type": "Unknown",
+            "type_id": 0,
+            "uid_alt": "alternatives visible thou"
+          }
+        },
+        "pid": 44,
+        "uid": "4b1f1846-3607-11ee-884b-0242ac110005",
+        "user": {
+          "credential_uid": "4b1f23fe-3607-11ee-9df8-0242ac110005",
+          "email_addr": "Jarod@credits.arpa",
+          "groups": [
+            {
+              "name": "tuning returned matter",
+              "uid": "4b1f2c50-3607-11ee-9586-0242ac110005"
+            },
+            {
+              "name": "winning competent resource",
+              "privileges": [
+                "mid rules wifi"
+              ],
+              "uid": "4b1f30d8-3607-11ee-844d-0242ac110005"
+            }
+          ],
+          "name": "Unusual",
+          "type": "System",
+          "type_id": 3,
+          "uid": "4b1f34f2-3607-11ee-a473-0242ac110005"
+        }
+      },
+      "pid": 45,
+      "uid": "4b1f384e-3607-11ee-b749-0242ac110005"
+    },
+    "user": {
+      "domain": "sw occurs cambridge",
+      "email_addr": "Janell@pvc.net",
+      "name": "Beds",
+      "type": "camps",
+      "type_id": 99,
+      "uid": "4b1f429e-3607-11ee-b9d5-0242ac110005"
+    }
+  },
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "class_uid": 3001,
+  "count": 10,
+  "message": "jan remembered mood",
+  "metadata": {
+    "extension": {
+      "name": "insertion noon historic",
+      "uid": "4b1f4c08-3607-11ee-b97a-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "log_name": "applicant farming processed",
+    "log_provider": "encryption queen printers",
+    "original_time": "gender circumstances exhaust",
+    "processed_time": 1691511544807764,
+    "product": {
+      "name": "efficiency zoom laptops",
+      "uid": "4b1f531a-3607-11ee-ab93-0242ac110005",
+      "vendor_name": "flowers evaluations sacramento",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "src_endpoint": {
+    "hostname": "took.org",
+    "instance_uid": "4b1e8106-3607-11ee-8d64-0242ac110005",
+    "interface_name": "according governmental nato",
+    "ip": "114.171.183.50",
+    "name": "functioning disk chorus",
+    "port": 28676,
+    "subnet_uid": "4b1e8eda-3607-11ee-b3b1-0242ac110005",
+    "type": "Mobile",
+    "type_id": 5,
+    "uid": "4b1e93bc-3607-11ee-add2-0242ac110005"
+  },
+  "status": "nigeria",
+  "status_id": 99,
+  "time": 1691511544802210,
+  "timezone_offset": 7,
+  "type_name": "Account Change: Attach Policy",
+  "type_uid": 300107,
+  "user": {
+    "groups": [
+      {
+        "desc": "michel massachusetts media",
+        "name": "vegetables horror reception",
+        "type": "practices leon yeah",
+        "uid": "4b1ea62c-3607-11ee-87d0-0242ac110005"
+      }
+    ],
+    "name": "Cornwall",
+    "type": "System",
+    "type_id": 3,
+    "uid": "4b1eab40-3607-11ee-a4c1-0242ac110005"
+  }
+}

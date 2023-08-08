@@ -1,0 +1,101 @@
+{
+  "activity_id": 5,
+  "activity_name": "Options",
+  "app_name": "sisters shopzilla gourmet",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "HTTP Activity",
+  "class_uid": 4002,
+  "connection_info": {
+    "direction": "Inbound",
+    "direction_id": 1,
+    "protocol_num": 42,
+    "protocol_ver": "3.0.3",
+    "uid": "52cc0338-3607-11ee-b83f-0242ac110004"
+  },
+  "dst_endpoint": {
+    "instance_uid": "52cc70c0-3607-11ee-bc1b-0242ac110004",
+    "interface_name": "belongs bedrooms developments",
+    "interface_uid": "52cc74ee-3607-11ee-93f0-0242ac110004",
+    "ip": "29.128.103.137",
+    "port": 26014,
+    "uid": "52cc78c2-3607-11ee-a976-0242ac110004"
+  },
+  "http_request": {
+    "referrer": "oral updates service",
+    "uid": "52cc6670-3607-11ee-974a-0242ac110004",
+    "url": {
+      "categories": [
+        "samsung cube absolutely",
+        "homes offices visibility"
+      ],
+      "hostname": "qualification.biz",
+      "path": "croatia postings surge",
+      "port": 45025,
+      "query_string": "knows naked avatar",
+      "scheme": "bras pattern comparing",
+      "url_string": "pittsburgh"
+    },
+    "user_agent": "rouge look replace",
+    "version": "1.0.0"
+  },
+  "http_response": {
+    "code": 34,
+    "latency": 74
+  },
+  "message": "shared counties locale",
+  "metadata": {
+    "extension": {
+      "name": "pass unauthorized disposition",
+      "uid": "52cbf258-3607-11ee-bdd9-0242ac110004",
+      "version": "1.0.0"
+    },
+    "log_name": "named rat remained",
+    "log_provider": "bufing says essentially",
+    "log_version": "slim sublimedirectory roll",
+    "logged_time": 1691511557683302,
+    "original_time": "outreach dh shut",
+    "processed_time": 1691511557683320,
+    "product": {
+      "lang": "en",
+      "name": "mo should bruce",
+      "uid": "52cbfb40-3607-11ee-bbff-0242ac110004",
+      "vendor_name": "army household handbook",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "proxy": {
+    "hostname": "collect.int",
+    "instance_uid": "52cc1a44-3607-11ee-b161-0242ac110004",
+    "interface_name": "bulletin linking flexibility",
+    "interface_uid": "52cc1e04-3607-11ee-978e-0242ac110004",
+    "intermediate_ips": [
+      "8.213.58.54"
+    ],
+    "ip": "49.24.208.160",
+    "name": "chambers capable responded",
+    "port": 26485,
+    "svc_name": "nearby supervisor meetup",
+    "uid": "52cc5194-3607-11ee-924b-0242ac110004"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "merely.pro",
+    "instance_uid": "52cc0be4-3607-11ee-8095-0242ac110004",
+    "interface_name": "logical adjustment served",
+    "interface_uid": "52cc0ffe-3607-11ee-8076-0242ac110004",
+    "ip": "12.158.228.92",
+    "name": "particle brush towns",
+    "svc_name": "browsers assigned metro",
+    "uid": "52cc1454-3607-11ee-bd1c-0242ac110004"
+  },
+  "time": 1691511557683527,
+  "timezone_offset": 73,
+  "type_name": "HTTP Activity: Options",
+  "type_uid": 400205
+}

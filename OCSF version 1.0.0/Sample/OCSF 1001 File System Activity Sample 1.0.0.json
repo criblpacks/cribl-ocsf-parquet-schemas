@@ -1,0 +1,167 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "actor": {
+    "idp": {
+      "uid": "5756e986-3607-11ee-8d3e-0242ac110004"
+    },
+    "invoked_by": "tracker place floors",
+    "user": {
+      "name": "Les",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "5756f390-3607-11ee-93db-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "File System Activity",
+  "class_uid": 1001,
+  "connection_uid": "575742a0-3607-11ee-b1cd-0242ac110004",
+  "device": {
+    "desc": "kay snow failed",
+    "groups": [
+      {
+        "desc": "pearl picnic desired",
+        "name": "colin receivers realtor",
+        "uid": "57572a2c-3607-11ee-b0b3-0242ac110004"
+      }
+    ],
+    "hostname": "houston.jobs",
+    "image": {
+      "name": "first scout televisions",
+      "uid": "575735f8-3607-11ee-944d-0242ac110004"
+    },
+    "instance_uid": "57573ddc-3607-11ee-a382-0242ac110004",
+    "interface_name": "crossing quarter explicit",
+    "interface_uid": "57572f36-3607-11ee-a465-0242ac110004",
+    "ip": "152.200.97.138",
+    "name": "papers leo pd",
+    "region": "im indicators indoor",
+    "risk_level": "Info",
+    "risk_level_id": 0,
+    "type": "Tablet",
+    "type_id": 4,
+    "uid": "5757399a-3607-11ee-a75e-0242ac110004",
+    "uid_alt": "rw dans jamie"
+  },
+  "file": {
+    "created_time": 1691511565305452,
+    "hashes": [
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "DAFD501364A86C854D670B1BDE5CFD038F54FDD6"
+      },
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "36473C98EDB68851750BE66E7823EB791DC14F74B8D1C3BE2412006460FB1ED4041E4CE401CCF0814410DAC4711450DE6C0846893179E216DFAA6B9C9A65D919"
+      }
+    ],
+    "name": "indexes.pl",
+    "owner": {
+      "domain": "necklace honors r",
+      "name": "Synopsis",
+      "type": "System",
+      "type_id": 3,
+      "uid_alt": "porsche reseller documents"
+    },
+    "parent_folder": "inexpensive locked sensitive/controller.app",
+    "path": "inexpensive locked sensitive/controller.app/indexes.pl",
+    "product": {
+      "lang": "en",
+      "name": "reflects proof dream",
+      "uid": "57570ba0-3607-11ee-a0b1-0242ac110004",
+      "vendor_name": "elephant harrison walnut",
+      "version": "1.0.0"
+    },
+    "signature": {
+      "algorithm": "Authenticode",
+      "algorithm_id": 4,
+      "certificate": {
+        "created_time": 1691511565305835,
+        "expiration_time": 1691511565305841,
+        "fingerprints": [
+          {
+            "algorithm": "SHA-512",
+            "algorithm_id": 4,
+            "value": "CED73B88B63ACE7A572100023C250AEC37A229BB708D8F6C02420B916E43FB8523DCA0ECDB1FD335095765663B0D48F8D31094DAC80B9CCCE2CE25066582D9A0"
+          },
+          {
+            "algorithm": "TLSH",
+            "algorithm_id": 6,
+            "value": "77F12C789B20BA83B06954455BA7C75E60E1093320761D82CE911A9D167476D3C34699CDC41E97E1F27CEEF46EAC580AE36692689F07CDC05ADF01051A15AF1D"
+          }
+        ],
+        "issuer": "finland mpegs retention",
+        "serial_number": "forces va considered",
+        "subject": "nuts happened shape",
+        "version": "1.0.0"
+      },
+      "digest": {
+        "algorithm": "Unknown",
+        "algorithm_id": 0,
+        "value": "0BD17869976AA33E3BDBDC8EAF30D4C992DD1C05AEF57193225B6E0C4D57DF7164A980AF2F8BCB80EF7E8DE34AA70FDA9EEFADF85A36EBD55D1CC491A39A3209"
+      }
+    },
+    "size": 2133592843,
+    "type": "Local Socket",
+    "type_id": 5
+  },
+  "file_result": {
+    "company_name": "Clara Jess",
+    "confidentiality": "calculations wherever thought",
+    "desc": "fake seminar lay",
+    "hashes": [
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "051595A66E2286B519B616BDB1407CD3FD558230"
+      }
+    ],
+    "name": "ca.swf",
+    "parent_folder": "obvious father testimonials/answers.deb",
+    "path": "obvious father testimonials/answers.deb/ca.swf",
+    "product": {
+      "lang": "en",
+      "name": "gg knowledgestorm yea",
+      "uid": "5756d928-3607-11ee-b452-0242ac110004",
+      "vendor_name": "drops holes motors",
+      "version": "1.0.0"
+    },
+    "size": 537880731,
+    "type": "Local Socket",
+    "type_id": 5,
+    "uid": "5756ddec-3607-11ee-84f0-0242ac110004"
+  },
+  "message": "secretariat bibliographic alot",
+  "metadata": {
+    "log_name": "pci interaction kruger",
+    "log_provider": "botswana temporal docs",
+    "log_version": "delhi ira tickets",
+    "original_time": "der reference heavy",
+    "product": {
+      "lang": "en",
+      "name": "consciousness rb dive",
+      "uid": "5756c424-3607-11ee-91cd-0242ac110004",
+      "vendor_name": "rolled namely foam",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "5756c960-3607-11ee-85ff-0242ac110004",
+    "version": "1.0.0"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "Failure",
+  "status_code": "underwear",
+  "status_detail": "monroe accessed sets",
+  "status_id": 2,
+  "time": 1691511565304067,
+  "timezone_offset": 61,
+  "type_name": "File System Activity: Create",
+  "type_uid": 100101
+}

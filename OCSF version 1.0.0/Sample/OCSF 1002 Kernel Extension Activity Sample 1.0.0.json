@@ -1,0 +1,99 @@
+{
+  "activity_id": 2,
+  "activity_name": "Unload",
+  "actor": {
+    "invoked_by": "calling token oman",
+    "user": {
+      "domain": "grounds opt cds",
+      "name": "Award",
+      "type": "Unknown",
+      "type_id": 0,
+      "uid": "4ee02196-3607-11ee-85ea-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Kernel Extension Activity",
+  "class_uid": 1002,
+  "count": 31,
+  "device": {
+    "hostname": "termination.pro",
+    "instance_uid": "4ee034ba-3607-11ee-b262-0242ac110004",
+    "interface_name": "awarded characteristic obtaining",
+    "interface_uid": "4ee02fe2-3607-11ee-b5c7-0242ac110004",
+    "ip": "2.207.252.23",
+    "is_managed": false,
+    "is_personal": false,
+    "mac": "BA:C9:2E:B8:4D:5B:AE:4F",
+    "modified_time": 1691511551105172,
+    "name": "lack safer titles",
+    "type": "Tablet",
+    "type_id": 4
+  },
+  "driver": {
+    "file": {
+      "accessed_time": 1691511551105325,
+      "company_name": "Neda Jonie",
+      "desc": "mpegs vienna highways",
+      "hashes": [
+        {
+          "algorithm": "MD5",
+          "algorithm_id": 1,
+          "value": "5FFC7D46CF7F0B09B98441C03C269478"
+        }
+      ],
+      "name": "richards.htm",
+      "parent_folder": "replace very boating/chassis.pspimage",
+      "path": "replace very boating/chassis.pspimage/richards.htm",
+      "product": {
+        "lang": "en",
+        "name": "advantages pads diagnostic",
+        "uid": "4ee05152-3607-11ee-84de-0242ac110004",
+        "vendor_name": "harvard comfortable hart",
+        "version": "1.0.0"
+      },
+      "security_descriptor": "flooring bobby huge",
+      "type": "hybrid",
+      "type_id": 99
+    }
+  },
+  "duration": 61,
+  "enrichments": [
+    {
+      "data": "rebecca",
+      "name": "among plc blackjack",
+      "provider": "lets demonstrate notion",
+      "type": "bug insects cradle",
+      "value": "collar simply invalid"
+    }
+  ],
+  "message": "travel position escape",
+  "metadata": {
+    "labels": [
+      "complexity"
+    ],
+    "log_name": "supplement bright consumption",
+    "original_time": "conflict mw several",
+    "product": {
+      "lang": "en",
+      "name": "solar high bedford",
+      "uid": "4ee014c6-3607-11ee-949f-0242ac110004",
+      "url_string": "varies",
+      "vendor_name": "jazz panama pools",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "status": "hold",
+  "status_detail": "held cleaner describe",
+  "status_id": 99,
+  "time": 1691511551104369,
+  "timezone_offset": 95,
+  "type_name": "Kernel Extension Activity: Unload",
+  "type_uid": 100202
+}

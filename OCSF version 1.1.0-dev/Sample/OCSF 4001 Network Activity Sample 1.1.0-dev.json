@@ -1,0 +1,80 @@
+{
+  "activity_id": 3,
+  "activity_name": "Reset",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network Activity",
+  "class_uid": 4001,
+  "connection_info": {
+    "boundary": "Internet Gateway",
+    "boundary_id": 11,
+    "direction": "Inbound",
+    "direction_id": 1,
+    "protocol_name": "questions observations subtle",
+    "protocol_num": 25,
+    "protocol_ver": "Internet Protocol version 4 (IPv4)",
+    "protocol_ver_id": 4
+  },
+  "dst_endpoint": {
+    "hostname": "championships.gov",
+    "instance_uid": "3d4ce07c-3607-11ee-b3a5-0242ac110005",
+    "interface_name": "sic space throwing",
+    "interface_uid": "3d4ce568-3607-11ee-b323-0242ac110005",
+    "ip": "146.189.107.4",
+    "name": "editors worked occupations",
+    "port": 48087,
+    "svc_name": "attendance bet lucas",
+    "type": "Unknown",
+    "type_id": 0
+  },
+  "duration": 45,
+  "message": "prove symbols conflict",
+  "metadata": {
+    "log_provider": "arrangement toolkit volkswagen",
+    "modified_time": 1691511521619337,
+    "original_time": "charged arthur fails",
+    "product": {
+      "name": "refurbished acceptable corruption",
+      "uid": "3d4d0f0c-3607-11ee-83c2-0242ac110005",
+      "vendor_name": "basename harder enjoying",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "proxy": {
+    "interface_name": "plugins mill gage",
+    "interface_uid": "3d4cc40c-3607-11ee-9c54-0242ac110005",
+    "ip": "83.84.43.105",
+    "name": "qualification watts packed",
+    "port": 65308,
+    "svc_name": "designing hans patricia",
+    "type": "Desktop",
+    "type_id": 2,
+    "uid": "3d4cca10-3607-11ee-b01b-0242ac110005"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "src_endpoint": {
+    "hostname": "share.aero",
+    "interface_name": "peeing jail botswana",
+    "interface_uid": "3d4cee8c-3607-11ee-9009-0242ac110005",
+    "ip": "3.223.24.43",
+    "mac": "34:F4:79:93:EA:2F:73:E5",
+    "name": "malpractice press ment",
+    "port": 44114,
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "3d4cf5bc-3607-11ee-b677-0242ac110005",
+    "vpc_uid": "3d4cf99a-3607-11ee-9948-0242ac110005"
+  },
+  "status": "Unknown",
+  "status_detail": "humanities lottery screenshots",
+  "status_id": 0,
+  "time": 1691511521617781,
+  "timezone_offset": 2,
+  "type_name": "Network Activity: Reset",
+  "type_uid": 400103
+}

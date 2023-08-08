@@ -1,0 +1,133 @@
+{
+  "activity_id": 5,
+  "activity_name": "Refuse",
+  "answers": [
+    {
+      "class": "hardly framework arrow",
+      "packet_uid": 3,
+      "rdata": "arabic along wired",
+      "ttl": 5,
+      "type": "investments film bahamas"
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "class_uid": 4003,
+  "dst_endpoint": {
+    "hostname": "us.biz",
+    "instance_uid": "472137e2-3607-11ee-bcbb-0242ac110005",
+    "interface_name": "irish janet lending",
+    "interface_uid": "47213c7e-3607-11ee-80de-0242ac110005",
+    "ip": "14.26.187.170",
+    "name": "calculation ordered johnson",
+    "port": 59631,
+    "svc_name": "mime acrobat compared",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "47214336-3607-11ee-95ec-0242ac110005",
+    "vpc_uid": "47214ffc-3607-11ee-9398-0242ac110005"
+  },
+  "enrichments": [
+    {
+      "data": "brave",
+      "name": "reid rush meetup",
+      "provider": "redeem registry leads",
+      "type": "pennsylvania dealtime clearly",
+      "value": "hundred tours premium"
+    },
+    {
+      "data": "thou",
+      "name": "surround doom bool",
+      "provider": "expectations cdt continuity",
+      "type": "contacted occurs soonest",
+      "value": "forbes vocals chevy"
+    }
+  ],
+  "message": "ourselves barbie paris",
+  "metadata": {
+    "log_name": "dealing marco surfing",
+    "original_time": "outlined friends outlined",
+    "processed_time": 1691511538111268,
+    "product": {
+      "name": "defence write undertaken",
+      "uid": "47218788-3607-11ee-ab38-0242ac110005",
+      "url_string": "dont",
+      "vendor_name": "twice involving emma",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "query": {
+    "class": "suit translate surprise",
+    "hostname": "routers.mil",
+    "opcode_id": 0,
+    "packet_uid": 68,
+    "type": "aging se instruction"
+  },
+  "query_time": 1691511538110616,
+  "rcode": "NotAuth",
+  "rcode_id": 9,
+  "response_time": 1691511538108750,
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "normal.nato",
+    "instance_uid": "472157c2-3607-11ee-bce7-0242ac110005",
+    "interface_name": "gambling para hosting",
+    "interface_uid": "47215bd2-3607-11ee-89bf-0242ac110005",
+    "location": {
+      "city": "Citizens ten",
+      "continent": "Europe",
+      "coordinates": [
+        -97.6251,
+        -88.5405
+      ],
+      "country": "RU",
+      "desc": "Russian Federation"
+    },
+    "port": 18976,
+    "svc_name": "aggressive emirates slope",
+    "type": "Browser",
+    "type_id": 8,
+    "uid": "472162c6-3607-11ee-b346-0242ac110005"
+  },
+  "start_time": 1691511538111526,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511538109056,
+  "timezone_offset": 61,
+  "tls": {
+    "certificate_chain": [
+      "lil jon pursue",
+      "visual sally asked"
+    ],
+    "cipher": "such trained lee",
+    "client_ciphers": [
+      "lm assets gourmet",
+      "careful radar tft"
+    ],
+    "ja3_hash": {
+      "algorithm": "TLSH",
+      "algorithm_id": 6,
+      "value": "09958F2F29A975C86F4BC77872179A9E719846A48F2022B36957925999CD31F4A0578A6C18EE8BDC0AEE2F0974FB4647FF2A0BFEA8A1E56877193277A827418F"
+    },
+    "ja3s_hash": {
+      "algorithm": "magic",
+      "algorithm_id": 99,
+      "value": "DE1CE3B27B0796C3FD153141D7B5834B349F2FEDD0AB9D0EFF25602383506C4D"
+    },
+    "key_length": 69,
+    "sni": "booth contamination upset",
+    "version": "1.1.0-dev"
+  },
+  "traffic": {
+    "bytes": 3036151894,
+    "packets": 1598418230
+  },
+  "type_name": "DNS Activity: Refuse",
+  "type_uid": 400305
+}

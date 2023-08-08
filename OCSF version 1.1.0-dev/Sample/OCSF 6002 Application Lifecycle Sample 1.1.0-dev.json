@@ -1,0 +1,38 @@
+{
+  "activity_id": 3,
+  "activity_name": "Start",
+  "app": {
+    "lang": "en",
+    "name": "academic exposure nc",
+    "path": "networks ebony ada",
+    "vendor_name": "connecticut hanging hack",
+    "version": "1.1.0-dev"
+  },
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "class_uid": 6002,
+  "message": "menus painful feb",
+  "metadata": {
+    "log_name": "bracket firewire fx",
+    "log_provider": "auto pros expect",
+    "product": {
+      "name": "criticism discovered badly",
+      "uid": "44089370-3607-11ee-b2eb-0242ac110005",
+      "vendor_name": "trademark rocket shop",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511532914154,
+  "timezone_offset": 4,
+  "type_name": "Application Lifecycle: Start",
+  "type_uid": 600203
+}

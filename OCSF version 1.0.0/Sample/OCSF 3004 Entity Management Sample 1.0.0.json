@@ -1,0 +1,49 @@
+{
+  "activity_id": 4,
+  "activity_name": "Delete",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "class_uid": 3004,
+  "entity": {
+    "name": "dark biographies kid",
+    "type": "location baseline democrat",
+    "uid": "5b77aff0-3607-11ee-b729-0242ac110004",
+    "version": "1.0.0"
+  },
+  "message": "parenting feet trucks",
+  "metadata": {
+    "correlation_uid": "5b776108-3607-11ee-80ec-0242ac110004",
+    "labels": [
+      "phrases",
+      "achievement"
+    ],
+    "log_name": "priorities values immigration",
+    "log_provider": "cd saving phase",
+    "original_time": "enables united ids",
+    "product": {
+      "feature": {
+        "name": "missouri statutes britannica",
+        "uid": "5b776e78-3607-11ee-94a1-0242ac110004",
+        "version": "1.0.0"
+      },
+      "lang": "en",
+      "uid": "5b77a0e6-3607-11ee-ba3e-0242ac110004",
+      "url_string": "operates",
+      "vendor_name": "sensor supported attachments",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Success",
+  "status_detail": "position voters definitely",
+  "status_id": 1,
+  "time": 1691511572230222,
+  "type_name": "Entity Management: Delete",
+  "type_uid": 300404
+}

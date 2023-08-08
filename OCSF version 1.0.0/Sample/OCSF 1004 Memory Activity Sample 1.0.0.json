@@ -1,0 +1,265 @@
+{
+  "activity_id": 6,
+  "activity_name": "Enable DEP",
+  "actor": {
+    "user": {
+      "groups": [
+        {
+          "name": "cow tier leasing",
+          "uid": "4f559c82-3607-11ee-8e40-0242ac110004"
+        },
+        {
+          "desc": "sandy der considered",
+          "type": "commerce control incidence",
+          "uid": "4f55a128-3607-11ee-b307-0242ac110004"
+        }
+      ],
+      "name": "Pat",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "4f55a56a-3607-11ee-8a16-0242ac110004"
+    }
+  },
+  "base_address": "fitness logan seems",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Memory Activity",
+  "class_uid": 1004,
+  "device": {
+    "hostname": "nsw.info",
+    "hw_info": {
+      "bios_ver": "2.3",
+      "cpu_bits": 99,
+      "cpu_count": 91,
+      "serial_number": "register permanent economics"
+    },
+    "instance_uid": "4f55c98c-3607-11ee-8498-0242ac110004",
+    "interface_name": "marketing packaging circuit",
+    "interface_uid": "4f55c0d6-3607-11ee-8faa-0242ac110004",
+    "ip": "19.10.21.72",
+    "name": "musicians alexander ireland",
+    "network_interfaces": [
+      {
+        "hostname": "mouse.aero",
+        "ip": "196.117.2.8",
+        "mac": "5F:5D:0:19:B2:6C:29:CA",
+        "name": "hudson nhl carnival",
+        "namespace": "literacy lightning prospective",
+        "type": "Mobile",
+        "type_id": 3
+      },
+      {
+        "hostname": "antivirus.pro",
+        "ip": "253.16.245.181",
+        "mac": "A3:31:E4:60:91:68:71:71",
+        "name": "subsequently constantly protecting",
+        "type": "Tunnel",
+        "type_id": 4
+      }
+    ],
+    "os": {
+      "name": "utilize snake quantum",
+      "type": "Windows",
+      "type_id": 100
+    },
+    "region": "hd investment implementation",
+    "type": "Tablet",
+    "type_id": 4,
+    "uid": "4f55c4c8-3607-11ee-86a4-0242ac110004"
+  },
+  "message": "my diesel holiday",
+  "metadata": {
+    "event_code": "deficit",
+    "log_name": "futures franklin beads",
+    "log_provider": "interventions travelers great",
+    "original_time": "prize tired nightlife",
+    "product": {
+      "lang": "en",
+      "name": "downloadable reject lat",
+      "uid": "4f5588c8-3607-11ee-a01e-0242ac110004",
+      "vendor_name": "circular browsers defence",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "4f558f58-3607-11ee-8976-0242ac110004",
+    "version": "1.0.0"
+  },
+  "observables": [
+    {
+      "name": "responsible nokia pleasant",
+      "type": "Geo Location",
+      "type_id": 26
+    },
+    {
+      "name": "malta removable basename",
+      "type": "IP Address",
+      "type_id": 2,
+      "value": "maui endless follow"
+    }
+  ],
+  "process": {
+    "cmd_line": "war spice creativity",
+    "created_time": 1691511551876034,
+    "file": {
+      "attributes": 65,
+      "company_name": "Alfredia Lesa",
+      "confidentiality": "warcraft released reaching",
+      "hashes": [
+        {
+          "algorithm": "SHA-512",
+          "algorithm_id": 4,
+          "value": "D2E8969C75775BD994B8039C916676D4FA2DC4762C2D4CB7A046BF5781BDC16749B76BD7565BE3838910B009D40918C69B980F477601C7C46D75EB4F98BE93A4"
+        }
+      ],
+      "name": "trunk.wmv",
+      "parent_folder": "feet finals links/grateful.ppt",
+      "path": "feet finals links/grateful.ppt/trunk.wmv",
+      "type": "festival",
+      "type_id": 99,
+      "uid": "4f55e12e-3607-11ee-8ea6-0242ac110004"
+    },
+    "name": "Nike",
+    "parent_process": {
+      "cmd_line": "colonial edit featuring",
+      "lineage": [
+        "pounds showers mini",
+        "egypt appreciated prominent"
+      ],
+      "name": "Bar",
+      "parent_process": {
+        "cmd_line": "lifetime rely inkjet",
+        "created_time": 1691511551876718,
+        "file": {
+          "accessor": {
+            "type": "System",
+            "type_id": 3,
+            "uid": "4f55fdd0-3607-11ee-aab5-0242ac110004"
+          },
+          "confidentiality": "smtp",
+          "confidentiality_id": 99,
+          "hashes": [
+            {
+              "algorithm": "TLSH",
+              "algorithm_id": 6,
+              "value": "2C7D34910156951B7F9B10BE7B90FDD91282E828206B99D2EFC19A917EDD95B95024D281509B2C17CFE824A50071487CDD84EEB01DB105101DA6144C5C21F4A4"
+            }
+          ],
+          "name": "plant.m3u",
+          "parent_folder": "forbes vancouver year/friends.py",
+          "path": "forbes vancouver year/friends.py/plant.m3u",
+          "type": "Named Pipe",
+          "type_id": 6
+        },
+        "name": "Sensor",
+        "parent_process": {
+          "cmd_line": "ivory anderson ka",
+          "created_time": 1691511551877251,
+          "file": {
+            "created_time": 1691511551877325,
+            "hashes": [
+              {
+                "algorithm": "quickXorHash",
+                "algorithm_id": 7,
+                "value": "70CB65E797F0E6E83287A56AD91FF0AE5A8F9C868BEDF4CB23FD8AD3A95C53F99B03EBC89D95C68BF33164EE842A0029418F762A8B641488C1D81E17707F7FAA"
+              },
+              {
+                "algorithm": "SHA-256",
+                "algorithm_id": 3,
+                "value": "6F5A6034E770ACBFB3F797E6A7EB7948D470D45F9928F92B7D72DC7C45E6D0CD"
+              }
+            ],
+            "modified_time": 1691511551877362,
+            "name": "process.odt",
+            "owner": {
+              "account": {
+                "name": "exclusion metadata stays",
+                "type": "disciplines",
+                "type_id": 99,
+                "uid": "4f5614b4-3607-11ee-99ae-0242ac110004"
+              },
+              "credential_uid": "4f5618ba-3607-11ee-86eb-0242ac110004",
+              "name": "Js",
+              "type": "Admin",
+              "type_id": 2,
+              "uid": "4f561cfc-3607-11ee-992b-0242ac110004"
+            },
+            "type": "Character Device",
+            "type_id": 3
+          },
+          "name": "Rocket",
+          "pid": 85,
+          "uid": "4f5622f6-3607-11ee-a0fe-0242ac110004",
+          "user": {
+            "full_name": "Carmine Nickolas",
+            "name": "Eagle",
+            "type": "User",
+            "type_id": 1,
+            "uid": "4f562990-3607-11ee-87ef-0242ac110004"
+          }
+        },
+        "pid": 16,
+        "sandbox": "steal buildings universe",
+        "terminated_time": 1691511551878200,
+        "uid": "4f562dd2-3607-11ee-b936-0242ac110004",
+        "user": {
+          "account": {
+            "name": "overhead op meaning",
+            "uid": "4f563480-3607-11ee-8b00-0242ac110004"
+          },
+          "email_addr": "Grayce@utils.museum",
+          "groups": [
+            {
+              "desc": "usps turn replica",
+              "name": "low needs constitutes",
+              "uid": "4f563a2a-3607-11ee-a4d4-0242ac110004"
+            }
+          ],
+          "name": "Maritime",
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "4f563fa2-3607-11ee-beb1-0242ac110004"
+        }
+      },
+      "pid": 9,
+      "session": {
+        "created_time": 1691511551878793,
+        "is_remote": true,
+        "issuer": "wait riders hi",
+        "uid": "4f5645b0-3607-11ee-9789-0242ac110004",
+        "uuid": "4f5648f8-3607-11ee-8490-0242ac110004"
+      },
+      "uid": "4f5650c8-3607-11ee-8f87-0242ac110004",
+      "user": {
+        "name": "Program",
+        "type": "System",
+        "type_id": 3,
+        "uid": "4f565794-3607-11ee-b9fa-0242ac110004"
+      },
+      "xattributes": {}
+    },
+    "pid": 70,
+    "tid": 18,
+    "uid": "4f565bae-3607-11ee-b7db-0242ac110004",
+    "user": {
+      "name": "Depends",
+      "org": {
+        "name": "butler soul municipal",
+        "ou_name": "consultancy stan devon",
+        "uid": "4f566356-3607-11ee-b149-0242ac110004"
+      },
+      "type": "Unknown",
+      "type_id": 0,
+      "uid": "4f5666ee-3607-11ee-8fe7-0242ac110004"
+    }
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "status": "hawk",
+  "status_id": 99,
+  "time": 1691511551874263,
+  "timezone_offset": 52,
+  "type_name": "Memory Activity: Enable DEP",
+  "type_uid": 100406
+}

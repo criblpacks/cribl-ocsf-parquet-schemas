@@ -1,0 +1,64 @@
+{
+  "activity_id": 99,
+  "activity_name": "shoppers",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "User Access Management",
+  "class_uid": 3005,
+  "duration": 6,
+  "message": "ebay container goal",
+  "metadata": {
+    "extension": {
+      "name": "textiles wing correction",
+      "uid": "3f3ce8e6-3607-11ee-9bca-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "labels": [
+      "coverage",
+      "action"
+    ],
+    "log_name": "southwest eagles armenia",
+    "log_provider": "locator detect reject",
+    "original_time": "standing publication outlets",
+    "product": {
+      "feature": {
+        "name": "talent hopefully glasses",
+        "uid": "3f3cf0fc-3607-11ee-a320-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "name": "barry digest remedies",
+      "uid": "3f3cf52a-3607-11ee-a8ac-0242ac110005",
+      "vendor_name": "bracelet atomic arrested",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "privileges": [
+    "operates technician tomato",
+    "border usr proteins"
+  ],
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "stories",
+  "status_code": "sheer",
+  "status_id": 99,
+  "time": 1691511524868059,
+  "timezone_offset": 55,
+  "type_name": "User Access Management: Other",
+  "type_uid": 300599,
+  "user": {
+    "groups": [
+      {
+        "name": "purple revenge jamie",
+        "uid": "3f3cd464-3607-11ee-a64a-0242ac110005"
+      }
+    ],
+    "name": "Eu",
+    "type": "System",
+    "type_id": 3,
+    "uid": "3f3cd964-3607-11ee-bfb4-0242ac110005"
+  }
+}

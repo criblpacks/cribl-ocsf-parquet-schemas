@@ -1,0 +1,97 @@
+{
+  "activity_id": 3,
+  "activity_name": "Reset",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "class_uid": 4007,
+  "client_hassh": {
+    "algorithm": "inc unless dis",
+    "fingerprint": {
+      "algorithm": "Unknown",
+      "algorithm_id": 0,
+      "value": "DA8B83E3B1DEC3672D523F614B24748F4CA245889F08C5254FD6977A9F527B2B892769A8B29C05A1D28EC6A6E5FF09BE65FDC22B87321AA5A3D7F27292D7D225"
+    }
+  },
+  "connection_info": {
+    "direction": "favorites",
+    "direction_id": 99,
+    "protocol_num": 71,
+    "uid": "5436bbb4-3607-11ee-8dba-0242ac110004"
+  },
+  "dst_endpoint": {
+    "hostname": "trends.museum",
+    "instance_uid": "5436fd5e-3607-11ee-adcd-0242ac110004",
+    "interface_name": "cooked phys radio",
+    "interface_uid": "54370196-3607-11ee-8752-0242ac110004",
+    "intermediate_ips": [
+      "10.101.73.79",
+      "21.176.47.34"
+    ],
+    "ip": "202.43.167.164",
+    "mac": "31:C9:16:97:CD:35:8F:5B",
+    "name": "heavily outcome royalty",
+    "port": 33798,
+    "svc_name": "t mailed invention",
+    "uid": "5437065a-3607-11ee-8a7e-0242ac110004"
+  },
+  "end_time": 1691511560060645,
+  "message": "arrived tamil astrology",
+  "metadata": {
+    "log_provider": "variable appreciate ways",
+    "log_version": "outreach soa portuguese",
+    "logged_time": 1691511560060109,
+    "original_time": "buses within leadership",
+    "product": {
+      "lang": "en",
+      "name": "moderators broken theories",
+      "uid": "5436af34-3607-11ee-8ef9-0242ac110004",
+      "vendor_name": "coral place true",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "protocol_ver": "3",
+  "proxy": {
+    "hostname": "journals.museum",
+    "instance_uid": "5436d554-3607-11ee-8ccd-0242ac110004",
+    "interface_name": "furnishings epinions kurt",
+    "interface_uid": "5436d9d2-3607-11ee-9c65-0242ac110004",
+    "ip": "91.232.44.240",
+    "name": "press dollar stomach",
+    "port": 53150,
+    "svc_name": "adoption simple rpg",
+    "uid": "5436e2a6-3607-11ee-a5d3-0242ac110004",
+    "vlan_uid": "5436e6b6-3607-11ee-8886-0242ac110004",
+    "vpc_uid": "5436ea6c-3607-11ee-b45b-0242ac110004"
+  },
+  "server_hassh": {
+    "algorithm": "chen operators postposted",
+    "fingerprint": {
+      "algorithm": "quickXorHash",
+      "algorithm_id": 7,
+      "value": "BF05EFB41917F44BFAE44A744A6C0816DEFE52DA79B1C1BA5844B240DB099AE21EF0FB23FACA0EC0D2B9BE785B0914C4770483525869E6677B2EA427188144BD"
+    }
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "src_endpoint": {
+    "hostname": "circle.com",
+    "interface_name": "transfers dow ferrari",
+    "ip": "254.76.22.76",
+    "name": "hidden milk calendars",
+    "port": 6673,
+    "svc_name": "solo greatest linked",
+    "uid": "5436c9f6-3607-11ee-8473-0242ac110004",
+    "vpc_uid": "5436ce56-3607-11ee-88d6-0242ac110004"
+  },
+  "status": "constitutional",
+  "status_id": 99,
+  "time": 1691511560060633,
+  "timezone_offset": 2,
+  "type_name": "SSH Activity: Reset",
+  "type_uid": 400703
+}

@@ -1,0 +1,47 @@
+{
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email URL Activity",
+  "class_uid": 4012,
+  "count": 56,
+  "email_uid": "479bd074-3607-11ee-a2c4-0242ac110005",
+  "message": "cycle msg legislative",
+  "metadata": {
+    "extension": {
+      "name": "gap memphis governance",
+      "uid": "479be820-3607-11ee-8ea2-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "log_name": "un creek expedia",
+    "log_provider": "naughty ing zus",
+    "logged_time": 1691511538913521,
+    "original_time": "medicaid endorsement off",
+    "product": {
+      "name": "admitted forces ron",
+      "uid": "479bf13a-3607-11ee-8244-0242ac110005",
+      "vendor_name": "wikipedia tar stickers",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "time": 1691511538912618,
+  "timezone_offset": 68,
+  "type_name": "Email URL Activity: Other",
+  "type_uid": 401299,
+  "unmapped": {},
+  "url": {
+    "category_ids": [
+      87
+    ],
+    "hostname": "races.mil",
+    "port": 3269,
+    "query_string": "module looksmart bestsellers",
+    "scheme": "belief plant may",
+    "url_string": "delegation"
+  }
+}

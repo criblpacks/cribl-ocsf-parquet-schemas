@@ -1,0 +1,104 @@
+{
+  "activity_id": 5,
+  "activity_name": "Rename",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network File Activity",
+  "class_uid": 4010,
+  "dst_endpoint": {
+    "hostname": "bloggers.pro",
+    "instance_uid": "4877c426-3607-11ee-a656-0242ac110005",
+    "interface_name": "cloudy received basic",
+    "interface_uid": "4877cf0c-3607-11ee-8cda-0242ac110005",
+    "ip": "232.72.153.118",
+    "name": "ohio opens linked",
+    "port": 4120,
+    "svc_name": "frederick madagascar threads",
+    "type": "Mobile",
+    "type_id": 5,
+    "uid": "4877d56a-3607-11ee-9373-0242ac110005"
+  },
+  "duration": 34,
+  "file": {
+    "accessor": {
+      "name": "Ne",
+      "type": "User",
+      "type_id": 1,
+      "uid": "48780d78-3607-11ee-8f2e-0242ac110005"
+    },
+    "confidentiality": "cordless temp regards",
+    "creator": {
+      "full_name": "Phuong Arletta",
+      "name": "Paragraph",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "48781732-3607-11ee-9ca0-0242ac110005",
+      "uid_alt": "vehicle ff thus"
+    },
+    "hashes": [
+      {
+        "algorithm": "SHA-512",
+        "algorithm_id": 4,
+        "value": "1D257B5583B99831D7C2BC3A591ECDF545EFC49809276B77F36FF1CF5A158166EBA86F59297DF14F3AAF6D04F552B1428E62C4D1AB86BE2FD0994D1783F64C51"
+      },
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "57E7D1DAC9AA3A3FECF5D9A24C38810A34F5D97D"
+      }
+    ],
+    "name": "agreement.icns",
+    "parent_folder": "testament eclipse butter/sufficient.cgi",
+    "path": "testament eclipse butter/sufficient.cgi/agreement.icns",
+    "type": "closure",
+    "type_id": 99,
+    "uid": "48781ec6-3607-11ee-af85-0242ac110005"
+  },
+  "message": "engineers rr td",
+  "metadata": {
+    "labels": [
+      "contracts"
+    ],
+    "log_name": "charter shame strength",
+    "log_provider": "moscow spam grid",
+    "modified_time": 1691511540356895,
+    "original_time": "tube statistical trying",
+    "product": {
+      "feature": {
+        "name": "pets navigate tab",
+        "uid": "487833ca-3607-11ee-8f28-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "name": "positive events parameter",
+      "uid": "48783834-3607-11ee-911d-0242ac110005",
+      "vendor_name": "equilibrium comm reproductive",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "domain": "specified circumstances spread",
+    "hostname": "nec.int",
+    "instance_uid": "4877dcea-3607-11ee-93fb-0242ac110005",
+    "interface_name": "archives excluding tide",
+    "interface_uid": "4877e0dc-3607-11ee-b763-0242ac110005",
+    "ip": "237.49.49.127",
+    "name": "cv likes radio",
+    "port": 21864,
+    "svc_name": "constant rolling jumping",
+    "type": "Server",
+    "type_id": 1,
+    "uid": "4877e546-3607-11ee-844b-0242ac110005",
+    "vlan_uid": "4877e88e-3607-11ee-901b-0242ac110005"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511540353903,
+  "type_name": "Network File Activity: Rename",
+  "type_uid": 401005
+}

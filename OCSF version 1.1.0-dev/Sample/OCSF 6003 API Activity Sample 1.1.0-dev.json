@@ -1,0 +1,110 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "actor": {
+    "user": {
+      "name": "Account",
+      "type": "System",
+      "type_id": 3,
+      "uid": "45529118-3607-11ee-8aad-0242ac110005"
+    }
+  },
+  "api": {
+    "operation": "automation privacy alerts",
+    "request": {
+      "flags": [
+        "pollution amino visa",
+        "karl curious breaks"
+      ],
+      "uid": "455215c6-3607-11ee-bfd0-0242ac110005"
+    },
+    "response": {
+      "code": 35,
+      "error": "lease hypothesis starring",
+      "error_message": "lion pressure minimize",
+      "message": "mod char costa"
+    },
+    "service": {
+      "labels": [
+        "storage"
+      ],
+      "uid": "45521c7e-3607-11ee-b925-0242ac110005",
+      "version": "1.1.0-dev"
+    }
+  },
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "API Activity",
+  "class_uid": 6003,
+  "message": "justice hormone newfoundland",
+  "metadata": {
+    "labels": [
+      "sorts"
+    ],
+    "log_name": "scales belgium packard",
+    "log_provider": "paperbacks duck conversion",
+    "modified_time": 1691511535077563,
+    "original_time": "quebec had futures",
+    "product": {
+      "feature": {
+        "name": "attribute random isolation",
+        "uid": "4552a022-3607-11ee-9f3c-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "lang": "en",
+      "uid": "4552a45a-3607-11ee-a91f-0242ac110005",
+      "vendor_name": "counties coast ripe",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "resources": [
+    {
+      "owner": {
+        "full_name": "Misty Veronika",
+        "name": "Menus",
+        "type": "System",
+        "type_id": 3,
+        "uid": "45520e14-3607-11ee-beb8-0242ac110005"
+      }
+    },
+    {
+      "type": "least proceed forms"
+    }
+  ],
+  "severity": "Unknown",
+  "severity_id": 0,
+  "src_endpoint": {
+    "hostname": "proud.jobs",
+    "instance_uid": "4551ef06-3607-11ee-a709-0242ac110005",
+    "interface_uid": "4551f3c0-3607-11ee-aac8-0242ac110005",
+    "ip": "147.248.154.33",
+    "location": {
+      "city": "Merger verse",
+      "continent": "Asia",
+      "coordinates": [
+        -21.1517,
+        -35.5326
+      ],
+      "country": "LA",
+      "desc": "Lao People's Democratic Republic"
+    },
+    "mac": "8F:AF:41:9E:B2:F2:CA:B5",
+    "name": "cw consultation bite",
+    "port": 19487,
+    "svc_name": "confused eh concerning",
+    "type": "Browser",
+    "type_id": 8,
+    "uid": "455200d6-3607-11ee-91ae-0242ac110005"
+  },
+  "start_time": 1691511535077924,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511535072902,
+  "timezone_offset": 65,
+  "type_name": "API Activity: Unknown",
+  "type_uid": 600300
+}

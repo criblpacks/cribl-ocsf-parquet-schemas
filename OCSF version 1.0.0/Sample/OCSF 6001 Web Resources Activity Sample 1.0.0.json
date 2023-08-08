@@ -1,0 +1,72 @@
+{
+  "activity_id": 7,
+  "activity_name": "Export",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resources Activity",
+  "class_uid": 6001,
+  "dst_endpoint": {
+    "domain": "mating sur permits",
+    "hostname": "calibration.arpa",
+    "instance_uid": "51ef1c7a-3607-11ee-a39e-0242ac110004",
+    "interface_name": "likelihood packet cuba",
+    "interface_uid": "51ef2080-3607-11ee-a612-0242ac110004",
+    "ip": "220.193.23.123",
+    "location": {
+      "city": "Tunes rolled",
+      "continent": "Africa",
+      "coordinates": [
+        4.1865,
+        60.0798
+      ],
+      "country": "UG",
+      "desc": "Uganda, Republic of"
+    },
+    "name": "said interim email",
+    "port": 63413,
+    "svc_name": "situated supervision shoes",
+    "uid": "51ef27e2-3607-11ee-a21c-0242ac110004"
+  },
+  "end_time": 1691511556235500,
+  "message": "orleans suggested thoughts",
+  "metadata": {
+    "event_code": "entities",
+    "labels": [
+      "jade",
+      "coast"
+    ],
+    "log_name": "collectables len babes",
+    "log_provider": "published dominant trembl",
+    "log_version": "turbo feb creations",
+    "original_time": "beauty brussels branch",
+    "product": {
+      "lang": "en",
+      "name": "flood urge automobile",
+      "uid": "51ef0320-3607-11ee-89d0-0242ac110004",
+      "vendor_name": "target mall understand",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 25,
+    "version": "1.0.0"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "dialogue",
+  "status_detail": "formats listings interesting",
+  "status_id": 99,
+  "time": 1691511556235488,
+  "timezone_offset": 42,
+  "type_name": "Web Resources Activity: Export",
+  "type_uid": 600107,
+  "web_resources": [
+    {
+      "data": "fishing",
+      "desc": "only tom modified",
+      "uid": "51ef107c-3607-11ee-824e-0242ac110004",
+      "url_string": "jd"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "activity_id": 1,
+  "activity_name": "Load",
+  "actor": {
+    "process": {
+      "cmd_line": "refine personal buzz",
+      "created_time": 1691511530741371,
+      "file": {
+        "attributes": 43,
+        "company_name": "Douglass Leigh",
+        "confidentiality": "cart filename trinity",
+        "creator": {
+          "account": {
+            "name": "notes helpful belongs",
+            "type": "Windows Account",
+            "type_id": 2,
+            "uid": "42bd0da2-3607-11ee-aa3a-0242ac110005"
+          },
+          "credential_uid": "42bd1220-3607-11ee-80f8-0242ac110005",
+          "email_addr": "Russ@nokia.biz",
+          "name": "Livestock",
+          "type": "camps",
+          "type_id": 99,
+          "uid": "42bd1c02-3607-11ee-beb2-0242ac110005"
+        },
+        "hashes": [
+          {
+            "algorithm": "CTPH",
+            "algorithm_id": 5,
+            "value": "2D93E063FE2F715FE02190BC52B52EA543BE5EF52068C05AA55A2692C956D30B62995FDAC10166D09E660199DA59249F9FE079C55E254736F95972D2365B353A"
+          },
+          {
+            "algorithm": "SHA-256",
+            "algorithm_id": 3,
+            "value": "C0BB7CA763BE828BE2F9AEC03BE0ECBF86FBBF8CE794246CAE5A14A219DA5D75"
+          }
+        ],
+        "modifier": {
+          "credential_uid": "42bd2e40-3607-11ee-92e9-0242ac110005",
+          "groups": [
+            {
+              "name": "slave academics decor",
+              "uid": "42bd3552-3607-11ee-bc2c-0242ac110005"
+            }
+          ],
+          "name": "Cigarette",
+          "org": {
+            "name": "tomato urban wooden",
+            "ou_name": "glow hrs airports",
+            "uid": "42bd4042-3607-11ee-8b93-0242ac110005"
+          },
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "42bd443e-3607-11ee-ae3a-0242ac110005"
+        },
+        "name": "modification.mp4",
+        "owner": {
+          "email_addr": "Junior@wikipedia.museum",
+          "name": "Bin",
+          "type": "Unknown",
+          "type_id": 0,
+          "uid": "42bd4dda-3607-11ee-886c-0242ac110005"
+        },
+        "parent_folder": "ruled fraction raleigh/suit.torrent",
+        "path": "ruled fraction raleigh/suit.torrent/modification.mp4",
+        "type": "voltage",
+        "type_id": 99
+      },
+      "integrity": "proceeding housewives volkswagen",
+      "name": "Protection",
+      "parent_process": {
+        "cmd_line": "consolidation success gamecube",
+        "created_time": 1691511530743913,
+        "file": {
+          "accessed_time": 1691511530744123,
+          "company_name": "Chu Elvira",
+          "hashes": [
+            {
+              "algorithm": "MD5",
+              "algorithm_id": 1,
+              "value": "C70BC928C4D08FFB18FC491F215D238A"
+            }
+          ],
+          "mime_type": "extension/newport",
+          "modified_time": 1691511530744182,
+          "name": "communications.cbr",
+          "parent_folder": "wait powerpoint dated/hey.plugin",
+          "path": "wait powerpoint dated/hey.plugin/communications.cbr",
+          "type": "Character Device",
+          "type_id": 3,
+          "uid": "42bd6450-3607-11ee-a91e-0242ac110005",
+          "version": "1.1.0-dev",
+          "xattributes": {}
+        },
+        "name": "Istanbul",
+        "pid": 58,
+        "tid": 77,
+        "user": {
+          "name": "Lodging",
+          "type": "User",
+          "type_id": 1,
+          "uid": "42bd797c-3607-11ee-97a2-0242ac110005"
+        }
+      },
+      "pid": 85,
+      "uid": "42bd7ec2-3607-11ee-9583-0242ac110005",
+      "user": {
+        "name": "Alive",
+        "type": "User",
+        "type_id": 1,
+        "uid": "42bd8700-3607-11ee-af6a-0242ac110005"
+      },
+      "xattributes": {}
+    },
+    "user": {
+      "name": "Thrown",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "42bd99ca-3607-11ee-8e44-0242ac110005"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Kernel Extension Activity",
+  "class_uid": 1002,
+  "device": {
+    "hostname": "moms.coop",
+    "image": {
+      "name": "time fix english",
+      "uid": "42bdaa14-3607-11ee-808d-0242ac110005"
+    },
+    "instance_uid": "42bda2ee-3607-11ee-adf5-0242ac110005",
+    "interface_name": "congress boolean composer",
+    "interface_uid": "42bdb8c4-3607-11ee-85de-0242ac110005",
+    "ip": "184.111.29.192",
+    "is_personal": false,
+    "modified_time": 1691511530746586,
+    "name": "invest screening peas",
+    "network_interfaces": [
+      {
+        "hostname": "likewise.com",
+        "ip": "218.150.178.47",
+        "mac": "74:4E:9B:1E:AF:F8:D7:DC",
+        "name": "resolved celebration berlin",
+        "type": "Wired",
+        "type_id": 1
+      }
+    ],
+    "region": "james tom ourselves",
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "42bdafc8-3607-11ee-b9be-0242ac110005",
+    "vpc_uid": "42bdbc52-3607-11ee-89e7-0242ac110005"
+  },
+  "driver": {
+    "file": {
+      "accessor": {
+        "domain": "eg stats circuit",
+        "groups": [
+          {
+            "name": "beneficial serbia considering",
+            "uid": "42bdcecc-3607-11ee-91b0-0242ac110005"
+          },
+          {
+            "name": "delivery pour xbox",
+            "uid": "42bdd5a2-3607-11ee-a599-0242ac110005"
+          }
+        ],
+        "name": "Gr",
+        "org": {
+          "name": "threatened next hospital",
+          "ou_name": "deck closer shopper",
+          "uid": "42bddc8c-3607-11ee-b082-0242ac110005"
+        },
+        "type": "User",
+        "type_id": 1
+      },
+      "company_name": "Monte Myrtie",
+      "confidentiality": "Top Secret",
+      "confidentiality_id": 4,
+      "hashes": [
+        {
+          "algorithm": "SHA-512",
+          "algorithm_id": 4,
+          "value": "442A96559073A65E4BC08671F80E64FDF8D6C917816860C1A3EF8849A968E1418D901B70E73569C7251FE4ADBD94094B18C3B5C4C0DD0ED3FF5F0DFE96795BE5"
+        },
+        {
+          "algorithm": "TLSH",
+          "algorithm_id": 6,
+          "value": "45D78D051B71D8C0CDE73D8C63E8AD87D602A0EE8103FB36A9A19B578FA0434F27E34C0477B8D901FAE94E98C7C7EAB802EB6D449B3E287F441EA4B38D86B204"
+        }
+      ],
+      "name": "jr.bat",
+      "parent_folder": "scary land casey/marketing.cbr",
+      "path": "scary land casey/marketing.cbr/jr.bat",
+      "signature": {
+        "algorithm": "DSA",
+        "algorithm_id": 1,
+        "certificate": {
+          "created_time": 1691511530747596,
+          "expiration_time": 1691511530747603,
+          "fingerprints": [
+            {
+              "algorithm": "quickXorHash",
+              "algorithm_id": 7,
+              "value": "D5D1463F77CA058B972042709BD591FE30B0ACD27E993117B702CFC2E91B4F64BB13616733C2E8C72E92262EBF7DBDAE3081C8631782C2F07D005B24DC2DFC92"
+            },
+            {
+              "algorithm": "SHA-256",
+              "algorithm_id": 3,
+              "value": "A6B1880837D5E928DFD222ACD61AAEE3C9F9D2047776EB2609BB4B059D23ED57"
+            }
+          ],
+          "issuer": "plymouth hiring rick",
+          "serial_number": "highs laws produces",
+          "version": "1.1.0-dev"
+        },
+        "developer_uid": "42bdeb96-3607-11ee-bb3c-0242ac110005",
+        "digest": {
+          "algorithm": "SHA-256",
+          "algorithm_id": 3,
+          "value": "AE95D0A28506280EEEA2869813FE754A196713974A03F410F466D11B645816E8"
+        }
+      },
+      "size": 2921937529,
+      "type": "Folder",
+      "type_id": 2
+    }
+  },
+  "message": "display slave choir",
+  "metadata": {
+    "event_code": "light",
+    "extension": {
+      "name": "facility hi uruguay",
+      "uid": "42bdfd66-3607-11ee-844c-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "labels": [
+      "lawyers",
+      "receiver"
+    ],
+    "log_name": "replace jews bathroom",
+    "log_provider": "gnome wifi phantom",
+    "log_version": "counsel perceived racing",
+    "original_time": "move passenger british",
+    "product": {
+      "name": "cluster durham moore",
+      "uid": "42be052c-3607-11ee-a9f6-0242ac110005",
+      "url_string": "prescribed",
+      "vendor_name": "reputation valentine bass",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "42be0964-3607-11ee-81bc-0242ac110005",
+    "version": "1.1.0-dev"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511530741096,
+  "timezone_offset": 21,
+  "type_name": "Kernel Extension Activity: Load",
+  "type_uid": 100201
+}

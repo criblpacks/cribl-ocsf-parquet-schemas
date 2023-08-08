@@ -1,0 +1,71 @@
+{
+  "activity_id": 2,
+  "activity_name": "Logoff",
+  "auth_protocol": "EAP",
+  "auth_protocol_id": 9,
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Authentication",
+  "class_uid": 3002,
+  "count": 66,
+  "dst_endpoint": {
+    "hostname": "relevant.pro",
+    "instance_uid": "4bfa182e-3607-11ee-9501-0242ac110005",
+    "interface_uid": "4bfa1e50-3607-11ee-891f-0242ac110005",
+    "ip": "79.95.96.74",
+    "name": "behind lottery occasions",
+    "port": 21005,
+    "subnet_uid": "4bfa23a0-3607-11ee-a6ef-0242ac110005",
+    "svc_name": "pensions publications dublin",
+    "type": "Virtual",
+    "type_id": 6,
+    "uid": "4bfa2918-3607-11ee-9d46-0242ac110005"
+  },
+  "is_remote": false,
+  "logon_type": "New Credentials",
+  "logon_type_id": 9,
+  "message": "leslie probability outlook",
+  "metadata": {
+    "log_name": "kind wallpaper contemporary",
+    "log_provider": "value personnel holly",
+    "log_version": "legend surely race",
+    "original_time": "continuing damage collectables",
+    "product": {
+      "name": "administrative pale consultants",
+      "uid": "4bfa5cee-3607-11ee-80d8-0242ac110005",
+      "url_string": "drivers",
+      "vendor_name": "region briefing touring",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "service": {
+    "name": "motors self cheat",
+    "uid": "4bfa49ac-3607-11ee-a535-0242ac110005"
+  },
+  "severity": "grave",
+  "severity_id": 99,
+  "start_time": 1691511546243443,
+  "status": "Unknown",
+  "status_code": "playing",
+  "status_id": 0,
+  "time": 1691511546241239,
+  "timezone_offset": 5,
+  "type_name": "Authentication: Logoff",
+  "type_uid": 300202,
+  "user": {
+    "account": {
+      "name": "days signals postposted",
+      "type": "AWS IAM Role",
+      "type_id": 4,
+      "uid": "4bfa3692-3607-11ee-9e64-0242ac110005"
+    },
+    "name": "Birds",
+    "type": "System",
+    "type_id": 3,
+    "uid": "4bfa3b6a-3607-11ee-a683-0242ac110005"
+  }
+}

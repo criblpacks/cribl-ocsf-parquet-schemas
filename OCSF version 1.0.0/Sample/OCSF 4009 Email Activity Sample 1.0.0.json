@@ -1,0 +1,74 @@
+{
+  "attempt": 54,
+  "banner": "inches encourages cliff",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "class_uid": 4009,
+  "direction": "Outbound",
+  "direction_id": 2,
+  "email": {
+    "from": "Billye@queensland.jobs",
+    "message_uid": "567b3918-3607-11ee-996b-0242ac110004",
+    "reply_to": "Vivien@recommends.firm",
+    "size": 72208018,
+    "smtp_from": "Gracia@banned.cat",
+    "smtp_to": [
+      "Nestor@lenses.firm"
+    ],
+    "subject": "incidents cologne roots",
+    "to": [
+      "Manuel@programming.net",
+      "Kayla@technique.pro"
+    ],
+    "uid": "567b3ee0-3607-11ee-8ffc-0242ac110004"
+  },
+  "enrichments": [
+    {
+      "data": "xerox",
+      "name": "southern alarm revisions",
+      "provider": "sometimes decimal hawaii",
+      "type": "isbn device stopped",
+      "value": "services finite temp"
+    }
+  ],
+  "metadata": {
+    "log_name": "survivor nationally greg",
+    "log_provider": "feel copper tee",
+    "log_version": "genre scuba shots",
+    "original_time": "benchmark west organizing",
+    "product": {
+      "lang": "en",
+      "name": "disable details large",
+      "path": "several approved practical",
+      "uid": "567b16ae-3607-11ee-b6b5-0242ac110004",
+      "vendor_name": "patrick dining reggae",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "High",
+  "severity_id": 4,
+  "smtp_hello": "michel mozilla counting",
+  "src_endpoint": {
+    "hostname": "arthur.nato",
+    "instance_uid": "567b2464-3607-11ee-a36d-0242ac110004",
+    "interface_name": "guns til grad",
+    "interface_uid": "567b28b0-3607-11ee-83a5-0242ac110004",
+    "ip": "182.173.128.198",
+    "name": "terrorism promotional excellence",
+    "port": 1449,
+    "subnet_uid": "567b2cde-3607-11ee-bf58-0242ac110004",
+    "svc_name": "closing technician nav"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511563864301,
+  "timezone_offset": 21,
+  "type_name": "Email Activity: Other",
+  "type_uid": 400999,
+  "unmapped": {}
+}

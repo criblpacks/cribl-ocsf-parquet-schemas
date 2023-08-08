@@ -1,0 +1,76 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resources Activity",
+  "class_uid": 6001,
+  "count": 51,
+  "dst_endpoint": {
+    "hostname": "editorials.jobs",
+    "instance_uid": "40fc0022-3607-11ee-8531-0242ac110005",
+    "interface_uid": "40fc08d8-3607-11ee-907d-0242ac110005",
+    "ip": "244.150.111.138",
+    "mac": "63:23:85:7C:D1:7C:20:A2",
+    "name": "rolls know inn",
+    "port": 7048,
+    "svc_name": "shots athletes longest",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "40fc0fe0-3607-11ee-b9c0-0242ac110005"
+  },
+  "message": "cr antique borough",
+  "metadata": {
+    "labels": [
+      "newer",
+      "revisions"
+    ],
+    "log_name": "elegant sap afternoon",
+    "log_provider": "addiction jar bring",
+    "log_version": "glad could alfred",
+    "original_time": "appendix account arise",
+    "product": {
+      "feature": {
+        "name": "m sugar researchers",
+        "uid": "40fc3b64-3607-11ee-aec0-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "name": "recent significance helena",
+      "uid": "40fc4032-3607-11ee-b6ea-0242ac110005",
+      "vendor_name": "rf cart outlined",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "src_endpoint": {
+    "hostname": "cricket.net",
+    "instance_uid": "40fc1756-3607-11ee-9a21-0242ac110005",
+    "interface_name": "respected selecting dutch",
+    "interface_uid": "40fc1b5c-3607-11ee-ae1f-0242ac110005",
+    "ip": "205.251.239.222",
+    "name": "agencies anatomy haven",
+    "port": 57508,
+    "svc_name": "displayed brochure less",
+    "type": "Server",
+    "type_id": 1,
+    "uid": "40fc2282-3607-11ee-ae35-0242ac110005"
+  },
+  "start_time": 1691511527801130,
+  "status": "internal",
+  "status_code": "happiness",
+  "status_id": 99,
+  "time": 1691511527798769,
+  "type_name": "Web Resources Activity: Create",
+  "type_uid": 600101,
+  "web_resources": [
+    {
+      "data": "fever",
+      "url_string": "pairs"
+    }
+  ]
+}

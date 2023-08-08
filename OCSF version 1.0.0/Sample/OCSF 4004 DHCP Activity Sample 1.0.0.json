@@ -1,0 +1,79 @@
+{
+  "activity_id": 7,
+  "activity_name": "Release",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "class_uid": 4004,
+  "dst_endpoint": {
+    "domain": "newark vocabulary thick",
+    "hostname": "echo.name",
+    "instance_uid": "560d0c54-3607-11ee-bacb-0242ac110004",
+    "interface_name": "mn trend webmasters",
+    "interface_uid": "560d1276-3607-11ee-985f-0242ac110004",
+    "ip": "253.246.154.169",
+    "name": "maple literature bible",
+    "port": 59924,
+    "svc_name": "annually kw ty",
+    "uid": "560d2568-3607-11ee-afbf-0242ac110004"
+  },
+  "is_renewal": true,
+  "metadata": {
+    "correlation_uid": "560c6434-3607-11ee-8692-0242ac110004",
+    "event_code": "genes",
+    "log_name": "rpm vc accordingly",
+    "log_provider": "socks emily awareness",
+    "original_time": "boxes sophisticated steering",
+    "product": {
+      "feature": {
+        "name": "myspace drawings simplified",
+        "uid": "560c7442-3607-11ee-a833-0242ac110004",
+        "version": "1.0.0"
+      },
+      "lang": "en",
+      "name": "spelling males jp",
+      "uid": "560c8342-3607-11ee-a103-0242ac110004",
+      "vendor_name": "fans genesis catch",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "domain": "roy mike terry",
+    "hostname": "prize.name",
+    "instance_uid": "560c922e-3607-11ee-be2b-0242ac110004",
+    "interface_name": "trusts services maintaining",
+    "interface_uid": "560c9fbc-3607-11ee-8b43-0242ac110004",
+    "intermediate_ips": [
+      "121.144.182.222",
+      "93.182.242.3"
+    ],
+    "ip": "16.159.229.137",
+    "location": {
+      "city": "Governmental kelly",
+      "continent": "Africa",
+      "coordinates": [
+        174.0985,
+        -67.7441
+      ],
+      "country": "ZW",
+      "desc": "Zimbabwe, Republic of"
+    },
+    "name": "scene dive vegetable",
+    "port": 20222,
+    "svc_name": "medicare definition twist",
+    "uid": "560cd72a-3607-11ee-a89d-0242ac110004"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511563139618,
+  "timezone_offset": 10,
+  "transaction_uid": "560cdbda-3607-11ee-b9ae-0242ac110004",
+  "type_name": "DHCP Activity: Release",
+  "type_uid": 400407
+}

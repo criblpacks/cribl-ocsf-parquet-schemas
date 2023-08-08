@@ -1,0 +1,90 @@
+{
+  "activity_id": 1,
+  "activity_name": "Create",
+  "attacks": [
+    {
+      "tactics": [
+        {
+          "name": "Credential Access The adversary is trying to steal account names and passwords.",
+          "uid": "TA0006"
+        },
+        {
+          "name": "Discovery The adversary is trying to figure out your environment.",
+          "uid": "TA0007"
+        }
+      ],
+      "technique": {
+        "name": "InstallUtil",
+        "uid": "T1218.004"
+      },
+      "version": "12.1"
+    },
+    {
+      "tactics": [
+        {
+          "name": "Defense Evasion The adversary is trying to avoid being detected.",
+          "uid": "TA0005"
+        },
+        {
+          "name": "Defense Evasion The adversary is trying to avoid being detected.",
+          "uid": "TA0005"
+        },
+        {
+          "name": "Lateral Movement | The adversary is trying to move through your environment.",
+          "uid": "TA0008"
+        }
+      ],
+      "technique": {
+        "name": "Rename System Utilities",
+        "uid": "T1036.003"
+      },
+      "version": "12.1"
+    }
+  ],
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Security Finding",
+  "class_uid": 2001,
+  "confidence": "Unknown",
+  "confidence_id": 0,
+  "finding": {
+    "desc": "answers ntsc adventure",
+    "title": "least clause julie",
+    "uid": "3e3ddfae-3607-11ee-bc28-0242ac110005"
+  },
+  "impact": "High",
+  "impact_id": 3,
+  "message": "gradually admit milan",
+  "metadata": {
+    "log_name": "robbie submit performer",
+    "log_provider": "existed cuts label",
+    "logged_time": 1691511523198130,
+    "original_time": "adjusted gotta very",
+    "product": {
+      "name": "online brings visa",
+      "path": "limousines robert convicted",
+      "uid": "3e3df778-3607-11ee-8631-0242ac110005",
+      "vendor_name": "factor br increasingly",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "resources": [
+    {
+      "criticality": "remove anywhere frequently"
+    }
+  ],
+  "severity": "High",
+  "severity_id": 4,
+  "state": "Suppressed",
+  "state_id": 3,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511523197338,
+  "timezone_offset": 70,
+  "type_name": "Security Finding: Create",
+  "type_uid": 200101
+}

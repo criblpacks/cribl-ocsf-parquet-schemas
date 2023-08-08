@@ -1,0 +1,63 @@
+{
+  "activity_id": 1,
+  "activity_name": "Assign Privileges",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "class_uid": 3006,
+  "group": {
+    "uid": "4a4021d6-3607-11ee-96c0-0242ac110005"
+  },
+  "message": "traffic jacksonville actual",
+  "metadata": {
+    "log_name": "grain repairs disable",
+    "log_provider": "tu with nathan",
+    "original_time": "devices ongoing anymore",
+    "product": {
+      "name": "crisis despite mileage",
+      "path": "explaining calls participant",
+      "uid": "4a402f0a-3607-11ee-8a41-0242ac110005",
+      "vendor_name": "bernard collectible memory",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 23,
+    "version": "1.1.0-dev"
+  },
+  "observables": [
+    {
+      "name": "burden breakdown lies",
+      "type": "File Name",
+      "type_id": 7,
+      "value": "giving verse doom"
+    }
+  ],
+  "privileges": [
+    "macintosh ranks interests"
+  ],
+  "severity": "requested",
+  "severity_id": 99,
+  "status": "Unknown",
+  "status_detail": "meetings informative forecasts",
+  "status_id": 0,
+  "time": 1691511543343964,
+  "timezone_offset": 6,
+  "type_name": "Group Management: Assign Privileges",
+  "type_uid": 300601,
+  "user": {
+    "account": {
+      "name": "prostores vcr belongs"
+    },
+    "name": "Vermont",
+    "org": {
+      "name": "customer testimony disorders",
+      "ou_name": "disappointed five mental",
+      "uid": "4a4008c2-3607-11ee-a31f-0242ac110005"
+    },
+    "type": "System",
+    "type_id": 3,
+    "uid": "4a401114-3607-11ee-8436-0242ac110005"
+  }
+}

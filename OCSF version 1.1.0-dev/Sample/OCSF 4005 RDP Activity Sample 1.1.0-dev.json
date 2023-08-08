@@ -1,0 +1,98 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "RDP Activity",
+  "class_uid": 4005,
+  "connection_info": {
+    "boundary": "External",
+    "boundary_id": 3,
+    "direction": "relocation",
+    "direction_id": 99,
+    "protocol_num": 79
+  },
+  "dst_endpoint": {
+    "instance_uid": "495bc838-3607-11ee-82a3-0242ac110005",
+    "interface_name": "history china rounds",
+    "ip": "177.89.56.53",
+    "location": {
+      "city": "Viewers auction",
+      "continent": "Africa",
+      "coordinates": [
+        -24.313,
+        -72.7966
+      ],
+      "country": "KM",
+      "desc": "Comoros, Union of the"
+    },
+    "name": "bed consoles lambda",
+    "port": 10110,
+    "svc_name": "therapist centered prove",
+    "type": "Tablet",
+    "type_id": 4,
+    "uid": "495bd5d0-3607-11ee-b24c-0242ac110005"
+  },
+  "duration": 60,
+  "end_time": 1691511541849907,
+  "identifier_cookie": "afterwards arch reservoir",
+  "metadata": {
+    "event_code": "recorders",
+    "extension": {
+      "name": "then concern monthly",
+      "uid": "495c3c1e-3607-11ee-b1c1-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "log_name": "deposit cry phases",
+    "log_provider": "seafood iraqi sports",
+    "modified_time": 1691511541852011,
+    "original_time": "gave somalia distant",
+    "product": {
+      "feature": {
+        "name": "versions thirty eq",
+        "uid": "495c8d22-3607-11ee-8c73-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "name": "wisdom june netherlands",
+      "uid": "495cbbda-3607-11ee-8923-0242ac110005",
+      "vendor_name": "exceptions chuck anniversary",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 21,
+    "version": "1.1.0-dev"
+  },
+  "protocol_ver": "0",
+  "response": {
+    "code": 63,
+    "message": "currencies bracelets sophisticated"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "src_endpoint": {
+    "instance_uid": "495bdf1c-3607-11ee-bcb0-0242ac110005",
+    "interface_name": "explicitly extended animation",
+    "ip": "230.67.159.10",
+    "name": "ohio trades blind",
+    "port": 54365,
+    "svc_name": "jane provide competent",
+    "type": "Desktop",
+    "type_id": 2,
+    "uid": "495bee12-3607-11ee-9daf-0242ac110005"
+  },
+  "start_time": 1691511541855692,
+  "status": "israeli",
+  "status_detail": "lounge dark ro",
+  "status_id": 99,
+  "time": 1691511541848084,
+  "timezone_offset": 72,
+  "traffic": {
+    "bytes": 3665191374,
+    "packets": 1557408644,
+    "packets_in": 4268343149
+  },
+  "type_name": "RDP Activity: Unknown",
+  "type_uid": 400500
+}

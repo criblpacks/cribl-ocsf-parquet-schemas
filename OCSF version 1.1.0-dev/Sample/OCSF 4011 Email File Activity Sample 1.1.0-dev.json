@@ -1,0 +1,97 @@
+{
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "class_uid": 4011,
+  "duration": 58,
+  "email_uid": "480bec92-3607-11ee-be2b-0242ac110005",
+  "file": {
+    "company_name": "Zelma Brigid",
+    "confidentiality": "assembly burning shaved",
+    "hashes": [
+      {
+        "algorithm": "MD5",
+        "algorithm_id": 1,
+        "value": "970AE9DCBE08D5B400EEE5D177DEA886"
+      },
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "BCFC1CA4BFF0592E7DD57E43AE79C27EE02D443071478C49F0F9BEB4E6281C40ED8DA12546C0C20563302418D904F8290AF78C84DE4421B65FD6C3F1DAD662C7"
+      }
+    ],
+    "modifier": {
+      "credential_uid": "480c0a38-3607-11ee-880d-0242ac110005",
+      "email_addr": "Imogene@robin.info",
+      "name": "Mug",
+      "type": "System",
+      "type_id": 3,
+      "uid": "480c1140-3607-11ee-8c4a-0242ac110005"
+    },
+    "name": "finance.mim",
+    "parent_folder": "various qualities databases/museums.tar.gz",
+    "path": "various qualities databases/museums.tar.gz/finance.mim",
+    "product": {
+      "name": "ann navigation magnetic",
+      "uid": "480c1848-3607-11ee-9c68-0242ac110005",
+      "vendor_name": "total cluster church"
+    },
+    "signature": {
+      "algorithm": "RSA",
+      "algorithm_id": 2,
+      "certificate": {
+        "created_time": 1691511539648802,
+        "expiration_time": 1691511539648811,
+        "fingerprints": [
+          {
+            "algorithm": "CTPH",
+            "algorithm_id": 5,
+            "value": "06F36C9E6946378B4E01E08B6C7C01E061F145DA155E67323021B7A4561342036045B185752DC0C9334C2824F2B3D10DBB6112CA73A60ED38D576B87F34EE7BB"
+          }
+        ],
+        "issuer": "newer casio tracker",
+        "serial_number": "wood world shooting",
+        "subject": "lat phantom consequences",
+        "version": "1.1.0-dev"
+      },
+      "developer_uid": "480c2644-3607-11ee-b1b3-0242ac110005",
+      "digest": {
+        "algorithm": "MD5",
+        "algorithm_id": 1,
+        "value": "3172DBF2DF5F1E31FF40EFD8E4C62E65"
+      }
+    },
+    "type": "Symbolic Link",
+    "type_id": 7,
+    "xattributes": {}
+  },
+  "message": "outcome venues cabin",
+  "metadata": {
+    "event_code": "jungle",
+    "log_name": "preview external distributed",
+    "log_provider": "trademarks mouse enclosed",
+    "log_version": "subscriptions arrangements appeal",
+    "logged_time": 1691511539649441,
+    "original_time": "subaru loops edges",
+    "product": {
+      "lang": "en",
+      "path": "purchased pie wu",
+      "uid": "480c3b20-3607-11ee-bd41-0242ac110005",
+      "vendor_name": "possibly meal round",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Unknown",
+  "status_detail": "hart recommended setting",
+  "status_id": 0,
+  "time": 1691511539647375,
+  "timezone_offset": 96,
+  "type_name": "Email File Activity: Send",
+  "type_uid": 401101
+}

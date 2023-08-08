@@ -1,0 +1,187 @@
+{
+  "activity_id": 7,
+  "activity_name": "Put",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "HTTP Activity",
+  "class_uid": 4002,
+  "connection_info": {
+    "boundary": "soon wifi mens",
+    "direction": "doctor",
+    "direction_id": 99,
+    "protocol_num": 40,
+    "protocol_ver": "Unknown",
+    "protocol_ver_id": 0,
+    "uid": "41d04efe-3607-11ee-a97a-0242ac110005"
+  },
+  "dst_endpoint": {
+    "domain": "cry preventing offerings",
+    "hostname": "artwork.mil",
+    "instance_uid": "41d02e38-3607-11ee-a595-0242ac110005",
+    "interface_name": "damages keith others",
+    "intermediate_ips": [
+      "36.88.182.65",
+      "240.174.66.185"
+    ],
+    "ip": "131.134.199.23",
+    "location": {
+      "city": "Pr correspondence",
+      "continent": "Europe",
+      "coordinates": [
+        111.7718,
+        -82.3765
+      ],
+      "country": "GI",
+      "desc": "Gibraltar"
+    },
+    "mac": "9E:A7:74:2E:1B:CA:83:26",
+    "name": "murphy gym something",
+    "port": 39951,
+    "svc_name": "french potential everywhere",
+    "type": "Laptop",
+    "type_id": 3,
+    "uid": "41d03a0e-3607-11ee-be4b-0242ac110005"
+  },
+  "enrichments": [
+    {
+      "data": "mls",
+      "name": "gem training second",
+      "type": "closes rio hunger",
+      "value": "capital roland systems"
+    },
+    {
+      "data": "sega",
+      "name": "vhs scanners friend",
+      "provider": "designs affiliation acids",
+      "type": "sealed mall andrea",
+      "value": "semi under theories"
+    }
+  ],
+  "http_request": {
+    "args": "sean describing instructional",
+    "http_headers": [
+      {
+        "name": "tunnel gif gbp",
+        "value": "countries discretion moderator"
+      },
+      {
+        "name": "sunshine authorities prostores",
+        "value": "member dealt weird"
+      }
+    ],
+    "http_method": "TRACE",
+    "url": {
+      "category_ids": [
+        56,
+        0
+      ],
+      "hostname": "watson.name",
+      "path": "feeds wines edited",
+      "port": 9239,
+      "query_string": "hrs infrastructure ul",
+      "resource_type": "thriller four develops",
+      "scheme": "cholesterol guam inquiries",
+      "url_string": "works"
+    },
+    "user_agent": "todd mail manual",
+    "version": "1.1.0-dev"
+  },
+  "http_response": {
+    "code": 67,
+    "length": 56
+  },
+  "message": "mozilla ethiopia webmaster",
+  "metadata": {
+    "extension": {
+      "name": "learned sweden young",
+      "uid": "41d07302-3607-11ee-83bf-0242ac110005",
+      "version": "1.1.0-dev"
+    },
+    "log_provider": "blogging establishment echo",
+    "log_version": "male villas interval",
+    "original_time": "faced samuel card",
+    "product": {
+      "name": "hygiene periodically coupled",
+      "uid": "41d079ce-3607-11ee-8dcb-0242ac110005",
+      "url_string": "extent",
+      "vendor_name": "vid caring dictionary",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "src_endpoint": {
+    "hostname": "parents.biz",
+    "interface_name": "dare presently bite",
+    "interface_uid": "41d0436e-3607-11ee-b97d-0242ac110005",
+    "ip": "134.218.58.231",
+    "name": "trans library thumbzilla",
+    "port": 9321,
+    "svc_name": "feeling opening passengers",
+    "type": "Virtual",
+    "type_id": 6,
+    "uid": "41d04882-3607-11ee-96b0-0242ac110005"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511529189420,
+  "timezone_offset": 67,
+  "tls": {
+    "certificate": {
+      "created_time": 1691511529190675,
+      "expiration_time": 1691511529190684,
+      "fingerprints": [
+        {
+          "algorithm": "SHA-512",
+          "algorithm_id": 4,
+          "value": "2124F58129DE49226E0A3FD4B6A4237F84178599A303884B7B2D2F5F0459FD2373E0533106837CE149F315B166B492F4FBC5FF7741AA1D224E0CA7FE7DA8A3F3"
+        },
+        {
+          "algorithm": "SHA-256",
+          "algorithm_id": 3,
+          "value": "55B38FDC26E0B2646354727886996FA8F6B6B2A7F82C4200894EA9C392F59791"
+        }
+      ],
+      "issuer": "reduction tuner associated",
+      "serial_number": "plastic negotiations legs",
+      "subject": "identifies petersburg printers",
+      "version": "1.1.0-dev"
+    },
+    "certificate_chain": [
+      "alternate massage survivor",
+      "wt shall registration"
+    ],
+    "cipher": "dark lucia atom",
+    "client_ciphers": [
+      "equity bobby favorites"
+    ],
+    "ja3_hash": {
+      "algorithm": "SHA-1",
+      "algorithm_id": 2,
+      "value": "446855CDD79D62F382E135723EBFF336FA55D14C"
+    },
+    "ja3s_hash": {
+      "algorithm": "TLSH",
+      "algorithm_id": 6,
+      "value": "8E459A298D273843A2EBFC652E37D4CB5ABCE258786F98F465576ACBB3D273C263C394DF043541FE96918359A77D019A05C293621B107765E903797FCC0E869E"
+    },
+    "sans": [
+      {
+        "name": "society barry workforce",
+        "type": "bookstore amino platinum"
+      },
+      {
+        "name": "advancement deep lang",
+        "type": "hereby protest timothy"
+      }
+    ],
+    "sni": "included multiple term",
+    "version": "1.1.0-dev"
+  },
+  "type_name": "HTTP Activity: Put",
+  "type_uid": 400207
+}

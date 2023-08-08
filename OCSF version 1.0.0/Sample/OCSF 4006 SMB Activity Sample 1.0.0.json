@@ -1,0 +1,139 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SMB Activity",
+  "class_uid": 4006,
+  "client_dialects": [
+    "relevant strips cleaning",
+    "headlines icq unlimited"
+  ],
+  "command": "diane stan leaving",
+  "connection_info": {
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 36
+  },
+  "dialect": "tr worldcat lawn",
+  "dst_endpoint": {
+    "domain": "jvc therapy magazine",
+    "hostname": "rounds.travel",
+    "instance_uid": "4fc74eb8-3607-11ee-a132-0242ac110004",
+    "ip": "41.78.22.247",
+    "location": {
+      "city": "Acquisition holidays",
+      "continent": "Asia",
+      "coordinates": [
+        -176.8916,
+        42.9045
+      ],
+      "country": "VN",
+      "desc": "Vietnam, Socialist Republic of"
+    },
+    "name": "heel pen revealed",
+    "port": 46241,
+    "subnet_uid": "4fc75566-3607-11ee-b2ed-0242ac110004",
+    "svc_name": "hunt spanish supplied",
+    "uid": "4fc759bc-3607-11ee-8481-0242ac110004"
+  },
+  "file": {
+    "company_name": "Erma Yuette",
+    "hashes": [
+      {
+        "algorithm": "quickXorHash",
+        "algorithm_id": 7,
+        "value": "3B197D3DCF074F31AA247EAC7E1BFFA767B92C97D2FFA2FC447F3E00CDF87E082984DB81A0B085EF42697BD7961B5B0F819E394148C95633D6D220AE563A9549"
+      },
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "35C90137B6BD19F8D464173B9904DBFA60D62BFF8BCBCF99235987ACC2D4840DBA02F991522C533C211C54B3A1016A0A76AF0578E30D0190414926A1EA56FEB7"
+      }
+    ],
+    "name": "official.wps",
+    "owner": {
+      "account": {
+        "name": "cork software defining",
+        "type": "AWS IAM User",
+        "type_id": 3,
+        "uid": "4fc73bbc-3607-11ee-af6a-0242ac110004"
+      },
+      "name": "Simon",
+      "type": "System",
+      "type_id": 3,
+      "uid": "4fc7403a-3607-11ee-b3dd-0242ac110004"
+    },
+    "parent_folder": "found at barbara/film.icns",
+    "path": "found at barbara/film.icns/official.wps",
+    "type": "Unknown",
+    "type_id": 0
+  },
+  "message": "ware yemen neck",
+  "metadata": {
+    "labels": [
+      "scan",
+      "argued"
+    ],
+    "log_name": "bibliographic headline drama",
+    "log_provider": "offense denied finds",
+    "logged_time": 1691511552617216,
+    "product": {
+      "lang": "en",
+      "name": "dual boolean parallel",
+      "uid": "4fc6ff3a-3607-11ee-a9dd-0242ac110004",
+      "url_string": "vegetarian",
+      "vendor_name": "nsw assure chicago",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "4fc70494-3607-11ee-8157-0242ac110004",
+    "version": "1.0.0"
+  },
+  "observables": [
+    {
+      "name": "exec arrow cincinnati",
+      "reputation": {
+        "base_score": 8.5184,
+        "provider": "fabrics christopher rank",
+        "score": "Safe",
+        "score_id": 2
+      },
+      "type": "Email",
+      "type_id": 22,
+      "value": "accent maintaining deposits"
+    }
+  ],
+  "open_type": "sort tender futures",
+  "response": {
+    "code": 23,
+    "error": "needed estimate yu",
+    "error_message": "lenses parcel salt",
+    "message": "booth tin subscription"
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "share_type": "consistently",
+  "share_type_id": 99,
+  "src_endpoint": {
+    "domain": "pharmacies wondering publishers",
+    "instance_uid": "4fc716e6-3607-11ee-8bdc-0242ac110004",
+    "interface_name": "brain tagged queensland",
+    "interface_uid": "4fc71f56-3607-11ee-8625-0242ac110004",
+    "ip": "0.151.215.198",
+    "name": "trap nirvana collins",
+    "port": 52342,
+    "svc_name": "generous adoption vs",
+    "uid": "4fc7251e-3607-11ee-b9ce-0242ac110004"
+  },
+  "status": "Failure",
+  "status_code": "continuing",
+  "status_id": 2,
+  "time": 1691511552617813,
+  "timezone_offset": 41,
+  "tree_uid": "4fc70930-3607-11ee-ad3a-0242ac110004",
+  "type_name": "SMB Activity: Unknown",
+  "type_uid": 400600
+}

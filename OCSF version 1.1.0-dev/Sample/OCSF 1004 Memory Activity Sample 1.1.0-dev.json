@@ -1,0 +1,647 @@
+{
+  "activity_id": 4,
+  "activity_name": "Buffer Overflow",
+  "actor": {
+    "idp": {
+      "name": "cookbook could plus",
+      "uid": "423fa3d0-3607-11ee-981b-0242ac110005"
+    },
+    "process": {
+      "cmd_line": "al phases showcase",
+      "created_time": 1691511529920332,
+      "file": {
+        "created_time": 1691511529920435,
+        "hashes": [
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "749C7FDB7BB0C235A8A06DF4FBC4FA9C66A4848D"
+          }
+        ],
+        "mime_type": "readily/manga",
+        "name": "survive.crdownload",
+        "product": {
+          "uid": "423fb5aa-3607-11ee-b12f-0242ac110005",
+          "url_string": "shark",
+          "vendor_name": "analog tamil adopt",
+          "version": "1.1.0-dev"
+        },
+        "security_descriptor": "careers plane limits",
+        "signature": {
+          "algorithm": "DSA",
+          "algorithm_id": 1,
+          "certificate": {
+            "created_time": 1691511529920740,
+            "expiration_time": 1691511529920746,
+            "fingerprints": [
+              {
+                "algorithm": "SHA-256",
+                "algorithm_id": 3,
+                "value": "EDB465624291E4053C6C5EA4B7EB320DEC773E10A57D26B95DCF0564F8E310F8"
+              },
+              {
+                "algorithm": "TLSH",
+                "algorithm_id": 6,
+                "value": "67BDCB689B9CD9B2898922E634F9A6EDC50FF1FEDDD0C6843F4EF41531822652FA05A4B95ACDD37F7E8B581946CA1BA491E4F0331ACD0515C0CF576B6AB389D0"
+              }
+            ],
+            "issuer": "deeply democrat northwest",
+            "serial_number": "wife talks walter",
+            "subject": "foundations testimony responded",
+            "version": "1.1.0-dev"
+          },
+          "developer_uid": "423fc00e-3607-11ee-a841-0242ac110005"
+        },
+        "type": "Unknown",
+        "type_id": 0
+      },
+      "lineage": [
+        "beauty initially dust"
+      ],
+      "tid": 28,
+      "uid": "423fcc70-3607-11ee-aa0d-0242ac110005",
+      "user": {
+        "name": "Listed",
+        "type": "socket",
+        "type_id": 99,
+        "uid": "423fdda0-3607-11ee-81af-0242ac110005"
+      }
+    },
+    "user": {
+      "org": {
+        "name": "harper marked circuit",
+        "ou_name": "poetry december awards",
+        "uid": "423fe7b4-3607-11ee-91b2-0242ac110005"
+      },
+      "type": "System",
+      "type_id": 3,
+      "uid": "423fee08-3607-11ee-aab2-0242ac110005"
+    }
+  },
+  "base_address": "gamespot bicycle frequent",
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Memory Activity",
+  "class_uid": 1004,
+  "device": {
+    "domain": "trace regardless ground",
+    "hostname": "offices.net",
+    "instance_uid": "423ffce0-3607-11ee-99c2-0242ac110005",
+    "interface_name": "climbing call bowl",
+    "interface_uid": "424005dc-3607-11ee-90cc-0242ac110005",
+    "ip": "72.13.176.176",
+    "last_seen_time": 1691511529922494,
+    "name": "telling nitrogen stomach",
+    "region": "louise topics proposal",
+    "risk_level": "High",
+    "risk_level_id": 3,
+    "type": "Browser",
+    "type_id": 8,
+    "uid": "4240015e-3607-11ee-a401-0242ac110005"
+  },
+  "message": "force regularly ak",
+  "metadata": {
+    "log_provider": "thumbnails ashley solid",
+    "log_version": "grants usgs foam",
+    "original_time": "syndrome avi indiana",
+    "product": {
+      "name": "gps techrepublic interface",
+      "uid": "424231e0-3607-11ee-8caf-0242ac110005",
+      "vendor_name": "bend sealed emacs",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "42423e7e-3607-11ee-bec4-0242ac110005",
+    "version": "1.1.0-dev"
+  },
+  "process": {
+    "cmd_line": "double workflow sherman",
+    "created_time": 1691511529922845,
+    "file": {
+      "company_name": "Coy Mayme",
+      "created_time": 1691511529922947,
+      "hashes": [
+        {
+          "algorithm": "magic",
+          "algorithm_id": 99,
+          "value": "B9590AC5D2880320E98D4819020BEA8439FF4E5FBABC9AF7C68E67B92C24F5B8"
+        },
+        {
+          "algorithm": "SHA-256",
+          "algorithm_id": 3,
+          "value": "5EE26E7E05FFA7C93628CF29C423C55503EA72AED9EF3D743C85EB9986E88956"
+        }
+      ],
+      "modifier": {
+        "groups": [
+          {
+            "desc": "million drops wonderful",
+            "name": "paste wool garden",
+            "uid": "42401cac-3607-11ee-bab5-0242ac110005"
+          }
+        ],
+        "name": "Tony",
+        "org": {
+          "name": "arms schools poultry",
+          "ou_name": "zambia extends rings",
+          "uid": "42402238-3607-11ee-b447-0242ac110005"
+        },
+        "type": "trends",
+        "type_id": 99
+      },
+      "name": "lifetime.pct",
+      "parent_folder": "fundraising ala temp/oasis.cue",
+      "path": "fundraising ala temp/oasis.cue/lifetime.pct",
+      "type": "Unknown",
+      "type_id": 0,
+      "xattributes": {}
+    },
+    "lineage": [
+      "novels further marking",
+      "hear jewish lights"
+    ],
+    "name": "Specify",
+    "parent_process": {
+      "cmd_line": "smooth dynamics medieval",
+      "created_time": 1691511529923605,
+      "file": {
+        "accessor": {
+          "full_name": "Tonya Darren",
+          "name": "Ceiling",
+          "type": "System",
+          "type_id": 3,
+          "uid": "42403516-3607-11ee-81c6-0242ac110005"
+        },
+        "company_name": "Cuc Dusty",
+        "confidentiality": "Top Secret",
+        "confidentiality_id": 4,
+        "hashes": [
+          {
+            "algorithm": "SHA-1",
+            "algorithm_id": 2,
+            "value": "22EA1C649C82946AA6E479E1FFD321E4A318B1B0"
+          },
+          {
+            "algorithm": "MD5",
+            "algorithm_id": 1,
+            "value": "093D77FD68D888394C557FFD2C0FCFF0"
+          }
+        ],
+        "modified_time": 1691511529923988,
+        "name": "davidson.rar",
+        "parent_folder": "will charleston tamil/reported.ics",
+        "path": "will charleston tamil/reported.ics/davidson.rar",
+        "size": 201527744,
+        "type": "Unknown",
+        "type_id": 0,
+        "uid": "42403c78-3607-11ee-a1a9-0242ac110005"
+      },
+      "integrity": "System",
+      "integrity_id": 5,
+      "name": "Dice",
+      "parent_process": {
+        "cmd_line": "medical changelog prepare",
+        "created_time": 1691511529924226,
+        "file": {
+          "accessor": {
+            "name": "Involves",
+            "type": "System",
+            "type_id": 3,
+            "uid": "4240529e-3607-11ee-8924-0242ac110005"
+          },
+          "confidentiality": "Not Confidential",
+          "confidentiality_id": 1,
+          "hashes": [
+            {
+              "algorithm": "MD5",
+              "algorithm_id": 1,
+              "value": "3E31DF05A1D1896559F81B9F34A25E5F"
+            },
+            {
+              "algorithm": "SHA-1",
+              "algorithm_id": 2,
+              "value": "C650F6F86CEE321AF4B26BE56C8BD19420CC27EA"
+            }
+          ],
+          "modified_time": 1691511529924741,
+          "name": "nd.js",
+          "parent_folder": "instruction experiment admitted/slowly.gam",
+          "path": "instruction experiment admitted/slowly.gam/nd.js",
+          "signature": {
+            "algorithm": "DSA",
+            "algorithm_id": 1,
+            "certificate": {
+              "created_time": 1691511529924820,
+              "expiration_time": 1691511529924823,
+              "fingerprints": [
+                {
+                  "algorithm": "SHA-512",
+                  "algorithm_id": 4,
+                  "value": "3014D240ACFB48996A584E5D91DE8D36205704C36CBF17B9E6AB04D4468AFF455622DED00EFA64B4E15F264DCE0C23807D1AB4972062592161676C03FA25D9BB"
+                }
+              ],
+              "issuer": "warranties prescribed disk",
+              "serial_number": "paragraphs zambia counted",
+              "version": "1.1.0-dev"
+            },
+            "digest": {
+              "algorithm": "TLSH",
+              "algorithm_id": 6,
+              "value": "55817194A712D7A98AF87DB454A0208D186A946580A18F11BC924EFE297858A3DA3A778349F76F3B369F7BD0AC2EBEE5E73F91A30F993AE7AB250D1445B4AB06"
+            }
+          },
+          "type": "Unknown",
+          "type_id": 0,
+          "uid": "424078be-3607-11ee-a78e-0242ac110005",
+          "version": "1.1.0-dev",
+          "xattributes": {}
+        },
+        "integrity": "asked times massachusetts",
+        "name": "Plaintiff",
+        "parent_process": {
+          "cmd_line": "ham disposal rainbow",
+          "created_time": 1691511529925910,
+          "file": {
+            "attributes": 73,
+            "hashes": [
+              {
+                "algorithm": "SHA-256",
+                "algorithm_id": 3,
+                "value": "DD70320EE5CDFD5BDEC22300F8639E9E6853C0A2D1771FA2D826D3F0947B0B40"
+              },
+              {
+                "algorithm": "quickXorHash",
+                "algorithm_id": 7,
+                "value": "A2AE59C85E1558A813CD0A223D767EE67E4B79DE1A3564FA0A4F3CE3231A90BAFE1D61BC929D6EDACE012D79320F310A44BDFF03DFD2F0052B434C376C49DC4B"
+              }
+            ],
+            "name": "gross.exe",
+            "parent_folder": "holding substitute lycos/clips.swf",
+            "path": "holding substitute lycos/clips.swf/gross.exe",
+            "product": {
+              "feature": {
+                "name": "disclaimer survival develop",
+                "uid": "4240aac8-3607-11ee-91c1-0242ac110005",
+                "version": "1.1.0-dev"
+              },
+              "name": "winning brakes answered",
+              "path": "attend clone asbestos",
+              "uid": "4240afa0-3607-11ee-8e7b-0242ac110005",
+              "vendor_name": "fan claim cardiovascular",
+              "version": "1.1.0-dev"
+            },
+            "security_descriptor": "baptist premises ability",
+            "size": 2389193898,
+            "type": "Block Device",
+            "type_id": 4
+          },
+          "integrity": "rug packard serves",
+          "name": "Ef",
+          "parent_process": {
+            "cmd_line": "consulting fog misc",
+            "created_time": 1691511529927245,
+            "file": {
+              "company_name": "Xenia Arcelia",
+              "desc": "eg duke celebration",
+              "hashes": [
+                {
+                  "algorithm": "magic",
+                  "algorithm_id": 99,
+                  "value": "9B9CA83B1B9CACCB0737B6B8327EAF5D979EBDB77A93940058FB01D1F1524362"
+                }
+              ],
+              "modified_time": 1691511529927554,
+              "modifier": {
+                "credential_uid": "4240daf2-3607-11ee-bc26-0242ac110005",
+                "name": "Correlation",
+                "type": "Unknown",
+                "type_id": 0,
+                "uid": "4240e11e-3607-11ee-a0fe-0242ac110005",
+                "uid_alt": "deviation returning tone"
+              },
+              "name": "patch.cer",
+              "parent_folder": "pastor mini source/contests.pptx",
+              "path": "pastor mini source/contests.pptx/patch.cer",
+              "security_descriptor": "injury l haven",
+              "type": "Folder",
+              "type_id": 2,
+              "uid": "4240e6e6-3607-11ee-be00-0242ac110005"
+            },
+            "name": "Manuals",
+            "parent_process": {
+              "cmd_line": "ict personally slope",
+              "created_time": 1691511529928725,
+              "file": {
+                "hashes": [
+                  {
+                    "algorithm": "SHA-512",
+                    "algorithm_id": 4,
+                    "value": "22CDEB046A645957DA422CDEA89B4A5963CCBD716A84372344194BD4C5E42274DA9243EEEF931E138395C0DF31656301B6D768E4D335E4A2385076160E258A53"
+                  }
+                ],
+                "is_system": true,
+                "name": "smile.html",
+                "owner": {
+                  "account": {
+                    "name": "loan picnic war",
+                    "type": "AWS IAM User",
+                    "type_id": 3,
+                    "uid": "42410aae-3607-11ee-a68d-0242ac110005"
+                  },
+                  "name": "Passport",
+                  "type": "juvenile",
+                  "type_id": 99,
+                  "uid": "42410f4a-3607-11ee-8146-0242ac110005",
+                  "uid_alt": "tropical exact immediate"
+                },
+                "parent_folder": "trailers phpbb lindsay/announce.tmp",
+                "path": "trailers phpbb lindsay/announce.tmp/smile.html",
+                "signature": {
+                  "algorithm": "ECDSA",
+                  "algorithm_id": 3,
+                  "certificate": {
+                    "created_time": 1691511529929591,
+                    "expiration_time": 1691511529929597,
+                    "fingerprints": [
+                      {
+                        "algorithm": "TLSH",
+                        "algorithm_id": 6,
+                        "value": "3C5C1E4B0016DCD4882A8C6F1F785C908606CF5BDCF30C07F2ACE4F73C6B7707BCEDE896A3507362968AC38EC2B7E34925902B94BC7C54D37B82A074642FE457"
+                      },
+                      {
+                        "algorithm": "MD5",
+                        "algorithm_id": 1,
+                        "value": "E4586172850ECB0954A632168FA0151A"
+                      }
+                    ],
+                    "issuer": "failing agency trade",
+                    "serial_number": "internationally log twenty",
+                    "subject": "mostly optional provincial",
+                    "version": "1.1.0-dev"
+                  }
+                },
+                "size": 1166230089,
+                "type": "Regular File",
+                "type_id": 1,
+                "uid": "424119d6-3607-11ee-882b-0242ac110005"
+              },
+              "name": "Regarded",
+              "parent_process": {
+                "cmd_line": "lady owners bags",
+                "created_time": 1691511529929998,
+                "file": {
+                  "accessed_time": 1691511529930123,
+                  "company_name": "Holly Charlyn",
+                  "desc": "obviously newer banking",
+                  "modifier": {
+                    "name": "Riverside",
+                    "org": {
+                      "name": "hospital abroad linking",
+                      "ou_name": "nextel vegetable photo",
+                      "uid": "4241325e-3607-11ee-8772-0242ac110005"
+                    },
+                    "type": "System",
+                    "type_id": 3,
+                    "uid": "424137fe-3607-11ee-9614-0242ac110005",
+                    "uid_alt": "surf designed ages"
+                  },
+                  "name": "album.bmp",
+                  "parent_folder": "parameter granny handy/remix.dwg",
+                  "path": "parameter granny handy/remix.dwg/album.bmp",
+                  "size": 3020366465,
+                  "type": "Named Pipe",
+                  "type_id": 6,
+                  "version": "1.1.0-dev"
+                },
+                "name": "Years",
+                "parent_process": {
+                  "cmd_line": "chain solutions gourmet",
+                  "created_time": 1691511529930765,
+                  "name": "Imagination",
+                  "parent_process": {
+                    "cmd_line": "congressional clarke driven",
+                    "created_time": 1691511529930847,
+                    "file": {
+                      "company_name": "Norene Gerald",
+                      "confidentiality": "Confidential",
+                      "confidentiality_id": 2,
+                      "hashes": [
+                        {
+                          "algorithm": "SHA-1",
+                          "algorithm_id": 2,
+                          "value": "862E3CB6B178C706BB95B1D6BCA05259391D131B"
+                        }
+                      ],
+                      "name": "ui.eps",
+                      "parent_folder": "rrp thick thanks/importantly.xcodeproj",
+                      "path": "rrp thick thanks/importantly.xcodeproj/ui.eps",
+                      "type": "Symbolic Link",
+                      "type_id": 7,
+                      "version": "1.1.0-dev"
+                    },
+                    "integrity": "Unknown",
+                    "integrity_id": 0,
+                    "name": "Writers",
+                    "pid": 43,
+                    "terminated_time": 1691511529931070,
+                    "tid": 81,
+                    "uid": "42415144-3607-11ee-8bf4-0242ac110005",
+                    "user": {
+                      "credential_uid": "42415a72-3607-11ee-919e-0242ac110005",
+                      "full_name": "Lilli Kristina",
+                      "name": "Hyundai",
+                      "type": "User",
+                      "type_id": 1,
+                      "uid": "42415edc-3607-11ee-be6c-0242ac110005",
+                      "uid_alt": "pick veteran pioneer"
+                    },
+                    "xattributes": {}
+                  },
+                  "pid": 87,
+                  "tid": 15,
+                  "uid": "4241635a-3607-11ee-8041-0242ac110005",
+                  "user": {
+                    "full_name": "Adaline Arline",
+                    "type": "User",
+                    "type_id": 1,
+                    "uid": "42416b2a-3607-11ee-803c-0242ac110005"
+                  }
+                },
+                "pid": 27,
+                "sandbox": "snapshot arcade retreat",
+                "uid": "42417098-3607-11ee-a49c-0242ac110005",
+                "user": {
+                  "groups": [
+                    {
+                      "name": "proceed archived private",
+                      "uid": "42417980-3607-11ee-b054-0242ac110005"
+                    }
+                  ],
+                  "name": "Manufacturers",
+                  "org": {
+                    "name": "detective http cornell",
+                    "ou_name": "solo supplemental suppliers",
+                    "uid": "42417e9e-3607-11ee-b8e8-0242ac110005"
+                  },
+                  "type": "User",
+                  "type_id": 1,
+                  "uid": "42418204-3607-11ee-adae-0242ac110005"
+                }
+              },
+              "pid": 28,
+              "session": {
+                "created_time": 1691511529932486,
+                "expiration_time": 1691511529932492,
+                "is_remote": false,
+                "issuer": "penetration colleagues mardi",
+                "uid": "42418ef2-3607-11ee-9304-0242ac110005",
+                "uuid": "42419366-3607-11ee-a764-0242ac110005"
+              },
+              "tid": 89,
+              "uid": "4241991a-3607-11ee-9b89-0242ac110005",
+              "user": {
+                "email_addr": "Jolyn@individual.gov",
+                "name": "Yards",
+                "org": {
+                  "name": "descending bands combinations",
+                  "ou_name": "tampa multi metabolism",
+                  "ou_uid": "4241a414-3607-11ee-b839-0242ac110005"
+                },
+                "type": "System",
+                "type_id": 3,
+                "uid": "4241a87e-3607-11ee-86c2-0242ac110005"
+              }
+            },
+            "pid": 15,
+            "session": {
+              "created_time": 1691511529933473,
+              "is_remote": true,
+              "uid": "4241ae00-3607-11ee-ad38-0242ac110005"
+            },
+            "terminated_time": 1691511529933572,
+            "tid": 88,
+            "uid": "4241b18e-3607-11ee-87b0-0242ac110005",
+            "user": {
+              "name": "Tn",
+              "org": {
+                "name": "measuring members edgar",
+                "ou_name": "calculation mistakes rt",
+                "uid": "4241bc88-3607-11ee-b7c4-0242ac110005"
+              },
+              "type": "mp",
+              "type_id": 99,
+              "uid": "4241c156-3607-11ee-81d5-0242ac110005"
+            },
+            "xattributes": {}
+          },
+          "pid": 35,
+          "uid": "4241c868-3607-11ee-9257-0242ac110005",
+          "user": {
+            "domain": "arms volleyball stake",
+            "groups": [
+              {
+                "desc": "visual detroit hospital",
+                "name": "oclc watches donated"
+              },
+              {
+                "name": "partner components fake"
+              }
+            ],
+            "name": "Loan",
+            "type": "User",
+            "type_id": 1,
+            "uid": "4241d470-3607-11ee-98a2-0242ac110005"
+          }
+        },
+        "pid": 23,
+        "terminated_time": 1691511529934560,
+        "uid": "4241d862-3607-11ee-994a-0242ac110005",
+        "user": {
+          "account": {
+            "name": "covering converted city",
+            "type": "Unknown",
+            "type_id": 0,
+            "uid": "4241e438-3607-11ee-9fa9-0242ac110005"
+          },
+          "domain": "searches seas rate",
+          "email_addr": "Merri@irs.info",
+          "groups": [
+            {
+              "name": "pioneer memorial zoning",
+              "privileges": [
+                "adjustable hormone emma",
+                "tubes remarks ensure"
+              ],
+              "uid": "4241ebea-3607-11ee-9629-0242ac110005"
+            },
+            {
+              "name": "perform nut worship",
+              "uid": "4241f05e-3607-11ee-ac38-0242ac110005"
+            }
+          ],
+          "name": "Syracuse",
+          "type": "Admin",
+          "type_id": 2,
+          "uid": "4241f432-3607-11ee-94b1-0242ac110005"
+        }
+      },
+      "pid": 53,
+      "terminated_time": 1691511529935371,
+      "uid": "4241f7ca-3607-11ee-9f81-0242ac110005",
+      "user": {
+        "domain": "affiliated ic outcome",
+        "email_addr": "Bridgett@locator.edu",
+        "groups": [
+          {
+            "name": "butter executive queensland",
+            "type": "thehun miles commodity",
+            "uid": "424202d8-3607-11ee-af60-0242ac110005"
+          },
+          {
+            "name": "applicants tx transaction",
+            "privileges": [
+              "consult perhaps nose",
+              "conviction panama thing"
+            ],
+            "uid": "424207f6-3607-11ee-b7f8-0242ac110005"
+          }
+        ],
+        "name": "Legally",
+        "org": {
+          "name": "cottage excluding twiki",
+          "ou_name": "wound guides newsletter",
+          "uid": "42420d28-3607-11ee-9511-0242ac110005"
+        },
+        "type": "Admin",
+        "type_id": 2,
+        "uid": "424210f2-3607-11ee-a7ab-0242ac110005"
+      }
+    },
+    "pid": 91,
+    "sandbox": "zen camcorder tanks",
+    "session": {
+      "created_time": 1691511529936154,
+      "credential_uid": "424216a6-3607-11ee-9108-0242ac110005",
+      "is_remote": true,
+      "issuer": "legislature classic arctic",
+      "uid": "42421a48-3607-11ee-982b-0242ac110005",
+      "uuid": "42421d68-3607-11ee-8173-0242ac110005"
+    },
+    "uid": "4242210a-3607-11ee-8e89-0242ac110005",
+    "user": {
+      "name": "Drives",
+      "type": "track",
+      "type_id": 99
+    }
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "wit",
+  "status_id": 99,
+  "time": 1691511529919814,
+  "timezone_offset": 36,
+  "type_name": "Memory Activity: Buffer Overflow",
+  "type_uid": 100404
+}

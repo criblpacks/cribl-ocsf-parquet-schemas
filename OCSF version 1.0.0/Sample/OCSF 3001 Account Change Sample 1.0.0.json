@@ -1,0 +1,277 @@
+{
+  "activity_id": 7,
+  "activity_name": "Attach Policy",
+  "actor": {
+    "process": {
+      "cmd_line": "enters request loss",
+      "created_time": 1691511556960512,
+      "file": {
+        "confidentiality": "calgary pl india",
+        "hashes": [
+          {
+            "algorithm": "TLSH",
+            "algorithm_id": 6,
+            "value": "2C5D5EEE1118435A43DAB8DFEB88F8A4ED215A3325FE427CBC32454A2C7A4D457017C752DD7E31E32570F70F78A445F9A2237266EBA93ADA5273F5C885563552"
+          },
+          {
+            "algorithm": "MD5",
+            "algorithm_id": 1,
+            "value": "FEBBE84AEF53CD0AA41075B31204A2A9"
+          }
+        ],
+        "mime_type": "instrument/skip",
+        "modified_time": 1691511556960701,
+        "name": "wholesale.htm",
+        "parent_folder": "waterproof overseas gordon/album.fla",
+        "path": "waterproof overseas gordon/album.fla/wholesale.htm",
+        "signature": {
+          "algorithm": "cruises",
+          "algorithm_id": 99,
+          "certificate": {
+            "created_time": 1691511556961147,
+            "expiration_time": 1691511556961155,
+            "fingerprints": [
+              {
+                "algorithm": "SHA-512",
+                "algorithm_id": 4,
+                "value": "C22238BD842B137F143F5B61FAC9F451C172494C4A8D3832D3510DD363AA00329B85441264F1F9D99989A888C061D0C89CBD5569CF7DC5B8A81816973FC66155"
+              },
+              {
+                "algorithm": "SHA-1",
+                "algorithm_id": 2,
+                "value": "1AB7650B3A4106848BE4A2D9617F4DD088973973"
+              }
+            ],
+            "issuer": "incredible blues jurisdiction",
+            "serial_number": "spectrum reforms muze",
+            "subject": "nasty freely emerging"
+          },
+          "digest": {
+            "algorithm": "Unknown",
+            "algorithm_id": 0,
+            "value": "9436F5FC413C60D071C0812E17F1B3670DC6EB912C51D279F464F2ABE6BA83B77748A0E7DA45E743B63D002DC2D6CDAA36DB246CFDBA6ADABF4432E2A2DE5451"
+          }
+        },
+        "size": 3615210015,
+        "type": "Symbolic Link",
+        "type_id": 7
+      },
+      "integrity": "trustees polish wi",
+      "name": "Having",
+      "parent_process": {
+        "cmd_line": "pee bt seconds",
+        "created_time": 1691511556961458,
+        "file": {
+          "accessed_time": 1691511556961617,
+          "attributes": 41,
+          "created_time": 1691511556961623,
+          "hashes": [
+            {
+              "algorithm": "Unknown",
+              "algorithm_id": 0,
+              "value": "DF6301EF3F1ACF0C20000B6C4DC39DF629BEB28BA073FD965F0129F4337FA11E14EB8B3C41C206AB2176BAC8601D72A42CADF6918AAE8ED005940E5FBF33E9A0"
+            },
+            {
+              "algorithm": "SHA-256",
+              "algorithm_id": 3,
+              "value": "D0A3630555BBEC7FC05A98D311C23B00FD1AB4D8296AC4A4125976D80B6A6959"
+            }
+          ],
+          "is_system": false,
+          "mime_type": "finds/conditions",
+          "modifier": {
+            "name": "Winner",
+            "type": "asked",
+            "type_id": 99,
+            "uid": "525dde6c-3607-11ee-8536-0242ac110004"
+          },
+          "name": "invision.rss",
+          "parent_folder": "coordinated bed sbjct/hydraulic.lua",
+          "path": "coordinated bed sbjct/hydraulic.lua/invision.rss",
+          "type": "Named Pipe",
+          "type_id": 6,
+          "version": "1.0.0",
+          "xattributes": {}
+        },
+        "name": "Profession",
+        "parent_process": {
+          "cmd_line": "ur thongs revenue",
+          "created_time": 1691511556962047,
+          "file": {
+            "attributes": 35,
+            "confidentiality": "Unknown",
+            "confidentiality_id": 0,
+            "hashes": [
+              {
+                "algorithm": "SHA-1",
+                "algorithm_id": 2,
+                "value": "926EC76AC4F937EBF4C23E8DE9D53AA84D17B069"
+              }
+            ],
+            "is_system": false,
+            "name": "using.ged",
+            "product": {
+              "lang": "en",
+              "name": "execute oregon tongue",
+              "path": "car troubleshooting temperatures",
+              "uid": "525df15e-3607-11ee-89b5-0242ac110004",
+              "vendor_name": "exposed most lbs",
+              "version": "1.0.0"
+            },
+            "type": "Named Pipe",
+            "type_id": 6,
+            "xattributes": {}
+          },
+          "loaded_modules": [
+            "/anger/pin/september/brought/outlined.lua"
+          ],
+          "name": "Animals",
+          "parent_process": {
+            "cmd_line": "pieces realistic proudly",
+            "file": {
+              "accessed_time": 1691511556962651,
+              "hashes": [
+                {
+                  "algorithm": "CTPH",
+                  "algorithm_id": 5,
+                  "value": "D49B4C2930421742E0D40A9CCA985F0E979A2DA7B3DA6AF218C5A51F6CD5F94BD7D181BD19BC528BDBDBC35CDA1E444ACC58659F69F3B22B30572E439004406D"
+                }
+              ],
+              "is_system": true,
+              "name": "prospect.dem",
+              "parent_folder": "witch ft forwarding/arnold.fon",
+              "path": "witch ft forwarding/arnold.fon/prospect.dem",
+              "size": 303334616,
+              "type": "Folder",
+              "type_id": 2,
+              "version": "1.0.0"
+            },
+            "name": "Skilled",
+            "pid": 33,
+            "terminated_time": 1691511556962733,
+            "uid": "525e0932-3607-11ee-97f4-0242ac110004",
+            "user": {
+              "domain": "oak friend methodology",
+              "full_name": "Willie Adria",
+              "name": "Skiing",
+              "org": {
+                "name": "moscow men winds",
+                "ou_name": "election environment collect",
+                "uid": "525e1418-3607-11ee-8ca2-0242ac110004"
+              },
+              "type": "System",
+              "type_id": 3,
+              "uid": "525e180a-3607-11ee-b4c7-0242ac110004",
+              "uid_alt": "corners relation committee"
+            }
+          },
+          "pid": 64,
+          "terminated_time": 1691511556963346,
+          "uid": "525e1c7e-3607-11ee-94c8-0242ac110004",
+          "user": {
+            "name": "You",
+            "type": "User",
+            "type_id": 1,
+            "uid": "525e22aa-3607-11ee-9991-0242ac110004"
+          }
+        },
+        "pid": 44,
+        "tid": 38,
+        "uid": "525e2624-3607-11ee-8664-0242ac110004",
+        "user": {
+          "name": "Devon",
+          "type": "Unknown",
+          "type_id": 0
+        }
+      },
+      "pid": 70,
+      "uid": "525e2fa2-3607-11ee-98e2-0242ac110004",
+      "user": {
+        "name": "Activities",
+        "org": {
+          "name": "manchester antarctica pn",
+          "ou_name": "assessments mortgages unauthorized",
+          "uid": "525e375e-3607-11ee-a596-0242ac110004"
+        },
+        "type": "shipment",
+        "type_id": 99,
+        "uid": "525e3b82-3607-11ee-8636-0242ac110004"
+      }
+    },
+    "session": {
+      "created_time": 1691511556964280,
+      "uid": "525e40e6-3607-11ee-8bf5-0242ac110004"
+    },
+    "user": {
+      "name": "Forestry",
+      "type": "harvard",
+      "type_id": 99,
+      "uid": "525e46fe-3607-11ee-8283-0242ac110004"
+    }
+  },
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "class_uid": 3001,
+  "message": "variable studied pill",
+  "metadata": {
+    "correlation_uid": "525d738c-3607-11ee-9991-0242ac110004",
+    "extension": {
+      "name": "prefers warnings rate",
+      "uid": "525d7a6c-3607-11ee-90f0-0242ac110004",
+      "version": "1.0.0"
+    },
+    "log_name": "show cincinnati furnished",
+    "log_provider": "expressed cold eliminate",
+    "modified_time": 1691511556959493,
+    "original_time": "subcommittee sounds rates",
+    "product": {
+      "lang": "en",
+      "uid": "525d89b2-3607-11ee-b603-0242ac110004",
+      "url_string": "circus",
+      "vendor_name": "ph attributes mobile",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "525d8f52-3607-11ee-9c51-0242ac110004",
+    "version": "1.0.0"
+  },
+  "severity": "clarity",
+  "severity_id": 99,
+  "src_endpoint": {
+    "hostname": "based.jobs",
+    "instance_uid": "525e4df2-3607-11ee-bbb8-0242ac110004",
+    "interface_name": "urw med la",
+    "interface_uid": "525e51b2-3607-11ee-ae1f-0242ac110004",
+    "intermediate_ips": [
+      "155.39.109.70",
+      "233.112.129.129"
+    ],
+    "ip": "15.165.87.41",
+    "name": "intelligent openings enemy",
+    "svc_name": "latvia advantage network",
+    "uid": "525e5608-3607-11ee-a91c-0242ac110004",
+    "vlan_uid": "525e5ae0-3607-11ee-906d-0242ac110004"
+  },
+  "start_time": 1691511556965072,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511556959847,
+  "timezone_offset": 53,
+  "type_name": "Account Change: Attach Policy",
+  "type_uid": 300107,
+  "user": {
+    "email_addr": "Fawn@norman.biz",
+    "name": "Sk",
+    "type": "User",
+    "type_id": 1
+  },
+  "user_result": {
+    "email_addr": "Tomas@respect.cat",
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "525d9ec0-3607-11ee-ac8d-0242ac110004"
+  }
+}

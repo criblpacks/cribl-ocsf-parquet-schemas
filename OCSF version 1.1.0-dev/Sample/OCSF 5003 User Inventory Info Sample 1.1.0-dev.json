@@ -1,0 +1,48 @@
+{
+  "activity_id": 1,
+  "activity_name": "Log",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "User Inventory Info",
+  "class_uid": 5003,
+  "message": "resulted usgs pharmaceuticals",
+  "metadata": {
+    "log_name": "equipped indiana loud",
+    "log_provider": "guy signals wellness",
+    "logged_time": 1691511534323781,
+    "modified_time": 1691511534323793,
+    "original_time": "distance neighborhood committees",
+    "processed_time": 1691511534323806,
+    "product": {
+      "feature": {
+        "name": "bryant advisory deluxe",
+        "uid": "44dfa180-3607-11ee-993f-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "lang": "en",
+      "name": "microsoft amber hosts",
+      "uid": "44dfa806-3607-11ee-bbbf-0242ac110005",
+      "vendor_name": "memo drum slovak",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "start_time": 1691511534324362,
+  "status": "Failure",
+  "status_detail": "pulling hour upset",
+  "status_id": 2,
+  "time": 1691511534321516,
+  "type_name": "User Inventory Info: Log",
+  "type_uid": 500301,
+  "user": {
+    "credential_uid": "44df4be0-3607-11ee-b92c-0242ac110005",
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "44df5734-3607-11ee-804b-0242ac110005"
+  }
+}

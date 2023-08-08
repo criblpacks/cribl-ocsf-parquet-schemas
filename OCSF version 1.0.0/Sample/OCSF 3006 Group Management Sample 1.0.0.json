@@ -1,0 +1,52 @@
+{
+  "activity_id": 2,
+  "activity_name": "Revoke Privileges",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "class_uid": 3006,
+  "group": {
+    "name": "refugees description limits",
+    "uid": "533f2548-3607-11ee-b0bf-0242ac110004"
+  },
+  "message": "commons depends jp",
+  "metadata": {
+    "event_code": "available",
+    "log_name": "kernel cancer difference",
+    "log_provider": "trim diff cbs",
+    "original_time": "situations chosen worry",
+    "processed_time": 1691511558437222,
+    "product": {
+      "lang": "en",
+      "name": "buy basics innovations",
+      "path": "his quad convention",
+      "uid": "533f089c-3607-11ee-a3bc-0242ac110004",
+      "vendor_name": "soccer m river",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "privileges": [
+    "officials operations receive"
+  ],
+  "severity": "Unknown",
+  "severity_id": 0,
+  "status": "Unknown",
+  "status_code": "round",
+  "status_id": 0,
+  "time": 1691511558437705,
+  "timezone_offset": 18,
+  "type_name": "Group Management: Revoke Privileges",
+  "type_uid": 300602,
+  "user": {
+    "credential_uid": "533f18c8-3607-11ee-87a1-0242ac110004",
+    "full_name": "Soraya Jeanine",
+    "name": "Rca",
+    "type": "meters",
+    "type_id": 99,
+    "uid": "533f1f3a-3607-11ee-b95f-0242ac110004"
+  }
+}

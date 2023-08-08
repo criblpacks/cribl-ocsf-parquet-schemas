@@ -1,0 +1,98 @@
+{
+  "activity_id": 1,
+  "activity_name": "Access Grant",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "class_uid": 6004,
+  "enrichments": [
+    {
+      "data": "part",
+      "name": "lf temple location",
+      "provider": "old source triumph",
+      "value": "competing bathrooms roy"
+    },
+    {
+      "data": "rendering",
+      "name": "complex applicable mhz",
+      "provider": "disc objects quantum",
+      "type": "further hilton impressed",
+      "value": "dietary summer flow"
+    }
+  ],
+  "http_request": {
+    "http_headers": [
+      {
+        "name": "assault wall aa",
+        "value": "stack boolean fin"
+      }
+    ],
+    "url": {
+      "category_ids": [
+        31
+      ],
+      "hostname": "voluntary.com",
+      "path": "retirement virtue rotary",
+      "port": 25710,
+      "query_string": "urban textiles though",
+      "scheme": "communications idaho an",
+      "url_string": "certified"
+    },
+    "user_agent": "nut academic parental"
+  },
+  "http_response": {
+    "code": 24
+  },
+  "metadata": {
+    "correlation_uid": "49ccedb0-3607-11ee-8c13-0242ac110005",
+    "log_name": "entrepreneurs ashley confusion",
+    "log_provider": "expert afford sr",
+    "original_time": "ecuador former canvas",
+    "processed_time": 1691511542590227,
+    "product": {
+      "name": "pointing cat older",
+      "uid": "49ccfff8-3607-11ee-b5d0-0242ac110005",
+      "url_string": "fx",
+      "vendor_name": "advances nearest humanity",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "hostname": "applying.nato",
+    "instance_uid": "49ccd050-3607-11ee-b9e9-0242ac110005",
+    "interface_name": "gadgets buddy implies",
+    "ip": "201.65.202.52",
+    "name": "tie ross thoroughly",
+    "port": 20934,
+    "subnet_uid": "49ccd5be-3607-11ee-a929-0242ac110005",
+    "svc_name": "impressive discussing clearance",
+    "type": "granny",
+    "type_id": 99,
+    "uid": "49ccdabe-3607-11ee-ba89-0242ac110005"
+  },
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511542589042,
+  "timezone_offset": 9,
+  "type_name": "Web Resource Access Activity: Access Grant",
+  "type_uid": 600401,
+  "web_resources": [
+    {
+      "type": "towards na efficiently",
+      "url_string": "alert"
+    },
+    {
+      "labels": [
+        "morris",
+        "encourage"
+      ],
+      "url_string": "dark"
+    }
+  ]
+}

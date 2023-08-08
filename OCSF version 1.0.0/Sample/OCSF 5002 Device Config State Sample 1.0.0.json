@@ -1,0 +1,76 @@
+{
+  "activity_id": 99,
+  "activity_name": "identity",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "class_uid": 5002,
+  "device": {
+    "first_seen_time": 1691511569033629,
+    "groups": [
+      {
+        "name": "keno revenue officials",
+        "privileges": [
+          "une cr truly",
+          "times dsc capability"
+        ],
+        "uid": "598fcdc6-3607-11ee-a7d5-0242ac110004"
+      },
+      {
+        "name": "bands clone division",
+        "uid": "598fd230-3607-11ee-83a2-0242ac110004"
+      }
+    ],
+    "hostname": "tar.mobi",
+    "hypervisor": "casio realized lbs",
+    "image": {
+      "name": "sculpture hunting choosing",
+      "tag": "jacksonville interest drawings",
+      "uid": "598fdb72-3607-11ee-b1cc-0242ac110004"
+    },
+    "instance_uid": "598fe680-3607-11ee-9e57-0242ac110004",
+    "interface_name": "departure contents tracks",
+    "interface_uid": "598fd5d2-3607-11ee-b286-0242ac110004",
+    "ip": "59.90.127.57",
+    "is_personal": true,
+    "is_trusted": false,
+    "mac": "AA:B1:D0:D:EC:50:E6:C6",
+    "name": "connecting effectively richardson",
+    "region": "described diabetes malaysia",
+    "subnet": "222.242.220.0/24",
+    "type": "IOT",
+    "type_id": 7,
+    "uid": "598fdf00-3607-11ee-8fe7-0242ac110004",
+    "vpc_uid": "598feb30-3607-11ee-812d-0242ac110004"
+  },
+  "message": "any inflation lang",
+  "metadata": {
+    "extension": {
+      "name": "butler imperial proper",
+      "uid": "598fab98-3607-11ee-8ba2-0242ac110004",
+      "version": "1.0.0"
+    },
+    "log_name": "ban started creature",
+    "log_provider": "potentially directed packets",
+    "logged_time": 1691511569032318,
+    "original_time": "fee ep experiment",
+    "product": {
+      "name": "vary ty hydraulic",
+      "uid": "598fbbc4-3607-11ee-ba68-0242ac110004",
+      "vendor_name": "cultural lane tri",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "Low",
+  "severity_id": 2,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511569032757,
+  "timezone_offset": 46,
+  "type_name": "Device Config State: Other",
+  "type_uid": 500299
+}

@@ -1,0 +1,59 @@
+{
+  "activity_id": 2,
+  "activity_name": "Collect",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "class_uid": 5001,
+  "count": 57,
+  "device": {
+    "created_time": 1691511527070201,
+    "hostname": "items.int",
+    "imei": "thin cyber norway",
+    "instance_uid": "408cc270-3607-11ee-a386-0242ac110005",
+    "interface_name": "genre wherever mom",
+    "interface_uid": "408cf2a4-3607-11ee-871b-0242ac110005",
+    "ip": "87.130.33.77",
+    "mac": "FC:E2:39:C0:3B:26:DE:37",
+    "name": "film income term",
+    "org": {
+      "name": "mine bold room",
+      "ou_name": "measured samoa rising"
+    },
+    "region": "closure hood taxi",
+    "subnet": "96.71.76.0/24",
+    "type": "metro",
+    "type_id": 99,
+    "uid": "408cc824-3607-11ee-b1be-0242ac110005"
+  },
+  "duration": 44,
+  "message": "generate ts efficient",
+  "metadata": {
+    "labels": [
+      "restrictions",
+      "leadership"
+    ],
+    "log_name": "figure manitoba agreements",
+    "log_provider": "explanation finally interesting",
+    "original_time": "format ruled ids",
+    "product": {
+      "name": "extending join collectables",
+      "uid": "408d0b68-3607-11ee-adfe-0242ac110005",
+      "vendor_name": "external housing spears",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Success",
+  "status_detail": "agrees upload writes",
+  "status_id": 1,
+  "time": 1691511527069635,
+  "timezone_offset": 48,
+  "type_name": "Device Inventory Info: Collect",
+  "type_uid": 500102
+}

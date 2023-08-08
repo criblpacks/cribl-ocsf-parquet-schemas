@@ -1,0 +1,134 @@
+{
+  "activity_id": 99,
+  "activity_name": "oxygen",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "class_uid": 4007,
+  "client_hassh": {
+    "algorithm": "casinos alcohol avon",
+    "fingerprint": {
+      "algorithm": "TLSH",
+      "algorithm_id": 6,
+      "value": "F8BB4B4E86EE75B59D79BB3CAFDFB2FBC9860A7552D4A3C979FC7B3BBBC89504E7658F502C96842FA432B9C060F7E7657E55E9563DA496B6C7C268E07BADB259"
+    }
+  },
+  "connection_info": {
+    "boundary": "training",
+    "boundary_id": 99,
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 87,
+    "protocol_ver": "grow",
+    "protocol_ver_id": 99,
+    "uid": "439adb28-3607-11ee-8fbb-0242ac110005"
+  },
+  "count": 59,
+  "dst_endpoint": {
+    "hostname": "guides.biz",
+    "instance_uid": "439aa6e4-3607-11ee-b8ea-0242ac110005",
+    "interface_name": "paraguay determination simpsons",
+    "interface_uid": "439aaae0-3607-11ee-9f22-0242ac110005",
+    "ip": "2.207.106.130",
+    "mac": "51:CF:A:D3:B4:7A:6D:CD",
+    "name": "frame marc adams",
+    "port": 24726,
+    "svc_name": "tape subjective example",
+    "type": "Tablet",
+    "type_id": 4,
+    "uid": "439aaf90-3607-11ee-9db7-0242ac110005",
+    "vlan_uid": "439ab2d8-3607-11ee-a9a0-0242ac110005",
+    "vpc_uid": "439ab602-3607-11ee-bacb-0242ac110005"
+  },
+  "enrichments": [
+    {
+      "data": "skins",
+      "name": "toyota began ratio",
+      "provider": "everything everything victoria",
+      "type": "especially shut travel",
+      "value": "ol electronic cnet"
+    },
+    {
+      "data": "highlight",
+      "name": "pensions truly lu",
+      "provider": "hook forever dis",
+      "value": "paul attractions nickname"
+    }
+  ],
+  "message": "lined jail gang",
+  "metadata": {
+    "event_code": "terrorism",
+    "log_name": "mix prefers twenty",
+    "log_provider": "athletic hunger colleges",
+    "original_time": "marked chassis deal",
+    "product": {
+      "feature": {
+        "name": "ebook laser chen",
+        "uid": "439aedb6-3607-11ee-b518-0242ac110005",
+        "version": "1.1.0-dev"
+      },
+      "name": "manner tissue spreading",
+      "path": "libraries bend dpi",
+      "uid": "439af23e-3607-11ee-bceb-0242ac110005",
+      "vendor_name": "itunes preliminary gaming",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "protocol_ver": "0",
+  "proxy": {
+    "instance_uid": "439a87fe-3607-11ee-94a5-0242ac110005",
+    "interface_name": "conventional authors programs",
+    "ip": "7.203.193.224",
+    "location": {
+      "city": "Ignored soundtrack",
+      "continent": "Asia",
+      "coordinates": [
+        -0.8457,
+        -68.2949
+      ],
+      "country": "HK",
+      "desc": "Hong Kong, Special Administrative Region of China"
+    },
+    "mac": "38:B9:6B:3E:37:A3:F2:88",
+    "port": 6910,
+    "subnet_uid": "439a914a-3607-11ee-9511-0242ac110005",
+    "svc_name": "evanescence rugby join",
+    "type": "Virtual",
+    "type_id": 6,
+    "uid": "439a95d2-3607-11ee-9c48-0242ac110005",
+    "vlan_uid": "439a9a78-3607-11ee-903d-0242ac110005"
+  },
+  "server_hassh": {
+    "algorithm": "debate broadway greensboro",
+    "fingerprint": {
+      "algorithm": "magic",
+      "algorithm_id": 99,
+      "value": "0D1FD2255A66AA44103BD4F6FEA3C4E5E4C451AA14F2269C0A894FD59172B398"
+    }
+  },
+  "severity": "Unknown",
+  "severity_id": 0,
+  "src_endpoint": {
+    "hostname": "databases.biz",
+    "instance_uid": "439ac854-3607-11ee-a328-0242ac110005",
+    "interface_name": "organizing budgets guam",
+    "interface_uid": "439acc96-3607-11ee-907f-0242ac110005",
+    "ip": "59.101.245.63",
+    "name": "featuring islam flat",
+    "port": 42790,
+    "subnet_uid": "439ad0e2-3607-11ee-b921-0242ac110005",
+    "type": "Virtual",
+    "type_id": 6,
+    "uid": "439ad45c-3607-11ee-a852-0242ac110005"
+  },
+  "status": "dist",
+  "status_detail": "sentences flip clicks",
+  "status_id": 99,
+  "time": 1691511532194201,
+  "type_name": "SSH Activity: Other",
+  "type_uid": 400799
+}

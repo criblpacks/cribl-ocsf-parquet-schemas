@@ -1,0 +1,70 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Authorize Session",
+  "class_uid": 3003,
+  "count": 68,
+  "group": {
+    "desc": "maple employed polyester",
+    "name": "nextel tan heads",
+    "uid": "5510301a-3607-11ee-8e33-0242ac110004"
+  },
+  "message": "basics ron deadline",
+  "metadata": {
+    "labels": [
+      "seeing",
+      "tc"
+    ],
+    "log_name": "business eminem unexpected",
+    "log_provider": "pursuant michelle facing",
+    "original_time": "france blogger genesis",
+    "product": {
+      "name": "writers handmade failing",
+      "uid": "551010bc-3607-11ee-93af-0242ac110004",
+      "vendor_name": "trained ward z",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "privileges": [
+    "interested dr estimate",
+    "pig elect scope"
+  ],
+  "session": {
+    "created_time": 1691511561486014,
+    "is_remote": true,
+    "issuer": "candle holdem reviewed",
+    "uid": "5510383a-3607-11ee-b8b5-0242ac110004",
+    "uuid": "55103bc8-3607-11ee-98ac-0242ac110004"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "status": "Unknown",
+  "status_id": 0,
+  "time": 1691511561485280,
+  "timezone_offset": 22,
+  "type_name": "Authorize Session: Unknown",
+  "type_uid": 300300,
+  "user": {
+    "account": {
+      "name": "trains till forgot",
+      "type": "Linux Account",
+      "type_id": 9,
+      "uid": "55102192-3607-11ee-bf88-0242ac110004"
+    },
+    "email_addr": "Cassondra@views.mil",
+    "name": "Indexes",
+    "org": {
+      "name": "participant modification effort",
+      "ou_name": "council example bg"
+    },
+    "type": "fighters",
+    "type_id": 99,
+    "uid": "55102958-3607-11ee-8c10-0242ac110004"
+  }
+}

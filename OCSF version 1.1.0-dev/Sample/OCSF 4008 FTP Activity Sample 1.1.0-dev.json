@@ -1,0 +1,82 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "class_uid": 4008,
+  "command": "gordon excited qld",
+  "command_responses": [
+    "alternative thanks respondent"
+  ],
+  "connection_info": {
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 39
+  },
+  "dst_endpoint": {
+    "hostname": "flag.cat",
+    "instance_uid": "46b0ee42-3607-11ee-8ec5-0242ac110005",
+    "interface_name": "accurate yr championships",
+    "interface_uid": "46b0f388-3607-11ee-948d-0242ac110005",
+    "ip": "196.211.136.15",
+    "mac": "F9:9F:E3:35:52:82:44:A5",
+    "name": "restricted videos armor",
+    "svc_name": "spoke consumer albert",
+    "type": "Desktop",
+    "type_id": 2,
+    "uid": "46b0f8d8-3607-11ee-998e-0242ac110005"
+  },
+  "message": "interested kitchen turns",
+  "metadata": {
+    "log_name": "discuss contribution cassette",
+    "log_provider": "metric fence hardware",
+    "log_version": "transfer route coleman",
+    "original_time": "rebecca jeff value",
+    "processed_time": 1691511537374981,
+    "product": {
+      "uid": "46b12e70-3607-11ee-8cea-0242ac110005",
+      "vendor_name": "exotic huge montana",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "name": "hi exams download",
+  "port": 44956,
+  "severity": "Informational",
+  "severity_id": 1,
+  "src_endpoint": {
+    "hostname": "indication.mil",
+    "instance_uid": "46b1012a-3607-11ee-9425-0242ac110005",
+    "interface_uid": "46b104cc-3607-11ee-9802-0242ac110005",
+    "ip": "244.5.220.121",
+    "location": {
+      "city": "Euro miss",
+      "continent": "North America",
+      "coordinates": [
+        -81.9064,
+        13.448
+      ],
+      "country": "GT",
+      "desc": "Guatemala, Republic of"
+    },
+    "mac": "74:7A:42:DF:12:C3:83:DD",
+    "name": "keeps slope parent",
+    "port": 60655,
+    "svc_name": "on wto environmental",
+    "type": "Server",
+    "type_id": 1,
+    "uid": "46b10c92-3607-11ee-b625-0242ac110005"
+  },
+  "start_time": 1691511537375223,
+  "status": "ordered",
+  "status_id": 99,
+  "time": 1691511537373023,
+  "timezone_offset": 55,
+  "type": "highly upper visual",
+  "type_name": "FTP Activity: Unknown",
+  "type_uid": 400800
+}

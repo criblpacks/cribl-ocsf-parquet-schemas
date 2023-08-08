@@ -1,0 +1,114 @@
+{
+  "activity_id": 6,
+  "activity_name": "Traffic",
+  "capabilities": [
+    "believe increased incidence",
+    "cu hundreds co"
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "RDP Activity",
+  "class_uid": 4005,
+  "connection_info": {
+    "boundary": "Internal",
+    "boundary_id": 2,
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 28,
+    "protocol_ver": "3"
+  },
+  "count": 7,
+  "dst_endpoint": {
+    "domain": "decided solve mileage",
+    "hostname": "algeria.pro",
+    "instance_uid": "511127a8-3607-11ee-a5ee-0242ac110004",
+    "interface_uid": "511142b0-3607-11ee-a4da-0242ac110004",
+    "ip": "71.217.248.160",
+    "location": {
+      "city": "Territories summer",
+      "continent": "Europe",
+      "coordinates": [
+        -83.8294,
+        -55.4755
+      ],
+      "country": "KZ",
+      "desc": "Kazakhstan, Republic of"
+    },
+    "name": "staff faq quizzes",
+    "port": 21116,
+    "svc_name": "absorption multimedia timothy",
+    "uid": "51114eea-3607-11ee-8383-0242ac110004",
+    "vlan_uid": "5111530e-3607-11ee-bd6f-0242ac110004"
+  },
+  "end_time": 1691511554776310,
+  "message": "track arbor israeli",
+  "metadata": {
+    "event_code": "christianity",
+    "log_name": "trials liberia past",
+    "log_provider": "barbie fda trap",
+    "original_time": "create relocation biodiversity",
+    "product": {
+      "lang": "en",
+      "name": "arms argentina estimates",
+      "uid": "51105e86-3607-11ee-8626-0242ac110004",
+      "vendor_name": "games trusts ty",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "observables": [
+    {
+      "name": "scheme approve director",
+      "type": "Registry Key",
+      "type_id": 28
+    },
+    {
+      "name": "desert fell gray",
+      "type": "URL String",
+      "type_id": 6,
+      "value": "volkswagen gaps nomination"
+    }
+  ],
+  "protocol_ver": "0.2",
+  "remote_display": {
+    "physical_width": 96
+  },
+  "request": {
+    "flags": [
+      "beaches sussex baghdad",
+      "found barrier michael"
+    ],
+    "uid": "51106d40-3607-11ee-bd3d-0242ac110004"
+  },
+  "response": {
+    "code": 7,
+    "error": "bone elder lyric",
+    "error_message": "blvd miss commodity",
+    "message": "bottles living noon"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "src_endpoint": {
+    "hostname": "speed.web",
+    "instance_uid": "51107524-3607-11ee-9ef3-0242ac110004",
+    "interface_name": "shower movements granny",
+    "interface_uid": "51107970-3607-11ee-b9b0-0242ac110004",
+    "intermediate_ips": [
+      "80.189.240.189",
+      "66.244.135.182"
+    ],
+    "name": "fought specs cyprus",
+    "port": 43157,
+    "svc_name": "description ab visitors",
+    "uid": "5110be12-3607-11ee-88e2-0242ac110004"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511554776292,
+  "timezone_offset": 29,
+  "type_name": "RDP Activity: Traffic",
+  "type_uid": 400506
+}

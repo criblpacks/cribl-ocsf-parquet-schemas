@@ -1,0 +1,76 @@
+{
+  "activity_id": 1,
+  "activity_name": "Open",
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Network Activity",
+  "class_uid": 4001,
+  "connection_info": {
+    "direction": "Inbound",
+    "direction_id": 1,
+    "protocol_num": 88,
+    "tcp_flags": 56
+  },
+  "dst_endpoint": {
+    "domain": "def tomatoes born",
+    "hostname": "reviewer.coop",
+    "instance_uid": "5be29c52-3607-11ee-b28d-0242ac110004",
+    "interface_name": "eva file balloon",
+    "interface_uid": "5be2a03a-3607-11ee-b951-0242ac110004",
+    "ip": "3.253.118.130",
+    "name": "tunes camps profiles",
+    "port": 5928,
+    "svc_name": "continuous cricket counted",
+    "uid": "5be2a468-3607-11ee-a72f-0242ac110004",
+    "vpc_uid": "5be2a7a6-3607-11ee-b99d-0242ac110004"
+  },
+  "end_time": 1691511572930371,
+  "message": "cool latter thumbnails",
+  "metadata": {
+    "log_name": "review licence ph",
+    "log_provider": "year casting presents",
+    "logged_time": 1691511572929832,
+    "original_time": "judges pb indianapolis",
+    "product": {
+      "lang": "en",
+      "name": "continued outreach advantage",
+      "uid": "5be27272-3607-11ee-9c5c-0242ac110004",
+      "url_string": "logan",
+      "vendor_name": "presents intl wet",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "5be277ae-3607-11ee-91d5-0242ac110004",
+    "version": "1.0.0"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "hostname": "disease.arpa",
+    "instance_uid": "5be2846a-3607-11ee-9ab5-0242ac110004",
+    "interface_name": "she report fiction",
+    "interface_uid": "5be28b22-3607-11ee-a1cf-0242ac110004",
+    "ip": "243.7.164.71",
+    "location": {
+      "city": "Po additionally",
+      "continent": "Europe",
+      "coordinates": [
+        -7.596,
+        31.7129
+      ],
+      "country": "GG",
+      "desc": "Guernsey, Bailiwick of"
+    },
+    "mac": "3:F1:F4:54:AA:51:2:53",
+    "svc_name": "iv buffalo cole",
+    "uid": "5be29324-3607-11ee-b05d-0242ac110004"
+  },
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511572930364,
+  "timezone_offset": 65,
+  "type_name": "Network Activity: Open",
+  "type_uid": 400101
+}

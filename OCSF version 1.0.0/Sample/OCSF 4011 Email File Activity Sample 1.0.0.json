@@ -1,0 +1,54 @@
+{
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "class_uid": 4011,
+  "duration": 39,
+  "email_uid": "5d4fe55e-3607-11ee-bc8b-0242ac110004",
+  "file": {
+    "confidentiality": "Not Confidential",
+    "confidentiality_id": 1,
+    "created_time": 1691511575324748,
+    "hashes": [
+      {
+        "algorithm": "quickXorHash",
+        "algorithm_id": 7,
+        "value": "CF177FBB8406132005468FAB0AC1818ACA5FB986C2129521EF67196F62269FA4F9A91D99A3533E9903553ADE803650FB6F376E489B90971B93034C09B07B564A"
+      }
+    ],
+    "mime_type": "response/specification",
+    "modified_time": 1691511575324888,
+    "name": "til.zipx",
+    "parent_folder": "bahrain awareness expired/retrieved.pages",
+    "path": "bahrain awareness expired/retrieved.pages/til.zipx",
+    "type": "Symbolic Link",
+    "type_id": 7
+  },
+  "message": "paragraphs images oven",
+  "metadata": {
+    "log_name": "again tribune dentists",
+    "log_provider": "gamma ing seating",
+    "log_version": "vehicle perceived swiss",
+    "original_time": "decimal kinds donna",
+    "product": {
+      "lang": "en",
+      "name": "demand her robust",
+      "uid": "5d4fc826-3607-11ee-aa94-0242ac110004",
+      "vendor_name": "street happened d",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "raw_data": "adjacent leading bikes",
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511575324518,
+  "type_name": "Email File Activity: Unknown",
+  "type_uid": 401100,
+  "unmapped": {}
+}

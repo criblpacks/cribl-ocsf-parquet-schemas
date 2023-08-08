@@ -1,0 +1,82 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "actor": {
+    "idp": {
+      "name": "incorporated ups interfaces",
+      "uid": "58428e5e-3607-11ee-880b-0242ac110004"
+    },
+    "user": {
+      "credential_uid": "58429430-3607-11ee-944a-0242ac110004",
+      "name": "Shown",
+      "org": {
+        "ou_name": "lazy calgary richardson",
+        "uid": "5842996c-3607-11ee-95e6-0242ac110004"
+      },
+      "type": "episodes",
+      "type_id": 99,
+      "uid": "58429d2c-3607-11ee-ae68-0242ac110004"
+    }
+  },
+  "category_name": "System Activity",
+  "category_uid": 1,
+  "class_name": "Kernel Activity",
+  "class_uid": 1003,
+  "device": {
+    "autoscale_uid": "5842c590-3607-11ee-8114-0242ac110004",
+    "hostname": "specializing.store",
+    "hypervisor": "bacon was sessions",
+    "image": {
+      "name": "ebook billing priest",
+      "uid": "5842ad62-3607-11ee-9391-0242ac110004"
+    },
+    "imei": "mysql continuous median",
+    "instance_uid": "5842bd66-3607-11ee-80a5-0242ac110004",
+    "interface_uid": "5842a736-3607-11ee-8108-0242ac110004",
+    "ip": "164.66.249.25",
+    "is_personal": true,
+    "is_trusted": true,
+    "last_seen_time": 1691511566849715,
+    "name": "ron lie producing",
+    "region": "routers both room",
+    "risk_level": "attention adapted thru",
+    "risk_score": 57,
+    "type": "Mobile",
+    "type_id": 5,
+    "uid": "5842b7f8-3607-11ee-9f5f-0242ac110004",
+    "vlan_uid": "5842c202-3607-11ee-b789-0242ac110004"
+  },
+  "kernel": {
+    "name": "brutal passenger tucson",
+    "type": "grows",
+    "type_id": 99
+  },
+  "metadata": {
+    "correlation_uid": "584275b8-3607-11ee-ab08-0242ac110004",
+    "event_code": "pine",
+    "log_name": "habits characteristic inclusion",
+    "log_provider": "mongolia fort ten",
+    "original_time": "paragraph snap cindy",
+    "product": {
+      "lang": "en",
+      "name": "trash lace pot",
+      "path": "worn generators lewis",
+      "uid": "584282ba-3607-11ee-aa40-0242ac110004",
+      "vendor_name": "assists fired thanksgiving",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "Fatal",
+  "severity_id": 6,
+  "start_time": 1691511566850851,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1691511566848935,
+  "timezone_offset": 18,
+  "type_name": "Kernel Activity: Unknown",
+  "type_uid": 100300
+}

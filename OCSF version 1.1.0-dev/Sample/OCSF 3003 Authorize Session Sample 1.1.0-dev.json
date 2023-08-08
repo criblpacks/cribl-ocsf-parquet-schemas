@@ -1,0 +1,68 @@
+{
+  "activity_id": 2,
+  "activity_name": "Assign Groups",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Authorize Session",
+  "class_uid": 3003,
+  "dst_endpoint": {
+    "domain": "lambda boring guards",
+    "hostname": "financial.pro",
+    "instance_uid": "43299512-3607-11ee-a5f2-0242ac110005",
+    "interface_name": "indoor antibodies gl",
+    "interface_uid": "43299f94-3607-11ee-986f-0242ac110005",
+    "ip": "153.8.157.245",
+    "name": "banned hollywood survival",
+    "port": 11811,
+    "type": "Server",
+    "type_id": 1,
+    "uid": "4329a520-3607-11ee-936d-0242ac110005",
+    "vpc_uid": "4329a930-3607-11ee-afb5-0242ac110005"
+  },
+  "group": {
+    "name": "philadelphia amazing mel",
+    "uid": "4329cb9a-3607-11ee-930e-0242ac110005"
+  },
+  "message": "snow courses tension",
+  "metadata": {
+    "correlation_uid": "4329d3c4-3607-11ee-8a06-0242ac110005",
+    "log_name": "wind programs sb",
+    "log_provider": "obtain dancing safe",
+    "modified_time": 1691511531454992,
+    "original_time": "project odd protocol",
+    "product": {
+      "name": "asthma franchise operating",
+      "uid": "4329e792-3607-11ee-abe4-0242ac110005",
+      "vendor_name": "powell building sends",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "privileges": [
+    "judy ver handles",
+    "researcher berlin equation"
+  ],
+  "session": {
+    "created_time": 1691511531454337,
+    "issuer": "processor paintball atlas",
+    "uid": "4329bfb0-3607-11ee-a159-0242ac110005",
+    "uuid": "4329c33e-3607-11ee-87b5-0242ac110005"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Failure",
+  "status_id": 2,
+  "time": 1691511531452910,
+  "timezone_offset": 76,
+  "type_name": "Authorize Session: Assign Groups",
+  "type_uid": 300302,
+  "user": {
+    "name": "Yard",
+    "type": "User",
+    "type_id": 1,
+    "uid": "4329b7e0-3607-11ee-a97c-0242ac110005"
+  }
+}

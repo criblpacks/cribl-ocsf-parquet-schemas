@@ -1,0 +1,132 @@
+{
+  "activity_id": 4,
+  "activity_name": "Access Error",
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "class_uid": 6004,
+  "http_request": {
+    "http_headers": [
+      {
+        "name": "unit sticky domestic",
+        "value": "anger point hills"
+      },
+      {
+        "name": "li mia less",
+        "value": "colorado concord nevada"
+      }
+    ],
+    "url": {
+      "category_ids": [
+        90,
+        64
+      ],
+      "hostname": "luther.arpa",
+      "path": "future channel viruses",
+      "port": 790,
+      "scheme": "ideas madness med"
+    },
+    "user_agent": "hobbies attractions actors",
+    "version": "1.0.0",
+    "x_forwarded_for": [
+      "110.180.173.130"
+    ]
+  },
+  "http_response": {
+    "code": 80,
+    "latency": 46
+  },
+  "message": "counters zum containing",
+  "metadata": {
+    "log_name": "al collectors counter",
+    "original_time": "forbes prayer dvds",
+    "product": {
+      "lang": "en",
+      "name": "adams releases royalty",
+      "uid": "5c513a86-3607-11ee-8b47-0242ac110004",
+      "vendor_name": "supreme translator consistency",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "src_endpoint": {
+    "hostname": "constitute.mil",
+    "instance_uid": "5c514fc6-3607-11ee-96f1-0242ac110004",
+    "interface_name": "sympathy cos postings",
+    "interface_uid": "5c515408-3607-11ee-a4d3-0242ac110004",
+    "ip": "236.191.51.168",
+    "location": {
+      "city": "Addressed invisible",
+      "continent": "Oceania",
+      "coordinates": [
+        -46.516,
+        -47.5242
+      ],
+      "country": "NZ",
+      "desc": "New Zealand"
+    },
+    "name": "affecting moments paperback",
+    "port": 20417,
+    "svc_name": "extreme angeles occasion",
+    "uid": "5c515de0-3607-11ee-a8a7-0242ac110004"
+  },
+  "status": "Failure",
+  "status_detail": "warm contact skirt",
+  "status_id": 2,
+  "time": 1691511573656367,
+  "timezone_offset": 71,
+  "tls": {
+    "certificate": {
+      "expiration_time": 1691511573657225,
+      "fingerprints": [
+        {
+          "algorithm": "CTPH",
+          "algorithm_id": 5,
+          "value": "9DC24A684FEB067543EA99828283993CFAF8E3DB14BFFB1AFB4E1C42C121AC9B11DBE49B8451AFA8169F62E47F5D0F7A3B6F276382EBD8887318302A749B5471"
+        },
+        {
+          "algorithm": "TLSH",
+          "algorithm_id": 6,
+          "value": "B148075FB5612C9892C57AC622CBF7F3D7842A9EC81DC8D3F0BC2217433A864002B547EC01D6A7EB15858B769AE44C2565B8B81DD6BDD87B866FAB6BD15C65B2"
+        }
+      ],
+      "issuer": "energy probe metallic",
+      "serial_number": "photographs spirituality volvo",
+      "subject": "price crossing train",
+      "version": "1.0.0"
+    },
+    "certificate_chain": [
+      "transcript floppy render"
+    ],
+    "cipher": "wyoming sony reviewing",
+    "client_ciphers": [
+      "cs involved studied",
+      "wrestling ext dm"
+    ],
+    "handshake_dur": 29,
+    "ja3_hash": {
+      "algorithm": "TLSH",
+      "algorithm_id": 6,
+      "value": "D9FEB0AF401D2703E4C82574A17DEEDC279041D0B817DE6EDEAAC26A63B0B1C886F1868BB90AFFB4660648426C95A1D0F5AAC24EE79332B59A27B07C46F5E879"
+    },
+    "ja3s_hash": {
+      "algorithm": "TLSH",
+      "algorithm_id": 6,
+      "value": "8AA1D71225B71C7B37840D983EA78026BE8CDF395067A670E4B72EEFBD0A102CDAB9876C24E88CE296EB74A2EB3F423497B204B27E6FE88E443503AD349AC90E"
+    },
+    "sni": "comes misc attention",
+    "version": "1.0.0"
+  },
+  "type_name": "Web Resource Access Activity: Access Error",
+  "type_uid": 600404,
+  "web_resources": [
+    {
+      "url_string": "than"
+    }
+  ]
+}

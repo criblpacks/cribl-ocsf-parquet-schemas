@@ -1,0 +1,48 @@
+{
+  "activity_id": 0,
+  "activity_name": "Unknown",
+  "app": {
+    "lang": "en",
+    "name": "model vietnam gym",
+    "uid": "56e9cd10-3607-11ee-a240-0242ac110004",
+    "vendor_name": "exempt ellen sample",
+    "version": "1.0.0"
+  },
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "class_uid": 6002,
+  "message": "counts creations finals",
+  "metadata": {
+    "correlation_uid": "56e9a8da-3607-11ee-8902-0242ac110004",
+    "log_name": "crest bug molecules",
+    "log_provider": "instruments computation jennifer",
+    "log_version": "poster list floral",
+    "modified_time": 1691511564588981,
+    "original_time": "tops mayor subscribe",
+    "product": {
+      "feature": {
+        "name": "amber dresses sides",
+        "version": "1.0.0"
+      },
+      "name": "comedy ware laser",
+      "uid": "56e9bd34-3607-11ee-9986-0242ac110004",
+      "vendor_name": "changed dos boys",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "56e9c360-3607-11ee-9004-0242ac110004",
+    "version": "1.0.0"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "status": "Unknown",
+  "status_code": "cons",
+  "status_id": 0,
+  "time": 1691511564589583,
+  "timezone_offset": 90,
+  "type_name": "Application Lifecycle: Unknown",
+  "type_uid": 600200
+}

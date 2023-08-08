@@ -1,0 +1,59 @@
+{
+  "activity_id": 1,
+  "activity_name": "Log",
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "class_uid": 5001,
+  "device": {
+    "domain": "shopzilla ra leon",
+    "hostname": "likes.aero",
+    "instance_uid": "591e943a-3607-11ee-bf65-0242ac110004",
+    "interface_name": "wa plastics describe",
+    "interface_uid": "591e8bd4-3607-11ee-a640-0242ac110004",
+    "ip": "23.215.7.194",
+    "is_personal": true,
+    "name": "century cocktail systems",
+    "region": "graph window sequences",
+    "risk_level": "vector velvet julia",
+    "type": "warrant",
+    "type_id": 99,
+    "uid": "591e9002-3607-11ee-9a92-0242ac110004"
+  },
+  "duration": 44,
+  "end_time": 1691511568290541,
+  "message": "ball population stickers",
+  "metadata": {
+    "extension": {
+      "name": "conditions scale increasingly",
+      "uid": "591e64a6-3607-11ee-a225-0242ac110004",
+      "version": "1.0.0"
+    },
+    "log_name": "lauderdale syndication priority",
+    "log_provider": "doctor awful twin",
+    "product": {
+      "feature": {
+        "name": "comm peter preservation",
+        "uid": "591e7676-3607-11ee-985c-0242ac110004",
+        "version": "1.0.0"
+      },
+      "lang": "en",
+      "name": "theater np amp",
+      "uid": "591e7b80-3607-11ee-83e7-0242ac110004",
+      "url_string": "asylum",
+      "vendor_name": "governing mongolia diameter"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.0.0"
+  },
+  "severity": "destination",
+  "severity_id": 99,
+  "status": "season",
+  "status_id": 99,
+  "time": 1691511568290530,
+  "timezone_offset": 66,
+  "type_name": "Device Inventory Info: Log",
+  "type_uid": 500101
+}

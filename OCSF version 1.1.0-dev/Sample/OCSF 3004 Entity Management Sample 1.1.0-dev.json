@@ -1,0 +1,46 @@
+{
+  "activity_id": 99,
+  "activity_name": "calls",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "class_uid": 3004,
+  "entity": {
+    "name": "selective admin briefly",
+    "type": "cardiac connecticut temporary",
+    "uid": "44738e8c-3607-11ee-a8bc-0242ac110005",
+    "version": "1.1.0-dev"
+  },
+  "entity_result": {
+    "name": "whether newspapers virtually",
+    "type": "supplied flexible connectors",
+    "uid": "44739c6a-3607-11ee-a6a1-0242ac110005",
+    "version": "1.1.0-dev"
+  },
+  "message": "brandon connection moved",
+  "metadata": {
+    "event_code": "penny",
+    "log_name": "guest ati tent",
+    "log_provider": "get starring myers",
+    "original_time": "cement devices were",
+    "product": {
+      "lang": "en",
+      "name": "impossible grace sat",
+      "uid": "4473a6d8-3607-11ee-90d6-0242ac110005",
+      "vendor_name": "classified camcorder nicholas",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "version": "1.1.0-dev"
+  },
+  "severity": "Informational",
+  "severity_id": 1,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1691511533615923,
+  "timezone_offset": 85,
+  "type_name": "Entity Management: Other",
+  "type_uid": 300499
+}

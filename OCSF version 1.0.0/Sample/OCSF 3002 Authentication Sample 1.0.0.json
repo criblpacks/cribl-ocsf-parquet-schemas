@@ -1,0 +1,88 @@
+{
+  "activity_id": 99,
+  "activity_name": "chip",
+  "auth_protocol": "EAP",
+  "auth_protocol_id": 9,
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "certificate": {
+    "created_time": 1691511574380402,
+    "expiration_time": 1691511574380410,
+    "fingerprints": [
+      {
+        "algorithm": "SHA-1",
+        "algorithm_id": 2,
+        "value": "01141830BF51A87C3C5111A4B5C41B6C04432DA5"
+      },
+      {
+        "algorithm": "CTPH",
+        "algorithm_id": 5,
+        "value": "42DCD9F13EAA00F04BBE55967BE0FD68850E05D578676CA985DB8A6BF4221166FCC38242F2DFBD5A488CB9812A97BC2EB12D0B443AECAC2DC3EB4CEBB77F86C1"
+      }
+    ],
+    "issuer": "lake calculator england",
+    "serial_number": "weed holder band",
+    "subject": "marcus terror become",
+    "version": "1.0.0"
+  },
+  "class_name": "Authentication",
+  "class_uid": 3002,
+  "dst_endpoint": {
+    "instance_uid": "5cbfd342-3607-11ee-b7ef-0242ac110004",
+    "interface_name": "weekends impacts reflected",
+    "interface_uid": "5cbfd7e8-3607-11ee-96b9-0242ac110004",
+    "ip": "60.30.142.144",
+    "location": {
+      "city": "Co narrative",
+      "continent": "North America",
+      "coordinates": [
+        -3.5319,
+        27.7189
+      ],
+      "country": "CA",
+      "desc": "Canada"
+    },
+    "name": "dad designer visibility",
+    "port": 28091,
+    "svc_name": "rs cuts kill",
+    "uid": "5cbfe2ba-3607-11ee-bfcd-0242ac110004"
+  },
+  "duration": 4,
+  "is_remote": false,
+  "logon_type": "switches",
+  "logon_type_id": 99,
+  "message": "metropolitan promotions harmony",
+  "metadata": {
+    "log_name": "absolute considered substance",
+    "product": {
+      "name": "memo strength frequencies",
+      "vendor_name": "kidney therapist nails",
+      "version": "1.0.0"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "uid": "5cbf9bc0-3607-11ee-9ec8-0242ac110004",
+    "version": "1.0.0"
+  },
+  "service": {
+    "name": "dog gloves testimonials",
+    "uid": "5cbfc76c-3607-11ee-a810-0242ac110004",
+    "version": "1.0.0"
+  },
+  "severity": "Critical",
+  "severity_id": 5,
+  "start_time": 1691511574381442,
+  "status": "Success",
+  "status_id": 1,
+  "time": 1691511574379706,
+  "timezone_offset": 56,
+  "type_name": "Authentication: Other",
+  "type_uid": 300299,
+  "user": {
+    "name": "Furthermore",
+    "type": "hormone",
+    "type_id": 99,
+    "uid": "5cbfb7e0-3607-11ee-9860-0242ac110004"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "timezone_offset": 11,
+  "status": "Unknown",
+  "metadata": {
+    "log_name": "boring bernard guild",
+    "log_provider": "sets africa prospect",
+    "original_time": "clouds colorado pumps",
+    "product": {
+      "lang": "en",
+      "name": "denmark phi achieve",
+      "path": "merchants quiet minor",
+      "uid": "464095b6-3607-11ee-b3cf-0242ac110005",
+      "vendor_name": "corner britney apartment"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "sequence": 61,
+    "version": "1.1.0-dev"
+  },
+  "dialect": "aerial recipe dedicated",
+  "message": "reviews technologies therapy",
+  "duration": 27,
+  "category_name": "Network Activity",
+  "type_uid": 400605,
+  "status_id": 0,
+  "tree_uid": "46406640-3607-11ee-9f2a-0242ac110005",
+  "end_time": 1691511536635770,
+  "command": "believe clips deeper",
+  "type_name": "SMB Activity: File Overwrite",
+  "dce_rpc": {
+    "command_response": "agreements retail coaching",
+    "flags": [
+      "max mazda catering",
+      "glenn selecting pocket"
+    ],
+    "opnum": 62,
+    "rpc_interface": {
+      "ack_result": 15,
+      "uuid": "46405844-3607-11ee-83af-0242ac110005",
+      "version": "1.1.0-dev"
+    }
+  },
+  "tls": {
+    "certificate_chain": [
+      "flush titles commander"
+    ],
+    "cipher": "highlights feed nowhere",
+    "client_ciphers": [
+      "optimize belongs vs",
+      "bless satisfied sunglasses"
+    ],
+    "ja3_hash": {
+      "algorithm": "TLSH",
+      "algorithm_id": 6,
+      "value": "8A82CF55BDD92E78B644AB49292EEA3CD1C7B13C7F0C933594FB7D3D4C0B635D753AF9C8153ADC4EBA0851DB5F6EC59460272460A508EEAF5FCAB3B6B0292F47"
+    },
+    "ja3s_hash": {
+      "algorithm": "Unknown",
+      "algorithm_id": 0,
+      "value": "FFFD6E4D5C67677BFC969CA0588F650122C17B6C934D38187AE6E72973E00FA9AE334689783D159A4BAFAE554E1D2103F1EA6AC30F8730FC2FA971607C3D96B9"
+    },
+    "sni": "rim senior yard",
+    "version": "1.1.0-dev"
+  },
+  "file": {
+    "accessor": {
+      "groups": [
+        {
+          "name": "pediatric corpus ted",
+          "uid": "46402194-3607-11ee-b4ec-0242ac110005"
+        },
+        {
+          "privileges": [
+            "bacon fake could",
+            "roy question where"
+          ],
+          "uid": "4640272a-3607-11ee-bd03-0242ac110005"
+        }
+      ],
+      "name": "Sen",
+      "type": "User",
+      "type_id": 1,
+      "uid": "46402bda-3607-11ee-bd66-0242ac110005"
+    },
+    "confidentiality": "Not Confidential",
+    "confidentiality_id": 1,
+    "desc": "shield sim fourth",
+    "hashes": [
+      {
+        "algorithm": "quickXorHash",
+        "algorithm_id": 7,
+        "value": "2124F58129DE49226E0A3FD4B6A4237F84178599A303884B7B2D2F5F0459FD2373E0533106837CE149F315B166B492F4FBC5FF7741AA1D224E0CA7FE7DA8A3F3"
+      }
+    ],
+    "modified_time": 1691511536634635,
+    "modifier": {
+      "name": "Fought",
+      "type": "Admin",
+      "type_id": 2,
+      "uid": "464041ce-3607-11ee-8212-0242ac110005"
+    },
+    "name": "framework.php",
+    "parent_folder": "mba airport european/retreat.ico",
+    "path": "mba airport european/retreat.ico/framework.php",
+    "signature": {
+      "algorithm": "RSA",
+      "algorithm_id": 2,
+      "created_time": 1691511536635249
+    },
+    "type": "Block Device",
+    "type_id": 4
+  },
+  "activity_name": "File Overwrite",
+  "class_uid": 4006,
+  "client_dialects": [
+    "thou quotations micro"
+  ],
+  "category_uid": 4,
+  "severity_id": 5,
+  "response": {
+    "code": 57,
+    "error": "ut meeting imposed",
+    "error_message": "defendant starring ev",
+    "message": "zimbabwe length layers"
+  },
+  "class_name": "SMB Activity",
+  "connection_info": {
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 63,
+    "tcp_flags": 87
+  },
+  "share_type_id": 2,
+  "src_endpoint": {
+    "hostname": "arguments.jobs",
+    "instance_uid": "463ff930-3607-11ee-8f68-0242ac110005",
+    "interface_name": "department christmas public",
+    "interface_uid": "463fff02-3607-11ee-b68d-0242ac110005",
+    "ip": "65.215.201.136",
+    "name": "yard security johnston",
+    "port": 2988,
+    "svc_name": "packard bell binding",
+    "type": "Unknown",
+    "type_id": 0,
+    "uid": "46400452-3607-11ee-bc8a-0242ac110005"
+  },
+  "dst_endpoint": {
+    "hostname": "closer.jobs",
+    "instance_uid": "463fbee8-3607-11ee-afa3-0242ac110005",
+    "interface_name": "motorola allowance complexity",
+    "interface_uid": "463fc456-3607-11ee-9b78-0242ac110005",
+    "ip": "0.100.21.63",
+    "name": "comp yea mess",
+    "port": 24750,
+    "subnet_uid": "463fc9ce-3607-11ee-b13f-0242ac110005",
+    "svc_name": "athletes counsel mystery",
+    "type": "wound appropriations hash",
+    "vlan_uid": "463fcf00-3607-11ee-821b-0242ac110005"
+  },
+  "time": 1691511536631485,
+  "open_type": "reviewed job fly",
+  "severity": "Critical",
+  "activity_id": 5,
+  "enrichments": [
+    {
+      "data": "clear",
+      "name": "sucking peeing disabled",
+      "provider": "victory indirect spreading",
+      "type": "patio forecasts cashiers",
+      "value": "pubs kids sad"
+    },
+    {
+      "data": "syntax",
+      "name": "rating user iran",
+      "provider": "rising observations martial",
+      "type": "le compounds contribution",
+      "value": "halifax frank equation"
+    }
+  ],
+  "proxy": {
+    "instance_uid": "463f72b2-3607-11ee-a39f-0242ac110005",
+    "interface_name": "practice tablets generous",
+    "interface_uid": "463f7884-3607-11ee-a7fa-0242ac110005",
+    "ip": "134.79.169.135",
+    "mac": "F3:CE:0:24:D4:A3:B5:E6",
+    "name": "polls activists employers",
+    "port": 6764,
+    "svc_name": "ebony architectural weighted",
+    "type": "Server",
+    "type_id": 1,
+    "uid": "463fadd6-3607-11ee-9ad3-0242ac110005"
+  },
+  "share_type": "Pipe"
+}
