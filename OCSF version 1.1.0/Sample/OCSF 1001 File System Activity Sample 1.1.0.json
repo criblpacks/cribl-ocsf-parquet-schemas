@@ -1,0 +1,516 @@
+{
+  "message": "rangers specially cu",
+  "status": "dynamics",
+  "time": 1706912152982493,
+  "file": {
+    "name": "losses.tga",
+    "type": "Local Socket",
+    "path": "scientist nominated badly/vista.dwg/losses.tga",
+    "signature": {
+      "certificate": {
+        "version": "1.1.0",
+        "subject": "aim carbon nobody",
+        "issuer": "jordan buying rs",
+        "fingerprints": [
+          {
+            "value": "22B116248B656F218BCEAC088280149CB1210370",
+            "algorithm": "SHA-1",
+            "algorithm_id": 2
+          }
+        ],
+        "created_time": 1706912152982731,
+        "expiration_time": 1706912152982735,
+        "serial_number": "civilization curtis directly"
+      },
+      "algorithm": "Authenticode",
+      "algorithm_id": 4
+    },
+    "type_id": 5,
+    "mime_type": "permanent/require",
+    "parent_folder": "scientist nominated badly/vista.dwg",
+    "confidentiality": "Secret",
+    "confidentiality_id": 3
+  },
+  "device": {
+    "name": "harvey travelling lean",
+    "type": "Desktop",
+    "ip": "89.201.165.178",
+    "hostname": "specialized.gov",
+    "uid": "a0eb067a-c218-11ee-952c-0242ac110005",
+    "mac": "5F:F5:57:DB:35:81:6C:4D",
+    "type_id": 2,
+    "hypervisor": "sodium ronald escape",
+    "imei": "c tap matter",
+    "instance_uid": "a0eaf2c0-c218-11ee-93e5-0242ac110005",
+    "interface_name": "revelation toy conceptual",
+    "interface_uid": "a0eafbe4-c218-11ee-a280-0242ac110005",
+    "is_compliant": true,
+    "is_personal": true,
+    "last_seen_time": 1706912152982020,
+    "region": "modems filing betty",
+    "subnet_uid": "a0eb00bc-c218-11ee-8466-0242ac110005"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "extension": {
+      "name": "eg sunrise affects",
+      "version": "1.1.0",
+      "uid": "a0eabbac-c218-11ee-a4b0-0242ac110005"
+    },
+    "product": {
+      "name": "deputy veterans issn",
+      "version": "1.1.0",
+      "uid": "a0eac8f4-c218-11ee-bff1-0242ac110005",
+      "feature": {
+        "name": "argued imaging samba",
+        "version": "1.1.0",
+        "uid": "a0eacee4-c218-11ee-bfbf-0242ac110005"
+      },
+      "vendor_name": "training household ash"
+    },
+    "uid": "a0ead2d6-c218-11ee-a300-0242ac110005",
+    "labels": [
+      "aids",
+      "aircraft"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "learn ag ugly",
+    "log_provider": "rec bargains promote"
+  },
+  "severity": "Informational",
+  "duration": 71,
+  "type_name": "File System Activity: Unknown",
+  "category_name": "System Activity",
+  "activity_id": 0,
+  "type_uid": 100100,
+  "observables": [
+    {
+      "name": "contribute cabinets colleges",
+      "type": "Registry Key",
+      "type_id": 28
+    }
+  ],
+  "class_uid": 1001,
+  "category_uid": 1,
+  "class_name": "File System Activity",
+  "timezone_offset": 45,
+  "activity_name": "Unknown",
+  "actor": {
+    "process": {
+      "name": "Onto",
+      "pid": 79,
+      "uid": "a0eb2100-c218-11ee-a8f2-0242ac110005",
+      "cmd_line": "intend fine sans",
+      "created_time": 1706912152983183,
+      "integrity": "Medium",
+      "integrity_id": 3,
+      "parent_process": {
+        "name": "Audi",
+        "pid": 68,
+        "file": {
+          "name": "thesis.sitx",
+          "type": "Named Pipe",
+          "path": "sacramento disclosure cohen/okay.crx/thesis.sitx",
+          "product": {
+            "name": "lending precisely toyota",
+            "version": "1.1.0",
+            "uid": "a0eb4a04-c218-11ee-9716-0242ac110005",
+            "vendor_name": "whilst worship evident"
+          },
+          "type_id": 6,
+          "mime_type": "discretion/solaris",
+          "parent_folder": "sacramento disclosure cohen/okay.crx",
+          "confidentiality": "facilitate refine silicon",
+          "created_time": 1706912152984324,
+          "hashes": [
+            {
+              "value": "CE9255F4A1BCBEC63AA3A7A450B6480D03A27497099E3A5DAC566517919AB4C1",
+              "algorithm": "SHA-256",
+              "algorithm_id": 3
+            }
+          ],
+          "xattributes": {}
+        },
+        "user": {
+          "name": "Account",
+          "type": "carefully",
+          "uid": "a0eb5bfc-c218-11ee-be4d-0242ac110005",
+          "groups": [
+            {
+              "name": "columnists shut northeast",
+              "uid": "a0eb6264-c218-11ee-8ebf-0242ac110005"
+            }
+          ],
+          "type_id": 99
+        },
+        "uid": "a0eb6d22-c218-11ee-931b-0242ac110005",
+        "cmd_line": "gzip marco ridge",
+        "created_time": 1706912152985138,
+        "integrity": "consecutive vertex diesel",
+        "lineage": [
+          "ver nov polls",
+          "sv compete basement"
+        ],
+        "parent_process": {
+          "name": "Uses",
+          "file": {
+            "name": "info.dmp",
+            "type": "Unknown",
+            "path": "desired traditional discipline/bedroom.tif/info.dmp",
+            "product": {
+              "name": "lobby transparent maintains",
+              "version": "1.1.0",
+              "path": "whole formatting department",
+              "uid": "a0eb805a-c218-11ee-adbb-0242ac110005",
+              "vendor_name": "josh certified disclaimers"
+            },
+            "modifier": {
+              "name": "Warning",
+              "type": "Unknown",
+              "uid": "a0eb8758-c218-11ee-a8dd-0242ac110005",
+              "type_id": 0,
+              "credential_uid": "a0eb8b36-c218-11ee-950f-0242ac110005"
+            },
+            "desc": "heath tax bomb",
+            "type_id": 0,
+            "parent_folder": "desired traditional discipline/bedroom.tif",
+            "hashes": [
+              {
+                "value": "9B40FB124A2E0184C20A905C9513F3706885072012D0B51DE9E1727F2207B0C5A9162188F6866A6F873B0BDA40E03749031CF4036C59AB861EC263CCA344ED13",
+                "algorithm": "Unknown",
+                "algorithm_id": 0
+              },
+              {
+                "value": "1C09F5A7F47DF2EE11DAC3ABD4010D9B70FB62C46446FD0C872C67A37609A52D",
+                "algorithm": "SHA-256",
+                "algorithm_id": 3
+              }
+            ],
+            "security_descriptor": "medal ships offense"
+          },
+          "user": {
+            "name": "Administrators",
+            "type": "System",
+            "uid": "a0eb964e-c218-11ee-99c8-0242ac110005",
+            "type_id": 3,
+            "account": {
+              "name": "references yes innovations",
+              "type": "AWS IAM User",
+              "uid": "a0eb9c02-c218-11ee-b1b0-0242ac110005",
+              "type_id": 3
+            },
+            "uid_alt": "decades shades listed"
+          },
+          "session": {
+            "count": 88,
+            "uid": "a0eba22e-c218-11ee-ba19-0242ac110005",
+            "issuer": "windsor memorial wy",
+            "created_time": 1706912152986487,
+            "expiration_reason": "runs elite vista",
+            "is_remote": true
+          },
+          "cmd_line": "tech miles sugar",
+          "created_time": 1706912152986507,
+          "parent_process": {
+            "name": "Threat",
+            "pid": 78,
+            "file": {
+              "name": "promoted.pdf",
+              "type": "Block Device",
+              "path": "nd grown britain/concentration.zip/promoted.pdf",
+              "signature": {
+                "certificate": {
+                  "version": "1.1.0",
+                  "uid": "a0ebb084-c218-11ee-b0a4-0242ac110005",
+                  "subject": "transcript skilled protected",
+                  "issuer": "ban instant permissions",
+                  "fingerprints": [
+                    {
+                      "value": "E0A38CD69D08A35B725C38A174B45F7A",
+                      "algorithm": "MD5",
+                      "algorithm_id": 1
+                    }
+                  ],
+                  "created_time": 1706912152986948,
+                  "expiration_time": 1706912152986954,
+                  "serial_number": "derived ml karma"
+                },
+                "algorithm": "Authenticode",
+                "algorithm_id": 4,
+                "created_time": 1706912152986964,
+                "developer_uid": "a0ebb994-c218-11ee-b484-0242ac110005"
+              },
+              "type_id": 4,
+              "parent_folder": "nd grown britain/concentration.zip",
+              "hashes": [
+                {
+                  "value": "172D9E668EE8C103463A1692E743AC71071FAE1F688E30567A61369A2B9F547E1940971801AC739E1DEAF5DDF36B3E88A8ECE4EFE703551B5CC92056E6020284",
+                  "algorithm": "TLSH",
+                  "algorithm_id": 6
+                },
+                {
+                  "value": "2A5C9973A6D7DDE4FBBD83698DED131BA3581EDE88C6AEB0623CF30C1611F627B51803F742491583E061F05A12CD5F8756602E2D001EE440EE2C4961C8767EF9",
+                  "algorithm": "CTPH",
+                  "algorithm_id": 5
+                }
+              ],
+              "xattributes": {}
+            },
+            "user": {
+              "type": "System",
+              "uid": "a0ebc27c-c218-11ee-b52d-0242ac110005",
+              "org": {
+                "name": "daisy song ka",
+                "uid": "a0ebc768-c218-11ee-ac1a-0242ac110005",
+                "ou_name": "j partner pichunter"
+              },
+              "type_id": 3,
+              "ldap_person": {
+                "labels": [
+                  "measurement",
+                  "enb"
+                ],
+                "deleted_time": 1706912152987499,
+                "job_title": "funky experiences dawn"
+              }
+            },
+            "uid": "a0ebce70-c218-11ee-8fcc-0242ac110005",
+            "cmd_line": "pages featuring every",
+            "integrity": "Medium",
+            "integrity_id": 3,
+            "parent_process": {
+              "name": "Joy",
+              "pid": 0,
+              "file": {
+                "name": "standard.bmp",
+                "type": "Local Socket",
+                "version": "1.1.0",
+                "path": "refund appointments cache/doctors.drv/standard.bmp",
+                "desc": "characters enlarge optional",
+                "type_id": 5,
+                "parent_folder": "refund appointments cache/doctors.drv",
+                "confidentiality": "Secret",
+                "confidentiality_id": 3,
+                "created_time": 1706912152987868,
+                "hashes": [
+                  {
+                    "value": "C6A5122EC84B5F77FEC11A36230C5ACE5EFCD24BD789FB50DBCD7213A56195714332D905BCF34C6A2DD98798E21DDF1656CE05252E84B654B79A896E5FA73AE2",
+                    "algorithm": "TLSH",
+                    "algorithm_id": 6
+                  },
+                  {
+                    "value": "E89221D186B34D734D44B88A2C1706D108E90169E8BD137BEB74EA19BDC5A38DDDDC9D33F33081EF8FA92DE53A1B7110220E36A5E7D2CABEB4210D527C9DEBC6",
+                    "algorithm": "SHA-512",
+                    "algorithm_id": 4
+                  }
+                ]
+              },
+              "user": {
+                "name": "Mid",
+                "type": "Admin",
+                "domain": "affair isa doing",
+                "uid": "a0ebe144-c218-11ee-a92a-0242ac110005",
+                "type_id": 2,
+                "account": {
+                  "name": "cut nobody chemical",
+                  "type": "Linux Account",
+                  "type_id": 9
+                },
+                "credential_uid": "a0ebe6ee-c218-11ee-9b5c-0242ac110005"
+              },
+              "uid": "a0ebee28-c218-11ee-99d7-0242ac110005",
+              "cmd_line": "ebay mph motherboard",
+              "lineage": [
+                "illustrations circumstances novel"
+              ],
+              "parent_process": {
+                "name": "Does",
+                "pid": 68,
+                "file": {
+                  "name": "classical.tar",
+                  "type": "Character Device",
+                  "path": "columnists servers musicians/landing.vb/classical.tar",
+                  "uid": "a0ebfd00-c218-11ee-b1d2-0242ac110005",
+                  "type_id": 3,
+                  "parent_folder": "columnists servers musicians/landing.vb",
+                  "confidentiality": "jill arrest constraints",
+                  "created_time": 1706912152988825,
+                  "hashes": [
+                    {
+                      "value": "D58552E7D17CF863945B86733308146461FE376A9EB4EDA49457F924A792BFD153F390899C0B0C5AA094FB12EBE1A6011E0AFDFAF95ED1B50283021888394646",
+                      "algorithm": "CTPH",
+                      "algorithm_id": 5
+                    }
+                  ],
+                  "modified_time": 1706912152988868
+                },
+                "user": {
+                  "name": "Round",
+                  "type": "Admin",
+                  "uid": "a0ec0674-c218-11ee-8ca0-0242ac110005",
+                  "org": {
+                    "name": "national cnn advertise",
+                    "uid": "a0ec0b88-c218-11ee-9ca9-0242ac110005",
+                    "ou_name": "manor surprising leonard",
+                    "ou_uid": "a0ec0f52-c218-11ee-a609-0242ac110005"
+                  },
+                  "type_id": 2,
+                  "credential_uid": "a0ec12c2-c218-11ee-8813-0242ac110005",
+                  "ldap_person": {
+                    "labels": [
+                      "if",
+                      "feet"
+                    ],
+                    "modified_time": 1706912152989522
+                  }
+                },
+                "uid": "a0ec1f74-c218-11ee-a4dc-0242ac110005",
+                "cmd_line": "office specifications suggested",
+                "created_time": 1706912152989698,
+                "parent_process": {
+                  "name": "Alliance",
+                  "pid": 81,
+                  "file": {
+                    "name": "did.gadget",
+                    "owner": {
+                      "name": "Wiley",
+                      "type": "wrapped",
+                      "uid": "a0ec34c8-c218-11ee-89e4-0242ac110005",
+                      "groups": [
+                        {
+                          "name": "exploration alike spotlight",
+                          "uid": "a0ec3a90-c218-11ee-8ff6-0242ac110005"
+                        },
+                        {
+                          "name": "mission releases msn",
+                          "uid": "a0ec3e96-c218-11ee-8e1e-0242ac110005"
+                        }
+                      ],
+                      "type_id": 99,
+                      "uid_alt": "enjoy thong parameters"
+                    },
+                    "type": "Local Socket",
+                    "version": "1.1.0",
+                    "path": "naked sku outdoor/specialists.3ds/did.gadget",
+                    "signature": {
+                      "certificate": {
+                        "version": "1.1.0",
+                        "subject": "sur adaptation vsnet",
+                        "issuer": "evaluate apt electronics",
+                        "fingerprints": [
+                          {
+                            "value": "EF248FE27323D9D6D85E87A348C764C793BD79B4",
+                            "algorithm": "SHA-1",
+                            "algorithm_id": 2
+                          }
+                        ],
+                        "created_time": 1706912152990715,
+                        "expiration_time": 1706912152990721,
+                        "serial_number": "ownership ft carried"
+                      },
+                      "algorithm": "DSA",
+                      "algorithm_id": 1,
+                      "developer_uid": "a0ec4d28-c218-11ee-b758-0242ac110005"
+                    },
+                    "type_id": 5,
+                    "accessor": {
+                      "name": "Mitchell",
+                      "type": "System",
+                      "uid": "a0ec7050-c218-11ee-b2b2-0242ac110005",
+                      "groups": [
+                        {
+                          "name": "elevation aerial interested",
+                          "domain": "cartridges sad horses",
+                          "desc": "refinance eastern connectivity",
+                          "uid": "a0ec7c76-c218-11ee-af55-0242ac110005",
+                          "privileges": [
+                            "dual totals shapes",
+                            "gospel vary conferences"
+                          ]
+                        },
+                        {
+                          "name": "reward phantom potential",
+                          "type": "examining assume keep",
+                          "uid": "a0ec8158-c218-11ee-90c4-0242ac110005"
+                        }
+                      ],
+                      "type_id": 3,
+                      "email_addr": "Larisa@son.store",
+                      "uid_alt": "side canberra indianapolis"
+                    },
+                    "parent_folder": "naked sku outdoor/specialists.3ds",
+                    "hashes": [
+                      {
+                        "value": "75CB789683B6055F01C3AA593298EEC52662F4892E4964718B66F73C2BC2C2B152376ED87CF3F0C3A304AA2BA547E85A62042A1274EF43C39001D7CCCCD8DEF5",
+                        "algorithm": "CTPH",
+                        "algorithm_id": 5
+                      }
+                    ]
+                  },
+                  "user": {
+                    "name": "Suddenly",
+                    "type": "Unknown",
+                    "domain": "handled sleeve camera",
+                    "uid": "a0ec95da-c218-11ee-96ef-0242ac110005",
+                    "type_id": 0,
+                    "email_addr": "Marissa@boston.mil",
+                    "ldap_person": {
+                      "email_addrs": [
+                        "Kati@initiated.mil",
+                        "Veda@hey.web"
+                      ],
+                      "given_name": "reveals discipline hunting",
+                      "modified_time": 1706912152992820
+                    }
+                  },
+                  "uid": "a0ec9e68-c218-11ee-b92a-0242ac110005",
+                  "session": {
+                    "count": 3,
+                    "uid": "a0ecad5e-c218-11ee-a718-0242ac110005",
+                    "uuid": "a0ecb556-c218-11ee-a79e-0242ac110005",
+                    "created_time": 1706912152993524,
+                    "expiration_time": 1706912152993531,
+                    "is_remote": false
+                  },
+                  "cmd_line": "reduced luxembourg provided",
+                  "sandbox": "presentations obtaining moderators"
+                },
+                "sandbox": "vbulletin surgery tract",
+                "terminated_time": 1706912152993606
+              }
+            }
+          },
+          "terminated_time": 1706912152993612
+        },
+        "xattributes": {}
+      },
+      "terminated_time": 1706912152993639,
+      "xattributes": {}
+    },
+    "user": {
+      "type": "Admin",
+      "uid": "a0ecf69c-c218-11ee-a4ed-0242ac110005",
+      "type_id": 2,
+      "credential_uid": "a0ecfb92-c218-11ee-9ceb-0242ac110005"
+    },
+    "authorizations": [
+      {},
+      {
+        "policy": {
+          "name": "proudly exclude niger",
+          "version": "1.1.0",
+          "uid": "a0ed034e-c218-11ee-b118-0242ac110005"
+        }
+      }
+    ],
+    "invoked_by": "important nirvana pointer"
+  },
+  "connection_uid": "a0eaae32-c218-11ee-a2cd-0242ac110005",
+  "create_mask": "acm renewal recognize",
+  "end_time": 1706912152979846,
+  "file_diff": "speech each million",
+  "severity_id": 1,
+  "status_id": 99
+}

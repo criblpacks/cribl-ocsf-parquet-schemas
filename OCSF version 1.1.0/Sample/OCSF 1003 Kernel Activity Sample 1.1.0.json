@@ -1,0 +1,437 @@
+{
+  "message": "chapter candidate italic",
+  "time": 1706912143736287,
+  "device": {
+    "name": "doll imports default",
+    "type": "Tablet",
+    "ip": "117.97.241.243",
+    "hostname": "bachelor.store",
+    "type_id": 4,
+    "autoscale_uid": "9b681e4a-c218-11ee-89c3-0242ac110005",
+    "created_time": 1706912143736101,
+    "instance_uid": "9b6819d6-c218-11ee-9cba-0242ac110005",
+    "interface_name": "facilities dialogue ft",
+    "interface_uid": "9b68230e-c218-11ee-bf87-0242ac110005",
+    "modified_time": 1706912143735860,
+    "network_interfaces": [
+      {
+        "name": "committees area ie",
+        "type": "Wired",
+        "ip": "142.58.127.191",
+        "hostname": "ownership.biz",
+        "mac": "ED:45:9B:71:AC:8C:DF:7B",
+        "type_id": 1
+      }
+    ],
+    "region": "taiwan glen firewire"
+  },
+  "kernel": {
+    "name": "condition paragraph milan",
+    "type": "System Call",
+    "type_id": 2,
+    "system_call": "locked yellow poor"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "script phoenix deviation",
+      "version": "1.1.0",
+      "uid": "9b67ed3a-c218-11ee-b016-0242ac110005",
+      "url_string": "relying",
+      "vendor_name": "regular seats dispatch"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "lynn bedding navigation",
+    "log_provider": "letter molecular implications",
+    "original_time": "say directed nevada",
+    "tenant_uid": "9b680f54-c218-11ee-b864-0242ac110005"
+  },
+  "severity": "Unknown",
+  "type_name": "Kernel Activity: Create",
+  "category_name": "System Activity",
+  "activity_id": 1,
+  "type_uid": 100301,
+  "observables": [
+    {
+      "name": "fate asia reviews",
+      "type": "Email Address",
+      "type_id": 5
+    },
+    {
+      "name": "notebook maiden sufficiently",
+      "type": "File Name",
+      "type_id": 7
+    }
+  ],
+  "class_uid": 1003,
+  "category_uid": 1,
+  "class_name": "Kernel Activity",
+  "activity_name": "Create",
+  "actor": {
+    "process": {
+      "pid": 22,
+      "file": {
+        "name": "cheese.obj",
+        "owner": {
+          "name": "Lake",
+          "type": "User",
+          "uid": "9b683a42-c218-11ee-a5ab-0242ac110005",
+          "type_id": 1
+        },
+        "type": "Symbolic Link",
+        "version": "1.1.0",
+        "modifier": {
+          "name": "Children",
+          "type": "earl",
+          "uid": "9b685acc-c218-11ee-878b-0242ac110005",
+          "type_id": 99
+        },
+        "desc": "individual larger ic",
+        "type_id": 7,
+        "confidentiality": "Confidential",
+        "confidentiality_id": 2,
+        "xattributes": {}
+      },
+      "user": {
+        "name": "Realized",
+        "type": "User",
+        "uid": "9b68beb8-c218-11ee-b929-0242ac110005",
+        "groups": [
+          {
+            "domain": "surround lights nissan",
+            "uid": "9b68c5fc-c218-11ee-b204-0242ac110005",
+            "privileges": [
+              "rfc kinds continue",
+              "mixture houses specific"
+            ]
+          },
+          {
+            "name": "breath forge gossip",
+            "type": "term patient unlikely",
+            "desc": "freebsd mistress vintage",
+            "uid": "9b68cbf6-c218-11ee-b41d-0242ac110005"
+          }
+        ],
+        "type_id": 1,
+        "email_addr": "Lionel@corps.museum",
+        "ldap_person": {
+          "location": {
+            "desc": "Brazil, Federative Republic of",
+            "city": "Village weblogs",
+            "country": "BR",
+            "coordinates": [
+              93.8977,
+              74.3128
+            ],
+            "continent": "South America"
+          },
+          "labels": [
+            "coming",
+            "qty"
+          ],
+          "email_addrs": [
+            "Roy@ge.com"
+          ],
+          "employee_uid": "9b68e014-c218-11ee-a0b5-0242ac110005",
+          "ldap_dn": "subjective vector francis",
+          "surname": "rl minute antiques"
+        },
+        "uid_alt": "considering boston config"
+      },
+      "uid": "9b68e6a4-c218-11ee-836d-0242ac110005",
+      "loaded_modules": [
+        "/vip/dod/managed/tribune/activities.iso",
+        "/margin/missing/climb/pottery/av.ai"
+      ],
+      "cmd_line": "tunes pounds awarded",
+      "integrity": "Low",
+      "integrity_id": 2,
+      "parent_process": {
+        "name": "Clinics",
+        "pid": 82,
+        "file": {
+          "attributes": 66,
+          "name": "charging.log",
+          "type": "Unknown",
+          "path": "serbia conscious cabin/composition.dmg/charging.log",
+          "desc": "ups united integrity",
+          "type_id": 0,
+          "parent_folder": "serbia conscious cabin/composition.dmg",
+          "confidentiality": "beaver enrollment imperial",
+          "created_time": 1706912143741372,
+          "hashes": [
+            {
+              "value": "59B189070AF751D4E93A749CCFFB4CCFD2DE7AB5",
+              "algorithm": "SHA-1",
+              "algorithm_id": 2
+            },
+            {
+              "value": "299A866D8C08B377DE29454B49D2817A",
+              "algorithm": "MD5",
+              "algorithm_id": 1
+            }
+          ]
+        },
+        "user": {
+          "name": "Periods",
+          "type": "Admin",
+          "uid": "9b694ce8-c218-11ee-90e6-0242ac110005",
+          "type_id": 2,
+          "credential_uid": "9b695116-c218-11ee-91f8-0242ac110005",
+          "uid_alt": "save age handled"
+        },
+        "uid": "9b695558-c218-11ee-94b9-0242ac110005",
+        "cmd_line": "evanescence hamilton nasa",
+        "created_time": 1706912143743945,
+        "parent_process": {
+          "name": "Administrative",
+          "file": {
+            "name": "existed.xlsx",
+            "type": "Regular File",
+            "path": "belly organisations copper/tri.asp/existed.xlsx",
+            "type_id": 1,
+            "parent_folder": "belly organisations copper/tri.asp",
+            "hashes": [
+              {
+                "value": "FBA2D26B24ECE064101E45D355F5DD2DC925AA9A",
+                "algorithm": "SHA-1",
+                "algorithm_id": 2
+              },
+              {
+                "value": "29A61145718F346B753C113BC0DD8D8D8EFAB06056F8485508F5FB8C78A21F0F",
+                "algorithm": "SHA-256",
+                "algorithm_id": 3
+              }
+            ],
+            "is_system": false
+          },
+          "user": {
+            "name": "Utilization",
+            "type": "System",
+            "uid": "9b696aca-c218-11ee-b34f-0242ac110005",
+            "type_id": 3
+          },
+          "uid": "9b697f88-c218-11ee-b631-0242ac110005",
+          "cmd_line": "arena dutch sanyo",
+          "created_time": 1706912143745036,
+          "parent_process": {
+            "name": "Pda",
+            "pid": 69,
+            "file": {
+              "name": "tr.html",
+              "size": 2426194234,
+              "type": "Local Socket",
+              "path": "julia whats graphical/aluminum.sln/tr.html",
+              "type_id": 5,
+              "parent_folder": "julia whats graphical/aluminum.sln",
+              "confidentiality": "catch",
+              "confidentiality_id": 99,
+              "hashes": [
+                {
+                  "value": "5F9C8AC77F2D566A7106352D8259696C37463F128689CC27056BF4AB46696E00039509255523ACD4C823A28A514C57FD3F524E2EEBA629B62265DDCFF9DB0905",
+                  "algorithm": "CTPH",
+                  "algorithm_id": 5
+                },
+                {
+                  "value": "0D6DF020A8A614925F6A850EF331D839728B50CAE983EF9B56763B2FB9D69110A876E28EA0406C3CF13221033384A72B81046642B0BE8D9931926F0521F893CC",
+                  "algorithm": "quickXorHash",
+                  "algorithm_id": 7
+                }
+              ],
+              "xattributes": {}
+            },
+            "user": {
+              "name": "Pole",
+              "type": "User",
+              "domain": "merchant polish cargo",
+              "uid": "9b69b5ac-c218-11ee-9fe6-0242ac110005",
+              "type_id": 1
+            },
+            "loaded_modules": [
+              "/interact/journey/rice/print/bare.3g2",
+              "/includes/edt/eric/icons/bracelets.crx"
+            ],
+            "cmd_line": "submit significance evans",
+            "created_time": 1706912143746458,
+            "parent_process": {
+              "pid": 85,
+              "file": {
+                "name": "ira.cgi",
+                "type": "treating",
+                "path": "chamber evaluate insert/industrial.zip/ira.cgi",
+                "product": {
+                  "name": "hundred universities pdas",
+                  "version": "1.1.0",
+                  "path": "bolt minimum should",
+                  "uid": "9b69c812-c218-11ee-b73d-0242ac110005",
+                  "lang": "en",
+                  "vendor_name": "disclosure axis cant"
+                },
+                "type_id": 99,
+                "company_name": "Jeni Dona",
+                "parent_folder": "chamber evaluate insert/industrial.zip",
+                "hashes": [
+                  {
+                    "value": "214C0939A3C1D53D80461C608520DAC05495180D6DA60BBCBC27809B6BA9874271AC318934B8CD4650F9E0D9F9C47C018F12C081050334595E5F4870E1543176",
+                    "algorithm": "Unknown",
+                    "algorithm_id": 0
+                  },
+                  {
+                    "value": "111A809A64091357C4E7CC12730E47E0E7B7C8BB21D1EF196970BC178629A71F5D5D507799B477257D266F6F91014579B02C3DE5115EA56921BFDF4519235D84",
+                    "algorithm": "quickXorHash",
+                    "algorithm_id": 7
+                  }
+                ],
+                "modified_time": 1706912143746998
+              },
+              "user": {
+                "name": "Positions",
+                "uid": "9b69d4ba-c218-11ee-b85e-0242ac110005",
+                "org": {
+                  "name": "pleasant lenders wildlife",
+                  "uid": "9b69da0a-c218-11ee-9bd1-0242ac110005",
+                  "ou_name": "wrong approximately shame"
+                },
+                "full_name": "Marisha Stephania",
+                "uid_alt": "purple congress engines"
+              },
+              "uid": "9b69e464-c218-11ee-99eb-0242ac110005",
+              "cmd_line": "baltimore jul aged",
+              "created_time": 1706912143747607,
+              "integrity": "armor increasing bird",
+              "parent_process": {
+                "name": "Measured",
+                "pid": 96,
+                "file": {
+                  "name": "lightweight.asp",
+                  "size": 2431193897,
+                  "type": "Regular File",
+                  "path": "taught racial default/starts.part/lightweight.asp",
+                  "signature": {
+                    "certificate": {
+                      "subject": "llc encountered italy",
+                      "issuer": "everywhere leather tiles",
+                      "fingerprints": [
+                        {
+                          "value": "5C44644E0A75C8303654A0E93874EE098FD8BE9D7DFF86EFF41DCE76C98C7EAE4426B64C340127FE0F80F1DAC6F5A69A5CB5A7368B35C773AFA7E28E5214A6AF",
+                          "algorithm": "TLSH",
+                          "algorithm_id": 6
+                        }
+                      ],
+                      "created_time": 1706912143747975,
+                      "expiration_time": 1706912143747980,
+                      "serial_number": "relating je transcript"
+                    },
+                    "algorithm": "Unknown",
+                    "algorithm_id": 0
+                  },
+                  "type_id": 1,
+                  "parent_folder": "taught racial default/starts.part",
+                  "confidentiality": "attempting",
+                  "confidentiality_id": 99,
+                  "hashes": [
+                    {
+                      "value": "8876489CE00D6D9FDF61ED1C773F047E",
+                      "algorithm": "MD5",
+                      "algorithm_id": 1
+                    }
+                  ],
+                  "is_system": false,
+                  "security_descriptor": "increasing british replies",
+                  "xattributes": {}
+                },
+                "user": {
+                  "type": "Unknown",
+                  "uid": "9b69fed6-c218-11ee-95c6-0242ac110005",
+                  "type_id": 0,
+                  "account": {
+                    "name": "award china wage",
+                    "type": "Apple Account",
+                    "uid": "9b6a0598-c218-11ee-843c-0242ac110005",
+                    "type_id": 8
+                  },
+                  "credential_uid": "9b6a0e08-c218-11ee-8ac8-0242ac110005"
+                },
+                "uid": "9b6a11fa-c218-11ee-a6f9-0242ac110005",
+                "cmd_line": "informative borders egypt",
+                "parent_process": {
+                  "name": "Apnic",
+                  "pid": 47,
+                  "file": {
+                    "attributes": 33,
+                    "name": "advised.msi",
+                    "type": "Folder",
+                    "path": "define ignore losses/copper.wma/advised.msi",
+                    "type_id": 2,
+                    "company_name": "Toni Laurette",
+                    "parent_folder": "define ignore losses/copper.wma",
+                    "accessed_time": 1706912143749041,
+                    "confidentiality": "Top Secret",
+                    "confidentiality_id": 4,
+                    "hashes": [
+                      {
+                        "value": "33876B043ED47235C24EA43D6E86AB624861F4033C23A4E1AD715518A432A8CE5C521124DD86DE056E9C2CA4560BD2B06D2CE1BF80B1FD867D5CC99E5ECE7AB1",
+                        "algorithm": "quickXorHash",
+                        "algorithm_id": 7
+                      },
+                      {
+                        "value": "A4402E79A5B6568A205BBBD8C1F1C035119B261C",
+                        "algorithm": "SHA-1",
+                        "algorithm_id": 2
+                      }
+                    ],
+                    "modified_time": 1706912143749089,
+                    "xattributes": {}
+                  },
+                  "user": {
+                    "name": "Danny",
+                    "type": "Admin",
+                    "uid": "9b6a26a4-c218-11ee-8581-0242ac110005",
+                    "groups": [
+                      {
+                        "name": "nations guestbook arc",
+                        "type": "starter eagles decades",
+                        "uid": "9b6a2cb2-c218-11ee-8962-0242ac110005",
+                        "privileges": [
+                          "qatar manage applicable",
+                          "templates villas coral"
+                        ]
+                      },
+                      {
+                        "name": "passenger jay erik",
+                        "desc": "balance ate bathrooms",
+                        "uid": "9b6a6f9c-c218-11ee-a8bc-0242ac110005",
+                        "privileges": [
+                          "ver delays cottage",
+                          "celtic happening owned"
+                        ]
+                      }
+                    ],
+                    "type_id": 2,
+                    "email_addr": "Avis@ratios.pro"
+                  },
+                  "uid": "9b6a750a-c218-11ee-b3eb-0242ac110005"
+                },
+                "xattributes": {}
+              }
+            },
+            "sandbox": "vocals boxing th"
+          },
+          "terminated_time": 1706912143751335
+        },
+        "sandbox": "sorted slim ver"
+      }
+    },
+    "user": {
+      "name": "Lie",
+      "type": "Admin",
+      "uid": "9b6a80e0-c218-11ee-900f-0242ac110005",
+      "type_id": 2,
+      "full_name": "Sonny Claire"
+    }
+  },
+  "severity_id": 0,
+  "status_detail": "pleasure field request"
+}

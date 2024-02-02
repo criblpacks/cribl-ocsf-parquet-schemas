@@ -1,0 +1,179 @@
+{
+  "count": 93,
+  "message": "forever greg ill",
+  "status": "Failure",
+  "time": 1706912138662407,
+  "state": "In Progress",
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "privacy pension pull",
+      "version": "1.1.0",
+      "uid": "986186d2-c218-11ee-a0c3-0242ac110005",
+      "feature": {
+        "version": "1.1.0",
+        "uid": "98618bc8-c218-11ee-b055-0242ac110005"
+      },
+      "vendor_name": "estimation antenna doug"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "98618fba-c218-11ee-9d48-0242ac110005",
+    "log_name": "detailed enterprises nikon",
+    "log_provider": "jewish midwest governing",
+    "loggers": [
+      {
+        "name": "c organisation rfc",
+        "device": {
+          "name": "responding tm davis",
+          "type": "Unknown",
+          "ip": "176.229.226.73",
+          "hostname": "ozone.nato",
+          "type_id": 0,
+          "instance_uid": "98619a50-c218-11ee-a333-0242ac110005",
+          "interface_name": "conventional fundamentals chick",
+          "interface_uid": "98619ee2-c218-11ee-98e9-0242ac110005",
+          "is_managed": false,
+          "region": "considerations jeep historical",
+          "risk_level": "Medium",
+          "risk_level_id": 2
+        },
+        "product": {
+          "name": "royalty oral distribute",
+          "version": "1.1.0",
+          "path": "ko plumbing upgrades",
+          "uid": "9861a676-c218-11ee-accf-0242ac110005",
+          "url_string": "incentive",
+          "vendor_name": "windsor cancellation naughty"
+        },
+        "uid": "9861aa5e-c218-11ee-b18b-0242ac110005",
+        "log_name": "ed achieved seasons",
+        "log_provider": "darwin lawsuit assists"
+      },
+      {
+        "name": "frederick accredited lunch",
+        "device": {
+          "name": "maiden viii sword",
+          "type": "Tablet",
+          "ip": "9.111.105.48",
+          "hostname": "yes.cat",
+          "uid": "9861defc-c218-11ee-a8a1-0242ac110005",
+          "mac": "6D:C2:40:99:FF:16:E8:FE",
+          "groups": [
+            {
+              "name": "searched template expired",
+              "uid": "9861da1a-c218-11ee-be67-0242ac110005"
+            }
+          ],
+          "type_id": 4,
+          "autoscale_uid": "9861c7dc-c218-11ee-9866-0242ac110005",
+          "created_time": 1706912138661402,
+          "first_seen_time": 1706912138660895,
+          "imei": "suspected hiring final",
+          "instance_uid": "9861c3c2-c218-11ee-9fcb-0242ac110005",
+          "interface_name": "dresses preventing rotation",
+          "interface_uid": "9861ccb4-c218-11ee-aae7-0242ac110005",
+          "region": "gerald minute shall",
+          "zone": "observation tracked comments"
+        },
+        "product": {
+          "name": "gba emerald patrick",
+          "version": "1.1.0",
+          "uid": "9861e816-c218-11ee-9d89-0242ac110005",
+          "lang": "en",
+          "vendor_name": "elite detected jurisdiction"
+        },
+        "uid": "9861ee6a-c218-11ee-b2c9-0242ac110005",
+        "log_level": "gotten host hate",
+        "log_name": "cables encryption similar",
+        "log_provider": "robots effect concentrate",
+        "transmit_time": 1706912138662288
+      }
+    ],
+    "original_time": "pharmaceuticals templates item",
+    "processed_time": 1706912138662301,
+    "tenant_uid": "9861f428-c218-11ee-b1d2-0242ac110005"
+  },
+  "severity": "Medium",
+  "resources": [
+    {
+      "owner": {
+        "name": "Exchange",
+        "type": "Unknown",
+        "type_id": 0,
+        "full_name": "Janey Jeffery",
+        "uid_alt": "months effectiveness dies"
+      }
+    },
+    {
+      "owner": {
+        "name": "Cited",
+        "type": "System",
+        "uid": "98616436-c218-11ee-8f34-0242ac110005",
+        "type_id": 3,
+        "credential_uid": "986168a0-c218-11ee-a181-0242ac110005",
+        "email_addr": "Roselia@workstation.coop",
+        "ldap_person": {
+          "cost_center": "northwest cubic reuters",
+          "last_login_time": 1706912138659132,
+          "ldap_cn": "introductory our de",
+          "modified_time": 1706912138659151
+        }
+      },
+      "labels": [
+        "exploration"
+      ]
+    }
+  ],
+  "type_name": "Security Finding: Update",
+  "category_name": "Findings",
+  "activity_id": 2,
+  "type_uid": 200102,
+  "class_uid": 2001,
+  "category_uid": 2,
+  "class_name": "Security Finding",
+  "timezone_offset": 90,
+  "activity_name": "Update",
+  "analytic": {
+    "type": "Behavioral",
+    "uid": "98617c96-c218-11ee-a85b-0242ac110005",
+    "type_id": 2
+  },
+  "confidence": "Unknown",
+  "confidence_id": 0,
+  "data_sources": [
+    "un shades malawi",
+    "audience template voltage"
+  ],
+  "evidence": "producers",
+  "finding": {
+    "title": "zdnet technologies detection",
+    "uid": "9861fb08-c218-11ee-95d8-0242ac110005",
+    "last_seen_time": 1706912138662584,
+    "modified_time": 1706912138662588,
+    "related_events": [
+      {
+        "uid": "986200b2-c218-11ee-9288-0242ac110005",
+        "type_uid": 1812941366,
+        "kill_chain": [
+          {
+            "phase": "Weaponization",
+            "phase_id": 2
+          }
+        ]
+      },
+      {
+        "uid": "98620580-c218-11ee-b7af-0242ac110005",
+        "type_uid": 1975117647
+      }
+    ]
+  },
+  "impact": "Critical",
+  "impact_id": 4,
+  "severity_id": 3,
+  "state_id": 2,
+  "status_code": "floors",
+  "status_detail": "generators reviewing annex",
+  "status_id": 2
+}

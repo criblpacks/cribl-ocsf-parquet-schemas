@@ -1,0 +1,335 @@
+{
+  "status": "independent",
+  "type": "Databucket",
+  "time": 1706912151578770,
+  "metadata": {
+    "version": "1.1.0",
+    "extension": {
+      "name": "cafe site uruguay",
+      "version": "1.1.0",
+      "uid": "a01437a8-c218-11ee-b2dd-0242ac110005"
+    },
+    "product": {
+      "name": "safari correct comedy",
+      "version": "1.1.0",
+      "uid": "a0143e6a-c218-11ee-b1bf-0242ac110005",
+      "lang": "en",
+      "vendor_name": "referring talented unexpected"
+    },
+    "uid": "a0144518-c218-11ee-aac9-0242ac110005",
+    "labels": [
+      "yeast",
+      "birmingham"
+    ],
+    "log_level": "romance great sexual",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "transfers administrator weather",
+    "log_provider": "threads fundamental closed",
+    "loggers": [
+      {
+        "device": {
+          "name": "linking pics lauderdale",
+          "type": "Switch",
+          "os": {
+            "name": "sport citizenship morris",
+            "type": "macOS",
+            "type_id": 300,
+            "sp_ver": 7
+          },
+          "domain": "annie broadband contributed",
+          "ip": "143.199.48.102",
+          "hostname": "talented.coop",
+          "uid": "a01481f4-c218-11ee-b9fc-0242ac110005",
+          "type_id": 10,
+          "instance_uid": "a014662e-c218-11ee-b0f7-0242ac110005",
+          "interface_uid": "a0146ade-c218-11ee-9f00-0242ac110005",
+          "network_interfaces": [
+            {
+              "name": "methods brand what",
+              "type": "Tunnel",
+              "hostname": "pope.arpa",
+              "mac": "7B:83:1A:EA:54:96:1:1",
+              "type_id": 4
+            },
+            {
+              "name": "symbols interfaces part",
+              "type": "designed",
+              "hostname": "yesterday.travel",
+              "namespace": "no cheque focusing",
+              "type_id": 99
+            }
+          ],
+          "region": "fares blogger midwest",
+          "risk_score": 32
+        },
+        "product": {
+          "name": "subsidiaries delivering rush",
+          "version": "1.1.0",
+          "uid": "a014887a-c218-11ee-b3b5-0242ac110005",
+          "vendor_name": "proposals floppy enables"
+        },
+        "uid": "a0148f00-c218-11ee-8c8f-0242ac110005",
+        "log_name": "suggestions relevance disability",
+        "log_provider": "decreased feed weapon"
+      },
+      {
+        "name": "arrow compact tiny",
+        "version": "1.1.0",
+        "device": {
+          "name": "pointer injection ga",
+          "type": "Hub",
+          "os": {
+            "name": "beth digest week",
+            "type": "AIX",
+            "build": "deals cheaper lightbox",
+            "type_id": 401,
+            "sp_name": "holidays mortgages consider",
+            "sp_ver": 86
+          },
+          "ip": "238.219.219.54",
+          "location": {
+            "desc": "South Africa, Republic of",
+            "city": "Css twiki",
+            "country": "ZA",
+            "coordinates": [
+              46.1085,
+              31.1403
+            ],
+            "continent": "Africa"
+          },
+          "hostname": "badly.gov",
+          "uid": "a014bd72-c218-11ee-8137-0242ac110005",
+          "org": {
+            "name": "supply trance ut",
+            "ou_name": "supplement processed leaving"
+          },
+          "type_id": 11,
+          "autoscale_uid": "a014a18e-c218-11ee-ad0d-0242ac110005",
+          "instance_uid": "a0149dce-c218-11ee-98ed-0242ac110005",
+          "interface_name": "auckland peas stations",
+          "interface_uid": "a014abd4-c218-11ee-9ff5-0242ac110005",
+          "region": "bennett hundreds its"
+        },
+        "product": {
+          "name": "caring update guatemala",
+          "version": "1.1.0",
+          "uid": "a014c68c-c218-11ee-bb86-0242ac110005",
+          "cpe_name": "foster government take",
+          "url_string": "admit",
+          "vendor_name": "bids adolescent pda"
+        },
+        "uid": "a014cb1e-c218-11ee-9f26-0242ac110005",
+        "log_name": "ko gem bind",
+        "log_provider": "eyes patent rational",
+        "logged_time": 1706912151578516
+      }
+    ],
+    "modified_time": 1706912151578527,
+    "original_time": "conflicts mesa dated",
+    "processed_time": 1706912151578552,
+    "tenant_uid": "a014d582-c218-11ee-8875-0242ac110005"
+  },
+  "severity": "sheet",
+  "type_name": "Datastore Activity: Read",
+  "category_name": "Application Activity",
+  "activity_id": 1,
+  "type_uid": 600501,
+  "observables": [
+    {
+      "name": "barbara robot concert",
+      "type": "Unknown",
+      "type_id": 0
+    },
+    {
+      "name": "wy direction gambling",
+      "type": "Registry Key",
+      "value": "chemicals comparisons publishers",
+      "type_id": 28
+    }
+  ],
+  "class_uid": 6005,
+  "category_uid": 6,
+  "class_name": "Datastore Activity",
+  "type_id": 2,
+  "timezone_offset": 20,
+  "activity_name": "Read",
+  "actor": {
+    "process": {
+      "pid": 78,
+      "file": {
+        "name": "quebec.vob",
+        "owner": {
+          "name": "Plants",
+          "type": "movie",
+          "domain": "exposure usgs stem",
+          "uid": "a014e9aa-c218-11ee-88a1-0242ac110005",
+          "org": {
+            "name": "printable independence consultants",
+            "uid": "a014f238-c218-11ee-bf6e-0242ac110005",
+            "ou_name": "leone sand burst"
+          },
+          "type_id": 99
+        },
+        "size": 2262249240,
+        "type": "Block Device",
+        "path": "hard carl impose/calgary.crx/quebec.vob",
+        "signature": {
+          "certificate": {
+            "version": "1.1.0",
+            "subject": "consultant alaska vi",
+            "issuer": "thumbzilla ingredients decade",
+            "fingerprints": [
+              {
+                "value": "D14D3F0B40D67B6BC616281A454DBBFCA359CB3B5A6119D661ADA5B75EE4FEFD6B512A47660593C21888339C82AB05844B828348AACB3EC82A208640DE474B59",
+                "algorithm": "TLSH",
+                "algorithm_id": 6
+              },
+              {
+                "value": "9DEF514BB074200083951F39DE31A65A30EFFCDA",
+                "algorithm": "SHA-1",
+                "algorithm_id": 2
+              }
+            ],
+            "expiration_time": 1706912151579752,
+            "serial_number": "modify hd attorney"
+          },
+          "algorithm": "therapeutic",
+          "algorithm_id": 99
+        },
+        "desc": "manhattan instructor barbara",
+        "uid": "a01506c4-c218-11ee-a94c-0242ac110005",
+        "type_id": 4,
+        "creator": {
+          "name": "Hill",
+          "type": "sharing",
+          "uid": "a01510e2-c218-11ee-81b2-0242ac110005",
+          "groups": [
+            {
+              "name": "pas play deviation",
+              "desc": "electro atlantic strengthen",
+              "uid": "a0151c72-c218-11ee-b0b6-0242ac110005"
+            }
+          ],
+          "type_id": 99,
+          "account": {
+            "name": "gif wisdom amp",
+            "type": "Windows Account",
+            "uid": "a0152258-c218-11ee-9d37-0242ac110005",
+            "type_id": 2
+          },
+          "credential_uid": "a01525fa-c218-11ee-9820-0242ac110005",
+          "uid_alt": "role knew holland"
+        },
+        "parent_folder": "hard carl impose/calgary.crx",
+        "confidentiality": "Top Secret",
+        "confidentiality_id": 4,
+        "hashes": [
+          {
+            "value": "BB8D4A457734A390A8F0991953A879424DED2786AD6864982F2CC6199320779B9E52E6D274C60AB514AB498C12906E758E2FD7D004F7FD0042EF79B22EB8FA39",
+            "algorithm": "SHA-512",
+            "algorithm_id": 4
+          }
+        ],
+        "modified_time": 1706912151580883,
+        "security_descriptor": "leading variable northern",
+        "xattributes": {}
+      },
+      "uid": "a015390a-c218-11ee-9d9a-0242ac110005",
+      "cmd_line": "brave olympic wash",
+      "created_time": 1706912151581335,
+      "integrity": "Low",
+      "integrity_id": 2
+    },
+    "user": {
+      "type": "italian",
+      "uid": "a0154aee-c218-11ee-8685-0242ac110005",
+      "type_id": 99,
+      "ldap_person": {
+        "cost_center": "kentucky workstation permit",
+        "deleted_time": 1706912151581858,
+        "employee_uid": "a01552aa-c218-11ee-9521-0242ac110005",
+        "leave_time": 1706912151581973,
+        "surname": "thompson framed iran"
+      }
+    }
+  },
+  "database": {
+    "name": "smilies satisfactory lock",
+    "size": 3873057210,
+    "type": "Operational",
+    "uid": "a013befe-c218-11ee-8022-0242ac110005",
+    "type_id": 5,
+    "created_time": 1706912151571650
+  },
+  "databucket": {
+    "size": 100457501,
+    "type": "Azure Blob",
+    "desc": "interstate hz store",
+    "uid": "a01428b2-c218-11ee-bffd-0242ac110005",
+    "type_id": 2
+  },
+  "end_time": 1706912151571664,
+  "enrichments": [
+    {
+      "data": "pull",
+      "name": "tray generates jane",
+      "type": "decline lighting stupid",
+      "value": "bonus select literary",
+      "provider": "variable glenn jenny"
+    },
+    {
+      "data": "bufing",
+      "name": "av saying vid",
+      "type": "ka ridge vii",
+      "value": "cooler assign llp"
+    }
+  ],
+  "severity_id": 99,
+  "src_endpoint": {
+    "name": "mil chancellor notebook",
+    "port": 27155,
+    "os": {
+      "name": "newton coupled cards",
+      "type": "benefit",
+      "type_id": 99,
+      "lang": "en"
+    },
+    "hostname": "divine.name",
+    "uid": "a013e38e-c218-11ee-a95d-0242ac110005",
+    "instance_uid": "a013e852-c218-11ee-8f03-0242ac110005",
+    "interface_name": "campaign dark samsung",
+    "interface_uid": "a013ecb2-c218-11ee-b896-0242ac110005",
+    "intermediate_ips": [
+      "97.164.1.61",
+      "148.174.9.55"
+    ],
+    "proxy_endpoint": {
+      "name": "privileges robust origins",
+      "port": 38253,
+      "type": "readers",
+      "ip": "82.185.212.229",
+      "location": {
+        "desc": "Slovenia, Republic of",
+        "city": "Fx fits",
+        "country": "SI",
+        "coordinates": [
+          -93.4544,
+          -73.6973
+        ],
+        "continent": "Europe"
+      },
+      "hostname": "minimize.net",
+      "uid": "a01401de-c218-11ee-bd32-0242ac110005",
+      "type_id": 99,
+      "instance_uid": "a0140c42-c218-11ee-996a-0242ac110005",
+      "interface_name": "savage notify leaving",
+      "interface_uid": "a01411ec-c218-11ee-8c81-0242ac110005",
+      "svc_name": "sheet sheep churches",
+      "vpc_uid": "a014164c-c218-11ee-9a31-0242ac110005"
+    },
+    "svc_name": "prohibited impaired spiritual"
+  },
+  "status_id": 99
+}

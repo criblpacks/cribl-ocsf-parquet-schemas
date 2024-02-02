@@ -1,0 +1,200 @@
+{
+  "message": "essays total computer",
+  "status": "Unknown",
+  "time": 1706912126071532,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "arizona anymore pure",
+      "version": "1.1.0",
+      "uid": "90e0aa3c-c218-11ee-83c5-0242ac110005",
+      "cpe_name": "earn disclosure euro",
+      "vendor_name": "bat maps journals"
+    },
+    "uid": "90e0aeb0-c218-11ee-b906-0242ac110005",
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "90e0b220-c218-11ee-9a7c-0242ac110005",
+    "log_name": "sas representation words",
+    "log_provider": "blink bid pins",
+    "logged_time": 1706912126071265,
+    "original_time": "decorative entity gzip",
+    "tenant_uid": "90e0ba5e-c218-11ee-9d5d-0242ac110005"
+  },
+  "connection_info": {
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 67
+  },
+  "severity": "apollo",
+  "type_name": "SSH Activity: Traffic",
+  "category_name": "Network Activity",
+  "activity_id": 6,
+  "type_uid": 400706,
+  "class_uid": 4007,
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "timezone_offset": 30,
+  "activity_name": "Traffic",
+  "auth_type": "GSSAPI",
+  "auth_type_id": 2,
+  "client_hassh": {
+    "algorithm": "male maritime status",
+    "fingerprint": {
+      "value": "A9FFF9D5840A3E08AB03D3EBEF047C90BB071CC0E37BA291B1CE76E4B15E7AC72653B31126B18BCA9458DBA8B1561F65C81719D2390BFBAD7B6A02FA019907DA",
+      "algorithm": "TLSH",
+      "algorithm_id": 6
+    }
+  },
+  "dst_endpoint": {
+    "name": "clearance relocation joel",
+    "port": 49929,
+    "type": "Mobile",
+    "domain": "advantage hung white",
+    "ip": "87.156.128.25",
+    "hostname": "humanity.aero",
+    "uid": "90e062ac-c218-11ee-b8eb-0242ac110005",
+    "mac": "57:E5:99:30:71:B5:27:14",
+    "type_id": 5,
+    "instance_uid": "90e06766-c218-11ee-8ef5-0242ac110005",
+    "interface_name": "distinct billion detail",
+    "interface_uid": "90e06e32-c218-11ee-a20f-0242ac110005",
+    "intermediate_ips": [
+      "131.244.4.211"
+    ],
+    "proxy_endpoint": {
+      "name": "loan widescreen gonna",
+      "port": 44138,
+      "type": "dem",
+      "os": {
+        "name": "luke ti signs",
+        "type": "HP-UX",
+        "country": "Botswana, Republic of",
+        "type_id": 402
+      },
+      "domain": "wireless fri cocktail",
+      "ip": "205.161.175.94",
+      "uid": "90e08462-c218-11ee-a720-0242ac110005",
+      "type_id": 99,
+      "instance_uid": "90e0889a-c218-11ee-b67e-0242ac110005",
+      "interface_name": "locate prepaid hotels",
+      "interface_uid": "90e08e4e-c218-11ee-9a38-0242ac110005",
+      "subnet_uid": "90e09218-c218-11ee-9cd4-0242ac110005",
+      "svc_name": "detail una intent"
+    },
+    "svc_name": "whole threats likely",
+    "zone": "belkin ethics volvo"
+  },
+  "enrichments": [
+    {
+      "data": "bool",
+      "name": "destroy bless notified",
+      "type": "homepage ide burden",
+      "value": "involve retention conversion",
+      "provider": "lcd connector vbulletin"
+    },
+    {
+      "data": "architectural",
+      "name": "rise giant supplies",
+      "type": "shelter existence responsible",
+      "value": "sold reactions habitat",
+      "provider": "iii persian xanax"
+    }
+  ],
+  "protocol_ver": "3.0.3",
+  "server_hassh": {
+    "algorithm": "ranks genius laser",
+    "fingerprint": {
+      "value": "1009C22DE15171BB04E65C91D4640CF79AB8EC6EA1DF3CF02E21BFD021CA24A4",
+      "algorithm": "SHA-256",
+      "algorithm_id": 3
+    }
+  },
+  "severity_id": 99,
+  "src_endpoint": {
+    "port": 52936,
+    "type": "Firewall",
+    "ip": "162.114.118.209",
+    "location": {
+      "desc": "Uruguay, Eastern Republic of",
+      "city": "Checks poem",
+      "country": "UY",
+      "coordinates": [
+        43.8704,
+        25.379
+      ],
+      "continent": "South America"
+    },
+    "uid": "90dfaa10-c218-11ee-b425-0242ac110005",
+    "mac": "59:38:42:B:79:34:93:C9",
+    "type_id": 9,
+    "instance_uid": "90dfea66-c218-11ee-9018-0242ac110005",
+    "interface_name": "cave farm yen",
+    "interface_uid": "90dff2d6-c218-11ee-990a-0242ac110005",
+    "intermediate_ips": [
+      "29.233.5.186"
+    ],
+    "proxy_endpoint": {
+      "name": "inns awareness reduces",
+      "port": 34184,
+      "type": "Firewall",
+      "domain": "charts buck piano",
+      "ip": "156.100.178.145",
+      "hostname": "duties.info",
+      "uid": "90e00302-c218-11ee-ac0b-0242ac110005",
+      "mac": "BA:52:D9:C9:56:4F:2E:37",
+      "type_id": 9,
+      "instance_uid": "90e00c6c-c218-11ee-9cd1-0242ac110005",
+      "interface_name": "thick tried space",
+      "interface_uid": "90e012f2-c218-11ee-b16c-0242ac110005",
+      "intermediate_ips": [
+        "108.85.60.160",
+        "9.180.11.115"
+      ],
+      "proxy_endpoint": {
+        "name": "laptop consideration liquid",
+        "type": "Virtual",
+        "ip": "138.214.164.195",
+        "location": {
+          "desc": "Latvia, Republic of",
+          "city": "Riding prior",
+          "country": "LV",
+          "coordinates": [
+            -158.2354,
+            46.707
+          ],
+          "continent": "Europe"
+        },
+        "hostname": "calendar.arpa",
+        "uid": "90e01e5a-c218-11ee-96ab-0242ac110005",
+        "type_id": 6,
+        "instance_uid": "90e02648-c218-11ee-bf7d-0242ac110005",
+        "interface_name": "mistakes frozen anti",
+        "interface_uid": "90e02abc-c218-11ee-a4f8-0242ac110005",
+        "proxy_endpoint": {
+          "name": "skin chairs beliefs",
+          "port": 52179,
+          "type": "Virtual",
+          "hostname": "feat.nato",
+          "type_id": 6,
+          "instance_uid": "90e0355c-c218-11ee-a50b-0242ac110005",
+          "interface_name": "eds legislature hr",
+          "interface_uid": "90e03a3e-c218-11ee-92fa-0242ac110005",
+          "subnet_uid": "90e03dae-c218-11ee-8931-0242ac110005",
+          "svc_name": "particularly transexual fp"
+        },
+        "svc_name": "jury walk obvious"
+      },
+      "svc_name": "class routing di",
+      "vpc_uid": "90e042ae-c218-11ee-a3e8-0242ac110005"
+    },
+    "subnet_uid": "90e045f6-c218-11ee-8ae0-0242ac110005",
+    "svc_name": "wave directed elite"
+  },
+  "status_id": 0,
+  "traffic": {
+    "bytes": 1806033896,
+    "packets": 1301707905
+  }
+}

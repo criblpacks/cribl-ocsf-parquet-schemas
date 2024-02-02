@@ -1,0 +1,126 @@
+{
+  "count": 95,
+  "message": "oct scuba refers",
+  "status": "Unknown",
+  "time": 1706912123787588,
+  "file": {
+    "name": "security.xlr",
+    "owner": {
+      "name": "Shopping",
+      "type": "Admin",
+      "uid": "8f8450b2-c218-11ee-b7d9-0242ac110005",
+      "groups": [
+        {
+          "name": "der admit inquire"
+        },
+        {
+          "name": "austria template lexmark"
+        }
+      ],
+      "type_id": 2,
+      "email_addr": "Temple@emacs.gov"
+    },
+    "size": 1222669300,
+    "type": "Folder",
+    "version": "1.1.0",
+    "path": "owen prostores downloadable/laughing.deb/security.xlr",
+    "type_id": 2,
+    "parent_folder": "owen prostores downloadable/laughing.deb",
+    "hashes": [
+      {
+        "value": "8846A56E4A2B58F157FFDA49D960367725A72740",
+        "algorithm": "SHA-1",
+        "algorithm_id": 2
+      }
+    ],
+    "modified_time": 1706912123788216
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "citation inexpensive participants",
+      "version": "1.1.0",
+      "uid": "8f842d1c-c218-11ee-a802-0242ac110005",
+      "cpe_name": "epa advance gr",
+      "vendor_name": "omega promoted blast"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "interactive ye peace",
+    "log_provider": "included edinburgh metabolism",
+    "tenant_uid": "8f843c62-c218-11ee-a01c-0242ac110005"
+  },
+  "severity": "Critical",
+  "tls": {
+    "version": "1.1.0",
+    "alert": 33,
+    "key_length": 20,
+    "cipher": "yamaha were certain",
+    "client_ciphers": [
+      "threat machine province",
+      "pe detect en"
+    ],
+    "ja3_hash": {
+      "value": "6877CBBD9A178B68EDEB40F13FA0CB6D00D6E922A12F6DA5831F0E2BBE00045C0296A89DDDE0D1794481344E21570D9CB86BD64DB920635BC880A0CECB7C6B9F",
+      "algorithm": "TLSH",
+      "algorithm_id": 6
+    },
+    "ja3s_hash": {
+      "value": "AE5F2B7A195AD3B28CDDA31F85830D8A4CC24401CBDED216081A0E85B1A9782C",
+      "algorithm": "magic",
+      "algorithm_id": 99
+    },
+    "server_ciphers": [
+      "annex wallpaper inquiry",
+      "sharing craft aquarium"
+    ]
+  },
+  "type_name": "Network File Activity: Unlock",
+  "category_name": "Network Activity",
+  "activity_id": 11,
+  "type_uid": 401011,
+  "class_uid": 4010,
+  "category_uid": 4,
+  "class_name": "Network File Activity",
+  "timezone_offset": 80,
+  "activity_name": "Unlock",
+  "dst_endpoint": {
+    "name": "strategy seats swiss",
+    "port": 63590,
+    "type": "Switch",
+    "ip": "185.227.42.198",
+    "location": {
+      "desc": "Cape Verde, Republic of",
+      "city": "Er options",
+      "country": "CV",
+      "coordinates": [
+        -77.3641,
+        -75.7501
+      ],
+      "continent": "Africa"
+    },
+    "hostname": "adapted.int",
+    "uid": "8f83f68a-c218-11ee-9330-0242ac110005",
+    "type_id": 10,
+    "instance_uid": "8f841430-c218-11ee-b37c-0242ac110005",
+    "interface_name": "far generation health",
+    "interface_uid": "8f841e26-c218-11ee-b646-0242ac110005",
+    "svc_name": "belarus charitable factors"
+  },
+  "severity_id": 5,
+  "src_endpoint": {
+    "name": "chevy windows taking",
+    "port": 19231,
+    "type": "Browser",
+    "ip": "144.15.242.29",
+    "uid": "8f837d36-c218-11ee-bbf1-0242ac110005",
+    "type_id": 8,
+    "instance_uid": "8f8382a4-c218-11ee-851d-0242ac110005",
+    "interface_name": "partial shopper environments",
+    "interface_uid": "8f8388c6-c218-11ee-abd4-0242ac110005",
+    "svc_name": "cheers parameters tap",
+    "vlan_uid": "8f8399ce-c218-11ee-9e4f-0242ac110005"
+  },
+  "status_id": 0
+}

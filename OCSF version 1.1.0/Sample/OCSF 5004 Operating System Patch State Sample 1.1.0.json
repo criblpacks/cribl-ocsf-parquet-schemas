@@ -1,0 +1,116 @@
+{
+  "message": "medicaid centers employer",
+  "time": 1706912128212360,
+  "device": {
+    "name": "easily hong concluded",
+    "type": "Switch",
+    "ip": "143.249.179.118",
+    "location": {
+      "desc": "Saint Lucia",
+      "city": "Recover barrier",
+      "country": "LC",
+      "coordinates": [
+        32.2576,
+        66.6665
+      ],
+      "continent": "North America"
+    },
+    "hostname": "orbit.firm",
+    "uid": "92276700-c218-11ee-9d8c-0242ac110005",
+    "mac": "F8:2C:46:47:B4:B0:12:8D",
+    "type_id": 10,
+    "interface_name": "boring jessica gs",
+    "interface_uid": "922705e4-c218-11ee-bb74-0242ac110005",
+    "is_trusted": true,
+    "last_seen_time": 1706912128209685,
+    "region": "familiar io transmit"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "johnson respondents else",
+      "version": "1.1.0",
+      "uid": "9226ebb8-c218-11ee-b346-0242ac110005",
+      "lang": "en",
+      "url_string": "devil",
+      "vendor_name": "keywords navy mega"
+    },
+    "log_level": "unsigned welcome periodically",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "wanna processor committee",
+    "log_provider": "regulated coin helen",
+    "log_version": "plastics me forums",
+    "logged_time": 1706912128209243,
+    "original_time": "signed bookings endangered",
+    "processed_time": 1706912128209258,
+    "tenant_uid": "9226f23e-c218-11ee-b565-0242ac110005"
+  },
+  "severity": "Unknown",
+  "type_name": "Operating System Patch State: Other",
+  "category_name": "Discovery",
+  "activity_id": 99,
+  "type_uid": 500499,
+  "observables": [
+    {
+      "name": "cameron builds advanced",
+      "type": "User Name",
+      "type_id": 4,
+      "reputation": {
+        "base_score": 41.4161,
+        "provider": "decorating convention circumstances",
+        "score": "Possibly Malicious",
+        "score_id": 8
+      }
+    },
+    {
+      "name": "warriors tribune booking",
+      "type": "Email Address",
+      "value": "featured road yamaha",
+      "type_id": 5
+    }
+  ],
+  "class_uid": 5004,
+  "category_uid": 5,
+  "class_name": "Operating System Patch State",
+  "timezone_offset": 31,
+  "activity_name": "beach",
+  "kb_article_list": [
+    {
+      "size": 4076306371,
+      "os": {
+        "name": "modern eastern tft",
+        "type": "Android",
+        "build": "forestry creatures run",
+        "type_id": 201
+      },
+      "title": "beer participants chronicle",
+      "product": {
+        "name": "proud brunei jewel",
+        "path": "binding entirely given",
+        "uid": "9226c5ac-c218-11ee-a4b2-0242ac110005",
+        "vendor_name": "creatures seating released"
+      },
+      "uid": "9226cb9c-c218-11ee-bc4d-0242ac110005",
+      "created_time": 1706912128208379,
+      "src_url": "publisher"
+    },
+    {
+      "os": {
+        "name": "bid compile motel",
+        "type": "iPadOS",
+        "build": "affiliated submission theft",
+        "type_id": 302,
+        "lang": "en",
+        "cpu_bits": 82,
+        "sp_ver": 97
+      },
+      "title": "exhibit instead striking",
+      "uid": "9226d47a-c218-11ee-bb66-0242ac110005",
+      "severity": "happen flexible pointing",
+      "classification": "remarks auctions researcher"
+    }
+  ],
+  "severity_id": 0
+}

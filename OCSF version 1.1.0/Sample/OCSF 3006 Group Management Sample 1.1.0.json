@@ -1,0 +1,61 @@
+{
+  "message": "able tank nylon",
+  "status": "Failure",
+  "time": 1706912132633792,
+  "user": {
+    "name": "Settle",
+    "uid": "94c9dec0-c218-11ee-993e-0242ac110005",
+    "credential_uid": "94c9e3b6-c218-11ee-8060-0242ac110005",
+    "ldap_person": {
+      "manager": {
+        "name": "Entities",
+        "type": "System",
+        "uid": "94c9ecda-c218-11ee-874e-0242ac110005",
+        "type_id": 3,
+        "email_addr": "Thelma@hypothesis.int",
+        "uid_alt": "wet tracked shakira"
+      },
+      "created_time": 1706912132632940,
+      "employee_uid": "94c9f25c-c218-11ee-8d7e-0242ac110005",
+      "office_location": "decades grade log",
+      "surname": "ant facilitate pf"
+    }
+  },
+  "group": {
+    "name": "vehicle karen furniture",
+    "desc": "connector passes consulting",
+    "uid": "94ca1642-c218-11ee-adb0-0242ac110005",
+    "privileges": [
+      "ceramic marked projectors"
+    ]
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "letter sandwich christian",
+      "version": "1.1.0",
+      "path": "price writing romance",
+      "vendor_name": "lane cold diving"
+    },
+    "uid": "94ca0986-c218-11ee-9e33-0242ac110005",
+    "log_level": "missing notification man",
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "clone msg seems",
+    "original_time": "achieve elder genome",
+    "tenant_uid": "94ca0f62-c218-11ee-bc14-0242ac110005"
+  },
+  "severity": "Unknown",
+  "type_name": "Group Management: Unknown",
+  "category_name": "Identity & Access Management",
+  "activity_id": 0,
+  "type_uid": 300600,
+  "class_uid": 3006,
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "timezone_offset": 76,
+  "activity_name": "Unknown",
+  "severity_id": 0,
+  "status_id": 2
+}

@@ -1,0 +1,176 @@
+{
+  "driver": {
+    "file": {
+      "name": "soon.cgi",
+      "type": "Local Socket",
+      "path": "harmony removable align/speaks.iff/soon.cgi",
+      "desc": "channels spec scripts",
+      "type_id": 5,
+      "accessor": {
+        "name": "Bar",
+        "type": "System",
+        "domain": "antarctica pad solving",
+        "uid": "93f36b24-c218-11ee-af99-0242ac110005",
+        "type_id": 3,
+        "full_name": "Josh Delilah"
+      },
+      "creator": {
+        "name": "Functions",
+        "type": "acquisition",
+        "uid": "93f37812-c218-11ee-861c-0242ac110005",
+        "type_id": 99,
+        "full_name": "Orval Betsy"
+      },
+      "parent_folder": "harmony removable align/speaks.iff",
+      "confidentiality": "Secret",
+      "confidentiality_id": 3,
+      "hashes": [
+        {
+          "value": "6587B9EA54AA8FE3832E80618025782345F3DEF02E9EA3866E647A2DE9BD7021B9BF6AB20357736828AF5E38980094E456840901CEB00B2C12133715F7007B07",
+          "algorithm": "Unknown",
+          "algorithm_id": 0
+        },
+        {
+          "value": "4249277EB19837434D9E93CF16CCD2CBF56F55BAA09787C137EECD1D5919B5F08391841B611A76BA19A29D22795FE2CA1D313A167020781519F10E28C468B730",
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7
+        }
+      ]
+    }
+  },
+  "message": "postposted spoken relay",
+  "status": "Failure",
+  "time": 1706912131229056,
+  "device": {
+    "name": "templates marriage adequate",
+    "type": "Hub",
+    "ip": "172.37.250.194",
+    "hostname": "connector.arpa",
+    "uid": "93f3b6ce-c218-11ee-b0d5-0242ac110005",
+    "type_id": 11,
+    "first_seen_time": 1706912131228137,
+    "instance_uid": "93f397ca-c218-11ee-a0dc-0242ac110005",
+    "interface_name": "browsers shadow gmt",
+    "interface_uid": "93f3b03e-c218-11ee-aea4-0242ac110005",
+    "is_compliant": true,
+    "is_managed": true,
+    "is_personal": true,
+    "modified_time": 1706912131228260,
+    "region": "epinions translated wedding",
+    "risk_level": "Medium",
+    "risk_level_id": 2,
+    "risk_score": 97
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "backed enhancing vancouver",
+      "version": "1.1.0",
+      "uid": "93f387da-c218-11ee-85be-0242ac110005",
+      "lang": "en",
+      "vendor_name": "fuzzy flooring verse"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "tenant occasionally blink",
+    "log_provider": "nuke extremely counts",
+    "logged_time": 1706912131227882,
+    "original_time": "za accomplished x",
+    "tenant_uid": "93f38e06-c218-11ee-ae27-0242ac110005"
+  },
+  "severity": "Informational",
+  "type_name": "Kernel Extension Activity: Unload",
+  "category_name": "System Activity",
+  "activity_id": 2,
+  "type_uid": 100202,
+  "class_uid": 1002,
+  "category_uid": 1,
+  "class_name": "Kernel Extension Activity",
+  "timezone_offset": 22,
+  "activity_name": "Unload",
+  "actor": {
+    "process": {
+      "name": "Novelty",
+      "pid": 85,
+      "file": {
+        "name": "museum.cfg",
+        "type": "Block Device",
+        "path": "meyer beat screenshots/repairs.cpp/museum.cfg",
+        "product": {
+          "version": "1.1.0",
+          "uid": "93f3da6e-c218-11ee-82db-0242ac110005",
+          "vendor_name": "recent training nz"
+        },
+        "type_id": 4,
+        "mime_type": "louis/ron",
+        "parent_folder": "meyer beat screenshots/repairs.cpp",
+        "accessed_time": 1706912131230006,
+        "hashes": [
+          {
+            "value": "826B5DFB7301552B44E555677318A0CD",
+            "algorithm": "MD5",
+            "algorithm_id": 1
+          },
+          {
+            "value": "9C8E5DDD0ECECD540013F60CED61285D331662F27E5B9F7D28A233782F83737482565515FBF29FFDE5D87811617742C06DC7FBFF01B34EE8B77E1CE55DD0751D",
+            "algorithm": "Unknown",
+            "algorithm_id": 0
+          }
+        ],
+        "modified_time": 1706912131230082
+      },
+      "user": {
+        "name": "Occasionally",
+        "type": "Unknown",
+        "domain": "convicted recognition contributor",
+        "uid": "93f3e860-c218-11ee-9d7e-0242ac110005",
+        "org": {
+          "name": "refurbished rebecca javascript",
+          "uid": "93f3ee64-c218-11ee-b24b-0242ac110005"
+        },
+        "groups": [
+          {
+            "desc": "aurora faq usually",
+            "uid": "93f3f954-c218-11ee-8832-0242ac110005"
+          }
+        ],
+        "type_id": 0,
+        "account": {
+          "name": "ata sen assault",
+          "type": "tube",
+          "uid": "93f4008e-c218-11ee-9e4d-0242ac110005",
+          "type_id": 99
+        },
+        "uid_alt": "determine pocket creations"
+      },
+      "tid": 39,
+      "uid": "93f4069c-c218-11ee-a673-0242ac110005",
+      "cmd_line": "venue supporting proven",
+      "created_time": 1706912131231108
+    },
+    "user": {
+      "name": "New",
+      "uid": "93f40dc2-c218-11ee-8f8b-0242ac110005",
+      "credential_uid": "93f41646-c218-11ee-a504-0242ac110005"
+    }
+  },
+  "enrichments": [
+    {
+      "data": "radio",
+      "name": "budapest classes functionality",
+      "type": "comprehensive albania guess",
+      "value": "thousands ultra str",
+      "provider": "commented liable consideration"
+    },
+    {
+      "data": "breed",
+      "name": "bmw requested eva",
+      "type": "present isa bank",
+      "value": "ev skype choice",
+      "provider": "recognized displaying weed"
+    }
+  ],
+  "severity_id": 1,
+  "status_id": 2
+}

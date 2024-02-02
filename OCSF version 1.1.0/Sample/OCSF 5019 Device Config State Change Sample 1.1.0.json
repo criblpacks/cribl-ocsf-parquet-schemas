@@ -1,0 +1,77 @@
+{
+  "message": "asthma alarm livecam",
+  "status": "nonprofit",
+  "time": 1706912142333283,
+  "device": {
+    "name": "hunting rhythm cd",
+    "type": "Hub",
+    "ip": "81.65.20.117",
+    "hostname": "maiden.int",
+    "uid": "9a9215c0-c218-11ee-8133-0242ac110005",
+    "type_id": 11,
+    "autoscale_uid": "9a9208e6-c218-11ee-babe-0242ac110005",
+    "instance_uid": "9a9204a4-c218-11ee-be6e-0242ac110005",
+    "interface_name": "nigeria valid beneficial",
+    "interface_uid": "9a920da0-c218-11ee-bfda-0242ac110005",
+    "is_managed": true,
+    "last_seen_time": 1706912142332853,
+    "modified_time": 1706912142332846,
+    "region": "mm induced solution",
+    "risk_level": "Low",
+    "risk_level_id": 1,
+    "subnet_uid": "9a92114c-c218-11ee-8311-0242ac110005",
+    "zone": "midlands video moves"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "version": "1.1.0",
+      "path": "radios simply order",
+      "uid": "9a91e9ce-c218-11ee-916c-0242ac110005",
+      "url_string": "uploaded",
+      "vendor_name": "circulation congress playlist"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "9a91eec4-c218-11ee-b558-0242ac110005",
+    "log_provider": "moderate powerful credits",
+    "original_time": "katie custom probably",
+    "processed_time": 1706912142332317,
+    "tenant_uid": "9a91f478-c218-11ee-a5e8-0242ac110005"
+  },
+  "severity": "High",
+  "type_name": "Device Config State Change: Unknown",
+  "category_name": "Discovery",
+  "activity_id": 0,
+  "type_uid": 501900,
+  "class_uid": 5019,
+  "category_uid": 5,
+  "class_name": "Device Config State Change",
+  "timezone_offset": 49,
+  "activity_name": "Unknown",
+  "security_states": [
+    {
+      "state": "grass modem belongs"
+    }
+  ],
+  "enrichments": [
+    {
+      "data": "continues",
+      "name": "native cents dare",
+      "type": "sells located monday",
+      "value": "michigan migration scores",
+      "provider": "functionality explain links"
+    }
+  ],
+  "prev_security_level": "realtors wholesale namespace",
+  "prev_security_states": [
+    {
+      "state": "iOS file system altered",
+      "state_id": 18
+    },
+    {}
+  ],
+  "severity_id": 4,
+  "status_id": 99
+}

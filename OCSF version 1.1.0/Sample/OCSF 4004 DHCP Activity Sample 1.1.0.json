@@ -1,0 +1,101 @@
+{
+  "message": "executives secretariat harry",
+  "status": "Unknown",
+  "time": 1706912149390931,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "centers indians put",
+      "version": "1.1.0",
+      "uid": "9ec6f4f8-c218-11ee-a947-0242ac110005",
+      "feature": {
+        "name": "frederick office sheer",
+        "version": "1.1.0",
+        "uid": "9ec6f9f8-c218-11ee-a071-0242ac110005"
+      },
+      "vendor_name": "correct fighter strictly"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "stewart carlo browser",
+    "log_provider": "studying clubs job",
+    "log_version": "rentals gary favor",
+    "original_time": "generate influences stewart",
+    "tenant_uid": "9ec6ff20-c218-11ee-8fa4-0242ac110005"
+  },
+  "connection_info": {
+    "protocol_name": "medieval emotional ent",
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 86,
+    "protocol_ver": "Internet Protocol version 6 (IPv6)",
+    "protocol_ver_id": 6
+  },
+  "severity": "High",
+  "type_name": "DHCP Activity: Inform",
+  "category_name": "Network Activity",
+  "activity_id": 8,
+  "type_uid": 400408,
+  "class_uid": 4004,
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "activity_name": "Inform",
+  "dst_endpoint": {
+    "name": "cattle predicted nintendo",
+    "port": 8109,
+    "ip": "254.63.83.227",
+    "hostname": "absolute.jobs",
+    "uid": "9ec6c2bc-c218-11ee-95ec-0242ac110005",
+    "hw_info": {
+      "bios_manufacturer": "economics mutual starts",
+      "cpu_bits": 84,
+      "keyboard_info": {
+        "keyboard_layout": "victim epson demand"
+      }
+    },
+    "instance_uid": "9ec6ce4c-c218-11ee-a82b-0242ac110005",
+    "interface_name": "begun indonesia optimization",
+    "interface_uid": "9ec6d3c4-c218-11ee-9937-0242ac110005",
+    "proxy_endpoint": {
+      "port": 59892,
+      "type": "Firewall",
+      "os": {
+        "name": "dev financial instructions",
+        "type": "AIX",
+        "type_id": 401,
+        "lang": "en"
+      },
+      "domain": "regulated reserved canadian",
+      "ip": "150.176.185.247",
+      "hostname": "initially.mil",
+      "uid": "9ec6ddce-c218-11ee-a4a0-0242ac110005",
+      "type_id": 9,
+      "instance_uid": "9ec6e198-c218-11ee-8d75-0242ac110005",
+      "interface_name": "communications nerve soul",
+      "interface_uid": "9ec6e850-c218-11ee-96d4-0242ac110005",
+      "subnet_uid": "9ec6ebc0-c218-11ee-a08f-0242ac110005",
+      "zone": "rock gg suspected"
+    }
+  },
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "tom recognized dialogue",
+    "port": 37749,
+    "type": "Browser",
+    "os": {
+      "name": "eleven investigations observed",
+      "type": "iPadOS",
+      "type_id": 302
+    },
+    "ip": "246.0.168.203",
+    "hostname": "runner.org",
+    "uid": "9ec6a890-c218-11ee-a366-0242ac110005",
+    "type_id": 8,
+    "instance_uid": "9ec6af16-c218-11ee-9c1e-0242ac110005",
+    "interface_name": "contracts consistent sound",
+    "subnet_uid": "9ec6b4c0-c218-11ee-a8e3-0242ac110005",
+    "svc_name": "sunshine backup lot"
+  },
+  "status_id": 0
+}

@@ -1,0 +1,152 @@
+{
+  "count": 76,
+  "message": "tissue she sparc",
+  "status": "wal",
+  "time": 1706912127559634,
+  "metadata": {
+    "version": "1.1.0",
+    "extension": {
+      "name": "shower broadcast contractors",
+      "version": "1.1.0",
+      "uid": "91c3bdf4-c218-11ee-bb3d-0242ac110005"
+    },
+    "product": {
+      "name": "instruments broke jewish",
+      "version": "1.1.0",
+      "uid": "91c3c466-c218-11ee-97a1-0242ac110005",
+      "url_string": "quote",
+      "vendor_name": "reviewing antivirus mu"
+    },
+    "labels": [
+      "opposite",
+      "cafe"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "91c3c9c0-c218-11ee-8a61-0242ac110005",
+    "log_name": "marvel chelsea hood",
+    "log_provider": "dale wales progress",
+    "tenant_uid": "91c3ce0c-c218-11ee-882f-0242ac110005"
+  },
+  "rcode": "ServError",
+  "query": {
+    "type": "informal sale sculpture",
+    "hostname": "solved.info",
+    "class": "seriously stuffed el",
+    "opcode_id": 5,
+    "packet_uid": 40
+  },
+  "connection_info": {
+    "direction": "Inbound",
+    "direction_id": 1,
+    "protocol_num": 2
+  },
+  "severity": "High",
+  "type_name": "DNS Activity: Response",
+  "category_name": "Network Activity",
+  "activity_id": 2,
+  "type_uid": 400302,
+  "class_uid": 4003,
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "timezone_offset": 55,
+  "activity_name": "Response",
+  "answers": [
+    {
+      "type": "hardly start bedding",
+      "ttl": 39,
+      "class": "responsibility governments designation",
+      "flag_ids": [
+        6,
+        0
+      ],
+      "packet_uid": 3,
+      "rdata": "painted reno ron"
+    },
+    {
+      "type": "show expired ireland",
+      "ttl": 19,
+      "packet_uid": 60,
+      "rdata": "timer burner gene"
+    }
+  ],
+  "dst_endpoint": {
+    "name": "efficiently cleared sacred",
+    "port": 62485,
+    "type": "hacker",
+    "ip": "241.71.62.179",
+    "hostname": "watershed.travel",
+    "uid": "91c34496-c218-11ee-a04b-0242ac110005",
+    "mac": "EF:F1:D2:1A:61:61:8:5A",
+    "type_id": 99,
+    "instance_uid": "91c348e2-c218-11ee-82f6-0242ac110005",
+    "interface_name": "churches router gregory",
+    "interface_uid": "91c3a5a8-c218-11ee-8551-0242ac110005",
+    "svc_name": "reverse zero relative"
+  },
+  "query_time": 1706912127555837,
+  "rcode_id": 2,
+  "response_time": 1706912127552608,
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "expansion actress apollo",
+    "port": 54687,
+    "type": "Browser",
+    "ip": "19.91.94.143",
+    "uid": "91c2d39e-c218-11ee-b937-0242ac110005",
+    "type_id": 8,
+    "hw_info": {
+      "bios_date": "del follow croatia",
+      "bios_manufacturer": "commonly proteins write",
+      "desktop_display": {},
+      "keyboard_info": {
+        "ime": "temporarily shelf journalism"
+      }
+    },
+    "instance_uid": "91c2edf2-c218-11ee-a927-0242ac110005",
+    "interface_name": "repair thriller breath",
+    "interface_uid": "91c30922-c218-11ee-89df-0242ac110005",
+    "proxy_endpoint": {
+      "name": "accessibility leaves processes",
+      "type": "IOT",
+      "os": {
+        "name": "cache fellow heads",
+        "type": "HP-UX",
+        "type_id": 402,
+        "cpe_name": "essays g paying",
+        "edition": "local holiday librarian"
+      },
+      "domain": "escape phrase ccd",
+      "ip": "87.121.13.153",
+      "hostname": "system.travel",
+      "uid": "91c31692-c218-11ee-9233-0242ac110005",
+      "type_id": 7,
+      "instance_uid": "91c31aac-c218-11ee-baf7-0242ac110005",
+      "interface_name": "vanilla mechanisms corporation",
+      "interface_uid": "91c31e9e-c218-11ee-b2f8-0242ac110005",
+      "intermediate_ips": [
+        "0.67.210.77"
+      ],
+      "proxy_endpoint": {
+        "name": "una emacs volt",
+        "port": 41070,
+        "type": "Virtual",
+        "ip": "189.15.160.28",
+        "hostname": "oregon.store",
+        "uid": "91c326b4-c218-11ee-8129-0242ac110005",
+        "type_id": 6,
+        "instance_uid": "91c32a74-c218-11ee-91ae-0242ac110005",
+        "interface_name": "arbitrary adjustments dice",
+        "interface_uid": "91c32e48-c218-11ee-b383-0242ac110005",
+        "subnet_uid": "91c3319a-c218-11ee-8f86-0242ac110005",
+        "svc_name": "ph tech puts"
+      },
+      "svc_name": "key safely hollywood",
+      "zone": "legislature gage curve"
+    },
+    "subnet_uid": "91c335f0-c218-11ee-8b81-0242ac110005",
+    "svc_name": "roger cargo hopes"
+  },
+  "status_id": 99
+}

@@ -1,0 +1,79 @@
+{
+  "message": "itself mastercard motherboard",
+  "status": "Success",
+  "time": 1706912133983627,
+  "device": {
+    "name": "preliminary chambers na",
+    "type": "Firewall",
+    "os": {
+      "name": "js thomas endangered",
+      "type": "Android",
+      "country": "Macedonia, The Former Yugoslav Republic of",
+      "type_id": 201,
+      "lang": "en",
+      "cpu_bits": 2,
+      "sp_name": "usual prompt bookstore",
+      "sp_ver": 6
+    },
+    "ip": "40.175.26.100",
+    "hostname": "eliminate.mil",
+    "uid": "95980746-c218-11ee-894e-0242ac110005",
+    "type_id": 9,
+    "hw_info": {
+      "chassis": "gary districts massive",
+      "cpu_bits": 43,
+      "cpu_type": "frequent seasons religions"
+    },
+    "instance_uid": "9597f3fa-c218-11ee-a800-0242ac110005",
+    "interface_name": "hk greatly r",
+    "interface_uid": "9597f90e-c218-11ee-b0f7-0242ac110005",
+    "region": "precious voltage explained",
+    "risk_level": "Low",
+    "risk_level_id": 1,
+    "subnet_uid": "95980098-c218-11ee-bb2f-0242ac110005",
+    "zone": "switches colonial courts"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "lab charles brunswick",
+      "version": "1.1.0",
+      "uid": "9597db90-c218-11ee-bc3f-0242ac110005",
+      "vendor_name": "executives cordless pope"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_version": "some refugees cheque",
+    "original_time": "pads bears withdrawal",
+    "tenant_uid": "9597e176-c218-11ee-8b76-0242ac110005"
+  },
+  "severity": "Low",
+  "type_name": "Device Config State: Log",
+  "category_name": "Discovery",
+  "activity_id": 1,
+  "type_uid": 500201,
+  "observables": [
+    {
+      "name": "predicted sa stage",
+      "type": "Fingerprint",
+      "type_id": 30,
+      "reputation": {
+        "base_score": 28.8607,
+        "provider": "prediction ef boating",
+        "score": "Leans Safe",
+        "score_id": 4
+      }
+    }
+  ],
+  "class_uid": 5002,
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "timezone_offset": 4,
+  "activity_name": "Log",
+  "cis_benchmark_result": {
+    "name": "qty folk suite"
+  },
+  "severity_id": 2,
+  "status_id": 1
+}

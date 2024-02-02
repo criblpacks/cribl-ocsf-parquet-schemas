@@ -1,0 +1,106 @@
+{
+  "command": "canada inputs baking",
+  "message": "bridges enters appointed",
+  "status": "moves",
+  "time": 1706912143036555,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "over increased page",
+      "version": "1.1.0",
+      "uid": "9afd5baa-c218-11ee-9337-0242ac110005",
+      "cpe_name": "space colored woods",
+      "vendor_name": "county animals medication"
+    },
+    "uid": "9afd6032-c218-11ee-a1e9-0242ac110005",
+    "sequence": 87,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "tapes backed connected",
+    "log_provider": "itunes purse tx",
+    "original_time": "buzz offerings river",
+    "tenant_uid": "9afd6488-c218-11ee-9dea-0242ac110005"
+  },
+  "proxy": {
+    "name": "mime america mandate",
+    "port": 52903,
+    "type": "Hub",
+    "ip": "114.75.9.166",
+    "hostname": "bag.firm",
+    "uid": "9afcae80-c218-11ee-8d5b-0242ac110005",
+    "type_id": 11,
+    "instance_uid": "9afcb22c-c218-11ee-8f32-0242ac110005",
+    "interface_name": "quiz directories you",
+    "interface_uid": "9afcb5d8-c218-11ee-b04a-0242ac110005",
+    "svc_name": "roads your establishing"
+  },
+  "response": {
+    "code": 54,
+    "error_message": "openings shepherd governing"
+  },
+  "connection_info": {
+    "protocol_name": "shannon poor pet",
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 75,
+    "tcp_flags": 2
+  },
+  "severity": "Unknown",
+  "duration": 12,
+  "type_name": "SMB Activity: File Overwrite",
+  "category_name": "Network Activity",
+  "activity_id": 5,
+  "type_uid": 400605,
+  "observables": [
+    {
+      "name": "patricia hour genes",
+      "type": "Process Name",
+      "type_id": 9
+    }
+  ],
+  "class_uid": 4006,
+  "category_uid": 4,
+  "class_name": "SMB Activity",
+  "timezone_offset": 82,
+  "activity_name": "File Overwrite",
+  "client_dialects": [
+    "pacific obtained controversial",
+    "alaska war baltimore"
+  ],
+  "dialect": "fitted grip warnings",
+  "dst_endpoint": {
+    "name": "paragraph memory violations",
+    "port": 41559,
+    "ip": "185.95.84.126",
+    "hostname": "tracker.biz",
+    "mac": "F8:8F:4:47:7E:5E:FF:7F",
+    "instance_uid": "9afd4048-c218-11ee-bb88-0242ac110005",
+    "interface_name": "allocated blues response",
+    "interface_uid": "9afd458e-c218-11ee-9334-0242ac110005",
+    "subnet_uid": "9afd491c-c218-11ee-abb6-0242ac110005",
+    "svc_name": "end plane incident",
+    "vpc_uid": "9afd4cf0-c218-11ee-ab60-0242ac110005",
+    "zone": "transcription councils granted"
+  },
+  "open_type": "cheaper total sustainable",
+  "severity_id": 0,
+  "share_type": "Unknown",
+  "share_type_id": 0,
+  "src_endpoint": {
+    "name": "lamp adventure bytes",
+    "port": 53676,
+    "type": "Laptop",
+    "ip": "123.28.158.177",
+    "hostname": "academy.gov",
+    "uid": "9afc994a-c218-11ee-9138-0242ac110005",
+    "mac": "F:5F:F2:DD:8A:CB:C8:CD",
+    "type_id": 3,
+    "instance_uid": "9afca160-c218-11ee-b778-0242ac110005",
+    "interface_name": "excluding slovenia supplies",
+    "interface_uid": "9afca61a-c218-11ee-b5d5-0242ac110005",
+    "svc_name": "brochure carolina faster"
+  },
+  "status_id": 99,
+  "tree_uid": "9afc85ae-c218-11ee-abff-0242ac110005"
+}

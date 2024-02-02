@@ -1,0 +1,75 @@
+{
+  "message": "appeal forever practitioner",
+  "status": "Failure",
+  "time": 1706912129118278,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "pet waste could",
+      "version": "1.1.0",
+      "uid": "92b18fc0-c218-11ee-aba5-0242ac110005",
+      "lang": "en",
+      "cpe_name": "tips fork pierce",
+      "vendor_name": "cornell conclusions prerequisite"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "decades parks folk",
+    "log_provider": "users matching varying",
+    "modified_time": 1706912129117904,
+    "original_time": "bed is friendship",
+    "tenant_uid": "92b1a276-c218-11ee-82d5-0242ac110005"
+  },
+  "proxy": {
+    "name": "quarterly passing bubble",
+    "ip": "101.131.87.20",
+    "uid": "92b133c2-c218-11ee-afd3-0242ac110005",
+    "mac": "DA:42:A6:F2:72:73:15:DC",
+    "instance_uid": "92b13912-c218-11ee-a247-0242ac110005",
+    "interface_uid": "92b14b14-c218-11ee-ab46-0242ac110005",
+    "svc_name": "consequence sunset colon"
+  },
+  "connection_info": {
+    "boundary": "Inter-region VPC",
+    "direction": "Lateral",
+    "boundary_id": 8,
+    "direction_id": 3,
+    "protocol_num": 42
+  },
+  "severity": "High",
+  "type_name": "Network Activity: Close",
+  "category_name": "Network Activity",
+  "activity_id": 2,
+  "type_uid": 400102,
+  "class_uid": 4001,
+  "category_uid": 4,
+  "class_name": "Network Activity",
+  "timezone_offset": 80,
+  "activity_name": "Close",
+  "dst_endpoint": {
+    "name": "spears army participated",
+    "port": 7311,
+    "type": "Unknown",
+    "ip": "201.5.96.254",
+    "hostname": "perhaps.pro",
+    "uid": "92b15e9c-c218-11ee-93e1-0242ac110005",
+    "type_id": 0,
+    "instance_uid": "92b16d9c-c218-11ee-b22c-0242ac110005",
+    "interface_name": "in highly merit",
+    "interface_uid": "92b177f6-c218-11ee-92ae-0242ac110005",
+    "svc_name": "belief brad beijing"
+  },
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "despite pink urw",
+    "port": 46807,
+    "ip": "236.249.43.168",
+    "hostname": "williams.edu",
+    "interface_name": "sun passive page",
+    "interface_uid": "92b0d90e-c218-11ee-bc08-0242ac110005",
+    "svc_name": "portable sociology hiring"
+  },
+  "status_code": "gibraltar",
+  "status_id": 2
+}

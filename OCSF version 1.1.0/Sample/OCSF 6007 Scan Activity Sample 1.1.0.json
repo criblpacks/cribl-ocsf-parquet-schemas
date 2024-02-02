@@ -1,0 +1,79 @@
+{
+  "num_network_items": 15,
+  "class_name": "Scan Activity",
+  "category_name": "Application Activity",
+  "severity_id": 6,
+  "total": 26,
+  "class_uid": 6007,
+  "num_detections": 67,
+  "scan": {
+    "name": "upload highlighted array",
+    "type": "Quarantined Items",
+    "uid": "98ca214c-c218-11ee-8ed2-0242ac110005",
+    "type_id": 4
+  },
+  "time": 1706912139344740,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "shoes partners weights",
+      "path": "xi returns sys",
+      "uid": "98ca0b62-c218-11ee-a344-0242ac110005",
+      "url_string": "blue",
+      "vendor_name": "visibility anchor plaza"
+    },
+    "sequence": 81,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "respiratory deutsch prayers",
+    "log_provider": "confused ep titanium",
+    "logged_time": 1706912139344618,
+    "original_time": "drink ft farms",
+    "tenant_uid": "98ca11ca-c218-11ee-861c-0242ac110005"
+  },
+  "type_name": "Scan Activity: Resumed",
+  "severity": "Fatal",
+  "type_uid": 600708,
+  "schedule_uid": "98c9f8a2-c218-11ee-b3a0-0242ac110005",
+  "policy": {
+    "name": "joyce patricia district",
+    "version": "1.1.0",
+    "group": {
+      "name": "peninsula proxy grams",
+      "uid": "98c9ea92-c218-11ee-971a-0242ac110005"
+    },
+    "uid": "98c9eee8-c218-11ee-b1ec-0242ac110005"
+  },
+  "num_processes": 72,
+  "num_registry_items": 68,
+  "duration": 86,
+  "activity_id": 8,
+  "num_resolutions": 49,
+  "start_time": 1706912139343471,
+  "status_id": 0,
+  "num_folders": 62,
+  "activity_name": "Resumed",
+  "status": "Unknown",
+  "status_detail": "indicators note personnel",
+  "command_uid": "98c9df70-c218-11ee-8f9b-0242ac110005",
+  "num_skipped_items": 95,
+  "observables": [
+    {
+      "name": "sucking gb checking",
+      "type": "Email",
+      "value": "woman xerox characterized",
+      "type_id": 22
+    },
+    {
+      "name": "tune developer hawk",
+      "type": "Container",
+      "type_id": 27
+    }
+  ],
+  "end_time": 1706912139343135,
+  "num_files": 24,
+  "category_uid": 6,
+  "num_trusted_items": 13,
+  "timezone_offset": 17
+}

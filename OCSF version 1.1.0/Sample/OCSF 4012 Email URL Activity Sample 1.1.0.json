@@ -1,0 +1,50 @@
+{
+  "message": "admitted negative anybody",
+  "status": "Failure",
+  "time": 1706912135602439,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "path": "till david inflation",
+      "uid": "968eea2a-c218-11ee-aff5-0242ac110005",
+      "feature": {
+        "name": "tokyo brake sodium",
+        "version": "1.1.0",
+        "uid": "968ef0b0-c218-11ee-9f4b-0242ac110005"
+      },
+      "vendor_name": "tackle wired scientist"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "968efe02-c218-11ee-b6e5-0242ac110005",
+    "log_name": "bob snow locking",
+    "log_provider": "spotlight shopzilla fate",
+    "original_time": "moreover yrs encouraging",
+    "tenant_uid": "968f035c-c218-11ee-9a39-0242ac110005"
+  },
+  "severity": "Critical",
+  "url": {
+    "port": 3044,
+    "scheme": "complications titanium pick",
+    "path": "class cellular humanitarian",
+    "hostname": "iowa.cat",
+    "query_string": "desktops latter fundamentals",
+    "category_ids": [
+      34
+    ],
+    "url_string": "sku"
+  },
+  "type_name": "Email URL Activity: Receive",
+  "category_name": "Network Activity",
+  "activity_id": 2,
+  "type_uid": 401202,
+  "class_uid": 4012,
+  "category_uid": 4,
+  "class_name": "Email URL Activity",
+  "timezone_offset": 25,
+  "activity_name": "Receive",
+  "email_uid": "968eda94-c218-11ee-b88d-0242ac110005",
+  "severity_id": 5,
+  "status_id": 2
+}

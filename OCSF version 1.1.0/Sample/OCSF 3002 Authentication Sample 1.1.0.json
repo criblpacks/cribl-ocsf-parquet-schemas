@@ -1,0 +1,59 @@
+{
+  "count": 43,
+  "message": "agents diseases rfc",
+  "status": "Success",
+  "time": 1706912150872290,
+  "user": {
+    "name": "Especially",
+    "type": "System",
+    "uid": "9fa8e070-c218-11ee-b940-0242ac110005",
+    "type_id": 3
+  },
+  "service": {
+    "name": "newsletters schedule babes",
+    "version": "1.1.0"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "version": "1.1.0",
+      "path": "criterion closest siemens",
+      "uid": "9fa8fd30-c218-11ee-8f5c-0242ac110005",
+      "vendor_name": "weed periods proteins"
+    },
+    "log_level": "ensure cvs china",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "owns information director",
+    "original_time": "constitutional scanners species",
+    "tenant_uid": "9fa90898-c218-11ee-83a4-0242ac110005"
+  },
+  "severity": "Fatal",
+  "type_name": "Authentication: Logon",
+  "category_name": "Identity & Access Management",
+  "activity_id": 1,
+  "type_uid": 300201,
+  "class_uid": 3002,
+  "category_uid": 3,
+  "class_name": "Authentication",
+  "timezone_offset": 41,
+  "activity_name": "Logon",
+  "auth_protocol": "OpenID",
+  "auth_protocol_id": 4,
+  "end_time": 1706912150870712,
+  "enrichments": [
+    {
+      "data": "income",
+      "name": "hit assumption stat",
+      "type": "routine sql informational",
+      "value": "charleston ty arlington",
+      "provider": "sic broken advertisement"
+    }
+  ],
+  "is_cleartext": false,
+  "is_mfa": false,
+  "is_remote": false,
+  "severity_id": 6,
+  "status_id": 1
+}

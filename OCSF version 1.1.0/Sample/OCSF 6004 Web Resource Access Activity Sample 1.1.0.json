@@ -1,0 +1,112 @@
+{
+  "count": 20,
+  "http_request": {
+    "version": "1.1.0",
+    "url": {
+      "port": 1367,
+      "scheme": "threat proof common",
+      "path": "hitachi racial ultimately",
+      "hostname": "brooks.aero",
+      "query_string": "pen keen southampton",
+      "category_ids": [
+        67,
+        90
+      ],
+      "url_string": "goat"
+    },
+    "user_agent": "ringtone witnesses determines",
+    "http_headers": [
+      {
+        "name": "dom donated late",
+        "value": "peter pages quality"
+      }
+    ]
+  },
+  "message": "pie interference mysimon",
+  "status": "Failure",
+  "time": 1706912134661309,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "version": "1.1.0",
+      "uid": "95ff6936-c218-11ee-91e3-0242ac110005",
+      "vendor_name": "grip pharmaceuticals explained"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "lincoln newport prerequisite",
+    "original_time": "relationships mf los",
+    "processed_time": 1706912134661187,
+    "tenant_uid": "95ff6f44-c218-11ee-ac07-0242ac110005"
+  },
+  "severity": "Low",
+  "tls": {
+    "version": "1.1.0",
+    "cipher": "delivery cuba knife",
+    "certificate": {
+      "version": "1.1.0",
+      "issuer": "ron missed mint",
+      "fingerprints": [
+        {
+          "value": "1831EFA96DD311FE29A2F7FEF713A4C4A000F3FF0D5E4D9E6BB74F23DD1D85A86A166A02F2091FFEF2BF6A997C92384DFBD04D625067BAC5BF4CDEE2F65DA90E",
+          "algorithm": "TLSH",
+          "algorithm_id": 6
+        },
+        {
+          "value": "D43481E5E0C6BDB0CC39C65347DEA736",
+          "algorithm": "MD5",
+          "algorithm_id": 1
+        }
+      ],
+      "created_time": 1706912134661629,
+      "expiration_time": 1706912134661635,
+      "serial_number": "variation sponsorship salad"
+    },
+    "sni": "petite herb proposal",
+    "certificate_chain": [
+      "trustees intel preliminary",
+      "vietnamese melbourne integer"
+    ],
+    "client_ciphers": [
+      "evaluation apparently ltd"
+    ],
+    "ja3_hash": {
+      "value": "AAE448BD1DF87CA3CA1F84496D8915ACC177C2DDB20BD38FA6F6A6BD56AF8979ACC630F3E52D7A41E3CB9B50C089309DBA6F21134E3BC60EF9F9896AED36148E",
+      "algorithm": "SHA-512",
+      "algorithm_id": 4
+    },
+    "ja3s_hash": {
+      "value": "43BD52A1D01DE850C8757106F972D660FED826092DA9FB7D34D6191A256FE2A1AA49F2C3786FC307E49241CE80CCE176923F90D8FA1D8BE157821904705C6A6D",
+      "algorithm": "TLSH",
+      "algorithm_id": 6
+    },
+    "sans": [
+      {
+        "name": "germany calgary support",
+        "type": "kinda ob pointing"
+      }
+    ]
+  },
+  "type_name": "Web Resource Access Activity: Access Deny",
+  "category_name": "Application Activity",
+  "activity_id": 2,
+  "type_uid": 600402,
+  "class_uid": 6004,
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "timezone_offset": 91,
+  "activity_name": "Access Deny",
+  "severity_id": 2,
+  "status_code": "ctrl",
+  "status_id": 2,
+  "web_resources": [
+    {
+      "name": "vegetable pottery rb",
+      "url_string": "ladies"
+    },
+    {
+      "url_string": "wave"
+    }
+  ]
+}

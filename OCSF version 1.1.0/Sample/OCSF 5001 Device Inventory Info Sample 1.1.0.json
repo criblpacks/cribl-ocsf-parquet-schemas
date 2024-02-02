@@ -1,0 +1,86 @@
+{
+  "message": "sand landscape infant",
+  "status": "Failure",
+  "time": 1706912147872881,
+  "device": {
+    "name": "pst chaos venues",
+    "type": "Laptop",
+    "ip": "85.223.195.162",
+    "location": {
+      "desc": "Turkey, Republic of",
+      "city": "Rat amended",
+      "country": "TR",
+      "coordinates": [
+        98.4143,
+        12.4801
+      ],
+      "continent": "Asia"
+    },
+    "hostname": "fear.org",
+    "uid": "9ddf5c42-c218-11ee-8ef4-0242ac110005",
+    "image": {
+      "path": "christianity trap ecological",
+      "uid": "9ddf5742-c218-11ee-ae7e-0242ac110005"
+    },
+    "mac": "E5:F:E2:95:B6:E0:BF:12",
+    "type_id": 3,
+    "created_time": 1706912147870439,
+    "imei": "nutrition mystery smilies",
+    "interface_name": "newman benchmark ware",
+    "interface_uid": "9ddefca2-c218-11ee-8a46-0242ac110005",
+    "is_personal": true,
+    "network_interfaces": [
+      {
+        "name": "back js order",
+        "type": "Wired",
+        "ip": "86.5.255.183",
+        "hostname": "continuity.firm",
+        "uid": "9ddf4fa4-c218-11ee-b713-0242ac110005",
+        "mac": "1F:D1:92:7B:FC:85:FE:D",
+        "namespace": "equity pda borders",
+        "type_id": 1,
+        "subnet_prefix": 56
+      }
+    ],
+    "region": "if brunei partially",
+    "vpc_uid": "9ddef752-c218-11ee-b03a-0242ac110005",
+    "zone": "mats livecam ltd"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "michael scientist bent",
+      "version": "1.1.0",
+      "uid": "9ddecd40-c218-11ee-9d3e-0242ac110005",
+      "vendor_name": "died hamilton funk"
+    },
+    "labels": [
+      "researcher",
+      "mineral"
+    ],
+    "sequence": 87,
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "polar",
+    "log_name": "spanking existed analog",
+    "log_provider": "marble jvc oc",
+    "log_version": "habits reno macro",
+    "modified_time": 1706912147869270,
+    "original_time": "honest mar aquatic",
+    "processed_time": 1706912147869284,
+    "tenant_uid": "9dded434-c218-11ee-98ce-0242ac110005"
+  },
+  "severity": "Critical",
+  "type_name": "Device Inventory Info: Other",
+  "category_name": "Discovery",
+  "activity_id": 99,
+  "type_uid": 500199,
+  "class_uid": 5001,
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "activity_name": "partnership",
+  "end_time": 1706912147868424,
+  "severity_id": 5,
+  "status_id": 2
+}

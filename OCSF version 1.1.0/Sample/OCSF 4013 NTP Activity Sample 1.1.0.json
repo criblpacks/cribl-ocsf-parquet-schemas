@@ -1,0 +1,135 @@
+{
+  "message": "lucky kings automatically",
+  "status": "Success",
+  "version": "1.1.0",
+  "time": 1706912125399237,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "tulsa reach supplier",
+      "uid": "907a219a-c218-11ee-8792-0242ac110005",
+      "lang": "en",
+      "vendor_name": "skype beatles chamber"
+    },
+    "log_level": "measure college fruits",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "mercedes inexpensive binary",
+    "modified_time": 1706912125399113,
+    "tenant_uid": "907a278a-c218-11ee-8c14-0242ac110005"
+  },
+  "proxy": {
+    "name": "tv tobago revolution",
+    "port": 22300,
+    "type": "Laptop",
+    "domain": "amino instructional diabetes",
+    "ip": "124.207.13.14",
+    "hostname": "amounts.travel",
+    "uid": "9079d726-c218-11ee-a22c-0242ac110005",
+    "mac": "E5:6A:FE:45:F4:FD:29:8A",
+    "type_id": 3,
+    "instance_uid": "9079db04-c218-11ee-884e-0242ac110005",
+    "interface_name": "period navigator motel",
+    "interface_uid": "9079deb0-c218-11ee-aef4-0242ac110005",
+    "intermediate_ips": [
+      "140.87.123.41"
+    ],
+    "svc_name": "checking makes hits",
+    "zone": "papua planners missing"
+  },
+  "precision": 94,
+  "connection_info": {
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 53
+  },
+  "start_time": 1706912125397405,
+  "severity": "Low",
+  "duration": 56,
+  "app_name": "plant rebecca nasa",
+  "type_name": "NTP Activity: Symmetric Passive Response",
+  "category_name": "Network Activity",
+  "activity_id": 2,
+  "type_uid": 401302,
+  "class_uid": 4013,
+  "category_uid": 4,
+  "class_name": "NTP Activity",
+  "timezone_offset": 34,
+  "activity_name": "Symmetric Passive Response",
+  "dst_endpoint": {
+    "name": "soil tourist elliott",
+    "port": 37518,
+    "type": "IOT",
+    "location": {
+      "desc": "Spain, Kingdom of",
+      "city": "Take extras",
+      "country": "ES",
+      "coordinates": [
+        -6.4166,
+        -86.9314
+      ],
+      "continent": "Europe"
+    },
+    "hostname": "density.travel",
+    "uid": "9079ef54-c218-11ee-a04e-0242ac110005",
+    "type_id": 7,
+    "instance_uid": "9079f346-c218-11ee-b3f7-0242ac110005",
+    "interface_name": "quantities identifies cfr",
+    "proxy_endpoint": {
+      "name": "message quantities dp",
+      "port": 3541,
+      "type": "Server",
+      "ip": "157.64.71.28",
+      "hostname": "intelligence.mobi",
+      "mac": "6:35:D8:BF:60:C1:DC:1",
+      "type_id": 1,
+      "hw_info": {
+        "desktop_display": {
+          "physical_orientation": 30
+        },
+        "serial_number": "belief waste fares"
+      },
+      "instance_uid": "9079fd6e-c218-11ee-a23d-0242ac110005",
+      "interface_name": "analyze deadline calculated",
+      "vlan_uid": "907a0174-c218-11ee-81c8-0242ac110005",
+      "zone": "violent enzyme permits"
+    },
+    "subnet_uid": "907a0516-c218-11ee-b284-0242ac110005",
+    "svc_name": "avg definition mustang"
+  },
+  "enrichments": [
+    {
+      "data": "eco",
+      "name": "plaintiff transexuales fo",
+      "type": "met reseller toolkit",
+      "value": "manuals having stage",
+      "provider": "vary us poultry"
+    }
+  ],
+  "severity_id": 2,
+  "src_endpoint": {
+    "name": "networking roland rom",
+    "port": 47090,
+    "type": "IOT",
+    "os": {
+      "name": "acceptance occupational maintains",
+      "type": "Unknown",
+      "type_id": 0,
+      "lang": "en"
+    },
+    "ip": "198.83.31.90",
+    "hostname": "nutritional.museum",
+    "uid": "9079bed0-c218-11ee-b4cc-0242ac110005",
+    "type_id": 7,
+    "instance_uid": "9079c4ac-c218-11ee-87d2-0242ac110005",
+    "interface_name": "brisbane begun prophet",
+    "interface_uid": "9079ca06-c218-11ee-af61-0242ac110005",
+    "svc_name": "timer volleyball delay",
+    "vlan_uid": "9079ce52-c218-11ee-8d3b-0242ac110005",
+    "zone": "scratch reporters immediately"
+  },
+  "status_id": 1,
+  "stratum": "Secondary Server",
+  "stratum_id": 2
+}

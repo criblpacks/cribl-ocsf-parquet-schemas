@@ -1,0 +1,125 @@
+{
+  "message": "twice meyer results",
+  "status": "Success",
+  "time": 1706912152277655,
+  "request": {
+    "uid": "a07f85ee-c218-11ee-9fd1-0242ac110005"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "extension": {
+      "name": "nature jerusalem pathology",
+      "version": "1.1.0",
+      "uid": "a07ef926-c218-11ee-bb39-0242ac110005"
+    },
+    "product": {
+      "name": "alpine marketing garlic",
+      "version": "1.1.0",
+      "uid": "a07f5aa6-c218-11ee-ba3c-0242ac110005",
+      "url_string": "toys",
+      "vendor_name": "explosion juan lucky"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "a07f65d2-c218-11ee-abc2-0242ac110005",
+    "event_code": "burns",
+    "log_provider": "petition applies thriller",
+    "original_time": "montana slideshow letter",
+    "tenant_uid": "a07f79aa-c218-11ee-9a4e-0242ac110005"
+  },
+  "proxy": {
+    "name": "barbados bulletin certificate",
+    "port": 9750,
+    "type": "Browser",
+    "os": {
+      "name": "during charming expect",
+      "type": "iOS",
+      "version": "1.1.0",
+      "type_id": 301,
+      "cpe_name": "fy pam deeper",
+      "cpu_bits": 84,
+      "edition": "processors hi gambling"
+    },
+    "ip": "65.13.68.17",
+    "hostname": "scores.net",
+    "uid": "a07ec60e-c218-11ee-ac6b-0242ac110005",
+    "type_id": 8,
+    "instance_uid": "a07eccd0-c218-11ee-b7ac-0242ac110005",
+    "interface_uid": "a07ed09a-c218-11ee-a419-0242ac110005",
+    "svc_name": "pork html switched",
+    "zone": "quality adventures agencies"
+  },
+  "response": {
+    "error": "pupils fashion committed",
+    "code": 2,
+    "data": "capitol",
+    "error_message": "ties friendly seo"
+  },
+  "connection_info": {
+    "protocol_name": "portuguese tions connections",
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 69,
+    "tcp_flags": 76
+  },
+  "severity": "Fatal",
+  "type_name": "RDP Activity: Initial Request",
+  "category_name": "Network Activity",
+  "activity_id": 1,
+  "type_uid": 400501,
+  "class_uid": 4005,
+  "category_uid": 4,
+  "class_name": "RDP Activity",
+  "timezone_offset": 99,
+  "activity_name": "Initial Request",
+  "dst_endpoint": {
+    "name": "wheel finger refurbished",
+    "port": 43922,
+    "type": "article",
+    "ip": "199.130.209.209",
+    "hostname": "dinner.int",
+    "uid": "a07edd56-c218-11ee-b6a4-0242ac110005",
+    "type_id": 99,
+    "hw_info": {
+      "bios_date": "cooper improving digit",
+      "cpu_type": "kansas notes chargers",
+      "desktop_display": {
+        "physical_width": 4,
+        "scale_factor": 75
+      },
+      "keyboard_info": {},
+      "serial_number": "ab omega simultaneously"
+    },
+    "instance_uid": "a07ee508-c218-11ee-82c0-0242ac110005",
+    "interface_name": "indicate doug beverly",
+    "interface_uid": "a07ee8dc-c218-11ee-9779-0242ac110005",
+    "svc_name": "certificate liberia purchased"
+  },
+  "protocol_ver": "4",
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "administrative smtp hwy",
+    "port": 33744,
+    "type": "Desktop",
+    "os": {
+      "name": "edward bio fourth",
+      "type": "Windows",
+      "type_id": 100,
+      "lang": "en"
+    },
+    "ip": "73.4.236.143",
+    "hostname": "investigations.edu",
+    "uid": "a07e9c24-c218-11ee-b25e-0242ac110005",
+    "type_id": 2,
+    "instance_uid": "a07ea520-c218-11ee-88a4-0242ac110005",
+    "interface_name": "scanner chance packed",
+    "interface_uid": "a07eae08-c218-11ee-b778-0242ac110005",
+    "intermediate_ips": [
+      "60.100.73.255"
+    ],
+    "svc_name": "dos ide locked",
+    "vlan_uid": "a07eb40c-c218-11ee-a469-0242ac110005"
+  },
+  "status_id": 1
+}

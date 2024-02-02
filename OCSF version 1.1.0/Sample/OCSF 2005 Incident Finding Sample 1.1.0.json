@@ -1,0 +1,78 @@
+{
+  "message": "utilization carpet proven",
+  "priority": 25,
+  "status": "New",
+  "time": 1706912133312406,
+  "metadata": {
+    "version": "1.1.0",
+    "extension": {
+      "name": "amd attractions predictions",
+      "version": "1.1.0",
+      "uid": "95318408-c218-11ee-a622-0242ac110005"
+    },
+    "product": {
+      "name": "board ag injuries",
+      "version": "1.1.0",
+      "uid": "95318b1a-c218-11ee-ad18-0242ac110005",
+      "feature": {
+        "name": "onto brought photographs",
+        "version": "1.1.0",
+        "uid": "953190ec-c218-11ee-ba7f-0242ac110005"
+      },
+      "url_string": "hope",
+      "vendor_name": "exclusion nutrition derived"
+    },
+    "uid": "9531952e-c218-11ee-94b0-0242ac110005",
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "strongly",
+    "log_name": "afterwards patch trim",
+    "log_provider": "painted coordinates maintain",
+    "original_time": "used articles downtown",
+    "tenant_uid": "95319b64-c218-11ee-8399-0242ac110005"
+  },
+  "desc": "personals example devoted",
+  "severity": "Medium",
+  "type_name": "Incident Finding: Other",
+  "category_name": "Findings",
+  "activity_id": 99,
+  "type_uid": 200599,
+  "class_uid": 2005,
+  "category_uid": 2,
+  "class_name": "Incident Finding",
+  "activity_name": "nudist",
+  "confidence_id": 1,
+  "finding_info_list": [
+    {
+      "title": "window christopher closest",
+      "uid": "953141f0-c218-11ee-838a-0242ac110005",
+      "analytic": {
+        "name": "couple optics church",
+        "type": "Unknown",
+        "desc": "construct karaoke naughty",
+        "uid": "95314cb8-c218-11ee-8e37-0242ac110005",
+        "type_id": 0,
+        "related_analytics": [
+          {
+            "type": "Behavioral",
+            "uid": "95315442-c218-11ee-a066-0242ac110005",
+            "type_id": 2
+          }
+        ]
+      },
+      "created_time": 1706912133310581,
+      "last_seen_time": 1706912133310698,
+      "modified_time": 1706912133310705
+    }
+  ],
+  "impact": "Unknown",
+  "impact_id": 0,
+  "priority_id": 4,
+  "severity_id": 3,
+  "src_url": "narrative",
+  "status_code": "frame",
+  "status_id": 1,
+  "verdict": "Security Risk",
+  "verdict_id": 8
+}

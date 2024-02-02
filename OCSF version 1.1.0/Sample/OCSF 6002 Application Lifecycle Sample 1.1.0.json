@@ -1,0 +1,54 @@
+{
+  "message": "ts devices zu",
+  "status": "rapids",
+  "time": 1706912144454059,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "december cashiers matt",
+      "version": "1.1.0",
+      "uid": "9bd5a622-c218-11ee-baa4-0242ac110005",
+      "lang": "en",
+      "vendor_name": "trap mailed solution"
+    },
+    "log_level": "sleeps rec cabin",
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "9bd5abd6-c218-11ee-a599-0242ac110005",
+    "event_code": "pump",
+    "log_name": "kentucky reasoning filters",
+    "log_provider": "claimed reproductive stakeholders",
+    "original_time": "counted identified warm",
+    "tenant_uid": "9bd5b090-c218-11ee-8499-0242ac110005"
+  },
+  "start_time": 1706912144453303,
+  "app": {
+    "name": "jump risks indexes",
+    "version": "1.1.0",
+    "uid": "9bd59268-c218-11ee-bf44-0242ac110005",
+    "vendor_name": "dialogue dryer blind"
+  },
+  "severity": "Medium",
+  "type_name": "Application Lifecycle: Stop",
+  "category_name": "Application Activity",
+  "activity_id": 4,
+  "type_uid": 600204,
+  "class_uid": 6002,
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "timezone_offset": 86,
+  "activity_name": "Stop",
+  "end_time": 1706912144452816,
+  "enrichments": [
+    {
+      "data": "faces",
+      "name": "yet central illustrations",
+      "type": "res chronicles fewer",
+      "value": "stamps developer retailers",
+      "provider": "karen diversity packets"
+    }
+  ],
+  "severity_id": 3,
+  "status_id": 99
+}

@@ -1,0 +1,145 @@
+{
+  "message": "italia fires acer",
+  "status": "Failure",
+  "time": 1706912123111086,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "beneath gospel optional",
+      "version": "1.1.0",
+      "uid": "8f1c77d0-c218-11ee-baa9-0242ac110005",
+      "vendor_name": "spoken addressing differences"
+    },
+    "uid": "8f1c7ca8-c218-11ee-9360-0242ac110005",
+    "labels": [
+      "precise",
+      "down"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "promotion",
+    "log_name": "arthritis greatly sponsored",
+    "log_provider": "mr ti restrictions",
+    "loggers": [
+      {
+        "name": "say eng kong",
+        "device": {
+          "name": "reunion activity stored",
+          "type": "Desktop",
+          "domain": "establishing choose statistical",
+          "ip": "49.135.232.39",
+          "hostname": "ui.cat",
+          "uid": "8f1cb592-c218-11ee-a4a6-0242ac110005",
+          "type_id": 2,
+          "instance_uid": "8f1ca426-c218-11ee-9668-0242ac110005",
+          "interface_name": "successfully implies ons",
+          "interface_uid": "8f1cac1e-c218-11ee-a7ce-0242ac110005",
+          "modified_time": 1706912123108670,
+          "region": "poison kinase nz",
+          "vlan_uid": "8f1cb10a-c218-11ee-8d11-0242ac110005"
+        },
+        "product": {
+          "name": "interact caring suspect",
+          "version": "1.1.0",
+          "uid": "8f1cbcc2-c218-11ee-acbf-0242ac110005",
+          "feature": {
+            "name": "speaker last grateful",
+            "version": "1.1.0",
+            "uid": "8f1cc28a-c218-11ee-ba2c-0242ac110005"
+          },
+          "vendor_name": "coalition mesh difficult"
+        },
+        "uid": "8f1cce60-c218-11ee-bb9e-0242ac110005",
+        "log_provider": "guarantees bargains fireplace"
+      },
+      {
+        "name": "probability habitat cellular",
+        "device": {
+          "name": "nb peninsula operators",
+          "type": "Switch",
+          "os": {
+            "name": "deliver tons indicate",
+            "type": "Windows Mobile",
+            "build": "assuming adjustment burlington",
+            "type_id": 101,
+            "edition": "url cash valves"
+          },
+          "domain": "four false darwin",
+          "desc": "seemed somehow radiation",
+          "hostname": "psi.mobi",
+          "uid": "8f1cefe4-c218-11ee-8df0-0242ac110005",
+          "image": {
+            "name": "dust oracle israeli",
+            "uid": "8f1ceae4-c218-11ee-a7d5-0242ac110005"
+          },
+          "type_id": 10,
+          "imei": "distinguished sip pirates",
+          "interface_name": "odd wool restructuring",
+          "interface_uid": "8f1cdd1a-c218-11ee-8e5c-0242ac110005",
+          "network_interfaces": [
+            {
+              "name": "counted supporters enhancements",
+              "type": "Wired",
+              "ip": "128.177.95.128",
+              "hostname": "away.museum",
+              "mac": "61:2C:D5:87:B8:D1:79:CC",
+              "type_id": 1,
+              "subnet_prefix": 59
+            },
+            {
+              "name": "situations background stadium",
+              "type": "Mobile",
+              "ip": "34.198.90.240",
+              "hostname": "dg.pro",
+              "mac": "E1:46:D6:98:22:39:3A:FB",
+              "type_id": 3
+            }
+          ],
+          "region": "bin to aberdeen"
+        },
+        "uid": "8f1cf5c0-c218-11ee-b495-0242ac110005",
+        "log_name": "firmware linux produces",
+        "log_provider": "mh tests polar"
+      }
+    ],
+    "original_time": "admin providing bio"
+  },
+  "severity": "Critical",
+  "email": {
+    "size": 1362739372,
+    "uid": "8f1d0b00-c218-11ee-8df2-0242ac110005",
+    "from": "Rey@incorporated.web",
+    "cc": [
+      "Lavonia@shaft.nato"
+    ],
+    "to": [
+      "Maisha@california.int",
+      "Millard@indigenous.com"
+    ],
+    "delivered_to": "Anitra@gospel.cat",
+    "message_uid": "8f1d10dc-c218-11ee-847f-0242ac110005",
+    "raw_header": "violations enjoyed paragraphs",
+    "smtp_from": "Lashunda@under.museum",
+    "smtp_to": [
+      "Shaina@mileage.name",
+      "Jordan@automobile.edu"
+    ],
+    "x_originating_ip": [
+      "54.237.244.121",
+      "217.190.223.204"
+    ]
+  },
+  "direction": "Outbound",
+  "category_name": "Network Activity",
+  "type_uid": 3038076637,
+  "class_uid": 4009,
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "timezone_offset": 70,
+  "activity_name": "hans reliability pool",
+  "direction_id": 2,
+  "end_time": 1706912123107011,
+  "severity_id": 5,
+  "status_id": 2
+}

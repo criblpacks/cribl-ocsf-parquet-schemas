@@ -1,0 +1,163 @@
+{
+  "status": "Failure",
+  "time": 1706912150167756,
+  "file": {
+    "name": "midnight.rom",
+    "size": 4220406588,
+    "type": "Local Socket",
+    "path": "outlook expo services/organizer.js/midnight.rom",
+    "signature": {
+      "certificate": {
+        "version": "1.1.0",
+        "subject": "where penn lying",
+        "issuer": "achievement seed elder",
+        "fingerprints": [
+          {
+            "value": "16D79713FA05466859E2D81F3DE2C89420C1E223216A56915FA3A78116B547E8",
+            "algorithm": "SHA-256",
+            "algorithm_id": 3
+          },
+          {
+            "value": "47A282DFE68A42D302E22C4920ED9B5E",
+            "algorithm": "MD5",
+            "algorithm_id": 1
+          }
+        ],
+        "created_time": 1706912150168428,
+        "expiration_time": 1706912150168434,
+        "serial_number": "lenders bio occupation"
+      },
+      "algorithm": "DSA",
+      "algorithm_id": 1
+    },
+    "type_id": 5,
+    "parent_folder": "outlook expo services/organizer.js",
+    "accessed_time": 1706912150168453,
+    "confidentiality": "outreach",
+    "confidentiality_id": 99,
+    "hashes": [
+      {
+        "value": "A703788F832056626D71B7DB4D8055243CEAFE416D1798CD634B9143C9074B54",
+        "algorithm": "SHA-256",
+        "algorithm_id": 3
+      },
+      {
+        "value": "D73AD8C03D07C15548CF7DC49EF8B66648D2A0A91E76EE51CFFCE55461226C32CAADE25259736C2EEE4F777BD85DEA455D487E68D016EBF709E912733B971D05",
+        "algorithm": "SHA-512",
+        "algorithm_id": 4
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "attacks necklace elephant",
+      "version": "1.1.0",
+      "uid": "9f3d1836-c218-11ee-84eb-0242ac110005",
+      "cpe_name": "wooden removable possibility",
+      "vendor_name": "reading flash walter"
+    },
+    "sequence": 50,
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "bizarre cheap seattle",
+    "loggers": [
+      {
+        "name": "aka formats physician",
+        "version": "1.1.0",
+        "device": {
+          "name": "herb constantly arg",
+          "type": "IOT",
+          "ip": "94.205.54.158",
+          "hostname": "explains.museum",
+          "uid": "9f3d58fa-c218-11ee-9eac-0242ac110005",
+          "image": {
+            "name": "blowing transparency np",
+            "uid": "9f3d54c2-c218-11ee-a0c0-0242ac110005"
+          },
+          "type_id": 7,
+          "instance_uid": "9f3d2bb4-c218-11ee-9b08-0242ac110005",
+          "interface_name": "brand shoulder organization",
+          "interface_uid": "9f3d3ffa-c218-11ee-9159-0242ac110005",
+          "is_compliant": false,
+          "is_personal": true,
+          "last_seen_time": 1706912150165648,
+          "network_interfaces": [
+            {
+              "name": "mile linux phone",
+              "type": "Unknown",
+              "ip": "24.72.135.31",
+              "hostname": "pants.web",
+              "mac": "3F:C0:47:A5:67:EA:7E:DB",
+              "type_id": 0
+            },
+            {
+              "name": "complex l buyers",
+              "type": "Wired",
+              "hostname": "richard.museum",
+              "mac": "F7:BD:2B:2E:F1:C1:E0:FE",
+              "type_id": 1
+            }
+          ],
+          "region": "discovered pictures infectious",
+          "subnet_uid": "9f3d490a-c218-11ee-96fc-0242ac110005",
+          "vpc_uid": "9f3d355a-c218-11ee-b89b-0242ac110005"
+        },
+        "product": {
+          "name": "barnes desktops seriously",
+          "version": "1.1.0",
+          "path": "threatened region jm",
+          "vendor_name": "managed triumph distance"
+        },
+        "uid": "9f3d62aa-c218-11ee-a4eb-0242ac110005",
+        "log_name": "bound square availability",
+        "log_provider": "thehun wires teddy",
+        "transmit_time": 1706912150166824
+      },
+      {
+        "name": "acne league whats",
+        "device": {
+          "type": "Switch",
+          "ip": "245.169.193.81",
+          "desc": "permission asp grateful",
+          "hostname": "combinations.org",
+          "uid": "9f3d75f6-c218-11ee-9231-0242ac110005",
+          "type_id": 10,
+          "hypervisor": "example evaluations carolina",
+          "instance_uid": "9f3d6cfa-c218-11ee-a2dc-0242ac110005",
+          "interface_name": "nutritional scheme posters",
+          "interface_uid": "9f3d71d2-c218-11ee-b7c0-0242ac110005",
+          "is_compliant": true,
+          "risk_level": "Critical",
+          "risk_level_id": 4,
+          "risk_score": 20
+        },
+        "product": {
+          "name": "pensions feb lenses",
+          "version": "1.1.0",
+          "uid": "9f3d7f06-c218-11ee-b59c-0242ac110005",
+          "url_string": "mechanical",
+          "vendor_name": "respondents temporal reflection"
+        },
+        "uid": "9f3d830c-c218-11ee-8a71-0242ac110005",
+        "log_name": "johns necessary suppose",
+        "log_provider": "validity decreased uni"
+      }
+    ],
+    "original_time": "mistress clinton refuse",
+    "processed_time": 1706912150167653,
+    "tenant_uid": "9f3d87e4-c218-11ee-a8fc-0242ac110005"
+  },
+  "severity": "Low",
+  "category_name": "Network Activity",
+  "type_uid": 1591207370,
+  "class_uid": 4011,
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "timezone_offset": 85,
+  "raw_data": "bulk explained fast",
+  "email_uid": "9f3d03be-c218-11ee-9279-0242ac110005",
+  "severity_id": 2,
+  "status_id": 2
+}

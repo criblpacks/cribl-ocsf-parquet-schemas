@@ -1,0 +1,121 @@
+{
+  "message": "grounds organization internet",
+  "status": "realistic polyester provides",
+  "time": 1706912129809466,
+  "metadata": {
+    "version": "1.1.0",
+    "extension": {
+      "name": "pounds block ton",
+      "version": "1.1.0",
+      "uid": "931ad4c6-c218-11ee-8609-0242ac110005"
+    },
+    "product": {
+      "name": "comment appraisal vsnet",
+      "version": "1.1.0",
+      "uid": "931ae150-c218-11ee-abc5-0242ac110005",
+      "vendor_name": "shopzilla nil spies"
+    },
+    "uid": "931ae74a-c218-11ee-bbd9-0242ac110005",
+    "labels": [
+      "christianity",
+      "excitement"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "931aebd2-c218-11ee-ab12-0242ac110005",
+    "log_name": "federal filling algorithm",
+    "log_provider": "yearly rage tape",
+    "original_time": "furniture inspector nomination",
+    "tenant_uid": "931b19ea-c218-11ee-859a-0242ac110005"
+  },
+  "resource": {
+    "name": "surprising nations sport",
+    "owner": {
+      "name": "Wise",
+      "type": "nebraska",
+      "uid": "931a7e22-c218-11ee-b4b4-0242ac110005",
+      "type_id": 99,
+      "full_name": "Malik Charisse",
+      "email_addr": "Luise@degree.gov",
+      "uid_alt": "productions heart sources"
+    },
+    "type": "webmaster collectables containing",
+    "uid": "931a8b2e-c218-11ee-8462-0242ac110005"
+  },
+  "severity": "Unknown",
+  "type_name": "Compliance Finding: Close",
+  "category_name": "Findings",
+  "activity_id": 3,
+  "type_uid": 200303,
+  "class_uid": 2003,
+  "category_uid": 2,
+  "class_name": "Compliance Finding",
+  "timezone_offset": 11,
+  "activity_name": "Close",
+  "compliance": {
+    "control": "decor accessible favorites",
+    "status": "citizenship",
+    "standards": [
+      "colleges remedy witness",
+      "differently exploration nose"
+    ],
+    "status_detail": "indices relations lives",
+    "status_id": 99
+  },
+  "confidence_id": 3,
+  "finding_info": {
+    "title": "comparisons soccer strong",
+    "desc": "toolbox automation leu",
+    "uid": "931aa866-c218-11ee-8214-0242ac110005",
+    "attacks": [
+      {
+        "version": "12.1",
+        "tactics": [
+          {
+            "name": "Persistence The adversary is trying to maintain their foothold.",
+            "uid": "TA0003"
+          }
+        ],
+        "technique": {
+          "name": "Inhibit System Recovery",
+          "uid": "T1490"
+        }
+      }
+    ],
+    "analytic": {
+      "name": "enb seminar persons",
+      "type": "indexed",
+      "uid": "931abb8a-c218-11ee-bbe0-0242ac110005",
+      "type_id": 99
+    },
+    "created_time": 1706912129807060,
+    "kill_chain": [
+      {
+        "phase": "Delivery",
+        "phase_id": 3
+      },
+      {
+        "phase": "Actions on Objectives",
+        "phase_id": 7
+      }
+    ],
+    "product_uid": "931ac3d2-c218-11ee-8ac1-0242ac110005",
+    "related_analytics": [
+      {
+        "name": "king informative wv",
+        "type": "Learning (ML/DL)",
+        "uid": "931acb20-c218-11ee-baf8-0242ac110005",
+        "type_id": 4
+      }
+    ]
+  },
+  "remediation": {
+    "desc": "rocky equally realm",
+    "kb_articles": [
+      "utilize currently cz",
+      "worry clear outdoors"
+    ]
+  },
+  "severity_id": 0
+}

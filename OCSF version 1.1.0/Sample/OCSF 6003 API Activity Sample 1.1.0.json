@@ -1,0 +1,302 @@
+{
+  "status": "rats",
+  "time": 1706912124477331,
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "running selecting mile",
+      "version": "1.1.0",
+      "path": "inches presenting aid",
+      "uid": "8fec638c-c218-11ee-b480-0242ac110005",
+      "vendor_name": "boots cache eyes"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "nitrogen",
+    "log_name": "lambda creature toolbox",
+    "log_provider": "bath victim wood",
+    "loggers": [
+      {
+        "name": "lithuania permissions notified",
+        "device": {
+          "name": "jewellery moved compliance",
+          "type": "Laptop",
+          "os": {
+            "name": "boston principal enjoying",
+            "type": "Windows",
+            "build": "brought getting f",
+            "type_id": 100,
+            "lang": "en",
+            "sp_name": "dd editorials inc"
+          },
+          "ip": "64.33.207.93",
+          "hostname": "awareness.org",
+          "uid": "8fec8f9c-c218-11ee-85ea-0242ac110005",
+          "type_id": 3,
+          "created_time": 1706912124470760,
+          "first_seen_time": 1706912124470334,
+          "imei": "discharge waiting newark",
+          "instance_uid": "8fec74b2-c218-11ee-8cc3-0242ac110005",
+          "interface_name": "plane extras multi",
+          "interface_uid": "8fec7aac-c218-11ee-bd0a-0242ac110005",
+          "is_trusted": true,
+          "last_seen_time": 1706912124470604,
+          "region": "polymer gates mart",
+          "risk_score": 14,
+          "uid_alt": "publisher lake panel"
+        },
+        "product": {
+          "name": "draw assign hill",
+          "version": "1.1.0",
+          "uid": "8fec9b54-c218-11ee-95d6-0242ac110005",
+          "vendor_name": "nutrition inner types"
+        },
+        "uid": "8feca0a4-c218-11ee-8c3a-0242ac110005",
+        "log_name": "jimmy weddings wed",
+        "log_provider": "florence enrollment anxiety",
+        "transmit_time": 1706912124471745
+      },
+      {
+        "name": "motel macro spa",
+        "device": {
+          "name": "directive collection anymore",
+          "type": "Firewall",
+          "os": {
+            "name": "somebody monroe dp",
+            "type": "AIX",
+            "type_id": 401
+          },
+          "ip": "154.210.134.106",
+          "hostname": "trainers.store",
+          "uid": "8fecd2d6-c218-11ee-87f0-0242ac110005",
+          "type_id": 9,
+          "autoscale_uid": "8fecbaa8-c218-11ee-b03a-0242ac110005",
+          "imei": "currencies sterling rc",
+          "instance_uid": "8fecb1a2-c218-11ee-b9ee-0242ac110005",
+          "interface_name": "eastern judicial springer",
+          "interface_uid": "8fecc570-c218-11ee-92c9-0242ac110005",
+          "last_seen_time": 1706912124472163,
+          "region": "unsubscribe inputs hugo",
+          "vlan_uid": "8fecce3a-c218-11ee-9cf5-0242ac110005"
+        },
+        "product": {
+          "name": "discussing museum finished",
+          "version": "1.1.0",
+          "uid": "8fecd948-c218-11ee-aafb-0242ac110005",
+          "vendor_name": "mode porcelain competition"
+        },
+        "uid": "8fecdd4e-c218-11ee-832d-0242ac110005",
+        "log_provider": "cop banking victor"
+      }
+    ],
+    "original_time": "seemed elegant rug",
+    "processed_time": 1706912124477050,
+    "tenant_uid": "8fed7b5a-c218-11ee-bb4a-0242ac110005"
+  },
+  "severity": "Fatal",
+  "duration": 57,
+  "api": {
+    "version": "1.1.0",
+    "request": {
+      "uid": "8febe664-c218-11ee-af3d-0242ac110005"
+    },
+    "response": {
+      "error": "herald encryption cancer",
+      "code": 51,
+      "flags": [
+        "printer cashiers malawi"
+      ],
+      "error_message": "peer treatments struck"
+    },
+    "operation": "logs recommendation cause"
+  },
+  "resources": [
+    {
+      "owner": {
+        "name": "Vancouver",
+        "type": "System",
+        "uid": "8fec28b8-c218-11ee-a66b-0242ac110005",
+        "groups": [
+          {
+            "name": "capabilities owner submit",
+            "uid": "8fec375e-c218-11ee-850f-0242ac110005"
+          },
+          {
+            "name": "completion filed structure"
+          }
+        ],
+        "type_id": 3,
+        "full_name": "Jule Emeline"
+      },
+      "version": "1.1.0",
+      "labels": [
+        "sticks",
+        "alexandria"
+      ],
+      "criticality": "fabric cpu dos"
+    },
+    {
+      "owner": {
+        "type": "System",
+        "uid": "8fec4528-c218-11ee-9b09-0242ac110005",
+        "groups": [
+          {
+            "name": "lot breeding ca",
+            "uid": "8fec500e-c218-11ee-b2e6-0242ac110005"
+          }
+        ],
+        "type_id": 3,
+        "email_addr": "Deb@diving.store"
+      },
+      "type": "steam selective deutsch",
+      "uid": "8fec5932-c218-11ee-a8ba-0242ac110005",
+      "criticality": "gr concept alias"
+    }
+  ],
+  "type_name": "API Activity: Other",
+  "category_name": "Application Activity",
+  "activity_id": 99,
+  "type_uid": 600399,
+  "class_uid": 6003,
+  "category_uid": 6,
+  "class_name": "API Activity",
+  "timezone_offset": 62,
+  "activity_name": "later",
+  "actor": {
+    "process": {
+      "name": "Subcommittee",
+      "pid": 24,
+      "file": {
+        "name": "comparing.xml",
+        "type": "Character Device",
+        "path": "olympic organizations adaptor/category.apk/comparing.xml",
+        "product": {
+          "version": "1.1.0",
+          "uid": "8fee06f6-c218-11ee-87d3-0242ac110005",
+          "vendor_name": "florist click will"
+        },
+        "type_id": 3,
+        "company_name": "Versie Livia",
+        "parent_folder": "olympic organizations adaptor/category.apk",
+        "hashes": [
+          {
+            "value": "3304FB6BE09363416C0FF69099D4CAA7663C3C2F",
+            "algorithm": "SHA-1",
+            "algorithm_id": 2
+          },
+          {
+            "value": "13E5C3A33BB6A8080CA53920A95F73C5C8764367D14829E29842D330CACD3B103E674B5DB7CD8B132ABB15E311DA24713CDBB594A4330DEE71DCB7E03CDEB527",
+            "algorithm": "Unknown",
+            "algorithm_id": 0
+          }
+        ]
+      },
+      "user": {
+        "name": "Flood",
+        "type": "gilbert",
+        "uid": "8fee1394-c218-11ee-9853-0242ac110005",
+        "type_id": 99,
+        "credential_uid": "8fee17ea-c218-11ee-abd4-0242ac110005"
+      },
+      "uid": "8fee1b64-c218-11ee-beef-0242ac110005",
+      "loaded_modules": [
+        "/beer/cash/hence/shooting/inherited.heic"
+      ],
+      "cmd_line": "soonest aluminum windows",
+      "created_time": 1706912124481448,
+      "integrity": "System",
+      "integrity_id": 5,
+      "parent_process": {
+        "name": "Representation",
+        "pid": 11,
+        "file": {
+          "name": "worried.sitx",
+          "type": "Folder",
+          "path": "or res therapeutic/ur.msi/worried.sitx",
+          "modifier": {
+            "name": "Alexander",
+            "type": "hip",
+            "uid": "8fee4954-c218-11ee-85c7-0242ac110005",
+            "type_id": 99
+          },
+          "type_id": 2,
+          "parent_folder": "or res therapeutic/ur.msi",
+          "accessed_time": 1706912124482672,
+          "hashes": [
+            {
+              "value": "AA5DC6C9084057B7FC62741DF738B86A373306C7",
+              "algorithm": "SHA-1",
+              "algorithm_id": 2
+            },
+            {
+              "value": "FD847B5677B8DCDF3F18A5A0F25CA65D8D84B92257A9ACDA350997569AF2EF35BBD0938BEC963BB0E1EBD135C0B327A35387DB998B3F310DDB9AE74C36A9B57E",
+              "algorithm": "Unknown",
+              "algorithm_id": 0
+            }
+          ],
+          "xattributes": {}
+        },
+        "user": {
+          "name": "Mod",
+          "type": "Unknown",
+          "uid": "8fee5746-c218-11ee-abff-0242ac110005",
+          "type_id": 0,
+          "ldap_person": {
+            "hire_time": 1706912124483012,
+            "ldap_dn": "traveling lazy bw",
+            "leave_time": 1706912124483027
+          }
+        },
+        "session": {
+          "uid": "8fee9ac6-c218-11ee-ae08-0242ac110005",
+          "issuer": "characters juvenile download",
+          "created_time": 1706912124484703,
+          "expiration_time": 1706912124484711,
+          "is_remote": true
+        },
+        "cmd_line": "horrible laugh navigate",
+        "created_time": 1706912124484722,
+        "lineage": [
+          "ram customers receivers",
+          "cars sierra described"
+        ],
+        "terminated_time": 1706912124484738
+      }
+    },
+    "user": {
+      "name": "Remind",
+      "type": "System",
+      "type_id": 3,
+      "uid_alt": "electrical essay levitra"
+    },
+    "session": {
+      "uid": "8feea6f6-c218-11ee-bdf9-0242ac110005",
+      "uuid": "8feeaaac-c218-11ee-93d7-0242ac110005",
+      "issuer": "potter extremely chi",
+      "created_time": 1706912124485100,
+      "is_remote": true
+    },
+    "authorizations": [
+      {},
+      {
+        "decision": "basement hills compute"
+      }
+    ]
+  },
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "chi appointed ricky",
+    "port": 43913,
+    "type": "Switch",
+    "ip": "121.192.161.230",
+    "hostname": "fluid.aero",
+    "type_id": 10,
+    "instance_uid": "8fec0acc-c218-11ee-ab8a-0242ac110005",
+    "interface_name": "sim maria he",
+    "interface_uid": "8fec0fea-c218-11ee-877e-0242ac110005",
+    "svc_name": "associated model dylan",
+    "zone": "hamilton officially transexual"
+  },
+  "status_id": 99
+}

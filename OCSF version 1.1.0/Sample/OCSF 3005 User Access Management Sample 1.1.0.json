@@ -1,0 +1,48 @@
+{
+  "message": "rocks lessons reduction",
+  "status": "Failure",
+  "time": 1706912140033591,
+  "user": {
+    "name": "Fail",
+    "uid": "99330e82-c218-11ee-99fd-0242ac110005",
+    "credential_uid": "99331396-c218-11ee-aad1-0242ac110005",
+    "email_addr": "Shirly@marker.firm"
+  },
+  "metadata": {
+    "version": "1.1.0",
+    "product": {
+      "name": "allan explosion vinyl",
+      "version": "1.1.0",
+      "uid": "993324a8-c218-11ee-9774-0242ac110005",
+      "vendor_name": "monitor tba best"
+    },
+    "labels": [
+      "testing",
+      "seconds"
+    ],
+    "sequence": 6,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "franklin lender hiking",
+    "log_provider": "procurement packaging championship",
+    "tenant_uid": "99332dfe-c218-11ee-a702-0242ac110005"
+  },
+  "start_time": 1706912140033033,
+  "severity": "Medium",
+  "type_name": "User Access Management: Unknown",
+  "category_name": "Identity & Access Management",
+  "activity_id": 0,
+  "type_uid": 300500,
+  "class_uid": 3005,
+  "category_uid": 3,
+  "class_name": "User Access Management",
+  "timezone_offset": 86,
+  "activity_name": "Unknown",
+  "privileges": [
+    "everything dry production",
+    "packet resolution farmers"
+  ],
+  "severity_id": 3,
+  "status_id": 2
+}
