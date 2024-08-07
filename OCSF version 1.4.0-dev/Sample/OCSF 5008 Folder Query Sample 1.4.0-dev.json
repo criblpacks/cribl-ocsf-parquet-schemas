@@ -1,0 +1,139 @@
+{
+  "message": "ohio hq sailing",
+  "status": "Unknown",
+  "time": 1723050128975019,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "surveys montreal flexibility",
+      "version": "1.4.0-dev",
+      "uid": "c82e70ce-54de-11ef-8fdb-0242ac110008"
+    },
+    "product": {
+      "name": "estonia strings adaptor",
+      "uid": "c82e8f14-54de-11ef-9c80-0242ac110008",
+      "vendor_name": "portfolio preserve lime"
+    },
+    "uid": "c82e96ee-54de-11ef-9a2f-0242ac110008",
+    "profiles": [
+      "[]"
+    ],
+    "log_version": "originally authority apartments",
+    "modified_time": 1723050128974441,
+    "original_time": "bmw pay ru",
+    "tenant_uid": "c82ea1e8-54de-11ef-bffc-0242ac110008"
+  },
+  "start_time": 1723050128975034,
+  "severity": "Low",
+  "timezone_offset": 96,
+  "activity_id": 0,
+  "class_uid": 5008,
+  "type_uid": 500800,
+  "type_name": "Folder Query: Unknown",
+  "observables": [
+    {
+      "name": "gig inc die",
+      "type": "Registry Value",
+      "type_id": 29
+    },
+    {
+      "name": "notify victim lopez",
+      "type": "File",
+      "type_id": 24,
+      "reputation": {
+        "base_score": 22.2704,
+        "provider": "salaries representations vegetarian",
+        "score": "Exercise Caution",
+        "score_id": 6
+      }
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Folder Query",
+  "activity_name": "Unknown",
+  "enrichments": [
+    {
+      "data": "hose",
+      "name": "acceptance happy harvard",
+      "type": "enormous cursor fans",
+      "value": "antigua dryer expertise",
+      "created_time": 1723050128974903,
+      "provider": "mins demo ipaq",
+      "short_desc": "bronze empirical mb",
+      "src_url": "former"
+    },
+    {
+      "data": "bundle",
+      "name": "timothy legends entertainment",
+      "type": "refer students ambient",
+      "value": "mac reveals included",
+      "created_time": 1723050128974943,
+      "provider": "dawn taste neil",
+      "reputation": {
+        "base_score": 66.1376,
+        "score": "Possibly Malicious",
+        "score_id": 8
+      },
+      "short_desc": "hook hottest outer",
+      "src_url": "scientific"
+    }
+  ],
+  "folder": {
+    "name": "donations.part",
+    "type": "Regular File",
+    "path": "racing elsewhere journalist/donations.part",
+    "modifier": {
+      "name": "Free",
+      "type": "Admin",
+      "uid": "c82e0e2c-54de-11ef-a04b-0242ac110008",
+      "org": {
+        "name": "apache prevention within",
+        "uid": "c82e1ab6-54de-11ef-ab4c-0242ac110008",
+        "ou_name": "reflections methods cash"
+      },
+      "groups": [
+        {
+          "name": "sixth weekend urban",
+          "type": "realize sv involving",
+          "privileges": [
+            "easily council islamic",
+            "vermont down join"
+          ]
+        },
+        {
+          "name": "shots pierce realty",
+          "domain": "quick re pool",
+          "privileges": [
+            "incurred yarn forming",
+            "opens drinks bacterial"
+          ]
+        }
+      ],
+      "type_id": 2,
+      "ldap_person": {
+        "ldap_cn": "truth intent secured"
+      }
+    },
+    "ext": "ez runtime nike",
+    "parent_folder": "racing elsewhere journalist",
+    "type_id": 1,
+    "hashes": [
+      {
+        "value": "4D79F33D60451B2C324FF5B3EC46468146B118E660DFE49421A2F46D6FACC41783CD8C38ED6FCEACD8342AA451EDB733D26D50DD9F3BED69F405980EBF83AE60",
+        "algorithm": "Unknown",
+        "algorithm_id": 0
+      }
+    ]
+  },
+  "query_info": {
+    "name": "bestsellers september overseas",
+    "query_string": "authorized determine sons"
+  },
+  "query_result": "Partial",
+  "query_result_id": 2,
+  "severity_id": 2,
+  "status_code": "ru",
+  "status_detail": "jacket rejected sheffield",
+  "status_id": 0
+}

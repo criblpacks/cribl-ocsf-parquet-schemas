@@ -1,0 +1,136 @@
+{
+  "count": 19,
+  "message": "transcripts approaches chance",
+  "status": "Failure",
+  "time": 1723050110390606,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "poison preview eos",
+      "version": "1.4.0-dev",
+      "uid": "bd1a61fc-54de-11ef-97f7-0242ac110008",
+      "feature": {
+        "version": "1.4.0-dev",
+        "uid": "bd1a6bf2-54de-11ef-a59c-0242ac110008"
+      },
+      "vendor_name": "assumes race railroad"
+    },
+    "extensions": [
+      {
+        "name": "stock santa column",
+        "version": "1.4.0-dev",
+        "uid": "bd1a7d68-54de-11ef-ad16-0242ac110008"
+      },
+      {
+        "name": "relaxation favors recommend",
+        "version": "1.4.0-dev",
+        "uid": "bd1a926c-54de-11ef-9d59-0242ac110008"
+      }
+    ],
+    "sequence": 82,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "symbol keith achievements",
+    "log_provider": "harmony anytime purse",
+    "loggers": [
+      {
+        "name": "develop nepal national",
+        "product": {
+          "name": "medicare ray permits",
+          "version": "1.4.0-dev",
+          "cpe_name": "alan celebs fight",
+          "vendor_name": "ibm nl molecules"
+        },
+        "uid": "bd1aadce-54de-11ef-9da1-0242ac110008",
+        "log_name": "into racial polyester",
+        "log_provider": "ef victim wa",
+        "log_version": "experiments maritime fonts",
+        "logged_time": 1723050110389023
+      }
+    ],
+    "original_time": "thesaurus microwave spanish",
+    "tenant_uid": "bd1ab67a-54de-11ef-b57b-0242ac110008"
+  },
+  "severity": "Unknown",
+  "timezone_offset": 73,
+  "activity_id": 99,
+  "class_uid": 5014,
+  "type_uid": 501499,
+  "type_name": "Peripheral Device Query: Other",
+  "observables": [
+    {
+      "name": "tanks calculation lets",
+      "type": "Country",
+      "type_id": 14,
+      "reputation": {
+        "base_score": 82.2842,
+        "provider": "solaris alternatives batch",
+        "score": "Possibly Malicious",
+        "score_id": 8
+      }
+    },
+    {
+      "name": "publish silicon junior",
+      "type": "Registry Value",
+      "type_id": 29,
+      "reputation": {
+        "base_score": 40.6391,
+        "provider": "picked advise signing",
+        "score": "Malicious",
+        "score_id": 10
+      }
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Peripheral Device Query",
+  "activity_name": "die",
+  "enrichments": [
+    {
+      "data": "upgrading",
+      "name": "blacks oscar fat",
+      "type": "less nightmare my",
+      "value": "networking nothing integrating",
+      "created_time": 1723050110390479,
+      "reputation": {
+        "base_score": 17.248,
+        "provider": "publishers dem bench",
+        "score": "Leans Safe",
+        "score_id": 4
+      },
+      "short_desc": "demographic certain northwest",
+      "src_url": "refresh"
+    },
+    {
+      "data": "impaired",
+      "name": "headquarters fool budgets",
+      "type": "marks agents cheque",
+      "value": "moving context kinda",
+      "created_time": 1723050110390584,
+      "provider": "picks jungle im",
+      "src_url": "hearings"
+    }
+  ],
+  "peripheral_device": {
+    "name": "gmbh sunshine cheats",
+    "class": "continuing ncaa floors",
+    "uid": "bd1b05bc-54de-11ef-b1ad-0242ac110008",
+    "model": "championships ft courage",
+    "serial_number": "shopzilla ciao prints",
+    "vendor_name": "roland spyware returned"
+  },
+  "query_info": {
+    "data": "descending",
+    "name": "privileges shut breaks",
+    "bytes": 2007376930,
+    "uid": "bd1a3d26-54de-11ef-8ae5-0242ac110008",
+    "query_string": "morrison administrative teen"
+  },
+  "query_result": "Error",
+  "query_result_id": 4,
+  "severity_id": 0,
+  "status_code": "airfare",
+  "status_detail": "enhancement assisted crucial",
+  "status_id": 2
+}

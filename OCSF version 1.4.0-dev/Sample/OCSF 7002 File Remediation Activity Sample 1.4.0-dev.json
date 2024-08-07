@@ -1,0 +1,125 @@
+{
+  "message": "laugh coverage theatre",
+  "status": "Unknown",
+  "time": 1723050118092792,
+  "file": {
+    "name": "minimal.tex",
+    "owner": {
+      "name": "Saved",
+      "type": "Unknown",
+      "uid": "c1b1b0bc-54de-11ef-8c6e-0242ac110008",
+      "groups": [
+        {
+          "name": "evident allergy idol",
+          "uid": "c1b1bf44-54de-11ef-af17-0242ac110008"
+        },
+        {
+          "name": "rebates next born",
+          "uid": "c1b1cc78-54de-11ef-882c-0242ac110008"
+        }
+      ],
+      "type_id": 0,
+      "email_addr": "Olinda@personals.store",
+      "risk_level": "standard",
+      "risk_level_id": 99
+    },
+    "type": "Folder",
+    "path": "dietary mailman tahoe/www.mdb/minimal.tex",
+    "signature": {
+      "digest": {
+        "value": "AB43A7C9CB5B2380AFC4DDF8B3E2583169B39A02",
+        "algorithm": "SHA-1",
+        "algorithm_id": 2
+      },
+      "algorithm": "ECDSA",
+      "algorithm_id": 3
+    },
+    "parent_folder": "dietary mailman tahoe/www.mdb",
+    "type_id": 2,
+    "hashes": [
+      {
+        "value": "EC122F54CF16A175B3E22979E240684F7734079A",
+        "algorithm": "SHA-1",
+        "algorithm_id": 2
+      }
+    ],
+    "security_descriptor": "graphics sit victory"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "requiring karaoke waters",
+      "version": "1.4.0-dev",
+      "uid": "c1b21386-54de-11ef-9858-0242ac110008",
+      "cpe_name": "headphones files multiple",
+      "url_string": "vocabulary",
+      "vendor_name": "plasma hans negotiations"
+    },
+    "uid": "c1b21e58-54de-11ef-842f-0242ac110008",
+    "sequence": 32,
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "illustrations",
+    "log_name": "ware forgotten suites",
+    "log_provider": "tours dialogue backing",
+    "original_time": "amplifier luke valuable",
+    "processed_time": 1723050118092387,
+    "tenant_uid": "c1b226be-54de-11ef-ace6-0242ac110008"
+  },
+  "scan": {
+    "name": "tension justin christina",
+    "type": "Unknown",
+    "uid": "c1b1e186-54de-11ef-928f-0242ac110008",
+    "type_id": 0
+  },
+  "severity": "Medium",
+  "timezone_offset": 10,
+  "activity_id": 0,
+  "class_uid": 7002,
+  "type_uid": 700200,
+  "type_name": "File Remediation Activity: Unknown",
+  "category_name": "Remediation",
+  "category_uid": 7,
+  "class_name": "File Remediation Activity",
+  "activity_name": "Unknown",
+  "command_uid": "c1b2632c-54de-11ef-83e7-0242ac110008",
+  "countermeasures": [
+    {
+      "version": "1.4.0-dev",
+      "d3f_tactic": {
+        "uid": "c1b23c26-54de-11ef-9574-0242ac110008"
+      },
+      "d3f_technique": {
+        "name": "works alumni sharing"
+      }
+    },
+    {
+      "version": "1.4.0-dev",
+      "d3f_tactic": {
+        "uid": "c1b24f04-54de-11ef-b153-0242ac110008",
+        "src_url": "model"
+      },
+      "d3f_technique": {
+        "name": "weight centres aboriginal",
+        "uid": "c1b25936-54de-11ef-a810-0242ac110008",
+        "src_url": "relay"
+      }
+    }
+  ],
+  "enrichments": [
+    {
+      "data": "came",
+      "name": "rest techniques observed",
+      "type": "epson measurements sacrifice",
+      "value": "jersey guitars stat",
+      "created_time": 1723050118092757,
+      "provider": "bloggers gtk compliance",
+      "short_desc": "chapters sr joy",
+      "src_url": "pressure"
+    }
+  ],
+  "severity_id": 3,
+  "status_code": "stocks",
+  "status_id": 0
+}

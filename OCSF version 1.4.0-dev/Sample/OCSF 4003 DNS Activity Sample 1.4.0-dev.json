@@ -1,0 +1,256 @@
+{
+  "status": "green",
+  "time": 1723050086993244,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "breeding retrieve england",
+      "version": "1.4.0-dev",
+      "uid": "af283c18-54de-11ef-9c78-0242ac110008",
+      "vendor_name": "texas thongs crash"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "compilation rebate klein",
+    "original_time": "jeffrey unless settle",
+    "tenant_uid": "af2843e8-54de-11ef-b4d4-0242ac110008"
+  },
+  "proxy": {
+    "name": "mounts chance broadband",
+    "owner": {
+      "type": "System",
+      "uid": "af273df4-54de-11ef-a0ca-0242ac110008",
+      "groups": [
+        {
+          "name": "bee parenting obj",
+          "uid": "af274bf0-54de-11ef-9cbb-0242ac110008"
+        }
+      ],
+      "full_name": "Wilson Adelina",
+      "type_id": 3,
+      "account": {
+        "name": "tennis wanting simulation",
+        "type": "Mac OS Account",
+        "uid": "af275a46-54de-11ef-9fe4-0242ac110008",
+        "type_id": 7
+      },
+      "risk_level": "pokemon pros flux",
+      "risk_score": 7
+    },
+    "type": "Firewall",
+    "ip": "94.247.223.94",
+    "uid": "af27625c-54de-11ef-bd0b-0242ac110008",
+    "hostname": "chaos.travel",
+    "mac": "B:AC:66:5D:53:9C:A0:1C",
+    "type_id": 9,
+    "agent_list": [
+      {
+        "name": "namely wealth annotation",
+        "type": "Remote Access",
+        "uid": "af276fc2-54de-11ef-8247-0242ac110008",
+        "type_id": 9,
+        "uid_alt": "accepted affects secured",
+        "vendor_name": "traditional questions binary"
+      },
+      {
+        "name": "failing cottages advocate",
+        "type": "Log Forwarding",
+        "uid": "af277a4e-54de-11ef-b6ac-0242ac110008",
+        "type_id": 6,
+        "policies": [
+          {
+            "name": "dui reviews infringement",
+            "uid": "af278638-54de-11ef-b931-0242ac110008"
+          }
+        ],
+        "vendor_name": "man wiki sic"
+      }
+    ],
+    "instance_uid": "af278da4-54de-11ef-a070-0242ac110008",
+    "interface_name": "marine afford adventure",
+    "interface_uid": "af279498-54de-11ef-84f7-0242ac110008",
+    "svc_name": "oregon barrel anti",
+    "vlan_uid": "af279b78-54de-11ef-a497-0242ac110008"
+  },
+  "rcode": "warrior relating j",
+  "query": {
+    "type": "missing monaco valley",
+    "class": "anxiety failures planes",
+    "opcode": "eric codes cartridge",
+    "hostname": "supports.cat",
+    "opcode_id": 5
+  },
+  "severity": "Critical",
+  "timezone_offset": 77,
+  "activity_id": 2,
+  "class_uid": 4003,
+  "type_uid": 400302,
+  "type_name": "DNS Activity: Response",
+  "observables": [
+    {
+      "name": "trance advance rapids",
+      "type": "Country",
+      "type_id": 14,
+      "reputation": {
+        "base_score": 30.3251,
+        "provider": "wa thompson follow",
+        "score": "Exercise Caution",
+        "score_id": 6
+      }
+    },
+    {
+      "name": "des providence journey",
+      "type": "Subnet",
+      "type_id": 12,
+      "reputation": {
+        "base_score": 12.4062,
+        "provider": "connecticut logic inches",
+        "score": "controlled",
+        "score_id": 99
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "activity_name": "Response",
+  "answers": [
+    {
+      "type": "do tile swiss",
+      "ttl": 39,
+      "flag_ids": [
+        4
+      ],
+      "packet_uid": 84,
+      "rdata": "insertion lighting armed"
+    },
+    {
+      "flags": [
+        "regulation another reveal",
+        "vietnamese linear forest"
+      ],
+      "type": "suggesting extreme validation",
+      "ttl": 3,
+      "class": "efficiency managing count",
+      "flag_ids": [
+        2,
+        2
+      ],
+      "packet_uid": 99,
+      "rdata": "combine dot humanities"
+    }
+  ],
+  "dst_endpoint": {
+    "owner": {
+      "name": "Fluid",
+      "type": "attempted",
+      "uid": "af27b87e-54de-11ef-bfb1-0242ac110008",
+      "groups": [
+        {
+          "name": "however district census",
+          "domain": "retired painting addressing"
+        },
+        {
+          "name": "glossary baptist epic",
+          "domain": "micro walnut mazda",
+          "uid": "af27c4cc-54de-11ef-b901-0242ac110008"
+        }
+      ],
+      "type_id": 99,
+      "email_addr": "Elmira@component.coop",
+      "risk_level": "High",
+      "risk_level_id": 3,
+      "risk_score": 26,
+      "uid_alt": "writers floating viewers"
+    },
+    "port": 60336,
+    "type": "Tablet",
+    "ip": "150.156.115.133",
+    "hostname": "elegant.int",
+    "type_id": 4,
+    "autonomous_system": {
+      "number": 33
+    },
+    "instance_uid": "af27cfb2-54de-11ef-9c95-0242ac110008",
+    "interface_name": "ram descriptions okay",
+    "interface_uid": "af27d688-54de-11ef-ab2b-0242ac110008",
+    "proxy_endpoint": {
+      "name": "reading bike buzz",
+      "owner": {
+        "name": "Bobby",
+        "uid": "af2805fe-54de-11ef-a58b-0242ac110008"
+      },
+      "port": 64147,
+      "type": "Browser",
+      "ip": "105.153.20.190",
+      "uid": "af280cd4-54de-11ef-83f6-0242ac110008",
+      "type_id": 8,
+      "instance_uid": "af281364-54de-11ef-9001-0242ac110008",
+      "interface_name": "closer caps seven",
+      "interface_uid": "af281a44-54de-11ef-a6b1-0242ac110008",
+      "svc_name": "xl met reader",
+      "zone": "villages holiday width"
+    },
+    "vpc_uid": "af282156-54de-11ef-8a08-0242ac110008",
+    "zone": "eat telling must"
+  },
+  "query_time": 1723050086981644,
+  "response_time": 1723050086989144,
+  "severity_id": 5,
+  "src_endpoint": {
+    "name": "control savage convergence",
+    "owner": {
+      "name": "Interfaces",
+      "type": "Unknown",
+      "uid": "af285c16-54de-11ef-98f6-0242ac110008",
+      "type_id": 0
+    },
+    "port": 33924,
+    "type": "Load Balancer",
+    "domain": "films citizens pat",
+    "ip": "115.155.207.93",
+    "uid": "af2863be-54de-11ef-b863-0242ac110008",
+    "hostname": "channel.net",
+    "type_id": 15,
+    "hw_info": {
+      "cpu_bits": 5,
+      "cpu_speed": 24
+    },
+    "instance_uid": "af286e54-54de-11ef-a7ea-0242ac110008",
+    "interface_uid": "af2874f8-54de-11ef-9dc9-0242ac110008",
+    "proxy_endpoint": {
+      "name": "pulled coaching aurora",
+      "owner": {
+        "type": "Unknown",
+        "uid": "af288772-54de-11ef-99b1-0242ac110008",
+        "type_id": 0,
+        "credential_uid": "af288e2a-54de-11ef-a334-0242ac110008"
+      },
+      "port": 3820,
+      "type": "IOT",
+      "os": {
+        "name": "yr feels findlaw",
+        "type": "Windows",
+        "lang": "en",
+        "type_id": 100
+      },
+      "domain": "catholic lexington furniture",
+      "ip": "224.181.169.198",
+      "uid": "af289ea6-54de-11ef-a3ae-0242ac110008",
+      "mac": "12:71:CE:CF:A7:51:D5:56",
+      "type_id": 7,
+      "instance_uid": "af28a554-54de-11ef-83e2-0242ac110008",
+      "interface_name": "hamburg zus ranges",
+      "interface_uid": "af28abc6-54de-11ef-94e8-0242ac110008",
+      "svc_name": "keno margin real",
+      "vpc_uid": "af28b832-54de-11ef-bb59-0242ac110008",
+      "zone": "necklace mw promise"
+    },
+    "subnet_uid": "af28bed6-54de-11ef-a547-0242ac110008",
+    "svc_name": "eclipse optional hiring",
+    "vpc_uid": "af28c50c-54de-11ef-9b2e-0242ac110008"
+  },
+  "status_detail": "nonprofit intelligence fashion",
+  "status_id": 99
+}

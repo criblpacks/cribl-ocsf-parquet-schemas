@@ -1,0 +1,107 @@
+{
+  "message": "reliance steps decreased",
+  "status": "Failure",
+  "time": 1723050128331957,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "device projects metals",
+      "version": "1.4.0-dev",
+      "uid": "c7cbfb6a-54de-11ef-ad7b-0242ac110008"
+    },
+    "product": {
+      "name": "declaration anime spokesman",
+      "version": "1.4.0-dev",
+      "uid": "c7cc1898-54de-11ef-accf-0242ac110008",
+      "vendor_name": "finishing dod bullet"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "c7cc1f82-54de-11ef-b2ca-0242ac110008",
+    "log_name": "granted mint gates",
+    "log_provider": "publicity obtained state",
+    "log_version": "arg social lbs",
+    "modified_time": 1723050128329178,
+    "original_time": "parliamentary themselves median",
+    "tenant_uid": "c7cc2946-54de-11ef-ad66-0242ac110008"
+  },
+  "severity": "Medium",
+  "timezone_offset": 38,
+  "activity_id": 1,
+  "class_uid": 5010,
+  "type_uid": 501001,
+  "type_name": "Job Query: Query",
+  "observables": [
+    {
+      "name": "referred tahoe upper",
+      "type": "Command Line",
+      "type_id": 13
+    },
+    {
+      "name": "code slope omaha",
+      "type": "Endpoint",
+      "type_id": 20
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Job Query",
+  "end_time": 1723050128327708,
+  "activity_name": "Query",
+  "job": {
+    "name": "generated rolls revolutionary",
+    "file": {
+      "name": "utility.crdownload",
+      "type": "Folder",
+      "path": "postposted adult depending/series.com/utility.crdownload",
+      "desc": "aye smoke turn",
+      "ext": "trust nicole fisheries",
+      "creator": {
+        "name": "Connect",
+        "type": "Admin",
+        "uid": "c7cc4980-54de-11ef-b259-0242ac110008",
+        "groups": [
+          {
+            "uid": "c7cc76da-54de-11ef-bf0b-0242ac110008"
+          },
+          {
+            "name": "arms lows somewhat",
+            "uid": "c7cc845e-54de-11ef-8361-0242ac110008",
+            "privileges": [
+              "version grain fares",
+              "cet mechanical forgotten"
+            ]
+          }
+        ],
+        "type_id": 2,
+        "uid_alt": "harvest gets covering"
+      },
+      "parent_folder": "postposted adult depending/series.com",
+      "type_id": 2,
+      "hashes": [
+        {
+          "value": "2B5C42F20A34C194AC4AA18185FC33C14668AF55",
+          "algorithm": "SHA-1",
+          "algorithm_id": 2
+        }
+      ]
+    },
+    "desc": "cole videos convention",
+    "cmd_line": "dna hugh purse",
+    "created_time": 1723050128331931,
+    "last_run_time": 1723050128331939,
+    "run_state": "Running",
+    "run_state_id": 3
+  },
+  "query_info": {
+    "name": "exposed chain community",
+    "uid": "c7cbe63e-54de-11ef-973c-0242ac110008",
+    "query_string": "fluid employed coalition"
+  },
+  "query_result": "Partial",
+  "query_result_id": 2,
+  "severity_id": 3,
+  "status_detail": "breath patricia box",
+  "status_id": 2
+}

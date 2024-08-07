@@ -1,0 +1,117 @@
+{
+  "count": 18,
+  "message": "trips improvement launch",
+  "status": "Failure",
+  "time": 1723050129626749,
+  "file": {
+    "name": "temporary.rar",
+    "owner": {
+      "name": "Worldcat",
+      "type": "Admin",
+      "domain": "advertise inquiries linking",
+      "uid": "c8918d9e-54de-11ef-ab82-0242ac110008",
+      "type_id": 2,
+      "risk_score": 70
+    },
+    "type": "Named Pipe",
+    "path": "samples assignments yamaha/ware.pages/temporary.rar",
+    "signature": {
+      "state": "Expired",
+      "certificate": {
+        "version": "1.4.0-dev",
+        "subject": "encyclopedia boulder dedicated",
+        "issuer": "strength miles released",
+        "fingerprints": [
+          {
+            "value": "5A1969515AB7B523D913732D256E644A",
+            "algorithm": "MD5",
+            "algorithm_id": 1
+          }
+        ],
+        "created_time": 1723050129623418,
+        "expiration_time": 1723050129623431,
+        "serial_number": "multiple correctly stephanie"
+      },
+      "algorithm": "ECDSA",
+      "algorithm_id": 3,
+      "created_time": 1723050129623444,
+      "state_id": 2
+    },
+    "product": {
+      "name": "jeffrey asia glucose",
+      "version": "1.4.0-dev",
+      "uid": "c891bc24-54de-11ef-8c08-0242ac110008",
+      "feature": {
+        "name": "participate encourage nottingham",
+        "version": "1.4.0-dev",
+        "uid": "c891c782-54de-11ef-8fef-0242ac110008"
+      },
+      "vendor_name": "managers allocation born"
+    },
+    "desc": "newport tried boring",
+    "uid": "c891dc68-54de-11ef-8def-0242ac110008",
+    "ext": "formed giant proposal",
+    "mime_type": "beverages/discs",
+    "parent_folder": "samples assignments yamaha/ware.pages",
+    "type_id": 6,
+    "accessed_time": 1723050129625042,
+    "hashes": [
+      {
+        "value": "48306FD04F903C3A3EDF8B2D63C937032FE62002EEE8034319E516084D0D3092",
+        "algorithm": "SHA-256",
+        "algorithm_id": 3
+      },
+      {
+        "value": "78F19CAA59EEE877C069E5B354EACE428FAD802E28F6C9E086B6EFADD2A8DADE2BE15F6F2FA4DECCEDED6167252833800CED8E73C1D959A1D690244D8306C088",
+        "algorithm": "quickXorHash",
+        "algorithm_id": 7
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "put bankruptcy besides",
+      "version": "1.4.0-dev",
+      "uid": "c891fbb2-54de-11ef-a320-0242ac110008",
+      "lang": "en",
+      "vendor_name": "transmission feed locked"
+    },
+    "labels": [
+      "trying"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "c8920648-54de-11ef-b712-0242ac110008",
+    "log_name": "safely nw timely",
+    "log_provider": "comprehensive requiring hu",
+    "original_time": "mistakes micro murray",
+    "processed_time": 1723050129626111,
+    "tenant_uid": "c8920e9a-54de-11ef-94db-0242ac110008"
+  },
+  "severity": "array",
+  "timezone_offset": 20,
+  "class_uid": 4011,
+  "type_uid": 2934607049,
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "email_uid": "c8922ace-54de-11ef-9863-0242ac110008",
+  "enrichments": [
+    {
+      "data": "br",
+      "name": "connecticut jim autumn",
+      "type": "findlaw scholar downloadable",
+      "value": "bracelet sing series",
+      "created_time": 1723050129626724,
+      "provider": "gr marsh convert",
+      "short_desc": "homepage academy communities",
+      "src_url": "switching"
+    }
+  ],
+  "severity_id": 99,
+  "status_code": "tops",
+  "status_detail": "turning steven reed",
+  "status_id": 2
+}

@@ -1,0 +1,236 @@
+{
+  "observables": [
+    {
+      "name": "belarus fluid outdoor",
+      "type": "User Credential ID",
+      "type_id": 19
+    }
+  ],
+  "status_detail": "province fantasy sorts",
+  "start_time": 1723050090696075,
+  "type_uid": 400605,
+  "type_name": "SMB Activity: File Overwrite",
+  "share": "u toward operators",
+  "share_type_id": 2,
+  "status_id": 99,
+  "time": 1723050090695510,
+  "activity_id": 5,
+  "activity_name": "File Overwrite",
+  "src_endpoint": {
+    "name": "follows oriented works",
+    "owner": {
+      "type": "Unknown",
+      "domain": "jp heritage arch",
+      "uid": "b15cd430-54de-11ef-9c49-0242ac110008",
+      "type_id": 0,
+      "email_addr": "Buffy@chi.pro",
+      "ldap_person": {
+        "created_time": 1723050090690047,
+        "ldap_dn": "heading wizard cow"
+      }
+    },
+    "port": 26959,
+    "ip": "97.48.200.179",
+    "uid": "b15cec4a-54de-11ef-862f-0242ac110008",
+    "hostname": "gm.jobs",
+    "instance_uid": "b15d00d6-54de-11ef-8fd0-0242ac110008",
+    "interface_name": "hepatitis live cruz",
+    "interface_uid": "b15d1a1c-54de-11ef-9ed8-0242ac110008",
+    "svc_name": "recording converter interactions",
+    "vpc_uid": "b15d7b10-54de-11ef-8804-0242ac110008",
+    "zone": "elementary stolen africa"
+  },
+  "timezone_offset": 47,
+  "enrichments": [
+    {
+      "data": "lid",
+      "name": "brunei uganda conviction",
+      "type": "heads macro regular",
+      "value": "deutschland testimony occupation",
+      "created_time": 1723050090689251,
+      "provider": "luxury blades correct",
+      "short_desc": "wordpress increased pioneer",
+      "src_url": "declare"
+    },
+    {
+      "data": "portraits",
+      "name": "vegetable posting supplement",
+      "type": "dense optimum rare",
+      "value": "drum populations issue",
+      "created_time": 1723050090689289,
+      "provider": "thriller front silver",
+      "short_desc": "maryland abuse scan",
+      "src_url": "determines"
+    }
+  ],
+  "tls": {
+    "version": "1.4.0-dev",
+    "certificate": {
+      "version": "1.4.0-dev",
+      "is_self_signed": true,
+      "subject": "feeds bottom welding",
+      "issuer": "frequent under quebec",
+      "fingerprints": [
+        {
+          "value": "719822A7C1AEB43AF900B4ED26D4264E86FB10E982AD6DCB783B96DAAF751C4362C87CCE3085F826B4A98F0486FE6C39BDFD52EA12BBFD2EEF603A978074847E",
+          "algorithm": "TLSH",
+          "algorithm_id": 6
+        }
+      ],
+      "expiration_time": 1723050090688957,
+      "serial_number": "draws excel jungle"
+    },
+    "cipher": "advisors proposed tracker",
+    "sni": "testament use charity",
+    "certificate_chain": [
+      "room pope jade"
+    ],
+    "client_ciphers": [
+      "music wonder resulted",
+      "biodiversity sample discs"
+    ],
+    "ja3_hash": {
+      "value": "7D2878BB347E4A6E021BD90714FF5F1F448441CFF6FEF7552E20843A8FF977BA",
+      "algorithm": "magic",
+      "algorithm_id": 99
+    },
+    "ja3s_hash": {
+      "value": "66FF84CFAB8448BD15AF537257A399459582FB98ECA3D9705F7661E277B153D8CC898085D2C63F7B0BBC85D9ECD84621476B94EBF4E9A1C669B18CB0B9A472C5",
+      "algorithm": "Unknown",
+      "algorithm_id": 0
+    }
+  },
+  "client_dialects": [
+    "memories minimize pipe",
+    "exam defining difficulty"
+  ],
+  "category_name": "Network Activity",
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "shares supplements focal",
+      "version": "1.4.0-dev",
+      "uid": "b15c6c0c-54de-11ef-8d30-0242ac110008",
+      "vendor_name": "symbols decent has"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "graduates",
+    "log_name": "tub examining prep",
+    "log_provider": "dimensions unauthorized exam",
+    "tenant_uid": "b15c81ce-54de-11ef-8975-0242ac110008"
+  },
+  "command": "implications crash town",
+  "status_code": "brush",
+  "severity_id": 0,
+  "class_uid": 4006,
+  "status": "logan",
+  "dst_endpoint": {
+    "name": "ar roman quick",
+    "owner": {
+      "name": "December",
+      "type": "Admin",
+      "uid": "b15b84b8-54de-11ef-bdc8-0242ac110008",
+      "org": {
+        "name": "functioning routers commented",
+        "ou_name": "fourth elevation formats"
+      },
+      "full_name": "Wade Ciera",
+      "type_id": 2
+    },
+    "port": 55480,
+    "type": "IDS",
+    "ip": "225.169.73.106",
+    "uid": "b15b9e76-54de-11ef-9433-0242ac110008",
+    "hostname": "indicator.int",
+    "type_id": 13,
+    "hw_info": {
+      "bios_manufacturer": "indonesia can hang",
+      "cpu_bits": 4,
+      "cpu_speed": 25,
+      "keyboard_info": {},
+      "serial_number": "builders mens syndicate"
+    },
+    "instance_uid": "b15bb820-54de-11ef-8b6f-0242ac110008",
+    "interface_name": "ordering exam acne",
+    "interface_uid": "b15c03e8-54de-11ef-9198-0242ac110008",
+    "vlan_uid": "b15c0c62-54de-11ef-9f03-0242ac110008"
+  },
+  "category_uid": 4,
+  "response": {
+    "error": "individually look deutschland",
+    "code": 58,
+    "message": "silver interstate prospective",
+    "error_message": "languages cat breaks"
+  },
+  "class_name": "SMB Activity",
+  "file": {
+    "name": "estimated.ics",
+    "size": 4234469741,
+    "type": "Local Socket",
+    "path": "searching manufacturers podcast/activities.txt/estimated.ics",
+    "ext": "notice ontario egypt",
+    "parent_folder": "searching manufacturers podcast/activities.txt",
+    "type_id": 5,
+    "confidentiality": "decreased essays low",
+    "hashes": [
+      {
+        "value": "A88EEEAEF34DBCBDA5B04B6D358A4F2A1B3A61923F1827E9C9DBEEC3CC26F05B598AA3E72EBD2B12986A09CBE49A8218BC457FAC367C1246EF540DF610B10976",
+        "algorithm": "SHA-512",
+        "algorithm_id": 4
+      }
+    ],
+    "security_descriptor": "radius off valves"
+  },
+  "severity": "Unknown",
+  "dialect": "liberal rid terrain",
+  "tree_uid": "b15b057e-54de-11ef-abe8-0242ac110008",
+  "open_type": "apply geographic considering",
+  "connection_info": {
+    "uid": "b15af890-54de-11ef-b8fb-0242ac110008",
+    "boundary": "Local Gateway",
+    "direction": "Outbound",
+    "boundary_id": 9,
+    "direction_id": 2,
+    "protocol_num": 63,
+    "protocol_ver": "given",
+    "protocol_ver_id": 99
+  },
+  "proxy": {
+    "name": "patrick dt dealt",
+    "owner": {
+      "name": "District",
+      "type": "Unknown",
+      "uid": "b159b2d2-54de-11ef-b398-0242ac110008",
+      "full_name": "Sharon Ora",
+      "type_id": 0,
+      "credential_uid": "b159cfe2-54de-11ef-847f-0242ac110008",
+      "email_addr": "Lindsay@aerospace.travel",
+      "risk_score": 55,
+      "uid_alt": "quizzes allow favors"
+    },
+    "port": 64386,
+    "type": "Server",
+    "ip": "13.43.175.66",
+    "uid": "b159f404-54de-11ef-be33-0242ac110008",
+    "hostname": "duncan.coop",
+    "type_id": 1,
+    "agent_list": [
+      {
+        "name": "emperor detroit mug",
+        "type": "Mobile Device Management",
+        "uid": "b15abdb2-54de-11ef-99c2-0242ac110008",
+        "type_id": 7
+      }
+    ],
+    "instance_uid": "b15ac7da-54de-11ef-82ed-0242ac110008",
+    "interface_name": "constraint salmon quit",
+    "svc_name": "distance fixtures hs"
+  },
+  "traffic": {
+    "bytes": 3992863893,
+    "packets_out": 2789211744
+  },
+  "share_type": "Pipe"
+}

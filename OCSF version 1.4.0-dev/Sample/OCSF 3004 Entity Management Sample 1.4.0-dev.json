@@ -1,0 +1,426 @@
+{
+  "message": "blonde pockets mhz",
+  "status": "Unknown",
+  "time": 1723050112438079,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "filtering developers generous",
+      "version": "1.4.0-dev",
+      "uid": "be5116a6-54de-11ef-aaca-0242ac110008",
+      "vendor_name": "central windsor gbp"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "tf satisfactory experts",
+    "log_provider": "strings silver repair",
+    "logged_time": 1723050112423960,
+    "original_time": "paperbacks camcorders accurate",
+    "tenant_uid": "be513a1e-54de-11ef-825e-0242ac110008"
+  },
+  "comment": "laser donors neo",
+  "severity": "Informational",
+  "timezone_offset": 39,
+  "activity_id": 12,
+  "class_uid": 3004,
+  "type_uid": 300412,
+  "type_name": "Entity Management: Suspend",
+  "observables": [
+    {
+      "name": "thinking hint expected",
+      "type": "Uniform Resource Locator",
+      "type_id": 23
+    },
+    {
+      "name": "answer riverside fewer",
+      "type": "CWE Object: uid",
+      "type_id": 17
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "activity_name": "Suspend",
+  "enrichments": [
+    {
+      "data": "corners",
+      "name": "swift hampton manually",
+      "type": "lifestyle pipes dir",
+      "value": "applicants homeland findlaw",
+      "created_time": 1723050112431703,
+      "provider": "origins witch mountain",
+      "short_desc": "locale kirk creation",
+      "src_url": "librarian"
+    },
+    {
+      "data": "bought",
+      "name": "lanka acute experiments",
+      "type": "scoop impact tracking",
+      "value": "oliver cornwall marks",
+      "created_time": 1723050112431740,
+      "provider": "bw surely dod",
+      "reputation": {
+        "base_score": 13.488,
+        "provider": "titanium reviewer proposition",
+        "score": "Probably Safe",
+        "score_id": 3
+      },
+      "short_desc": "pda assessments revenue",
+      "src_url": "upload"
+    }
+  ],
+  "entity": {
+    "name": "bp tribunal industrial",
+    "type": "Device",
+    "version": "1.4.0-dev",
+    "user": {
+      "name": "Avoid",
+      "type": "User",
+      "domain": "senior tie advisors",
+      "uid": "be518e88-54de-11ef-beed-0242ac110008",
+      "type_id": 1,
+      "ldap_person": {
+        "manager": {
+          "name": "Reconstruction",
+          "type": "proposals",
+          "uid": "be51d000-54de-11ef-a55b-0242ac110008",
+          "type_id": 99,
+          "credential_uid": "be51d79e-54de-11ef-8b7b-0242ac110008",
+          "uid_alt": "edge scholarships agencies"
+        },
+        "deleted_time": 1723050112428253,
+        "ldap_dn": "iceland legacy carriers",
+        "office_location": "absent household nancy"
+      },
+      "uid_alt": "shooting cam revenue"
+    },
+    "device": {
+      "name": "subscribe approx lopez",
+      "owner": {
+        "name": "Tan",
+        "type": "Admin",
+        "uid": "be521128-54de-11ef-997f-0242ac110008",
+        "type_id": 2,
+        "risk_level": "Low",
+        "risk_level_id": 1
+      },
+      "type": "sean",
+      "hostname": "dirty.net",
+      "type_id": 99,
+      "autoscale_uid": "be51f01c-54de-11ef-96b8-0242ac110008",
+      "imei": "graphic course visiting",
+      "interface_name": "healing standing disc",
+      "interface_uid": "be51fd14-54de-11ef-90a5-0242ac110008",
+      "last_seen_time": 1723050112429783,
+      "region": "jane passed automatically",
+      "zone": "hunt documentation results"
+    },
+    "group": {
+      "name": "taiwan quarter painting",
+      "uid": "be5221fe-54de-11ef-984f-0242ac110008",
+      "privileges": [
+        "retail homepage compete"
+      ]
+    },
+    "uid": "be522938-54de-11ef-ab1a-0242ac110008",
+    "email": {
+      "size": 2919573882,
+      "uid": "be523248-54de-11ef-b0f9-0242ac110008",
+      "from": "Awilda@gale.pro",
+      "to": [
+        "Desmond@scheduled.info",
+        "Maira@voices.biz"
+      ],
+      "message_uid": "be523c8e-54de-11ef-8001-0242ac110008",
+      "reply_to": "Melia@funds.mil",
+      "smtp_from": "Maurice@deny.biz",
+      "smtp_to": [
+        "Hannelore@programme.cat"
+      ]
+    },
+    "org": {
+      "name": "using tight conditioning",
+      "uid": "be52467a-54de-11ef-ba85-0242ac110008",
+      "ou_name": "johnny act og"
+    },
+    "type_id": 1,
+    "policy": {
+      "name": "se extending por",
+      "version": "1.4.0-dev",
+      "group": {
+        "name": "sector maldives gordon",
+        "type": "photographic cedar dodge"
+      },
+      "uid": "be525958-54de-11ef-a035-0242ac110008",
+      "is_applied": true
+    }
+  },
+  "entity_result": {
+    "name": "museum frederick publicly",
+    "type": "User",
+    "version": "1.4.0-dev",
+    "user": {
+      "name": "Substances",
+      "type": "System",
+      "uid": "be536b72-54de-11ef-9179-0242ac110008",
+      "type_id": 3,
+      "credential_uid": "be539e62-54de-11ef-aa79-0242ac110008",
+      "ldap_person": {
+        "manager": {
+          "type": "Admin",
+          "uid": "be53b8b6-54de-11ef-9f31-0242ac110008",
+          "groups": [
+            {
+              "type": "monitor straight proceeds",
+              "uid": "be53ce1e-54de-11ef-ad1e-0242ac110008"
+            },
+            {
+              "name": "suppose gasoline floors",
+              "uid": "be53d526-54de-11ef-bf5e-0242ac110008"
+            }
+          ],
+          "full_name": "Shani Taylor",
+          "type_id": 2,
+          "ldap_person": {
+            "location": {
+              "desc": "New Zealand",
+              "city": "Williams pricing",
+              "country": "NZ",
+              "coordinates": [
+                -138.5877,
+                58.9244
+              ],
+              "continent": "Oceania"
+            },
+            "labels": [
+              "cycling",
+              "vampire"
+            ],
+            "created_time": 1723050112441471,
+            "ldap_dn": "ibm cylinder specialties"
+          },
+          "risk_level": "Info",
+          "risk_level_id": 0
+        },
+        "employee_uid": "be53e8f4-54de-11ef-b2ba-0242ac110008",
+        "ldap_cn": "bidding capacity composite",
+        "modified_time": 1723050112441805
+      }
+    },
+    "device": {
+      "owner": {
+        "name": "Playback",
+        "type": "loads",
+        "uid": "be545e06-54de-11ef-8290-0242ac110008",
+        "type_id": 99,
+        "credential_uid": "be547e90-54de-11ef-ac71-0242ac110008",
+        "ldap_person": {
+          "email_addrs": [
+            "Agnus@intervention.gov"
+          ],
+          "ldap_cn": "matrix dumb construction"
+        }
+      },
+      "type": "Load Balancer",
+      "uid": "be5498ee-54de-11ef-9a66-0242ac110008",
+      "hostname": "national.gov",
+      "mac": "51:EE:B9:39:4E:76:9D:52",
+      "image": {
+        "name": "holdem kenneth civilization",
+        "uid": "be5451c2-54de-11ef-b298-0242ac110008"
+      },
+      "groups": [
+        {
+          "name": "oak biography ic",
+          "uid": "be5404f6-54de-11ef-8b96-0242ac110008",
+          "privileges": [
+            "atomic chester jd",
+            "internal cork works"
+          ]
+        },
+        {
+          "name": "refresh back works",
+          "type": "sponsor chip anything",
+          "domain": "failing cups webmasters",
+          "uid": "be540cee-54de-11ef-bb52-0242ac110008"
+        }
+      ],
+      "type_id": 15,
+      "agent_list": [
+        {
+          "name": "tested lounge hypothesis",
+          "type": "Mobile Device Management",
+          "version": "1.4.0-dev",
+          "uid": "be542eae-54de-11ef-ae64-0242ac110008",
+          "type_id": 7
+        },
+        {
+          "name": "epson recreation encountered",
+          "type": "accompanying",
+          "uid": "be543660-54de-11ef-aaa0-0242ac110008",
+          "type_id": 99
+        }
+      ],
+      "instance_uid": "be54186a-54de-11ef-bd6c-0242ac110008",
+      "interface_name": "poems katie wild",
+      "is_compliant": false,
+      "region": "sculpture generate tommy"
+    },
+    "uid": "be54a60e-54de-11ef-b775-0242ac110008",
+    "email": {
+      "size": 199710673,
+      "uid": "be54b536-54de-11ef-a5f3-0242ac110008",
+      "from": "Donovan@testing.firm",
+      "to": [
+        "Ernestina@worship.edu",
+        "Henry@breaking.coop"
+      ],
+      "message_uid": "be54c35a-54de-11ef-a8f8-0242ac110008",
+      "raw_header": "dublin stop ct",
+      "reply_to": "Bobbi@thru.arpa",
+      "smtp_from": "Margarita@round.name",
+      "smtp_to": [
+        "Racheal@trails.org",
+        "Shantel@measured.edu"
+      ]
+    },
+    "org": {
+      "name": "scanner western opportunity",
+      "uid": "be54ce86-54de-11ef-9634-0242ac110008",
+      "ou_name": "arbitration anything meanwhile"
+    },
+    "type_id": 2,
+    "policy": {
+      "name": "cache screw features",
+      "version": "1.4.0-dev",
+      "uid": "be54df66-54de-11ef-a2ef-0242ac110008",
+      "is_applied": false
+    }
+  },
+  "severity_id": 1,
+  "src_endpoint": {
+    "name": "dvd stand pictures",
+    "owner": {
+      "name": "Neck",
+      "type": "User",
+      "uid": "be527fb4-54de-11ef-ad74-0242ac110008",
+      "type_id": 1,
+      "ldap_person": {
+        "labels": [
+          "prairie",
+          "monitored"
+        ],
+        "created_time": 1723050112432804,
+        "employee_uid": "be52912a-54de-11ef-b53d-0242ac110008",
+        "last_login_time": 1723050112432983
+      }
+    },
+    "port": 32796,
+    "type": "Server",
+    "ip": "119.113.212.181",
+    "uid": "be529814-54de-11ef-ab51-0242ac110008",
+    "hostname": "biz.int",
+    "type_id": 1,
+    "agent_list": [
+      {
+        "name": "creations worcester aluminium",
+        "type": "Data Loss Prevention",
+        "uid": "be52aa20-54de-11ef-aa4f-0242ac110008",
+        "type_id": 2
+      },
+      {
+        "type": "Performance Monitoring & Observability",
+        "uid": "be52b308-54de-11ef-8486-0242ac110008",
+        "type_id": 4
+      }
+    ],
+    "instance_uid": "be52b984-54de-11ef-9d5c-0242ac110008",
+    "interface_name": "ing spears woods",
+    "interface_uid": "be52c046-54de-11ef-b7d4-0242ac110008",
+    "proxy_endpoint": {
+      "name": "harbor marketing job",
+      "owner": {
+        "type": "User",
+        "uid": "be52d9dc-54de-11ef-9208-0242ac110008",
+        "type_id": 1,
+        "risk_level": "Critical",
+        "risk_level_id": 4,
+        "risk_score": 11,
+        "uid_alt": "plaintiff icon drawing"
+      },
+      "port": 15628,
+      "type": "Router",
+      "ip": "68.102.165.201",
+      "uid": "be52e148-54de-11ef-bb59-0242ac110008",
+      "hostname": "wow.pro",
+      "type_id": 12,
+      "agent_list": [
+        {
+          "name": "excessive kit taste",
+          "type": "Endpoint Detection and Response",
+          "uid": "be52ee22-54de-11ef-8b84-0242ac110008",
+          "type_id": 1,
+          "policies": [
+            {
+              "name": "selling breaks mileage",
+              "uid": "be52ff70-54de-11ef-a11e-0242ac110008",
+              "is_applied": true
+            }
+          ],
+          "vendor_name": "beneficial corpus very"
+        },
+        {
+          "name": "amateur center no",
+          "type": "Data Loss Prevention",
+          "uid": "be5308b2-54de-11ef-809c-0242ac110008",
+          "type_id": 2,
+          "policies": [
+            {
+              "name": "hall relating plenty",
+              "version": "1.4.0-dev",
+              "group": {
+                "name": "allocated dealers christine",
+                "domain": "mode webster territory",
+                "uid": "be5322d4-54de-11ef-b2c7-0242ac110008"
+              },
+              "uid": "be532932-54de-11ef-a5a1-0242ac110008",
+              "is_applied": false
+            },
+            {
+              "name": "larger hazard cw",
+              "version": "1.4.0-dev",
+              "group": {
+                "name": "jackets leo retired",
+                "desc": "notion lyrics bars",
+                "uid": "be5333a0-54de-11ef-8d05-0242ac110008"
+              },
+              "desc": "pipes sucking quantity",
+              "uid": "be533a1c-54de-11ef-b5fe-0242ac110008"
+            }
+          ]
+        }
+      ],
+      "hw_info": {
+        "bios_ver": "3.1.3",
+        "cpu_type": "hybrid the learn",
+        "keyboard_info": {
+          "keyboard_subtype": 14
+        }
+      },
+      "instance_uid": "be534a16-54de-11ef-9386-0242ac110008",
+      "interface_name": "weekend cameron intensity",
+      "interface_uid": "be535696-54de-11ef-a379-0242ac110008",
+      "intermediate_ips": [
+        "92.162.12.238",
+        "49.89.1.55"
+      ],
+      "svc_name": "current verified striking"
+    },
+    "svc_name": "hidden hans impression",
+    "zone": "relating located advocate"
+  },
+  "status_code": "shaw",
+  "status_detail": "phrases symphony structures",
+  "status_id": 0
+}

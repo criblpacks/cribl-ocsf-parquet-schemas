@@ -1,0 +1,157 @@
+{
+  "count": 85,
+  "message": "saints originally bet",
+  "session": {
+    "uid": "c3d0077c-54de-11ef-b230-0242ac110008",
+    "issuer": "ce freelance declaration",
+    "created_time": 1723050121643839,
+    "is_remote": false
+  },
+  "status": "Success",
+  "time": 1723050121642709,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "version": "1.4.0-dev",
+      "uid": "c3cf9148-54de-11ef-8201-0242ac110008",
+      "feature": {
+        "name": "seminars mechanics maritime",
+        "uid": "c3cf9c42-54de-11ef-9f72-0242ac110008"
+      },
+      "lang": "en",
+      "vendor_name": "curves singing auburn"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "c3cfa5f2-54de-11ef-8f5c-0242ac110008",
+    "log_name": "breed confusion lithuania",
+    "log_provider": "starring scholar incorrect",
+    "original_time": "numbers sleeps walked",
+    "tenant_uid": "c3cfada4-54de-11ef-985f-0242ac110008"
+  },
+  "proxy": {
+    "name": "beautiful fault baseball",
+    "owner": {
+      "name": "Knives",
+      "type": "User",
+      "uid": "c3cec920-54de-11ef-ae55-0242ac110008",
+      "type_id": 1,
+      "account": {
+        "name": "printer brooklyn teenage",
+        "type": "Mac OS Account",
+        "uid": "c3ceed24-54de-11ef-b1ff-0242ac110008",
+        "type_id": 7
+      }
+    },
+    "port": 37055,
+    "type": "Switch",
+    "ip": "10.184.177.66",
+    "location": {
+      "desc": "South Sudan",
+      "city": "Materials configured",
+      "country": "SS",
+      "coordinates": [
+        -171.0666,
+        87.4216
+      ],
+      "continent": "Africa"
+    },
+    "uid": "c3cf2244-54de-11ef-8688-0242ac110008",
+    "hostname": "burst.biz",
+    "mac": "7D:37:78:6F:59:69:FF:4",
+    "type_id": 10,
+    "agent_list": [
+      {
+        "name": "patents gap bound",
+        "type": "Endpoint Detection and Response",
+        "uid": "c3cf3d60-54de-11ef-864f-0242ac110008",
+        "type_id": 1
+      },
+      {
+        "name": "clip adopt mastercard",
+        "type": "Remote Access",
+        "uid": "c3cf4512-54de-11ef-b588-0242ac110008",
+        "type_id": 9
+      }
+    ],
+    "instance_uid": "c3cf4df0-54de-11ef-a364-0242ac110008",
+    "interface_name": "rooms fig treasury",
+    "interface_uid": "c3cf553e-54de-11ef-b6d3-0242ac110008",
+    "subnet_uid": "c3cf63b2-54de-11ef-ac19-0242ac110008",
+    "svc_name": "entrepreneur aluminium invention",
+    "vlan_uid": "c3cf6b00-54de-11ef-94f0-0242ac110008"
+  },
+  "connection_info": {
+    "uid": "c3cf7794-54de-11ef-8690-0242ac110008",
+    "boundary": "Same VPC",
+    "protocol_name": "edges ac observe",
+    "direction": "Outbound",
+    "boundary_id": 4,
+    "direction_id": 2,
+    "protocol_num": 28,
+    "protocol_ver": "Internet Protocol version 4 (IPv4)",
+    "protocol_ver_id": 4
+  },
+  "severity": "Fatal",
+  "protocol_name": "fwd refurbished pulled",
+  "timezone_offset": 88,
+  "activity_id": 99,
+  "class_uid": 4014,
+  "type_uid": 401499,
+  "type_name": "Tunnel Activity: Other",
+  "observables": [
+    {
+      "name": "rule amino offered",
+      "type": "MAC Address",
+      "type_id": 3
+    },
+    {
+      "name": "diagram significant italian",
+      "type": "User Name",
+      "type_id": 4,
+      "reputation": {
+        "base_score": 42.1776,
+        "provider": "hewlett ne legend",
+        "score": "Malicious",
+        "score_id": 10
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Tunnel Activity",
+  "activity_name": "brass",
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "ministries cg reproduced",
+    "owner": {
+      "name": "Disclaimers",
+      "type": "turn",
+      "uid": "c3cfc94c-54de-11ef-9887-0242ac110008",
+      "type_id": 99,
+      "credential_uid": "c3cfd072-54de-11ef-9737-0242ac110008",
+      "risk_level": "Critical",
+      "risk_level_id": 4
+    },
+    "type": "Desktop",
+    "ip": "207.48.155.86",
+    "hostname": "royal.travel",
+    "type_id": 2,
+    "autonomous_system": {
+      "name": "robbie tournaments conventions",
+      "number": 57
+    },
+    "instance_uid": "c3cfda9a-54de-11ef-b79e-0242ac110008",
+    "interface_name": "auburn golden litigation",
+    "intermediate_ips": [
+      "211.220.51.186"
+    ],
+    "svc_name": "bolivia hotel retained"
+  },
+  "status_code": "speakers",
+  "status_detail": "column developing names",
+  "status_id": 1,
+  "tunnel_type": "Unknown",
+  "tunnel_type_id": 0
+}

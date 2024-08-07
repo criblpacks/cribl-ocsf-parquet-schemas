@@ -1,0 +1,149 @@
+{
+  "message": "dept fun mag",
+  "status": "maximize",
+  "time": 1723050111098570,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "includes scott transcript",
+      "version": "1.4.0-dev",
+      "uid": "bd866672-54de-11ef-99dc-0242ac110008",
+      "vendor_name": "wichita accordance fu"
+    },
+    "extensions": [
+      {
+        "name": "spare seniors plan",
+        "version": "1.4.0-dev",
+        "uid": "bd868396-54de-11ef-a0e0-0242ac110008"
+      },
+      {
+        "name": "thumbnail tions orchestra",
+        "version": "1.4.0-dev",
+        "uid": "bd8696ce-54de-11ef-b143-0242ac110008"
+      }
+    ],
+    "labels": [
+      "republic"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "almost specified frederick",
+    "log_provider": "fear tremendous colin",
+    "original_time": "ict consolidated relax",
+    "processed_time": 1723050111096228
+  },
+  "severity": "Low",
+  "email": {
+    "size": 1903037122,
+    "uid": "bd86a72c-54de-11ef-93dc-0242ac110008",
+    "from": "Lovie@implement.pro",
+    "to": [
+      "Nathan@puts.gov"
+    ],
+    "subject": "been preliminary where",
+    "message_uid": "bd86b2e4-54de-11ef-a51c-0242ac110008",
+    "reply_to": "Bailey@qatar.pro",
+    "smtp_from": "Alfredia@susan.travel",
+    "smtp_to": [
+      "Zoe@lands.store"
+    ],
+    "x_originating_ip": [
+      "176.23.246.121",
+      "221.168.234.215"
+    ]
+  },
+  "direction": "samoa",
+  "timezone_offset": 50,
+  "class_uid": 4009,
+  "type_uid": 1299309223,
+  "observables": [
+    {
+      "name": "phys witch usage",
+      "type": "Process Name",
+      "value": "pa attack concerned",
+      "type_id": 9
+    },
+    {
+      "name": "allergy generate holding",
+      "type": "CWE Object: uid",
+      "type_id": 17
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "direction_id": 99,
+  "dst_endpoint": {
+    "name": "cal high beginners",
+    "owner": {
+      "type": "Unknown",
+      "uid": "bd85d3b0-54de-11ef-96a2-0242ac110008",
+      "type_id": 0,
+      "ldap_person": {
+        "job_title": "insects distributions preserve",
+        "last_login_time": 1723050111091525
+      },
+      "risk_score": 81,
+      "uid_alt": "tuition reel weapon"
+    },
+    "port": 40088,
+    "type": "Hub",
+    "ip": "167.245.93.2",
+    "uid": "bd85f16a-54de-11ef-8283-0242ac110008",
+    "hostname": "alabama.com",
+    "type_id": 11,
+    "agent_list": [
+      {
+        "name": "denied continued gr",
+        "type": "Endpoint Detection and Response",
+        "uid": "bd860858-54de-11ef-b7c8-0242ac110008",
+        "type_id": 1
+      }
+    ],
+    "instance_uid": "bd86156e-54de-11ef-be23-0242ac110008",
+    "interface_name": "advocate religion prisoner",
+    "svc_name": "participated realty civilian",
+    "vlan_uid": "bd862ac2-54de-11ef-ae23-0242ac110008",
+    "vpc_uid": "bd8643fe-54de-11ef-ba6e-0242ac110008"
+  },
+  "email_auth": {
+    "spf": "brunswick thin nearly",
+    "dkim": "organ happens provided",
+    "dkim_domain": "closer hence ai",
+    "dmarc": "sales tons gs",
+    "dmarc_override": "smooth overseas decline",
+    "dmarc_policy": "reserved influenced lack"
+  },
+  "severity_id": 2,
+  "smtp_hello": "decades lbs brian",
+  "src_endpoint": {
+    "name": "poverty ocean antonio",
+    "owner": {
+      "name": "Recipients",
+      "type": "Unknown",
+      "uid": "bd86ca5e-54de-11ef-a781-0242ac110008",
+      "org": {
+        "name": "selection expanded bolivia",
+        "uid": "bd86d71a-54de-11ef-9161-0242ac110008",
+        "ou_name": "apparel nsw filename"
+      },
+      "full_name": "Claude Lemuel",
+      "type_id": 0
+    },
+    "port": 26682,
+    "type": "Mobile",
+    "ip": "163.10.179.67",
+    "uid": "bd86df6c-54de-11ef-a14f-0242ac110008",
+    "hostname": "digest.aero",
+    "type_id": 5,
+    "instance_uid": "bd86e94e-54de-11ef-a8ba-0242ac110008",
+    "interface_name": "lowest talks actually",
+    "interface_uid": "bd86f27c-54de-11ef-b7b9-0242ac110008",
+    "svc_name": "mc season twin",
+    "zone": "indexes asus lectures"
+  },
+  "status_code": "lack",
+  "status_detail": "topic renew applies",
+  "status_id": 99
+}

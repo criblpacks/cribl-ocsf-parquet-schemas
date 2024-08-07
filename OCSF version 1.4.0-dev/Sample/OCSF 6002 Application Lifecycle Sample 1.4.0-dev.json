@@ -1,0 +1,184 @@
+{
+  "message": "danny travelers drilling",
+  "status": "Failure",
+  "time": 1723050099719673,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "version": "1.4.0-dev",
+      "uid": "b6bbffd2-54de-11ef-ad5c-0242ac110008",
+      "cpe_name": "artwork inquiries likely",
+      "vendor_name": "cambridge artistic yahoo"
+    },
+    "sequence": 5,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "on gi hilton",
+    "log_provider": "elephant tea think",
+    "logged_time": 1723050099702561,
+    "loggers": [
+      {
+        "name": "perform reaches espn",
+        "device": {
+          "name": "spas intense briefly",
+          "owner": {
+            "name": "Holmes",
+            "type": "User",
+            "uid": "b6bcf52c-54de-11ef-9099-0242ac110008",
+            "type_id": 1,
+            "account": {
+              "name": "polyester broadcasting ar",
+              "type": "drug",
+              "uid": "b6bd10f2-54de-11ef-86da-0242ac110008",
+              "labels": [
+                "wellness",
+                "scanning"
+              ],
+              "type_id": 99
+            },
+            "email_addr": "Lakeisha@tables.name",
+            "risk_level": "Medium",
+            "risk_level_id": 2
+          },
+          "type": "paragraphs",
+          "os": {
+            "name": "still control civilian",
+            "type": "Unknown",
+            "version": "1.4.0-dev",
+            "lang": "en",
+            "type_id": 0,
+            "edition": "humanitarian mental ro",
+            "sp_ver": 69
+          },
+          "location": {
+            "desc": "Liechtenstein, Principality of",
+            "city": "Gates mu",
+            "country": "LI",
+            "coordinates": [
+              40.239,
+              39.1274
+            ],
+            "continent": "Europe"
+          },
+          "uid": "b6bd3492-54de-11ef-9c49-0242ac110008",
+          "hostname": "participation.mobi",
+          "mac": "AE:AD:F1:61:3C:85:A7:58",
+          "type_id": 99,
+          "first_seen_time": 1723050099707402,
+          "instance_uid": "b6bcb8e6-54de-11ef-8a4f-0242ac110008",
+          "interface_name": "together miller experiencing",
+          "interface_uid": "b6bccba6-54de-11ef-95b1-0242ac110008",
+          "modified_time": 1723050099707389,
+          "network_interfaces": [
+            {
+              "name": "championship supposed extensions",
+              "type": "Mobile",
+              "hostname": "janet.mil",
+              "type_id": 3,
+              "subnet_prefix": 34
+            },
+            {
+              "name": "medline unlike hints",
+              "type": "trek",
+              "ip": "248.39.63.80",
+              "uid": "b6bd57ce-54de-11ef-9f36-0242ac110008",
+              "hostname": "bush.firm",
+              "mac": "F3:1F:D:93:E0:94:8D:1A",
+              "type_id": 99
+            }
+          ],
+          "region": "meetings vinyl strong"
+        },
+        "product": {
+          "name": "nominations horror manuals",
+          "version": "1.4.0-dev",
+          "uid": "b6bd6e80-54de-11ef-ac3e-0242ac110008",
+          "url_string": "agreements",
+          "vendor_name": "bear monthly tissue"
+        },
+        "uid": "b6bda724-54de-11ef-bbbc-0242ac110008",
+        "log_name": "problem prospect season",
+        "log_provider": "aged super anti",
+        "log_version": "downloaded ja cedar",
+        "logged_time": 1723050099713046
+      },
+      {
+        "name": "eastern fuji fighter",
+        "version": "1.4.0-dev",
+        "device": {
+          "name": "psychological bringing smoke",
+          "owner": {
+            "name": "Chapter",
+            "uid": "b6be0d5e-54de-11ef-9d96-0242ac110008",
+            "email_addr": "Neoma@muslims.mobi",
+            "uid_alt": "taxation sent purchases"
+          },
+          "type": "Server",
+          "uid": "b6be1ad8-54de-11ef-9161-0242ac110008",
+          "type_id": 1,
+          "autoscale_uid": "b6bdc286-54de-11ef-add9-0242ac110008",
+          "boot_time": 1723050099715972,
+          "created_time": 1723050099713448,
+          "first_seen_time": 1723050099715191,
+          "instance_uid": "b6bdf576-54de-11ef-97e4-0242ac110008",
+          "interface_name": "wanting nursing lb",
+          "interface_uid": "b6bdfc6a-54de-11ef-91f6-0242ac110008",
+          "last_seen_time": 1723050099715781,
+          "region": "karl notion indexes",
+          "zone": "ham flush provision"
+        },
+        "product": {
+          "name": "impressive herbs life",
+          "version": "1.4.0-dev",
+          "path": "ciao rail bedford",
+          "uid": "b6be2f96-54de-11ef-9a71-0242ac110008",
+          "url_string": "verification",
+          "vendor_name": "quiz ghana lakes"
+        },
+        "uid": "b6be3f18-54de-11ef-b7e9-0242ac110008",
+        "log_provider": "robin rounds oecd",
+        "logged_time": 1723050099717228,
+        "transmit_time": 1723050099717235
+      }
+    ],
+    "original_time": "click tremendous offset",
+    "tenant_uid": "b6be55c0-54de-11ef-b89a-0242ac110008"
+  },
+  "app": {
+    "name": "women stan filed",
+    "version": "1.4.0-dev",
+    "uid": "b6be8036-54de-11ef-87c0-0242ac110008",
+    "feature": {
+      "name": "float sussex camcorder",
+      "uid": "b6bea8b8-54de-11ef-b6aa-0242ac110008"
+    },
+    "vendor_name": "dutch dui partnership"
+  },
+  "severity": "Unknown",
+  "timezone_offset": 44,
+  "activity_id": 3,
+  "class_uid": 6002,
+  "type_uid": 600203,
+  "type_name": "Application Lifecycle: Start",
+  "observables": [
+    {
+      "name": "lesbians panama paragraphs",
+      "type": "Email Address",
+      "type_id": 5
+    },
+    {
+      "name": "indoor parameter wiley",
+      "type": "Command Line",
+      "type_id": 13
+    }
+  ],
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "activity_name": "Start",
+  "severity_id": 0,
+  "status_code": "class",
+  "status_detail": "indiana population equations",
+  "status_id": 2
+}

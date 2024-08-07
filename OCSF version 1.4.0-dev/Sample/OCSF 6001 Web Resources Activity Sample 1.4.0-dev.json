@@ -1,0 +1,232 @@
+{
+  "count": 73,
+  "http_request": {
+    "version": "1.4.0-dev",
+    "url": {
+      "port": 28628,
+      "scheme": "request illustrations keith",
+      "path": "informed drug jim",
+      "hostname": "kept.info",
+      "query_string": "swimming hydraulic nascar",
+      "category_ids": [
+        102,
+        71
+      ],
+      "url_string": "jvc"
+    },
+    "user_agent": "const loaded catch",
+    "http_headers": [
+      {
+        "name": "alarm merit florida",
+        "value": "toll macromedia story"
+      },
+      {
+        "name": "priorities noise intro",
+        "value": "hotel confirmed responding"
+      }
+    ],
+    "http_method": "POST",
+    "referrer": "covers builds playstation"
+  },
+  "message": "laser checkout wire",
+  "status": "conceptual",
+  "time": 1723050114662345,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "contrary example camel",
+      "version": "1.4.0-dev",
+      "uid": "bfa5e6c6-54de-11ef-8c16-0242ac110008"
+    },
+    "product": {
+      "version": "1.4.0-dev",
+      "uid": "bfa5f2b0-54de-11ef-b4d6-0242ac110008",
+      "lang": "en",
+      "vendor_name": "participating infection traditions"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "silent horn attempted",
+    "log_provider": "ala afternoon allowing",
+    "original_time": "queue expand canyon",
+    "tenant_uid": "bfa5fb16-54de-11ef-a93f-0242ac110008"
+  },
+  "severity": "High",
+  "activity_id": 5,
+  "class_uid": 6001,
+  "type_uid": 600105,
+  "type_name": "Web Resources Activity: Search",
+  "observables": [
+    {
+      "name": "trends rising condition",
+      "type": "File",
+      "type_id": 24,
+      "reputation": {
+        "base_score": 43.7554,
+        "provider": "therapy spring nuts",
+        "score": "Very Safe",
+        "score_id": 1
+      }
+    },
+    {
+      "name": "list renaissance rage",
+      "type": "Fingerprint",
+      "type_id": 30
+    }
+  ],
+  "category_name": "Application Activity",
+  "category_uid": 6,
+  "class_name": "Web Resources Activity",
+  "activity_name": "Search",
+  "dst_endpoint": {
+    "name": "occurrence proposed needle",
+    "owner": {
+      "name": "Businesses",
+      "type": "Unknown",
+      "uid": "bfa534a6-54de-11ef-912c-0242ac110008",
+      "type_id": 0,
+      "account": {
+        "name": "see dates tony",
+        "type": "LDAP Account",
+        "uid": "bfa54324-54de-11ef-b22d-0242ac110008",
+        "type_id": 1
+      },
+      "email_addr": "Naida@browsers.name",
+      "uid_alt": "modular vc cst"
+    },
+    "port": 23259,
+    "os": {
+      "name": "articles robot genuine",
+      "type": "iOS",
+      "type_id": 301,
+      "cpu_bits": 18
+    },
+    "ip": "187.239.139.196",
+    "location": {
+      "desc": "Serbia, Republic of",
+      "city": "Guest signing",
+      "country": "RS",
+      "coordinates": [
+        -151.0772,
+        -66.6422
+      ],
+      "continent": "Europe"
+    },
+    "uid": "bfa554b8-54de-11ef-b90b-0242ac110008",
+    "hw_info": {
+      "bios_ver": "3.1.3",
+      "chassis": "cartridges concert meter"
+    },
+    "instance_uid": "bfa5a008-54de-11ef-8acf-0242ac110008",
+    "interface_name": "settled enterprise workers",
+    "interface_uid": "bfa5a742-54de-11ef-8a1f-0242ac110008",
+    "proxy_endpoint": {
+      "name": "page investigations recommend",
+      "owner": {
+        "name": "Om",
+        "type": "User",
+        "uid": "bfa5c2d6-54de-11ef-b7f5-0242ac110008",
+        "full_name": "Tamekia Ashlea",
+        "type_id": 1,
+        "email_addr": "Maribeth@forge.net",
+        "risk_level": "focal willow corresponding"
+      },
+      "port": 33528,
+      "type": "IPS",
+      "domain": "ontario pee todd",
+      "ip": "211.63.74.21",
+      "hostname": "hurt.web",
+      "type_id": 14,
+      "instance_uid": "bfa5ccb8-54de-11ef-8550-0242ac110008",
+      "interface_name": "july if bra",
+      "interface_uid": "bfa5d37a-54de-11ef-9d59-0242ac110008",
+      "svc_name": "mtv licence disabilities"
+    },
+    "svc_name": "powder behalf program"
+  },
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "laboratory orders uniprotkb",
+    "owner": {
+      "name": "Loan",
+      "uid": "bfa659da-54de-11ef-b25c-0242ac110008",
+      "org": {
+        "name": "detect fifth disney",
+        "uid": "bfa667fe-54de-11ef-8da7-0242ac110008",
+        "ou_name": "clothing beef himself"
+      }
+    },
+    "port": 35363,
+    "type": "Load Balancer",
+    "ip": "51.229.125.193",
+    "location": {
+      "desc": "American Samoa",
+      "city": "Convicted industry",
+      "country": "AS",
+      "coordinates": [
+        161.1491,
+        50.0192
+      ],
+      "continent": "Oceania"
+    },
+    "uid": "bfa673c0-54de-11ef-9638-0242ac110008",
+    "hostname": "buddy.net",
+    "mac": "81:EF:81:9A:86:3E:C2:3B",
+    "type_id": 15,
+    "agent_list": [
+      {
+        "name": "sega owns blanket",
+        "type": "Vulnerability Management",
+        "version": "1.4.0-dev",
+        "uid": "bfa6843c-54de-11ef-842d-0242ac110008",
+        "type_id": 5
+      },
+      {
+        "name": "dt regularly victor",
+        "type": "bankruptcy",
+        "uid": "bfa68b9e-54de-11ef-aca8-0242ac110008",
+        "type_id": 99
+      }
+    ],
+    "interface_name": "market magnet kw",
+    "interface_uid": "bfa692a6-54de-11ef-aede-0242ac110008",
+    "svc_name": "consistently virtually planned",
+    "vlan_uid": "bfa698f0-54de-11ef-be77-0242ac110008",
+    "zone": "conviction opponents cnet"
+  },
+  "status_code": "postal",
+  "status_detail": "scripts stability relatively",
+  "status_id": 99,
+  "web_resources": [
+    {
+      "name": "adult backup banks",
+      "desc": "effectively ta excellent",
+      "uid": "bfa6aef8-54de-11ef-9d08-0242ac110008",
+      "url_string": "satisfied"
+    },
+    {
+      "name": "plastic introduce embedded",
+      "uid": "bfa6bc68-54de-11ef-a0cd-0242ac110008",
+      "labels": [
+        "product",
+        "errors"
+      ],
+      "url_string": "links"
+    }
+  ],
+  "web_resources_result": [
+    {
+      "data": "designing",
+      "name": "affiliate chip fox",
+      "uid": "bfa4f11c-54de-11ef-8908-0242ac110008",
+      "url_string": "fast"
+    },
+    {
+      "name": "nomination afterwards halo",
+      "desc": "prepare become movers",
+      "uid": "bfa4fa2c-54de-11ef-bc3c-0242ac110008",
+      "url_string": "static"
+    }
+  ]
+}

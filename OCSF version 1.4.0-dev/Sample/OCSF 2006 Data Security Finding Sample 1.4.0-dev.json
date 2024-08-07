@@ -1,0 +1,266 @@
+{
+  "message": "expenditures help arrest",
+  "status": "Resolved",
+  "table": {
+    "name": "positive yn peterson",
+    "uid": "b581149a-54de-11ef-b1b2-0242ac110008",
+    "created_time": 1723050097638319
+  },
+  "time": 1723050097642370,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "kg disclaimer geneva",
+      "version": "1.4.0-dev",
+      "uid": "b581516c-54de-11ef-a4cf-0242ac110008",
+      "cpe_name": "darwin dubai ministers",
+      "vendor_name": "noon kansas viewing"
+    },
+    "uid": "b5815fc2-54de-11ef-b802-0242ac110008",
+    "labels": [
+      "system",
+      "weapons"
+    ],
+    "sequence": 33,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "fever variety development",
+    "original_time": "hook con simple",
+    "tenant_uid": "b5816b3e-54de-11ef-8150-0242ac110008"
+  },
+  "comment": "contents leeds occupation",
+  "severity": "Informational",
+  "resources": [
+    {
+      "name": "needs pharmaceuticals course",
+      "owner": {
+        "type": "Unknown",
+        "uid": "b581cdb8-54de-11ef-beab-0242ac110008",
+        "full_name": "Jeni Sixta",
+        "type_id": 0,
+        "account": {
+          "name": "pure mentor usual",
+          "type": "AWS IAM Role",
+          "type_id": 4
+        },
+        "ldap_person": {
+          "location": {
+            "desc": "Maldives, Republic of",
+            "city": "Installed proven",
+            "country": "MV",
+            "coordinates": [
+              55.8072,
+              65.6889
+            ],
+            "continent": "Asia"
+          },
+          "labels": [
+            "tobacco",
+            "affected"
+          ],
+          "manager": {
+            "name": "Predicted",
+            "uid": "b581e794-54de-11ef-9b27-0242ac110008",
+            "ldap_person": {
+              "location": {
+                "desc": "Thailand, Kingdom of",
+                "city": "Photographs proceedings",
+                "country": "TH",
+                "coordinates": [
+                  -134.506,
+                  -85.7998
+                ],
+                "continent": "Asia"
+              },
+              "employee_uid": "b581f676-54de-11ef-922e-0242ac110008",
+              "hire_time": 1723050097644101,
+              "ldap_cn": "identifier arrested assign",
+              "modified_time": 1723050097644141,
+              "surname": "thumbnail described grounds"
+            }
+          },
+          "cost_center": "containing pull wagon",
+          "employee_uid": "b581ff2c-54de-11ef-930b-0242ac110008",
+          "hire_time": 1723050097644324,
+          "leave_time": 1723050097644332,
+          "modified_time": 1723050097644335
+        }
+      },
+      "uid": "b58205bc-54de-11ef-8b50-0242ac110008",
+      "labels": [
+        "placement",
+        "grounds"
+      ]
+    },
+    {
+      "data": "eliminate",
+      "name": "wider reputation concrete",
+      "owner": {
+        "name": "Rangers",
+        "type": "dominican",
+        "uid": "b5821174-54de-11ef-a190-0242ac110008",
+        "org": {
+          "name": "celebrate satisfaction hosted",
+          "uid": "b5821a0c-54de-11ef-a881-0242ac110008",
+          "ou_name": "lou awarded th"
+        },
+        "full_name": "Lashell Britney",
+        "type_id": 99,
+        "email_addr": "Vickie@gordon.com",
+        "risk_score": 65
+      },
+      "type": "legally joining dpi",
+      "uid": "b58221c8-54de-11ef-8f78-0242ac110008"
+    }
+  ],
+  "activity_id": 1,
+  "class_uid": 2006,
+  "type_uid": 200601,
+  "type_name": "Data Security Finding: Create",
+  "observables": [
+    {
+      "name": "newsletters ph samba",
+      "type": "Country",
+      "type_id": 14,
+      "reputation": {
+        "base_score": 67.0075,
+        "provider": "volume burns consolidation",
+        "score": "Possibly Malicious",
+        "score_id": 8
+      }
+    },
+    {
+      "name": "protecting accountability deadline",
+      "type": "Container",
+      "type_id": 27,
+      "reputation": {
+        "base_score": 33.3543,
+        "score": "May not be Safe",
+        "score_id": 5
+      }
+    }
+  ],
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Data Security Finding",
+  "activity_name": "Create",
+  "confidence": "dubai consultation sponsors",
+  "confidence_id": 2,
+  "confidence_score": 76,
+  "data_security": {
+    "category": "Military and Law Enforcement",
+    "pattern_match": "huge black explosion",
+    "category_id": 5,
+    "confidentiality": "derived",
+    "confidentiality_id": 99,
+    "data_lifecycle_state": "Data in-Transit",
+    "data_lifecycle_state_id": 2,
+    "detection_pattern": "adapter sweden woman",
+    "detection_system": "Data Discovery & Classification",
+    "detection_system_id": 4,
+    "policy": {
+      "name": "pink bulgaria scroll",
+      "version": "1.4.0-dev",
+      "desc": "imagination exceed registered",
+      "uid": "b5810842-54de-11ef-a84c-0242ac110008",
+      "is_applied": true
+    }
+  },
+  "database": {
+    "name": "jonathan counter write",
+    "type": "Network",
+    "uid": "b581bf08-54de-11ef-baa3-0242ac110008",
+    "type_id": 2
+  },
+  "dst_endpoint": {
+    "name": "congressional quarters tucson",
+    "port": 18296,
+    "type": "IPS",
+    "ip": "138.52.16.63",
+    "uid": "b5812688-54de-11ef-98f1-0242ac110008",
+    "hostname": "partner.travel",
+    "mac": "F6:15:E3:2D:36:BC:78:36",
+    "type_id": 14,
+    "autonomous_system": {
+      "name": "straight weather in",
+      "number": 18
+    },
+    "instance_uid": "b581307e-54de-11ef-bf40-0242ac110008",
+    "interface_name": "alabama compare available",
+    "interface_uid": "b58137d6-54de-11ef-9b1f-0242ac110008",
+    "subnet_uid": "b5813e66-54de-11ef-987d-0242ac110008",
+    "svc_name": "mail pathology assuming"
+  },
+  "finding_info": {
+    "title": "mesa og potato",
+    "uid": "b580a8ca-54de-11ef-b820-0242ac110008",
+    "analytic": {
+      "name": "circle domain injured",
+      "type": "Exact Data Match",
+      "uid": "b580d836-54de-11ef-b718-0242ac110008",
+      "type_id": 9
+    },
+    "data_sources": [
+      "ee disclosure dept",
+      "jason listen lucy"
+    ],
+    "kill_chain": [
+      {
+        "phase": "creation",
+        "phase_id": 99
+      }
+    ],
+    "related_events": [
+      {
+        "uid": "b580e9fc-54de-11ef-948f-0242ac110008",
+        "type_name": "types cost fully"
+      },
+      {
+        "uid": "b580f17c-54de-11ef-8c24-0242ac110008",
+        "type_uid": 937388715,
+        "observables": [
+          {
+            "name": "indicating metallica diana",
+            "type": "Process Name",
+            "type_id": 9,
+            "reputation": {
+              "base_score": 25.4271,
+              "score": "Safe",
+              "score_id": 2
+            }
+          },
+          {
+            "name": "adequate effort rogers",
+            "type": "Endpoint",
+            "type_id": 20
+          }
+        ]
+      }
+    ]
+  },
+  "impact": "Unknown",
+  "impact_id": 0,
+  "risk_level": "karma within japan",
+  "severity_id": 1,
+  "src_endpoint": {
+    "name": "terry guidelines strips",
+    "owner": {
+      "name": "Dome",
+      "type": "User",
+      "uid": "b581a3ec-54de-11ef-9c54-0242ac110008",
+      "type_id": 1
+    },
+    "type": "IDS",
+    "ip": "216.56.200.199",
+    "uid": "b581aad6-54de-11ef-bbf5-0242ac110008",
+    "hostname": "attribute.mobi",
+    "type_id": 13,
+    "instance_uid": "b581b198-54de-11ef-a647-0242ac110008",
+    "interface_name": "twelve declined melbourne",
+    "svc_name": "passport repairs commons"
+  },
+  "status_code": "weekends",
+  "status_detail": "educational tiles dsc",
+  "status_id": 4
+}

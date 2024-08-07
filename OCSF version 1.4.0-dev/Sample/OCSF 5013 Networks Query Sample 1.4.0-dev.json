@@ -1,0 +1,63 @@
+{
+  "message": "adware ham trackbacks",
+  "status": "Success",
+  "time": 1723050105521586,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "signal surprise operators",
+      "version": "1.4.0-dev",
+      "uid": "ba339602-54de-11ef-b188-0242ac110008"
+    },
+    "product": {
+      "name": "rivers benchmark level",
+      "uid": "ba33d45a-54de-11ef-b54a-0242ac110008",
+      "lang": "en",
+      "vendor_name": "permit eminem rat"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "perception lodge additionally",
+    "log_provider": "coordinate chancellor air",
+    "modified_time": 1723050105520892,
+    "original_time": "prisoner tones months",
+    "processed_time": 1723050105520909,
+    "tenant_uid": "ba33e5b2-54de-11ef-bca6-0242ac110008"
+  },
+  "severity": "Informational",
+  "duration": 2235981396,
+  "timezone_offset": 50,
+  "activity_id": 99,
+  "class_uid": 5013,
+  "type_uid": 501399,
+  "type_name": "Networks Query: Other",
+  "observables": [
+    {
+      "name": "rid lightweight stock",
+      "type": "CWE Object: uid",
+      "value": "modified applications storm",
+      "type_id": 17
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Networks Query",
+  "activity_name": "bottles",
+  "network_interfaces": [
+    {
+      "name": "attachment fingers classroom",
+      "type": "Wired",
+      "ip": "217.231.58.7",
+      "hostname": "sends.cat",
+      "mac": "55:D2:A2:67:AE:BB:2:F",
+      "type_id": 1
+    }
+  ],
+  "query_result": "entered",
+  "query_result_id": 99,
+  "severity_id": 1,
+  "status_code": "numerous",
+  "status_detail": "presentation relation yearly",
+  "status_id": 1
+}

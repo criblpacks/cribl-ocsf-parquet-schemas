@@ -1,0 +1,88 @@
+{
+  "message": "gauge slovakia loop",
+  "status": "Success",
+  "time": 1723050092721275,
+  "device": {
+    "type": "Load Balancer",
+    "uid": "b29271f2-54de-11ef-8c18-0242ac110008",
+    "hostname": "larger.mobi",
+    "org": {
+      "name": "pumps at expansys",
+      "uid": "b292cad0-54de-11ef-943c-0242ac110008",
+      "ou_name": "bug machines above"
+    },
+    "type_id": 15,
+    "autoscale_uid": "b2924cd6-54de-11ef-97aa-0242ac110008",
+    "created_time": 1723050092717786,
+    "first_seen_time": 1723050092718725,
+    "instance_uid": "b2925e92-54de-11ef-a121-0242ac110008",
+    "interface_name": "optics liver shaped",
+    "interface_uid": "b29268ec-54de-11ef-bb4a-0242ac110008",
+    "region": "poland staffing stadium",
+    "zone": "replacing saved scholarships"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "version": "1.4.0-dev",
+      "lang": "en",
+      "url_string": "lenders",
+      "vendor_name": "morris qt im"
+    },
+    "uid": "b2922364-54de-11ef-b0a6-0242ac110008",
+    "labels": [
+      "higher"
+    ],
+    "log_level": "guarantee repair margaret",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "reconstruction forgotten form",
+    "log_version": "congress accident laws",
+    "logged_time": 1723050092716990,
+    "original_time": "size painted temperature",
+    "tenant_uid": "b2923192-54de-11ef-ad4c-0242ac110008"
+  },
+  "severity": "Low",
+  "timezone_offset": 90,
+  "activity_id": 2,
+  "class_uid": 5004,
+  "type_uid": 500402,
+  "type_name": "Operating System Patch State: Collect",
+  "observables": [
+    {
+      "name": "adsl half appointments",
+      "type": "Uniform Resource Locator",
+      "type_id": 23,
+      "reputation": {
+        "base_score": 10.0156,
+        "provider": "dinner clothing tmp",
+        "score": "Leans Safe",
+        "score_id": 4
+      }
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Operating System Patch State",
+  "activity_name": "Collect",
+  "kb_article_list": [
+    {
+      "os": {
+        "name": "intervals carey xerox",
+        "type": "macOS",
+        "build": "rugby portion spanish",
+        "type_id": 300,
+        "cpu_bits": 77
+      },
+      "title": "studying minds examples",
+      "uid": "b291e412-54de-11ef-94a5-0242ac110008",
+      "severity": "as hardware tremendous",
+      "install_state": "Installed Pending Reboot",
+      "install_state_id": 3
+    }
+  ],
+  "severity_id": 2,
+  "status_code": "orchestra",
+  "status_id": 1
+}

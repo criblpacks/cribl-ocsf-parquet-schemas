@@ -1,0 +1,175 @@
+{
+  "message": "genealogy starting restore",
+  "priority": "Unknown",
+  "status": "Resolved",
+  "time": 1723050127662982,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "measurement meaningful synopsis",
+      "version": "1.4.0-dev",
+      "uid": "c766191c-54de-11ef-88cd-0242ac110008"
+    },
+    "product": {
+      "name": "zum defense lamp",
+      "version": "1.4.0-dev",
+      "path": "fastest likely jun",
+      "uid": "c7664504-54de-11ef-bd3e-0242ac110008",
+      "lang": "en",
+      "vendor_name": "hampshire duncan seo"
+    },
+    "uid": "c7665828-54de-11ef-ac80-0242ac110008",
+    "log_level": "destruction read placement",
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "c7667178-54de-11ef-9342-0242ac110008",
+    "log_name": "investor securities educated",
+    "log_provider": "gains surrounding fax",
+    "logged_time": 1723050127662764,
+    "original_time": "devices freeze specialist",
+    "tenant_uid": "c7667a38-54de-11ef-b6a2-0242ac110008"
+  },
+  "desc": "thong nb wishes",
+  "start_time": 1723050127663074,
+  "severity": "Low",
+  "timezone_offset": 9,
+  "activity_id": 0,
+  "class_uid": 2005,
+  "type_uid": 200500,
+  "type_name": "Incident Finding: Unknown",
+  "observables": [
+    {
+      "name": "emirates supposed able",
+      "type": "Subnet",
+      "type_id": 12
+    },
+    {
+      "name": "scratch scanned dictionary",
+      "type": "Subnet",
+      "type_id": 12,
+      "reputation": {
+        "base_score": 9.0738,
+        "provider": "v directions periodically",
+        "score": "Probably Safe",
+        "score_id": 3
+      }
+    }
+  ],
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Incident Finding",
+  "activity_name": "Unknown",
+  "confidence_id": 99,
+  "finding_info_list": [
+    {
+      "title": "syntax complicated medical",
+      "desc": "background comes safe",
+      "uid": "c764c12a-54de-11ef-a9fb-0242ac110008",
+      "attacks": [
+        {
+          "version": "12.1",
+          "tactics": [
+            {
+              "name": "Initial Access | The adversary is trying to get into your network.",
+              "uid": "TA0001"
+            },
+            {
+              "name": "Command and Control The adversary is trying to communicate with compromised systems to control them.",
+              "uid": "TA0011"
+            }
+          ],
+          "technique": {
+            "name": "Social Media Accounts",
+            "uid": "T1585.001"
+          }
+        }
+      ],
+      "analytic": {
+        "name": "fl criterion dev",
+        "type": "Unknown",
+        "uid": "c764dc1e-54de-11ef-9906-0242ac110008",
+        "type_id": 0
+      },
+      "created_time": 1723050127652370,
+      "modified_time": 1723050127652427,
+      "related_analytics": [
+        {
+          "name": "burns tractor inspiration",
+          "type": "Fingerprinting",
+          "uid": "c764f1b8-54de-11ef-a872-0242ac110008",
+          "type_id": 5
+        },
+        {
+          "name": "automation some thunder",
+          "type": "Unknown",
+          "uid": "c76589fc-54de-11ef-b4b3-0242ac110008",
+          "type_id": 0
+        }
+      ],
+      "related_events": [
+        {
+          "uid": "c765a9c8-54de-11ef-bf70-0242ac110008",
+          "type_uid": 2954268605,
+          "observables": [
+            {
+              "name": "begun vacuum rides",
+              "type": "Command Line",
+              "value": "circuits beads development",
+              "type_id": 13
+            },
+            {
+              "name": "imagine relevant argentina",
+              "type": "Unknown",
+              "type_id": 0,
+              "reputation": {
+                "base_score": 95.2282,
+                "provider": "campaign peru navy",
+                "score": "boats",
+                "score_id": 99
+              }
+            }
+          ],
+          "product_uid": "c765c674-54de-11ef-b3a5-0242ac110008"
+        },
+        {
+          "uid": "c765d3f8-54de-11ef-81c6-0242ac110008",
+          "type_uid": 1743493082,
+          "observables": [
+            {
+              "name": "extraction guards dialogue",
+              "type": "Process Name",
+              "value": "chemical relax slovenia",
+              "type_id": 9
+            },
+            {
+              "name": "feelings disabled listed",
+              "type": "User Credential ID",
+              "type_id": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "arc seeker christmas",
+      "uid": "c765f176-54de-11ef-a673-0242ac110008",
+      "types": [
+        "tripadvisor es hardly",
+        "hardly productive supplied"
+      ],
+      "last_seen_time": 1723050127659485
+    }
+  ],
+  "impact": "Medium",
+  "impact_id": 2,
+  "impact_score": 18,
+  "priority_id": 0,
+  "severity_id": 2,
+  "src_url": "live",
+  "status_code": "strengthening",
+  "status_detail": "company weeks jc",
+  "status_id": 4,
+  "verdict": "Insufficient Data",
+  "verdict_id": 7
+}

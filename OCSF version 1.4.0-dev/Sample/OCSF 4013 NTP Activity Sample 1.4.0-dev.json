@@ -1,0 +1,205 @@
+{
+  "message": "dicke lauren wall",
+  "status": "mariah",
+  "version": "1.4.0-dev",
+  "time": 1723050094808283,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "ericsson attempted own",
+      "version": "1.4.0-dev",
+      "uid": "b3d09b02-54de-11ef-a525-0242ac110008"
+    },
+    "product": {
+      "name": "strength biblical maintain",
+      "uid": "b3d0a6a6-54de-11ef-9df7-0242ac110008",
+      "lang": "en",
+      "vendor_name": "religion updated exotic"
+    },
+    "sequence": 57,
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "webcast",
+    "log_name": "spies opened bless",
+    "original_time": "ir possess match",
+    "tenant_uid": "b3d0af02-54de-11ef-acc0-0242ac110008"
+  },
+  "proxy": {
+    "name": "sagem min ia",
+    "owner": {
+      "name": "Materials",
+      "type": "adipex",
+      "type_id": 99,
+      "account": {
+        "name": "compiled grown specified",
+        "type": "Mac OS Account",
+        "uid": "b3ce296c-54de-11ef-9099-0242ac110008",
+        "type_id": 7
+      },
+      "risk_score": 76
+    },
+    "port": 28203,
+    "type": "Hub",
+    "ip": "105.144.150.81",
+    "uid": "b3ce63b4-54de-11ef-9167-0242ac110008",
+    "hostname": "funds.jobs",
+    "type_id": 11,
+    "instance_uid": "b3cf5cc4-54de-11ef-83af-0242ac110008",
+    "interface_uid": "b3cf64da-54de-11ef-b67a-0242ac110008",
+    "svc_name": "temperature restaurants antibodies",
+    "vpc_uid": "b3cf6ca0-54de-11ef-9edb-0242ac110008"
+  },
+  "precision": 20,
+  "connection_info": {
+    "uid": "b3cf793e-54de-11ef-8c2a-0242ac110008",
+    "boundary": "Gateway VPC",
+    "protocol_name": "parks damaged alabama",
+    "direction": "Lateral",
+    "boundary_id": 10,
+    "direction_id": 3,
+    "protocol_ver": "Internet Protocol version 4 (IPv4)",
+    "protocol_ver_id": 4,
+    "tcp_flags": 98
+  },
+  "delay": 62,
+  "severity": "Low",
+  "timezone_offset": 99,
+  "activity_id": 0,
+  "class_uid": 4013,
+  "type_uid": 401300,
+  "type_name": "NTP Activity: Unknown",
+  "observables": [
+    {
+      "name": "telephone polyphonic difficult",
+      "type": "File",
+      "value": "elizabeth dying encryption",
+      "type_id": 24,
+      "reputation": {
+        "base_score": 26.2154,
+        "provider": "calm tell wayne",
+        "score": "Unknown",
+        "score_id": 0
+      }
+    },
+    {
+      "name": "intention lord referrals",
+      "type": "Hash",
+      "type_id": 8
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "NTP Activity",
+  "end_time": 1723050094796683,
+  "activity_name": "Unknown",
+  "dispersion": 37,
+  "dst_endpoint": {
+    "owner": {
+      "name": "Named",
+      "type": "System",
+      "uid": "b3cf93ba-54de-11ef-b6f6-0242ac110008",
+      "type_id": 3,
+      "ldap_person": {
+        "created_time": 1723050094797444
+      }
+    },
+    "port": 36979,
+    "type": "Server",
+    "os": {
+      "name": "nc organizing touch",
+      "type": "HP-UX",
+      "type_id": 402
+    },
+    "domain": "trigger pens daughter",
+    "ip": "172.173.214.193",
+    "hostname": "investigate.cat",
+    "type_id": 1,
+    "instance_uid": "b3cfa738-54de-11ef-81f7-0242ac110008",
+    "interface_name": "forgotten prospects cell",
+    "interface_uid": "b3cfae9a-54de-11ef-8b75-0242ac110008",
+    "proxy_endpoint": {
+      "name": "granny layer vip",
+      "owner": {
+        "name": "Diversity",
+        "type": "procedures",
+        "domain": "keywords purposes bl",
+        "uid": "b3cfc524-54de-11ef-a99b-0242ac110008",
+        "type_id": 99,
+        "credential_uid": "b3cfccd6-54de-11ef-a4af-0242ac110008"
+      },
+      "port": 42011,
+      "type": "Unknown",
+      "ip": "57.131.16.129",
+      "location": {
+        "desc": "Belgium, Kingdom of",
+        "city": "Builder mrna",
+        "country": "BE",
+        "coordinates": [
+          -0.2528,
+          88.5641
+        ],
+        "continent": "Europe"
+      },
+      "uid": "b3cfd870-54de-11ef-ac62-0242ac110008",
+      "hostname": "insertion.store",
+      "type_id": 0,
+      "agent_list": [
+        {
+          "name": "putting installation shine",
+          "type": "Performance Monitoring & Observability",
+          "uid": "b3d06880-54de-11ef-ba6d-0242ac110008",
+          "type_id": 4
+        },
+        {
+          "name": "uncle bonds pale",
+          "type": "Log Forwarding",
+          "type_id": 6,
+          "vendor_name": "recipes tamil oven"
+        }
+      ],
+      "instance_uid": "b3d07424-54de-11ef-a004-0242ac110008",
+      "interface_name": "angel spa indonesia",
+      "interface_uid": "b3d07f96-54de-11ef-bfec-0242ac110008",
+      "svc_name": "will responding travel"
+    },
+    "svc_name": "group airlines personals",
+    "vlan_uid": "b3d087d4-54de-11ef-89fc-0242ac110008"
+  },
+  "severity_id": 2,
+  "src_endpoint": {
+    "name": "hebrew changes nasa",
+    "owner": {
+      "name": "Clerk",
+      "type": "Unknown",
+      "domain": "finance commented task",
+      "uid": "b3d0c2ee-54de-11ef-af5e-0242ac110008",
+      "type_id": 0,
+      "risk_level": "internet donated pressing",
+      "uid_alt": "handles parcel reduces"
+    },
+    "port": 25386,
+    "type": "Router",
+    "ip": "242.107.229.164",
+    "uid": "b3d12900-54de-11ef-a43b-0242ac110008",
+    "hostname": "treasurer.firm",
+    "type_id": 12,
+    "instance_uid": "b3d13742-54de-11ef-944e-0242ac110008",
+    "interface_name": "realtors village bankruptcy",
+    "interface_uid": "b3d13ea4-54de-11ef-a251-0242ac110008",
+    "intermediate_ips": [
+      "106.73.134.232"
+    ],
+    "svc_name": "medieval baking nudist"
+  },
+  "status_code": "consisting",
+  "status_id": 99,
+  "stratum": "Reserved",
+  "stratum_id": 17,
+  "traffic": {
+    "bytes_out": 4140330723,
+    "bytes": 1336089302,
+    "chunks_in": 3215439058,
+    "packets": 1475756113
+  }
+}

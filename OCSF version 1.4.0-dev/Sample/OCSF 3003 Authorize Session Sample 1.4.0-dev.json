@@ -1,0 +1,140 @@
+{
+  "http_request": {
+    "version": "1.4.0-dev",
+    "uid": "c51ac068-54de-11ef-b757-0242ac110008",
+    "url": {
+      "port": 35432,
+      "scheme": "postcards major autos",
+      "hostname": "playing.travel",
+      "query_string": "conferencing manufactured necessarily",
+      "category_ids": [
+        38,
+        33
+      ],
+      "url_string": "nintendo"
+    },
+    "user_agent": "delta breathing tape",
+    "http_headers": [
+      {
+        "name": "ana computation idaho",
+        "value": "ruled washington rouge"
+      }
+    ],
+    "http_method": "DELETE"
+  },
+  "message": "ventures physically consortium",
+  "session": {
+    "uid": "c51c5f68-54de-11ef-ba2e-0242ac110008",
+    "uuid": "c51c86f0-54de-11ef-aae9-0242ac110008",
+    "issuer": "floyd counted likes",
+    "created_time": 1723050123823153,
+    "credential_uid": "c51cb3b4-54de-11ef-8946-0242ac110008",
+    "expiration_time": 1723050123824028,
+    "is_remote": true
+  },
+  "status": "Unknown",
+  "time": 1723050123819119,
+  "user": {
+    "name": "Where",
+    "type": "deer",
+    "uid": "c519b128-54de-11ef-ab6b-0242ac110008",
+    "type_id": 99
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "their professional dat",
+      "version": "1.4.0-dev",
+      "uid": "c518d7f8-54de-11ef-bc13-0242ac110008"
+    },
+    "product": {
+      "name": "preparing chance britain",
+      "version": "1.4.0-dev",
+      "uid": "c518e9be-54de-11ef-ac48-0242ac110008",
+      "feature": {
+        "name": "since russia discovery",
+        "version": "1.4.0-dev",
+        "uid": "c519436e-54de-11ef-8e2d-0242ac110008"
+      },
+      "url_string": "edt",
+      "vendor_name": "thanks sara officials"
+    },
+    "labels": [
+      "part",
+      "pressing"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "internationally criticism homepage",
+    "log_provider": "compute charm oriented",
+    "modified_time": 1723050123801546,
+    "original_time": "schemes test frames",
+    "tenant_uid": "c5194e7c-54de-11ef-852b-0242ac110008"
+  },
+  "severity": "Unknown",
+  "timezone_offset": 69,
+  "activity_id": 2,
+  "class_uid": 3003,
+  "type_uid": 300302,
+  "type_name": "Authorize Session: Assign Groups",
+  "observables": [
+    {
+      "name": "subject adams emissions",
+      "type": "File Name",
+      "type_id": 7
+    },
+    {
+      "name": "donations birth david",
+      "type": "User",
+      "value": "magical limitations definitely",
+      "type_id": 21
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Authorize Session",
+  "activity_name": "Assign Groups",
+  "privileges": [
+    "expense dover demands",
+    "k groove officials"
+  ],
+  "severity_id": 0,
+  "src_endpoint": {
+    "name": "dc moisture toronto",
+    "port": 62945,
+    "type": "Hub",
+    "ip": "185.134.53.191",
+    "uid": "c519f4d0-54de-11ef-b0ab-0242ac110008",
+    "hostname": "blackberry.biz",
+    "type_id": 11,
+    "agent_list": [
+      {
+        "name": "crimes belt wives",
+        "uid": "c51a1dc0-54de-11ef-9c2b-0242ac110008",
+        "uid_alt": "beverage dress austria"
+      },
+      {
+        "name": "tsunami further uruguay",
+        "type": "Performance Monitoring & Observability",
+        "uid": "c51a3468-54de-11ef-a795-0242ac110008",
+        "type_id": 4
+      }
+    ],
+    "autonomous_system": {
+      "name": "evolution strip amenities"
+    },
+    "instance_uid": "c51a4098-54de-11ef-b9f0-0242ac110008",
+    "interface_name": "parcel cs group",
+    "interface_uid": "c51a90ca-54de-11ef-8226-0242ac110008",
+    "intermediate_ips": [
+      "183.150.7.190",
+      "22.175.30.176"
+    ],
+    "svc_name": "evaluate arabic either",
+    "zone": "pantyhose ntsc donations"
+  },
+  "status_code": "puppy",
+  "status_detail": "recommends salmon athletes",
+  "status_id": 0
+}

@@ -1,0 +1,102 @@
+{
+  "message": "threatening herald gpl",
+  "status": "Failure",
+  "time": 1723050084913537,
+  "device": {
+    "owner": {
+      "name": "Investigate",
+      "uid": "adeb63b6-54de-11ef-89f8-0242ac110008"
+    },
+    "type": "Unknown",
+    "domain": "obviously venice suggested",
+    "uid": "adeb6b9a-54de-11ef-bbfc-0242ac110008",
+    "subnet": "142.9.34.0/24",
+    "type_id": 0,
+    "agent_list": [
+      {
+        "name": "respondent runs organizations",
+        "type": "drawings stuff not",
+        "version": "1.4.0-dev",
+        "uid": "adeaebb6-54de-11ef-8c05-0242ac110008"
+      },
+      {
+        "name": "rr db age",
+        "type": "Unknown",
+        "uid": "adeaf2e6-54de-11ef-996c-0242ac110008",
+        "type_id": 0,
+        "uid_alt": "excerpt sorry robot"
+      }
+    ],
+    "hw_info": {
+      "cpu_bits": 21,
+      "cpu_count": 50,
+      "ram_size": 64
+    },
+    "instance_uid": "adeadaf4-54de-11ef-9908-0242ac110008",
+    "interface_name": "mexico bill differences",
+    "interface_uid": "adeafa3e-54de-11ef-abff-0242ac110008",
+    "is_trusted": true,
+    "region": "burden childhood ph",
+    "risk_level": "specialty",
+    "risk_level_id": 99,
+    "risk_score": 8,
+    "uid_alt": "americas uniform downtown",
+    "vlan_uid": "adead2a2-54de-11ef-9996-0242ac110008"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "favor acknowledge hindu",
+      "version": "1.4.0-dev",
+      "uid": "adea5ca0-54de-11ef-8284-0242ac110008"
+    },
+    "product": {
+      "name": "pays launch rough",
+      "path": "sheffield introduce principle",
+      "uid": "adea6b46-54de-11ef-8456-0242ac110008",
+      "vendor_name": "epson qualified feeds"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "softball exhibition imports",
+    "log_provider": "miniature assumptions techrepublic",
+    "original_time": "bill chest branch",
+    "tenant_uid": "adea7820-54de-11ef-ae2d-0242ac110008"
+  },
+  "severity": "Fatal",
+  "timezone_offset": 87,
+  "activity_id": 0,
+  "class_uid": 5002,
+  "type_uid": 500200,
+  "type_name": "Device Config State: Unknown",
+  "observables": [
+    {
+      "name": "printable anaheim finals",
+      "type": "Container",
+      "type_id": 27
+    },
+    {
+      "name": "quotes routines generator",
+      "type": "CVE Object: uid",
+      "type_id": 18,
+      "reputation": {
+        "base_score": 91.0301,
+        "provider": "copyrights psi payday",
+        "score": "Exercise Caution",
+        "score_id": 6
+      }
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "activity_name": "Unknown",
+  "cis_benchmark_result": {
+    "name": "consolidation electron proven"
+  },
+  "severity_id": 6,
+  "status_code": "analysts",
+  "status_detail": "hazards fleece devon",
+  "status_id": 2
+}

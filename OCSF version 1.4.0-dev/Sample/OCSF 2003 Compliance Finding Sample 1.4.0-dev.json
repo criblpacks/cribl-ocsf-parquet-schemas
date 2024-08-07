@@ -1,0 +1,122 @@
+{
+  "message": "investor while motivation",
+  "status": "funny",
+  "time": 1723050101760527,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "version": "1.4.0-dev",
+      "uid": "b7f60924-54de-11ef-a458-0242ac110008",
+      "vendor_name": "yeah rice architecture"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "vacancies possession wait",
+    "log_provider": "electrical mr threads",
+    "original_time": "apparel kingdom loved",
+    "tenant_uid": "b7f611da-54de-11ef-bea0-0242ac110008"
+  },
+  "resource": {
+    "name": "describing man magnitude",
+    "owner": {
+      "name": "Starts",
+      "type": "Unknown",
+      "uid": "b7f679ea-54de-11ef-8a24-0242ac110008",
+      "type_id": 0
+    },
+    "group": {
+      "name": "offering booth dash",
+      "type": "generators stating tonight",
+      "domain": "evaluations depending arthritis",
+      "uid": "b7f686f6-54de-11ef-b790-0242ac110008"
+    },
+    "namespace": "distant leslie media"
+  },
+  "start_time": 1723050101762737,
+  "severity": "High",
+  "duration": 3133344928,
+  "resources": [
+    {
+      "name": "anymore peninsula bingo",
+      "owner": {
+        "name": "Parts",
+        "type": "Unknown",
+        "domain": "deck os awareness",
+        "uid": "b7f633b8-54de-11ef-a4dd-0242ac110008",
+        "groups": [
+          {
+            "name": "tremendous wireless victoria",
+            "type": "educators rv allah",
+            "uid": "b7f64466-54de-11ef-903d-0242ac110008"
+          },
+          {
+            "name": "hansen jungle himself",
+            "uid": "b7f64b5a-54de-11ef-b1eb-0242ac110008"
+          }
+        ],
+        "type_id": 0,
+        "risk_level": "High",
+        "risk_level_id": 3
+      },
+      "uid": "b7f65208-54de-11ef-98b3-0242ac110008",
+      "namespace": "yields risks grants"
+    },
+    {
+      "name": "lime fur intermediate",
+      "uid": "b7f6687e-54de-11ef-9b6f-0242ac110008"
+    }
+  ],
+  "timezone_offset": 47,
+  "activity_id": 99,
+  "class_uid": 2003,
+  "type_uid": 200399,
+  "type_name": "Compliance Finding: Other",
+  "observables": [
+    {
+      "name": "foto shelf widely",
+      "type": "Resource UID",
+      "type_id": 10
+    },
+    {
+      "name": "boxes provincial botswana",
+      "type": "CVE Object: uid",
+      "type_id": 18
+    }
+  ],
+  "category_name": "Findings",
+  "category_uid": 2,
+  "class_name": "Compliance Finding",
+  "end_time": 1723050101758463,
+  "remediation": {
+    "desc": "pace console telecommunications"
+  },
+  "activity_name": "never",
+  "compliance": {
+    "control": "packet babies head",
+    "status": "Fail",
+    "standards": [
+      "death charity commerce"
+    ],
+    "status_id": 3
+  },
+  "confidence": "posting relationships reservoir",
+  "confidence_id": 1,
+  "confidence_score": 10,
+  "finding_info": {
+    "title": "renewable victor jose",
+    "uid": "b7f58e72-54de-11ef-b95e-0242ac110008",
+    "analytic": {
+      "name": "developmental created interests",
+      "type": "Exact Data Match",
+      "category": "switch saturday steven",
+      "type_id": 9
+    },
+    "created_time": 1723050101757457,
+    "first_seen_time": 1723050101757503
+  },
+  "severity_id": 4,
+  "status_code": "loaded",
+  "status_detail": "raises furthermore act",
+  "status_id": 99
+}

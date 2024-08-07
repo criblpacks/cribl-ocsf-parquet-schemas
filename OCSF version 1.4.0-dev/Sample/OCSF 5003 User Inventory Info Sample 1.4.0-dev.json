@@ -1,0 +1,109 @@
+{
+  "message": "naturally container haven",
+  "status": "Failure",
+  "time": 1723050094071662,
+  "user": {
+    "type": "Admin",
+    "type_id": 2,
+    "risk_level": "powers trigger fleet"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "vinyl games william",
+      "version": "1.4.0-dev",
+      "uid": "b3600c52-54de-11ef-935f-0242ac110008"
+    },
+    "product": {
+      "name": "beds leading story",
+      "version": "1.4.0-dev",
+      "uid": "b36019c2-54de-11ef-ac63-0242ac110008",
+      "url_string": "wed",
+      "vendor_name": "club employed position"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "grams",
+    "log_name": "assure balloon robbie",
+    "log_version": "bedford senate manufacturer",
+    "loggers": [
+      {
+        "name": "heard confidentiality broker",
+        "device": {
+          "owner": {
+            "name": "Andy",
+            "type": "darwin",
+            "uid": "b360abe4-54de-11ef-8898-0242ac110008",
+            "full_name": "Rubi Ramiro",
+            "type_id": 99,
+            "email_addr": "Marquetta@without.gov",
+            "risk_level": "Info",
+            "risk_level_id": 0
+          },
+          "type": "Unknown",
+          "os": {
+            "name": "doug tf struck",
+            "type": "Android",
+            "type_id": 201,
+            "cpe_name": "have continental weight",
+            "cpu_bits": 5
+          },
+          "domain": "education execution tamil",
+          "uid": "b360b3be-54de-11ef-b19b-0242ac110008",
+          "hostname": "course.travel",
+          "mac": "3C:C1:7:D7:96:EE:E6:9B",
+          "subnet": "4.110.0.0/16",
+          "type_id": 0,
+          "first_seen_time": 1723050094070123,
+          "instance_uid": "b3603eca-54de-11ef-8126-0242ac110008",
+          "interface_name": "vegetation browsing photographer",
+          "interface_uid": "b3609de8-54de-11ef-9096-0242ac110008",
+          "is_compliant": false,
+          "region": "descriptions ar affects",
+          "risk_level": "Critical",
+          "risk_level_id": 4,
+          "subnet_uid": "b36096ea-54de-11ef-8185-0242ac110008"
+        },
+        "product": {
+          "name": "toward totals wool",
+          "version": "1.4.0-dev",
+          "uid": "b360be9a-54de-11ef-b395-0242ac110008",
+          "vendor_name": "opponents recall taxes"
+        },
+        "uid": "b360c548-54de-11ef-9a9f-0242ac110008",
+        "log_name": "renewable resolution desktop",
+        "log_provider": "office calling verizon",
+        "logged_time": 1723050094071147
+      }
+    ],
+    "original_time": "reggae hereby this",
+    "tenant_uid": "b360d0c4-54de-11ef-80ec-0242ac110008"
+  },
+  "severity": "Fatal",
+  "timezone_offset": 70,
+  "activity_id": 0,
+  "class_uid": 5003,
+  "type_uid": 500300,
+  "type_name": "User Inventory Info: Unknown",
+  "observables": [
+    {
+      "name": "gb sodium smooth",
+      "type": "User Credential ID",
+      "type_id": 19
+    },
+    {
+      "name": "manufacturers delight prospect",
+      "type": "Resource UID",
+      "type_id": 10
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "User Inventory Info",
+  "activity_name": "Unknown",
+  "severity_id": 6,
+  "status_code": "fields",
+  "status_detail": "capital eco tgp",
+  "status_id": 2
+}

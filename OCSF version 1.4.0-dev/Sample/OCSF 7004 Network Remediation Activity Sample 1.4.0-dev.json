@@ -1,0 +1,84 @@
+{
+  "message": "billion administrator spas",
+  "status": "Error",
+  "time": 1723050107639225,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "version": "1.4.0-dev",
+      "uid": "bb770f62-54de-11ef-bc32-0242ac110008",
+      "vendor_name": "robbie feedback practitioner"
+    },
+    "labels": [
+      "seo",
+      "gear"
+    ],
+    "sequence": 48,
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "associate",
+    "log_provider": "engagement outlets anchor",
+    "tenant_uid": "bb77184a-54de-11ef-8807-0242ac110008"
+  },
+  "connection_info": {
+    "uid": "bb76f07c-54de-11ef-9918-0242ac110008",
+    "boundary": "Internal",
+    "direction": "Lateral",
+    "boundary_id": 2,
+    "direction_id": 3,
+    "protocol_num": 84
+  },
+  "severity": "Unknown",
+  "timezone_offset": 56,
+  "activity_id": 99,
+  "class_uid": 7004,
+  "type_uid": 700499,
+  "type_name": "Network Remediation Activity: Other",
+  "observables": [
+    {
+      "name": "prayers compilation dark",
+      "type": "Subnet",
+      "type_id": 12,
+      "reputation": {
+        "base_score": 16.2687,
+        "score": "Malicious",
+        "score_id": 10
+      }
+    },
+    {
+      "name": "capacity constant found",
+      "type": "Command Line",
+      "type_id": 13
+    }
+  ],
+  "category_name": "Remediation",
+  "category_uid": 7,
+  "class_name": "Network Remediation Activity",
+  "activity_name": "emperor",
+  "command_uid": "bb7738a2-54de-11ef-a954-0242ac110008",
+  "countermeasures": [
+    {
+      "version": "1.4.0-dev",
+      "d3f_tactic": {
+        "uid": "bb7723ee-54de-11ef-aaae-0242ac110008"
+      },
+      "d3f_technique": {
+        "name": "suited apt refund"
+      }
+    },
+    {
+      "version": "1.4.0-dev",
+      "d3f_tactic": {
+        "uid": "bb772e48-54de-11ef-a18d-0242ac110008"
+      },
+      "d3f_technique": {
+        "name": "fourth showers basin"
+      }
+    }
+  ],
+  "severity_id": 0,
+  "status_code": "fix",
+  "status_detail": "alive agreed trinity",
+  "status_id": 6
+}

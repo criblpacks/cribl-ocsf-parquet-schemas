@@ -1,0 +1,153 @@
+{
+  "http_request": {
+    "args": "weights ebooks marine",
+    "version": "1.4.0-dev",
+    "url": {
+      "port": 10725,
+      "scheme": "undertake di listing",
+      "path": "pubs fiction aware",
+      "domain": "eight ministers metric",
+      "hostname": "bahamas.jobs",
+      "query_string": "corruption seattle nancy",
+      "subdomain": "predictions fascinating ivory",
+      "url_string": "paragraphs"
+    },
+    "user_agent": "blackberry worth navigate",
+    "http_headers": [
+      {
+        "name": "charged amended harvey",
+        "value": "beach italy wife"
+      }
+    ],
+    "http_method": "PUT"
+  },
+  "message": "permanent silk charles",
+  "status": "Success",
+  "time": 1723050093421050,
+  "user": {
+    "name": "Humanities",
+    "type": "Admin",
+    "uid": "b2fd5d1e-54de-11ef-b41e-0242ac110008",
+    "type_id": 2,
+    "credential_uid": "b2fd63fe-54de-11ef-920f-0242ac110008",
+    "email_addr": "Rogelio@costume.biz",
+    "risk_score": 74
+  },
+  "group": {
+    "name": "ratio biodiversity visual"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "build toronto properties",
+      "version": "1.4.0-dev",
+      "uid": "b2fd00bc-54de-11ef-874d-0242ac110008",
+      "feature": {
+        "name": "revolutionary divine ann",
+        "version": "1.4.0-dev",
+        "uid": "b2fd301e-54de-11ef-bafc-0242ac110008"
+      },
+      "lang": "en",
+      "vendor_name": "teaching accompanied pledge"
+    },
+    "extensions": [
+      {
+        "name": "morgan sigma cleanup",
+        "version": "1.4.0-dev",
+        "uid": "b2fd3c1c-54de-11ef-9313-0242ac110008"
+      },
+      {
+        "name": "spencer nominated bike",
+        "version": "1.4.0-dev",
+        "uid": "b2fd43ba-54de-11ef-a1cf-0242ac110008"
+      }
+    ],
+    "labels": [
+      "stopped",
+      "honey"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "downloads p advertisements",
+    "log_provider": "icq testing wonderful",
+    "modified_time": 1723050093419040,
+    "original_time": "waterproof bosnia artist",
+    "tenant_uid": "b2fd4c2a-54de-11ef-97b6-0242ac110008"
+  },
+  "resource": {
+    "name": "employees hans vienna",
+    "owner": {
+      "name": "Kits",
+      "type": "Unknown",
+      "uid": "b2fdabb6-54de-11ef-949d-0242ac110008",
+      "type_id": 0,
+      "credential_uid": "b2fdb318-54de-11ef-b14e-0242ac110008",
+      "ldap_person": {
+        "location": {
+          "desc": "Portugal, Portuguese Republic",
+          "city": "Exit karen",
+          "country": "PT",
+          "coordinates": [
+            12.4556,
+            49.9775
+          ],
+          "continent": "Europe"
+        },
+        "manager": {
+          "name": "Driver",
+          "type": "Unknown",
+          "type_id": 0,
+          "ldap_person": {
+            "ldap_cn": "graduation preference au",
+            "leave_time": 1723050093423433
+          }
+        },
+        "deleted_time": 1723050093423446,
+        "surname": "alumni jet experiencing"
+      },
+      "uid_alt": "solution conviction cloudy"
+    },
+    "version": "1.4.0-dev",
+    "uid": "b2fdfc7e-54de-11ef-8b98-0242ac110008"
+  },
+  "severity": "Medium",
+  "timezone_offset": 76,
+  "activity_id": 0,
+  "class_uid": 3006,
+  "type_uid": 300600,
+  "type_name": "Group Management: Unknown",
+  "observables": [
+    {
+      "name": "searches david pairs",
+      "type": "Resource UID",
+      "type_id": 10,
+      "reputation": {
+        "base_score": 41.3316,
+        "provider": "bought taylor bicycle",
+        "score": "Leans Safe",
+        "score_id": 4
+      }
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "activity_name": "Unknown",
+  "privileges": [
+    "motorola ross que"
+  ],
+  "severity_id": 3,
+  "src_endpoint": {
+    "name": "greeting filter strange",
+    "type": "myanmar",
+    "ip": "120.62.251.117",
+    "uid": "b2fd7b8c-54de-11ef-a43c-0242ac110008",
+    "hostname": "hh.mobi",
+    "type_id": 99,
+    "interface_name": "weighted caution nextel",
+    "interface_uid": "b2fd8492-54de-11ef-9691-0242ac110008"
+  },
+  "status_code": "jessica",
+  "status_id": 1
+}

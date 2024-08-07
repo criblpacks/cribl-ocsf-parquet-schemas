@@ -1,0 +1,70 @@
+{
+  "count": 46,
+  "message": "es resume wed",
+  "session": {
+    "uid": "c702891a-54de-11ef-a4d1-0242ac110008",
+    "issuer": "cfr matrix city",
+    "created_time": 1723050127008000,
+    "credential_uid": "c7029ce8-54de-11ef-afbe-0242ac110008",
+    "is_remote": false,
+    "uid_alt": "prix continuous author"
+  },
+  "status": "bias within announces",
+  "time": 1723050127007302,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "electric treasurer ons",
+      "version": "1.4.0-dev",
+      "uid": "c7021e9e-54de-11ef-a8fa-0242ac110008"
+    },
+    "product": {
+      "name": "spice initiatives analyzes",
+      "version": "1.4.0-dev",
+      "path": "impact roulette javascript",
+      "uid": "c7025e18-54de-11ef-9336-0242ac110008",
+      "cpe_name": "killing homepage interesting",
+      "vendor_name": "trout pure anime"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "appearance steam death",
+    "log_provider": "publish category double",
+    "original_time": "rp cartoons same",
+    "tenant_uid": "c7026a3e-54de-11ef-aa3d-0242ac110008"
+  },
+  "severity": "Informational",
+  "duration": 417025004,
+  "timezone_offset": 54,
+  "activity_id": 0,
+  "class_uid": 5017,
+  "type_uid": 501700,
+  "type_name": "User Session Query: Unknown",
+  "observables": [
+    {
+      "name": "ferry loaded marvel",
+      "type": "Resource UID",
+      "type_id": 10
+    },
+    {
+      "name": "sorted thumb kb",
+      "type": "Process",
+      "type_id": 25
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "User Session Query",
+  "end_time": 1723050127004226,
+  "activity_name": "Unknown",
+  "query_info": {
+    "name": "west prostate qualities",
+    "uid": "c701efdc-54de-11ef-b631-0242ac110008",
+    "query_string": "resulted democrat aka"
+  },
+  "query_result": "Error",
+  "query_result_id": 4,
+  "severity_id": 1,
+  "status_detail": "prompt flashing turned"
+}

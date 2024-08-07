@@ -1,0 +1,159 @@
+{
+  "session": {
+    "count": 87,
+    "terminal": "scanner ribbon table",
+    "uid": "c8fc34a0-54de-11ef-8c8d-0242ac110008",
+    "uuid": "c8fc3ac2-54de-11ef-af80-0242ac110008",
+    "issuer": "hotmail spoke invisible",
+    "created_time": 1723050130322115,
+    "is_remote": true,
+    "is_vpn": true
+  },
+  "observables": [
+    {
+      "name": "briefs diffs proof",
+      "type": "Resource UID",
+      "type_id": 10
+    }
+  ],
+  "status_detail": "amenities adequate yemen",
+  "type_uid": 300202,
+  "type_name": "Authentication: Logoff",
+  "auth_protocol_id": 99,
+  "is_mfa": false,
+  "message": "marketplace sh ed",
+  "service": {
+    "name": "showtimes mumbai wed",
+    "version": "1.4.0-dev",
+    "uid": "c8fc1786-54de-11ef-bae4-0242ac110008"
+  },
+  "status_id": 99,
+  "time": 1723050130320910,
+  "is_remote": true,
+  "activity_id": 2,
+  "activity_name": "Logoff",
+  "src_endpoint": {
+    "name": "plaza rocks quit",
+    "owner": {
+      "name": "Infections",
+      "type": "casey",
+      "uid": "c8fbec3e-54de-11ef-9421-0242ac110008",
+      "type_id": 99
+    },
+    "port": 7894,
+    "type": "Unknown",
+    "domain": "opt cow egg",
+    "ip": "102.117.118.192",
+    "uid": "c8fbf562-54de-11ef-b5c2-0242ac110008",
+    "hostname": "trusted.com",
+    "mac": "ED:AE:5D:8E:C6:47:80:AB",
+    "type_id": 0,
+    "instance_uid": "c8fbfd5a-54de-11ef-99e3-0242ac110008",
+    "interface_name": "jackie shoot hunt",
+    "interface_uid": "c8fc0b24-54de-11ef-8321-0242ac110008",
+    "svc_name": "monitors daniel phrase"
+  },
+  "timezone_offset": 88,
+  "certificate": {
+    "version": "1.4.0-dev",
+    "is_self_signed": true,
+    "subject": "abs cambridge abstract",
+    "issuer": "pilot annex gradually",
+    "fingerprints": [
+      {
+        "value": "6A35581E5EEBA51CC5956854881A0849289FDAE7B710D80AE2A5167A8E12791DF5A1BD128C4A1058B6F4CD396C80B976E8C01EFDC2DAADE825B876C425034B1E",
+        "algorithm": "Unknown",
+        "algorithm_id": 0
+      }
+    ],
+    "created_time": 1723050130319409,
+    "expiration_time": 1723050130319421,
+    "serial_number": "batteries changes booth"
+  },
+  "logon_type": "Cached Remote Interactive",
+  "user": {
+    "name": "Musical",
+    "type": "rural",
+    "org": {
+      "name": "minolta subdivision vbulletin",
+      "uid": "c8fbbf52-54de-11ef-af07-0242ac110008",
+      "ou_name": "wesley else stupid"
+    },
+    "type_id": 99,
+    "account": {
+      "name": "enemies qualification sue",
+      "type": "pal",
+      "type_id": 99
+    },
+    "credential_uid": "c8fbca10-54de-11ef-acd7-0242ac110008"
+  },
+  "category_name": "Identity & Access Management",
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "backing courtesy white",
+      "version": "1.4.0-dev",
+      "uid": "c8fb7bf0-54de-11ef-82a6-0242ac110008"
+    },
+    "product": {
+      "name": "reviewed dispatch quebec",
+      "version": "1.4.0-dev",
+      "uid": "c8fb8dde-54de-11ef-b84c-0242ac110008",
+      "vendor_name": "movie mat appear"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "c8fb954a-54de-11ef-972a-0242ac110008",
+    "log_name": "melissa cruz fy",
+    "log_provider": "thread albany preview"
+  },
+  "logon_type_id": 12,
+  "status_code": "online",
+  "severity_id": 5,
+  "is_new_logon": false,
+  "class_uid": 3002,
+  "status": "verbal",
+  "dst_endpoint": {
+    "name": "lending nervous profits",
+    "owner": {
+      "name": "Clay",
+      "type": "Admin",
+      "uid": "c8fb1070-54de-11ef-8c6c-0242ac110008",
+      "type_id": 2,
+      "account": {
+        "name": "superb natural stable",
+        "uid": "c8fb40b8-54de-11ef-bfde-0242ac110008"
+      },
+      "email_addr": "Tracie@discovered.aero",
+      "uid_alt": "robust nomination sink"
+    },
+    "port": 31550,
+    "type": "Hub",
+    "os": {
+      "name": "nominations artwork aug",
+      "type": "Linux",
+      "type_id": 200,
+      "sp_name": "americas albania folding",
+      "sp_ver": 42
+    },
+    "ip": "28.243.21.38",
+    "uid": "c8fb50da-54de-11ef-8329-0242ac110008",
+    "hostname": "studio.edu",
+    "type_id": 11,
+    "autonomous_system": {
+      "name": "tickets somehow hc",
+      "number": 67
+    },
+    "instance_uid": "c8fb5ac6-54de-11ef-a2bb-0242ac110008",
+    "interface_name": "protected greg along",
+    "interface_uid": "c8fb6214-54de-11ef-88d6-0242ac110008",
+    "svc_name": "beastality stores banners",
+    "vpc_uid": "c8fb69b2-54de-11ef-8810-0242ac110008"
+  },
+  "category_uid": 3,
+  "class_name": "Authentication",
+  "auth_protocol": "collectible",
+  "severity": "Critical",
+  "is_cleartext": false
+}

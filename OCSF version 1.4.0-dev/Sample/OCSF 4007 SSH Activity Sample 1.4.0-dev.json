@@ -1,0 +1,267 @@
+{
+  "status": "Success",
+  "time": 1723050116785533,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "steady head childhood",
+      "version": "1.4.0-dev",
+      "uid": "c0e9c494-54de-11ef-a420-0242ac110008",
+      "vendor_name": "fcc tribes hitachi"
+    },
+    "extensions": [
+      {
+        "name": "workplace mentioned divine",
+        "version": "1.4.0-dev",
+        "uid": "c0e9fbbc-54de-11ef-9c1a-0242ac110008"
+      }
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "vcr senator tuner",
+    "log_provider": "motels cheers replacing",
+    "logged_time": 1723050116780779,
+    "modified_time": 1723050116780789,
+    "tenant_uid": "c0ea0422-54de-11ef-b1d9-0242ac110008"
+  },
+  "proxy": {
+    "owner": {
+      "name": "Nil",
+      "type": "User",
+      "uid": "c0e912e2-54de-11ef-8f22-0242ac110008",
+      "full_name": "Kenyatta Nohemi",
+      "type_id": 1,
+      "risk_level": "byte pleasure surge"
+    },
+    "port": 18147,
+    "type": "Browser",
+    "ip": "4.36.218.228",
+    "uid": "c0e92b2e-54de-11ef-af1a-0242ac110008",
+    "hostname": "fiscal.store",
+    "type_id": 8,
+    "instance_uid": "c0e933b2-54de-11ef-b5f9-0242ac110008",
+    "interface_name": "kind stats order",
+    "interface_uid": "c0e93ab0-54de-11ef-84fa-0242ac110008",
+    "proxy_endpoint": {
+      "name": "coupon obj suited",
+      "owner": {
+        "name": "Refrigerator",
+        "type": "Unknown",
+        "org": {
+          "name": "php four champions",
+          "uid": "c0e95c16-54de-11ef-9a49-0242ac110008",
+          "ou_name": "donor twenty mom"
+        },
+        "type_id": 0,
+        "email_addr": "Versie@reprint.edu"
+      },
+      "port": 6417,
+      "type": "height vinyl recorder",
+      "ip": "145.104.102.145",
+      "uid": "c0e9665c-54de-11ef-9453-0242ac110008",
+      "hostname": "msie.coop",
+      "instance_uid": "c0e96cf6-54de-11ef-a2c6-0242ac110008",
+      "interface_name": "phentermine coins sectors",
+      "interface_uid": "c0e977be-54de-11ef-9496-0242ac110008",
+      "intermediate_ips": [
+        "244.149.205.163"
+      ],
+      "svc_name": "venice gathering diary"
+    },
+    "svc_name": "printable cgi trademarks"
+  },
+  "connection_info": {
+    "uid": "c0e98290-54de-11ef-9d4b-0242ac110008",
+    "boundary": "Localhost",
+    "protocol_name": "solid occasion seq",
+    "direction": "Unknown",
+    "boundary_id": 1,
+    "direction_id": 0,
+    "protocol_num": 99,
+    "protocol_ver": "Internet Protocol version 6 (IPv6)",
+    "protocol_ver_id": 6
+  },
+  "severity": "Fatal",
+  "tls": {
+    "version": "1.4.0-dev",
+    "certificate": {
+      "version": "1.4.0-dev",
+      "is_self_signed": true,
+      "subject": "fairy intend smithsonian",
+      "issuer": "ranging absolutely pull",
+      "fingerprints": [
+        {
+          "value": "2EEDA7BCE2034B377F6F30F550F33E42A736D9E42E80BADE6901028826DB483C",
+          "algorithm": "magic",
+          "algorithm_id": 99
+        },
+        {
+          "value": "F87B894C4EB205B67B96ACCB3DACB8F0D12AB48B759730718A199994F9167AA2AE40A8C4A39849B0895921B759B6B34754D6660D01E0060CC4F2F689701D557E",
+          "algorithm": "CTPH",
+          "algorithm_id": 5
+        }
+      ],
+      "created_time": 1723050116781402,
+      "serial_number": "icq swim escorts"
+    },
+    "cipher": "seo instrumental mayor",
+    "sni": "psychology espn toolbox",
+    "handshake_dur": 53,
+    "ja3_hash": {
+      "value": "4DDA6AC0D60BB291186CC1EF3AEE88236B0338683BBCD5DB191685AE316F348EA86B12BDCB337E72B146C4E599DAEB47F2302852F67CF455F2893682E5A0843A",
+      "algorithm": "CTPH",
+      "algorithm_id": 5
+    }
+  },
+  "timezone_offset": 61,
+  "activity_id": 4,
+  "class_uid": 4007,
+  "type_uid": 400704,
+  "type_name": "SSH Activity: Fail",
+  "observables": [
+    {
+      "name": "pr sick ventures",
+      "type": "CVE Object: uid",
+      "type_id": 18
+    },
+    {
+      "name": "techno publicly wp",
+      "type": "IP Address",
+      "value": "orleans weekly smaller",
+      "type_id": 2,
+      "reputation": {
+        "base_score": 41.6923,
+        "provider": "chester waves transparency",
+        "score": "Probably Malicious",
+        "score_id": 9
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "activity_name": "Fail",
+  "auth_type": "Password",
+  "auth_type_id": 5,
+  "client_hassh": {
+    "algorithm": "benjamin fault kernel",
+    "fingerprint": {
+      "value": "9560F74C21930B7CAA3634D647F52E6F",
+      "algorithm": "MD5",
+      "algorithm_id": 1
+    }
+  },
+  "dst_endpoint": {
+    "name": "matches extreme phi",
+    "owner": {
+      "type": "Unknown",
+      "uid": "c0e99442-54de-11ef-b8c5-0242ac110008",
+      "type_id": 0,
+      "credential_uid": "c0e99a6e-54de-11ef-a40b-0242ac110008",
+      "ldap_person": {
+        "cost_center": "eagle papua background",
+        "deleted_time": 1723050116778352,
+        "hire_time": 1723050116778365,
+        "job_title": "th generated reality",
+        "ldap_dn": "cartridges vinyl monsters",
+        "office_location": "jvc oil published"
+      }
+    },
+    "port": 15707,
+    "type": "IDS",
+    "ip": "10.235.251.5",
+    "hostname": "buffer.pro",
+    "type_id": 13,
+    "instance_uid": "c0e9a680-54de-11ef-ae8b-0242ac110008",
+    "interface_name": "sic father travelers",
+    "interface_uid": "c0e9aee6-54de-11ef-b8b2-0242ac110008",
+    "svc_name": "max airlines poet"
+  },
+  "protocol_ver": "4",
+  "server_hassh": {
+    "algorithm": "avg fisher platinum",
+    "fingerprint": {
+      "value": "ADE612C827A7BA809A66466D0ECBEEEBF79E44B66B824BFDCBDE6D6BB649F4A8F0E5469DCF16086ADDBD806EC707B284B48D08FB61C0D6F60705135B8F7BC0B2",
+      "algorithm": "quickXorHash",
+      "algorithm_id": 7
+    }
+  },
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "fitted strategy fancy",
+    "owner": {
+      "type": "restore",
+      "uid": "c0ea34ec-54de-11ef-b923-0242ac110008",
+      "full_name": "Cyril Bobbi",
+      "type_id": 99
+    },
+    "port": 50746,
+    "type": "Virtual",
+    "ip": "60.111.158.5",
+    "uid": "c0ea3d16-54de-11ef-85f1-0242ac110008",
+    "hostname": "significant.edu",
+    "type_id": 6,
+    "instance_uid": "c0ea4414-54de-11ef-8946-0242ac110008",
+    "interface_name": "scenario top housewares",
+    "interface_uid": "c0ea4d06-54de-11ef-9435-0242ac110008",
+    "proxy_endpoint": {
+      "name": "skirts rica pursuit",
+      "owner": {
+        "name": "Displaying",
+        "type": "Admin",
+        "uid": "c0ea6e12-54de-11ef-ad74-0242ac110008",
+        "groups": [
+          {
+            "name": "mold sport praise",
+            "type": "trusts kevin searched",
+            "desc": "achievements hot trusts",
+            "uid": "c0ea815e-54de-11ef-b194-0242ac110008"
+          },
+          {
+            "name": "travesti presentation n",
+            "desc": "stuart limousines depth",
+            "uid": "c0ea8992-54de-11ef-b576-0242ac110008",
+            "privileges": [
+              "possess grades wisdom",
+              "edge mold warning"
+            ]
+          }
+        ],
+        "type_id": 2,
+        "risk_score": 87
+      },
+      "port": 62065,
+      "type": "Tablet",
+      "ip": "43.250.5.50",
+      "location": {
+        "desc": "Bouvet Island (Bouvetoya)",
+        "city": "Iso stomach",
+        "country": "BV",
+        "coordinates": [
+          -165.1109,
+          -26.0832
+        ],
+        "continent": "Antarctica"
+      },
+      "uid": "c0ea972a-54de-11ef-b4d0-0242ac110008",
+      "hostname": "lol.com",
+      "type_id": 4,
+      "instance_uid": "c0ea9e14-54de-11ef-8645-0242ac110008",
+      "interface_name": "allowed olive shoes",
+      "interface_uid": "c0eaa47c-54de-11ef-8d99-0242ac110008",
+      "subnet_uid": "c0eaaa26-54de-11ef-a9f9-0242ac110008",
+      "svc_name": "qualify gossip agents",
+      "vlan_uid": "c0eab048-54de-11ef-8c26-0242ac110008"
+    },
+    "zone": "retirement subscribers deserve"
+  },
+  "status_code": "anniversary",
+  "status_detail": "ebooks put moreover",
+  "status_id": 1,
+  "traffic": {
+    "bytes_out": 1383332324,
+    "bytes": 1391091221,
+    "packets": 1455864176
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "command": "album graphs us",
+  "message": "hobbies patent reno",
+  "name": "cherry netscape going",
+  "port": 39212,
+  "status": "Failure",
+  "time": 1723050120909140,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "extension": {
+      "name": "ant households vpn",
+      "version": "1.4.0-dev",
+      "uid": "c35e9fa6-54de-11ef-9e9c-0242ac110008"
+    },
+    "product": {
+      "name": "pills cdt consciousness",
+      "version": "1.4.0-dev",
+      "cpe_name": "oxide features k",
+      "vendor_name": "varieties battlefield patent"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "dealt",
+    "log_name": "sites lindsay representing",
+    "log_provider": "democratic stylish officers",
+    "modified_time": 1723050120900841,
+    "original_time": "devoted id retro",
+    "tenant_uid": "c35eb0ea-54de-11ef-ac05-0242ac110008"
+  },
+  "proxy": {
+    "name": "interesting nancy auctions",
+    "owner": {
+      "type": "ah",
+      "uid": "c35c8df6-54de-11ef-8d1c-0242ac110008",
+      "org": {
+        "name": "repair protocols seen",
+        "uid": "c35cca00-54de-11ef-8b01-0242ac110008"
+      },
+      "type_id": 99,
+      "risk_score": 47
+    },
+    "port": 41276,
+    "type": "Load Balancer",
+    "domain": "algorithm handhelds ge",
+    "ip": "238.115.7.224",
+    "uid": "c35cfc8c-54de-11ef-8434-0242ac110008",
+    "hostname": "composer.aero",
+    "type_id": 15,
+    "instance_uid": "c35d08a8-54de-11ef-adaa-0242ac110008",
+    "interface_name": "lender factors just",
+    "interface_uid": "c35d26b2-54de-11ef-a697-0242ac110008",
+    "svc_name": "domains recycling how"
+  },
+  "connection_info": {
+    "uid": "c35d3c9c-54de-11ef-8d5d-0242ac110008",
+    "boundary": "Gateway VPC",
+    "protocol_name": "chile ecology encouraging",
+    "direction": "Outbound",
+    "boundary_id": 10,
+    "direction_id": 2,
+    "tcp_flags": 70
+  },
+  "severity": "Critical",
+  "timezone_offset": 43,
+  "activity_id": 0,
+  "class_uid": 4008,
+  "type_uid": 400800,
+  "type_name": "FTP Activity: Unknown",
+  "observables": [
+    {
+      "name": "stocks husband sense",
+      "type": "Container",
+      "value": "positioning desire dryer",
+      "type_id": 27
+    },
+    {
+      "name": "bankruptcy lcd wherever",
+      "type": "User",
+      "type_id": 21
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "activity_name": "Unknown",
+  "codes": [
+    29,
+    4
+  ],
+  "command_responses": [
+    "eat sessions horrible",
+    "mask grill associations"
+  ],
+  "dst_endpoint": {
+    "name": "stranger vernon adipex",
+    "owner": {
+      "name": "Hip",
+      "type": "Unknown",
+      "uid": "c35dac4a-54de-11ef-90b9-0242ac110008",
+      "type_id": 0,
+      "risk_level": "close",
+      "risk_level_id": 99,
+      "risk_score": 8
+    },
+    "port": 10752,
+    "type": "Laptop",
+    "ip": "99.86.30.15",
+    "location": {
+      "desc": "Albania, Republic of",
+      "city": "Tap idaho",
+      "country": "AL",
+      "coordinates": [
+        -146.563,
+        61.6268
+      ],
+      "continent": "Europe"
+    },
+    "uid": "c35e0d48-54de-11ef-85cf-0242ac110008",
+    "hostname": "yu.name",
+    "mac": "8C:6A:82:33:80:53:32:6D",
+    "type_id": 3,
+    "hw_info": {
+      "bios_date": "convert visits experiment",
+      "cpu_cores": 93,
+      "cpu_type": "ranges professor launched"
+    },
+    "instance_uid": "c35e1a4a-54de-11ef-b186-0242ac110008",
+    "interface_name": "threads essence features",
+    "interface_uid": "c35e5730-54de-11ef-a7a1-0242ac110008",
+    "svc_name": "buys lens instructor"
+  },
+  "enrichments": [
+    {
+      "data": "tr",
+      "name": "itself cement took",
+      "type": "subscriptions additionally batch",
+      "value": "cb issues nicole",
+      "created_time": 1723050120901954,
+      "short_desc": "directed viruses seller",
+      "src_url": "referral"
+    },
+    {
+      "data": "tc",
+      "name": "year profit bulk",
+      "type": "geography reporters priest",
+      "value": "etc tales gmc",
+      "desc": "techno newspapers jonathan",
+      "provider": "design training nato",
+      "short_desc": "occupational spa logo",
+      "src_url": "numerous"
+    }
+  ],
+  "ja4_fingerprint_list": [
+    {
+      "type": "JA4Server",
+      "value": "inquire pale desperate",
+      "type_id": 2,
+      "section_a": "pd attractions valued",
+      "section_c": "latino legislation editions",
+      "section_d": "handbook organized allocated"
+    }
+  ],
+  "severity_id": 5,
+  "src_endpoint": {
+    "name": "replacement difficult reload",
+    "owner": {
+      "name": "Hold",
+      "type": "brazilian",
+      "uid": "c35ef334-54de-11ef-bdf4-0242ac110008",
+      "groups": [
+        {
+          "name": "kept inputs voices",
+          "type": "owns wrote failures",
+          "uid": "c35f225a-54de-11ef-9b5c-0242ac110008"
+        }
+      ],
+      "type_id": 99,
+      "ldap_person": {
+        "cost_center": "monthly genealogy confirmed",
+        "ldap_dn": "ridge patient fantasy"
+      }
+    },
+    "port": 28232,
+    "type": "Browser",
+    "ip": "91.44.210.179",
+    "uid": "c35f7930-54de-11ef-bab4-0242ac110008",
+    "hostname": "pride.com",
+    "type_id": 8,
+    "autonomous_system": {
+      "number": 64
+    },
+    "hw_info": {
+      "chassis": "scripts namibia maintaining",
+      "cpu_bits": 87,
+      "cpu_count": 59,
+      "keyboard_info": {
+        "ime": "swift discipline killed"
+      }
+    },
+    "instance_uid": "c35f88ee-54de-11ef-ba85-0242ac110008",
+    "interface_name": "opinions consumers musician",
+    "interface_uid": "c35f9334-54de-11ef-9358-0242ac110008",
+    "svc_name": "full di highway",
+    "vpc_uid": "c35fc96c-54de-11ef-b87f-0242ac110008"
+  },
+  "status_code": "faculty",
+  "status_id": 2,
+  "traffic": {
+    "chunks": 2793550987,
+    "bytes": 1533820517,
+    "chunks_out": 231891206,
+    "packets": 393574350
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "message": "destinations valentine handle",
+  "status": "karma pam administrator",
+  "time": 1723050085629038,
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "earl dropped warnings",
+      "version": "1.4.0-dev",
+      "uid": "ae582e56-54de-11ef-8c7f-0242ac110008",
+      "vendor_name": "families finance casio"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "ae583586-54de-11ef-8981-0242ac110008",
+    "log_name": "adjusted bulletin mighty",
+    "log_provider": "marketplace passwords porsche",
+    "tenant_uid": "ae583cca-54de-11ef-9dee-0242ac110008"
+  },
+  "proxy": {
+    "name": "howto relatives march",
+    "owner": {
+      "name": "Literally",
+      "type": "System",
+      "domain": "took format convergence",
+      "uid": "ae571ab6-54de-11ef-8566-0242ac110008",
+      "type_id": 3,
+      "email_addr": "Glady@teens.gov",
+      "risk_score": 32
+    },
+    "port": 49789,
+    "type": "drunk",
+    "ip": "126.93.69.72",
+    "uid": "ae57247a-54de-11ef-ad9e-0242ac110008",
+    "hostname": "disease.store",
+    "mac": "3A:18:6C:71:B2:A:56:56",
+    "type_id": 99,
+    "agent_list": [
+      {
+        "name": "accuracy location mexico",
+        "type": "Unknown",
+        "uid": "ae573488-54de-11ef-99e6-0242ac110008",
+        "type_id": 0,
+        "policies": [
+          {
+            "name": "tech discounts galaxy",
+            "version": "1.4.0-dev",
+            "uid": "ae57428e-54de-11ef-bff6-0242ac110008",
+            "is_applied": false
+          },
+          {
+            "name": "communities date stocks",
+            "version": "1.4.0-dev",
+            "uid": "ae574a40-54de-11ef-94a8-0242ac110008",
+            "is_applied": false
+          }
+        ],
+        "vendor_name": "possess folder bundle"
+      },
+      {
+        "name": "spam ratios ftp",
+        "type": "Configuration Management",
+        "version": "1.4.0-dev",
+        "uid": "ae5752b0-54de-11ef-b2d9-0242ac110008",
+        "type_id": 8
+      }
+    ],
+    "instance_uid": "ae5759d6-54de-11ef-88f1-0242ac110008",
+    "interface_name": "cement permanent di",
+    "interface_uid": "ae57607a-54de-11ef-a811-0242ac110008",
+    "svc_name": "brush bedroom smithsonian",
+    "zone": "daily innovations lighting"
+  },
+  "relay": {
+    "name": "initial pa ref",
+    "type": "Wireless",
+    "ip": "210.239.177.87",
+    "uid": "ae581ace-54de-11ef-8e77-0242ac110008",
+    "hostname": "female.arpa",
+    "mac": "8F:0:2C:F1:71:4D:9D:6D",
+    "type_id": 2
+  },
+  "connection_info": {
+    "session": {
+      "terminal": "classroom colombia electrical",
+      "issuer": "blues christianity student",
+      "is_remote": true,
+      "is_vpn": false
+    },
+    "uid": "ae577222-54de-11ef-b5ef-0242ac110008",
+    "boundary": "Same VPC",
+    "protocol_name": "fantasy lafayette terrace",
+    "direction": "Outbound",
+    "boundary_id": 4,
+    "direction_id": 2,
+    "protocol_num": 49,
+    "protocol_ver": "Internet Protocol version 4 (IPv4)",
+    "protocol_ver_id": 4
+  },
+  "severity": "judgment",
+  "tls": {
+    "version": "1.4.0-dev",
+    "certificate": {
+      "version": "1.4.0-dev",
+      "is_self_signed": false,
+      "subject": "swift diagnosis ton",
+      "issuer": "snap documentation rate",
+      "fingerprints": [
+        {
+          "value": "03E9BFD1361B9C5ABA0CF4A42EC1067D7223015BDBCCC12E9A74059689E10C964387D9F4FEDB709BC73C70159026D5DBECB4F9C0F6C2CB89191C32470A60329B",
+          "algorithm": "CTPH",
+          "algorithm_id": 5
+        },
+        {
+          "value": "C6B1BB497AC41E42292C35B6C26ACFD3B3463D0FE542CE844FEDBF86097B3FE43AB13763EE0C61048E1C1FB8BD6B087CACC4FCE8DA5DAD147C86A9CF21A64952",
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7
+        }
+      ],
+      "created_time": 1723050085626871,
+      "expiration_time": 1723050085626883,
+      "serial_number": "upgrading sonic inventory"
+    },
+    "sni": "wishes academics ag",
+    "certificate_chain": [
+      "ant laughing abilities"
+    ],
+    "client_ciphers": [
+      "sur kodak checked",
+      "portland testament isle"
+    ],
+    "ja3_hash": {
+      "value": "463530CC10DD0B92811424F9847F1D4DF17D0AD854F4CDE4F29B2A66EB46E96517C27FDFD06BA4510EE98438012052F4D7F10920CF4D31C3A096AB58823BDCB8",
+      "algorithm": "CTPH",
+      "algorithm_id": 5
+    },
+    "ja3s_hash": {
+      "value": "057C0F3BCF653E440863B8E68EEDD71F8598A67D68085EC98F4FC01D107C4A38821F702FD08F5FA0AA634C6B5186DE3567AE121FEF2E1F9FB9AAA0080CB6F5F5",
+      "algorithm": "TLSH",
+      "algorithm_id": 6
+    },
+    "sans": [
+      {
+        "name": "sense tahoe opt",
+        "type": "bi cornwall commonwealth"
+      }
+    ]
+  },
+  "timezone_offset": 31,
+  "activity_id": 6,
+  "class_uid": 4004,
+  "type_uid": 400406,
+  "type_name": "DHCP Activity: Nak",
+  "observables": [
+    {
+      "name": "celebrities soc ross",
+      "type": "Unknown",
+      "type_id": 0,
+      "reputation": {
+        "base_score": 15.3315,
+        "score": "openings",
+        "score_id": 99
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "activity_name": "Nak",
+  "dst_endpoint": {
+    "name": "addresses tribal tracks",
+    "owner": {
+      "name": "Andreas",
+      "type": "Unknown",
+      "domain": "eur singles park",
+      "uid": "ae5789e2-54de-11ef-8972-0242ac110008",
+      "type_id": 0,
+      "ldap_person": {
+        "cost_center": "highlighted heater plane",
+        "last_login_time": 1723050085622159
+      }
+    },
+    "port": 33717,
+    "type": "Server",
+    "ip": "208.153.11.46",
+    "uid": "ae5796e4-54de-11ef-a419-0242ac110008",
+    "hostname": "occupations.museum",
+    "type_id": 1,
+    "instance_uid": "ae579e8c-54de-11ef-8ecb-0242ac110008",
+    "interface_name": "statistical aircraft return",
+    "interface_uid": "ae57a544-54de-11ef-9c03-0242ac110008",
+    "intermediate_ips": [
+      "157.25.10.169",
+      "197.34.109.166"
+    ],
+    "proxy_endpoint": {
+      "name": "portfolio dk laden",
+      "owner": {
+        "name": "Classes",
+        "uid": "ae57bed0-54de-11ef-b8e9-0242ac110008",
+        "credential_uid": "ae57c6dc-54de-11ef-a583-0242ac110008",
+        "email_addr": "Meda@pending.biz",
+        "risk_level": "sit wives fisheries"
+      },
+      "port": 39203,
+      "type": "Load Balancer",
+      "domain": "tenant periods jerusalem",
+      "ip": "102.30.99.217",
+      "uid": "ae57cf24-54de-11ef-b376-0242ac110008",
+      "hostname": "el.coop",
+      "type_id": 15,
+      "hw_info": {
+        "bios_date": "mysimon brooks wound",
+        "bios_ver": "0",
+        "cpu_count": 3,
+        "desktop_display": {
+          "color_depth": 68,
+          "physical_orientation": 39
+        },
+        "serial_number": "discussed males pierre"
+      },
+      "instance_uid": "ae57feea-54de-11ef-b4bc-0242ac110008",
+      "interface_name": "dolls vbulletin thumbzilla",
+      "interface_uid": "ae580610-54de-11ef-9182-0242ac110008",
+      "svc_name": "omega spots sterling"
+    },
+    "svc_name": "clusters dictionary event",
+    "vpc_uid": "ae580d2c-54de-11ef-b696-0242ac110008"
+  },
+  "is_renewal": false,
+  "lease_dur": 77,
+  "severity_id": 99,
+  "src_endpoint": {
+    "name": "brother stages failed",
+    "owner": {
+      "name": "Dsc",
+      "type": "User",
+      "uid": "ae586880-54de-11ef-a78d-0242ac110008",
+      "groups": [
+        {
+          "name": "condo volt savings",
+          "uid": "ae58765e-54de-11ef-995e-0242ac110008",
+          "privileges": [
+            "ah migration disable",
+            "icons buttons quarters"
+          ]
+        },
+        {
+          "name": "yacht referring combining",
+          "domain": "painted metal boost",
+          "uid": "ae587f8c-54de-11ef-8ca2-0242ac110008",
+          "privileges": [
+            "cardiovascular lanes leading",
+            "automotive collecting jane"
+          ]
+        }
+      ],
+      "full_name": "Onie Quincy",
+      "type_id": 1,
+      "uid_alt": "methodology faqs advertise"
+    },
+    "port": 39949,
+    "type": "IDS",
+    "domain": "measured yours randy",
+    "ip": "236.57.202.240",
+    "uid": "ae5887e8-54de-11ef-8f15-0242ac110008",
+    "hostname": "recover.net",
+    "mac": "61:45:C8:A3:E0:32:0:DF",
+    "type_id": 13,
+    "instance_uid": "ae588f40-54de-11ef-856e-0242ac110008",
+    "svc_name": "kid becoming wr",
+    "vlan_uid": "ae58959e-54de-11ef-9fcc-0242ac110008"
+  },
+  "status_code": "transport",
+  "status_detail": "lately durable honors",
+  "traffic": {
+    "bytes_in": 94917986,
+    "bytes_out": 341494510,
+    "bytes": 1003353218,
+    "chunks_out": 2448005420,
+    "packets": 2286520048,
+    "packets_out": 1646113546
+  },
+  "transaction_uid": "ae589bd4-54de-11ef-8957-0242ac110008"
+}

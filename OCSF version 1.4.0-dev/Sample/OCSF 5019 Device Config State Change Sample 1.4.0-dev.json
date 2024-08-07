@@ -1,0 +1,130 @@
+{
+  "message": "consumers saudi walked",
+  "status": "Unknown",
+  "time": 1723050092038286,
+  "state": "Disabled",
+  "device": {
+    "owner": {
+      "type": "Admin",
+      "domain": "partly deviant antibody",
+      "uid": "b22a7318-54de-11ef-b4b2-0242ac110008",
+      "type_id": 2,
+      "account": {
+        "name": "found gone looked",
+        "type": "Linux Account",
+        "uid": "b22a825e-54de-11ef-8609-0242ac110008",
+        "labels": [
+          "allowing",
+          "connectivity"
+        ],
+        "type_id": 9
+      },
+      "risk_level": "enabled throw paxil"
+    },
+    "type": "IOT",
+    "domain": "bulgarian tooth reflection",
+    "desc": "style leo operators",
+    "uid": "b22a8b82-54de-11ef-b6c9-0242ac110008",
+    "hostname": "scholar.mil",
+    "image": {
+      "name": "adrian missouri complex",
+      "uid": "b229ee8e-54de-11ef-bac4-0242ac110008"
+    },
+    "type_id": 7,
+    "hw_info": {
+      "bios_date": "marketplace queries endangered",
+      "cpu_count": 19,
+      "ram_size": 33,
+      "serial_number": "talked charged giving"
+    },
+    "instance_uid": "b229d9da-54de-11ef-a0ed-0242ac110008",
+    "interface_name": "contains pushing toy",
+    "interface_uid": "b229e06a-54de-11ef-97fb-0242ac110008",
+    "last_seen_time": 1723050092037842,
+    "modified_time": 1723050092033653,
+    "network_interfaces": [
+      {
+        "name": "saw richardson chorus",
+        "type": "Unknown",
+        "ip": "188.149.211.139",
+        "mac": "77:99:9D:55:11:7:48:E8",
+        "namespace": "piece verde periodic",
+        "type_id": 0,
+        "subnet_prefix": 56
+      },
+      {
+        "type": "Unknown",
+        "ip": "57.162.210.39",
+        "hostname": "disciplinary.gov",
+        "mac": "18:C2:4F:34:F2:5A:8A:20",
+        "type_id": 0,
+        "subnet_prefix": 45
+      }
+    ],
+    "region": "notice pipeline horn",
+    "risk_score": 60,
+    "uid_alt": "expired positioning nursing"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "scenes desire birmingham",
+      "version": "1.4.0-dev",
+      "uid": "b229b4be-54de-11ef-81d1-0242ac110008",
+      "vendor_name": "yields pmc consumers"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "participant reflect suzuki",
+    "log_provider": "distributed dsl hero",
+    "logged_time": 1723050092032580,
+    "original_time": "equally consisting silence",
+    "tenant_uid": "b229bebe-54de-11ef-a7d2-0242ac110008"
+  },
+  "severity": "High",
+  "timezone_offset": 22,
+  "activity_id": 0,
+  "class_uid": 5019,
+  "type_uid": 501900,
+  "type_name": "Device Config State Change: Unknown",
+  "observables": [
+    {
+      "name": "pee bearing logos",
+      "type": "File Name",
+      "value": "springs fioricet tells",
+      "type_id": 7,
+      "reputation": {
+        "base_score": 20.3942,
+        "provider": "come touch min",
+        "score": "Probably Malicious",
+        "score_id": 9
+      }
+    },
+    {
+      "name": "host sent its",
+      "type": "Port",
+      "type_id": 11
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Device Config State Change",
+  "end_time": 1723050092031461,
+  "activity_name": "Unknown",
+  "prev_security_level": "Secure",
+  "prev_security_level_id": 1,
+  "security_level": "england",
+  "security_level_id": 99,
+  "security_states": [
+    {
+      "state": "Suspicious reputation",
+      "state_id": 8
+    }
+  ],
+  "severity_id": 4,
+  "state_id": 1,
+  "status_code": "ci",
+  "status_detail": "adapter temple trees",
+  "status_id": 0
+}

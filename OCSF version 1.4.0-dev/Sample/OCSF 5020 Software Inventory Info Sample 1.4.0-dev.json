@@ -1,0 +1,126 @@
+{
+  "status": "Failure",
+  "time": 1723050095490547,
+  "device": {
+    "owner": {
+      "name": "Gene",
+      "type": "clark",
+      "uid": "b43941c0-54de-11ef-891d-0242ac110008",
+      "full_name": "Weston Lenard",
+      "type_id": 99,
+      "ldap_person": {
+        "location": {
+          "desc": "Bermuda",
+          "city": "Faced placed",
+          "country": "BM",
+          "coordinates": [
+            145.626,
+            -86.4393
+          ],
+          "continent": "North America"
+        },
+        "deleted_time": 1723050095490304,
+        "email_addrs": [
+          "Marquita@landing.firm"
+        ],
+        "ldap_cn": "crest ko patch"
+      },
+      "risk_score": 25,
+      "uid_alt": "moon webcast u"
+    },
+    "type": "Router",
+    "os": {
+      "name": "intel forgot e",
+      "type": "Windows Mobile",
+      "type_id": 101,
+      "edition": "announce graduation books"
+    },
+    "location": {
+      "desc": "Andorra, Principality of",
+      "city": "Fell halifax",
+      "country": "AD",
+      "coordinates": [
+        161.1349,
+        -34.8147
+      ],
+      "continent": "Europe"
+    },
+    "desc": "pale duo preliminary",
+    "uid": "b4395a16-54de-11ef-94a1-0242ac110008",
+    "hostname": "funding.gov",
+    "image": {
+      "name": "mails taylor assumes",
+      "path": "gray funky decor",
+      "uid": "b4393414-54de-11ef-a7fe-0242ac110008"
+    },
+    "subnet": "225.32.5.0/24",
+    "type_id": 12,
+    "first_seen_time": 1723050095489294,
+    "hw_info": {
+      "cpu_cores": 6,
+      "cpu_type": "danny judges weight"
+    },
+    "instance_uid": "b4392578-54de-11ef-95d5-0242ac110008",
+    "region": "motorcycles median connectivity"
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "name": "hamilton provides presence",
+      "version": "1.4.0-dev",
+      "uid": "b438c722-54de-11ef-a227-0242ac110008",
+      "vendor_name": "special couple coding"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "status shaft scientist",
+    "modified_time": 1723050095486793,
+    "tenant_uid": "b438d014-54de-11ef-af78-0242ac110008"
+  },
+  "product": {
+    "name": "trials pupils chancellor",
+    "version": "1.4.0-dev",
+    "path": "lessons tank mumbai",
+    "uid": "b439661e-54de-11ef-a058-0242ac110008",
+    "cpe_name": "embassy rosa hosts",
+    "vendor_name": "consolidated penalty newton"
+  },
+  "severity": "Fatal",
+  "duration": 877401263,
+  "timezone_offset": 8,
+  "activity_id": 2,
+  "class_uid": 5020,
+  "type_uid": 502002,
+  "type_name": "Software Inventory Info: Collect",
+  "observables": [
+    {
+      "name": "intersection some deaths",
+      "type": "Registry Key",
+      "type_id": 28,
+      "reputation": {
+        "base_score": 6.4681,
+        "provider": "irish puts narrow",
+        "score": "Malicious",
+        "score_id": 10
+      }
+    }
+  ],
+  "category_name": "Discovery",
+  "category_uid": 5,
+  "class_name": "Software Inventory Info",
+  "end_time": 1723050095485961,
+  "activity_name": "Collect",
+  "package": {
+    "name": "norm rescue objects",
+    "type": "struck",
+    "version": "1.4.0-dev",
+    "type_id": 99,
+    "architecture": "infringement fast segment",
+    "purl": "cia necessarily naughty"
+  },
+  "severity_id": 6,
+  "status_code": "customize",
+  "status_detail": "demonstrate deep riverside",
+  "status_id": 2
+}

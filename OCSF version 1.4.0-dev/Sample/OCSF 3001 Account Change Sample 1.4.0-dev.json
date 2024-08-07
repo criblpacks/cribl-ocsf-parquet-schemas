@@ -1,0 +1,277 @@
+{
+  "status": "specialist",
+  "time": 1723050123085382,
+  "user": {
+    "name": "Lebanon",
+    "type": "peoples writer cvs",
+    "domain": "excited updates survival",
+    "account": {
+      "name": "delivering tower nn",
+      "type": "AWS IAM Role",
+      "uid": "c4aac5ce-54de-11ef-924e-0242ac110008",
+      "type_id": 4
+    }
+  },
+  "metadata": {
+    "version": "1.4.0-dev",
+    "product": {
+      "version": "1.4.0-dev",
+      "uid": "c4aa413a-54de-11ef-a72c-0242ac110008",
+      "vendor_name": "habitat concerned completing"
+    },
+    "uid": "c4aa577e-54de-11ef-b3cf-0242ac110008",
+    "log_level": "treatments calculations participation",
+    "sequence": 28,
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "c4aa9996-54de-11ef-a636-0242ac110008",
+    "log_name": "soul recommendations profession",
+    "log_provider": "bracelets bl telecharger",
+    "log_version": "churches competitions money",
+    "processed_time": 1723050123076511
+  },
+  "severity": "High",
+  "timezone_offset": 51,
+  "activity_id": 10,
+  "class_uid": 3001,
+  "type_uid": 300110,
+  "type_name": "Account Change: MFA Factor Enable",
+  "observables": [
+    {
+      "name": "estimated prescribed sent",
+      "type": "User Credential ID",
+      "type_id": 19
+    },
+    {
+      "name": "warranty nicholas egg",
+      "type": "Email Address",
+      "type_id": 5
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "activity_name": "MFA Factor Enable",
+  "actor": {
+    "process": {
+      "name": "Variable",
+      "pid": 3,
+      "file": {
+        "name": "in.rm",
+        "size": 1872848651,
+        "type": "Folder",
+        "version": "1.4.0-dev",
+        "path": "workshops refinance dishes/jam.psd/in.rm",
+        "ext": "horror cabinets jury",
+        "creator": {
+          "name": "Washing",
+          "type": "System",
+          "uid": "c4ac2c16-54de-11ef-8a83-0242ac110008",
+          "full_name": "Alvin Ami",
+          "type_id": 3,
+          "risk_level": "dt host allen",
+          "risk_score": 3
+        },
+        "parent_folder": "workshops refinance dishes/jam.psd",
+        "type_id": 2,
+        "hashes": [
+          {
+            "value": "068D7177AEE848C3097DC63A2688212DF6C34FE4A0C131388632D83AAF793A6397AD16EC2930C642A3293B0B103E60D3498A8E926DA321A9C8AE6CB1C3401EBA",
+            "algorithm": "Unknown",
+            "algorithm_id": 0
+          },
+          {
+            "value": "8D536D2E25545E3F7401F208BA603E344A8B08E2F7B9B6391D0B29D30868D49499AFBA209739FD257678904D91CD9255A8CF0490970408C2132F887C23C5A095",
+            "algorithm": "Unknown",
+            "algorithm_id": 0
+          }
+        ],
+        "is_system": false
+      },
+      "user": {
+        "name": "Reference",
+        "type": "Admin",
+        "uid": "c4ac4a70-54de-11ef-82f5-0242ac110008",
+        "type_id": 2,
+        "account": {
+          "name": "reel password planet",
+          "type": "Apple Account",
+          "uid": "c4ac590c-54de-11ef-909c-0242ac110008",
+          "type_id": 8
+        },
+        "email_addr": "Margarita@germany.arpa",
+        "ldap_person": {
+          "modified_time": 1723050123088097,
+          "office_location": "expired derby troubleshooting"
+        },
+        "risk_level": "High",
+        "risk_level_id": 3,
+        "uid_alt": "better same activation"
+      },
+      "uid": "c4ac75ea-54de-11ef-89a5-0242ac110008",
+      "loaded_modules": [
+        "/nz/algorithms/uk/reel/constraint.cs",
+        "/relatively/wanted/eminem/interactions/harvest.thm"
+      ],
+      "cmd_line": "moss warehouse cleaner",
+      "created_time": 1723050123088525,
+      "parent_process": {
+        "name": "David",
+        "pid": 63,
+        "file": {
+          "name": "designs.7z",
+          "type": "Named Pipe",
+          "version": "1.4.0-dev",
+          "path": "blogger injection owners/bangladesh.py/designs.7z",
+          "product": {
+            "name": "vocal afternoon whats",
+            "version": "1.4.0-dev",
+            "uid": "c4ad5d84-54de-11ef-9359-0242ac110008",
+            "vendor_name": "match applicant since"
+          },
+          "ext": "besides ceo orientation",
+          "accessor": {
+            "type": "System",
+            "uid": "c4adb004-54de-11ef-b148-0242ac110008",
+            "type_id": 3,
+            "risk_level": "disks kw arlington",
+            "risk_score": 83,
+            "uid_alt": "wire sq arch"
+          },
+          "company_name": "Elinore Gemma",
+          "parent_folder": "blogger injection owners/bangladesh.py",
+          "type_id": 6,
+          "confidentiality": "Secret",
+          "confidentiality_id": 3,
+          "created_time": 1723050123096546,
+          "hashes": [
+            {
+              "value": "29054575C9ED94FFDC8F322F90C95068F6BDFE9E72FB8419CDFE31E8ADE15B58127945340A907B9A377AFFF2E649341CC1067F1BB17F47CEA650533BF8E0FF21",
+              "algorithm": "SHA-512",
+              "algorithm_id": 4
+            }
+          ],
+          "modified_time": 1723050123096702
+        },
+        "user": {
+          "name": "Tuning",
+          "type": "User",
+          "uid": "c4adc6a2-54de-11ef-9434-0242ac110008",
+          "groups": [
+            {
+              "name": "bored activities fight",
+              "desc": "impose coordinator instead",
+              "uid": "c4addc5a-54de-11ef-a283-0242ac110008"
+            }
+          ],
+          "type_id": 1,
+          "email_addr": "Quentin@office.store",
+          "risk_level": "High",
+          "risk_level_id": 3
+        },
+        "uid": "c4ade740-54de-11ef-b7d4-0242ac110008",
+        "created_time": 1723050123097895,
+        "parent_process": {
+          "name": "Beef",
+          "pid": 47,
+          "file": {
+            "name": "indicate.rpm",
+            "type": "Folder",
+            "version": "1.4.0-dev",
+            "path": "farmer advice reproduce/indiana.ttf/indicate.rpm",
+            "ext": "teeth fabrics analysts",
+            "parent_folder": "farmer advice reproduce/indiana.ttf",
+            "type_id": 2,
+            "accessed_time": 1723050123102990,
+            "confidentiality": "law",
+            "confidentiality_id": 99,
+            "hashes": [
+              {
+                "value": "995E81679B67CE6C842A2F907E90AA57E1ED5E95FCBEC2DB4A3B9954E5F5C2412C35BDA2F3E66DF699B7A9B45F460CEA37FA59EFA40F070AD0D1CBE9A2DDA84A",
+                "algorithm": "SHA-512",
+                "algorithm_id": 4
+              }
+            ],
+            "is_system": true,
+            "xattributes": {}
+          },
+          "uid": "c4aec4da-54de-11ef-81ac-0242ac110008",
+          "cmd_line": "provisions uc integer",
+          "created_time": 1723050123104176,
+          "terminated_time": 1723050123104190,
+          "xattributes": {}
+        }
+      },
+      "xattributes": {}
+    },
+    "user": {
+      "name": "Indicate",
+      "uid": "c4aefb12-54de-11ef-aa27-0242ac110008",
+      "org": {
+        "name": "amenities keys removal",
+        "ou_name": "dresses evaluations purple"
+      }
+    },
+    "authorizations": [
+      {
+        "decision": "flow fed brandon"
+      },
+      {
+        "decision": "twin disciplinary usual"
+      }
+    ]
+  },
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "enemies hybrid succeed",
+    "owner": {
+      "name": "Examine",
+      "type": "transactions",
+      "uid": "c4ab6204-54de-11ef-8b69-0242ac110008",
+      "type_id": 99,
+      "email_addr": "Eula@rats.arpa",
+      "risk_level": "chevy combinations elsewhere"
+    },
+    "port": 61400,
+    "type": "Laptop",
+    "os": {
+      "name": "trainer consolidated one",
+      "type": "Solaris",
+      "build": "royal diagnostic jeremy",
+      "type_id": 400,
+      "cpe_name": "evil jesus wichita"
+    },
+    "domain": "provinces ne fate",
+    "ip": "94.113.100.20",
+    "uid": "c4ab8de2-54de-11ef-8354-0242ac110008",
+    "hostname": "economics.edu",
+    "type_id": 3,
+    "instance_uid": "c4abb1d2-54de-11ef-a8f8-0242ac110008",
+    "interface_name": "shakespeare destiny fred",
+    "interface_uid": "c4abc74e-54de-11ef-ae56-0242ac110008",
+    "intermediate_ips": [
+      "0.2.65.176"
+    ],
+    "svc_name": "cooking manner stanford"
+  },
+  "status_code": "historical",
+  "status_detail": "health gamma tub",
+  "status_id": 99,
+  "user_result": {
+    "name": "Inquire",
+    "type": "Admin",
+    "domain": "personnel eligible earliest",
+    "uid": "c4abe490-54de-11ef-b419-0242ac110008",
+    "type_id": 2,
+    "ldap_person": {
+      "email_addrs": [
+        "Crysta@china.edu",
+        "Easter@huge.arpa"
+      ],
+      "given_name": "wing aged outline",
+      "leave_time": 1723050123085359,
+      "modified_time": 1723050123085372
+    }
+  }
+}
