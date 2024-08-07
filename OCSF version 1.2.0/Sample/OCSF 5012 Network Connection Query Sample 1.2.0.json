@@ -1,0 +1,287 @@
+{
+  "message": "cycles candidate manhattan",
+  "process": {
+    "name": "Miracle",
+    "pid": 98,
+    "file": {
+      "attributes": 75,
+      "name": "utilize.mov",
+      "type": "Local Socket",
+      "path": "router mia trio/eye.cpp/utilize.mov",
+      "signature": {
+        "certificate": {
+          "version": "1.2.0",
+          "subject": "door erp migration",
+          "issuer": "classical planets composite",
+          "fingerprints": [
+            {
+              "value": "A0F6A5DE87EE599DB12DC9FCA038B61E40B969173303E846B3EBEF624DEE3067CCF7FE360770A1F915DA3647EA7515F11C9945AFF5C53910BDB5C54222938DB0",
+              "algorithm": "CTPH",
+              "algorithm_id": 5
+            }
+          ],
+          "created_time": 1723049728077310,
+          "expiration_time": 1723049728077316,
+          "serial_number": "humidity enjoyed origins"
+        },
+        "algorithm": "norman",
+        "algorithm_id": 99,
+        "created_time": 1723049728077328
+      },
+      "uid": "d93a93b2-54dd-11ef-b1e7-0242ac110006",
+      "type_id": 5,
+      "accessor": {
+        "name": "Dealing",
+        "type": "Admin",
+        "uid": "d93a9f92-54dd-11ef-9c72-0242ac110006",
+        "type_id": 2,
+        "ldap_person": {
+          "cost_center": "later classic pr",
+          "hire_time": 1723049728077977,
+          "ldap_cn": "pump entity extract"
+        },
+        "risk_level": "Info",
+        "risk_level_id": 0,
+        "uid_alt": "qualities arise recommends"
+      },
+      "mime_type": "universal/reload",
+      "parent_folder": "router mia trio/eye.cpp",
+      "accessed_time": 1723049728078008,
+      "confidentiality": "deadline picking sports",
+      "is_system": false
+    },
+    "user": {
+      "name": "Zus",
+      "type": "Admin",
+      "uid": "d93ab28e-54dd-11ef-8520-0242ac110006",
+      "type_id": 2,
+      "credential_uid": "d93ab8f6-54dd-11ef-b8de-0242ac110006",
+      "ldap_person": {
+        "manager": {
+          "name": "Wash",
+          "type": "Unknown",
+          "uid": "d93ac724-54dd-11ef-ae71-0242ac110006",
+          "groups": [
+            {
+              "name": "collar ro accessing",
+              "uid": "d93ad0d4-54dd-11ef-8007-0242ac110006"
+            },
+            {
+              "name": "lenders eligible archive",
+              "type": "mine careful patrol",
+              "uid": "d93ad7aa-54dd-11ef-accc-0242ac110006"
+            }
+          ],
+          "type_id": 0,
+          "risk_level": "switching melissa fish"
+        },
+        "deleted_time": 1723049728079276,
+        "ldap_cn": "nike researchers new",
+        "modified_time": 1723049728079303,
+        "office_location": "district honor nh"
+      }
+    },
+    "uid": "d93ae010-54dd-11ef-99c0-0242ac110006",
+    "cmd_line": "mag yahoo cooperative",
+    "created_time": 1723049728079483,
+    "integrity": "Unknown",
+    "integrity_id": 0,
+    "lineage": [
+      "accounting unix michigan",
+      "request orlando gospel"
+    ],
+    "parent_process": {
+      "name": "Ladder",
+      "pid": 71,
+      "file": {
+        "name": "recognized.apk",
+        "size": 3614537718,
+        "type": "steve",
+        "path": "antivirus moisture surveys/helen.vcd/recognized.apk",
+        "type_id": 99,
+        "creator": {
+          "name": "Formula",
+          "type": "rates",
+          "uid": "d93afcc6-54dd-11ef-8086-0242ac110006",
+          "type_id": 99,
+          "account": {
+            "name": "integration lol fabrics",
+            "type": "Unknown",
+            "uid": "d93b069e-54dd-11ef-8dcf-0242ac110006",
+            "type_id": 0
+          },
+          "credential_uid": "d93b0cb6-54dd-11ef-920e-0242ac110006",
+          "email_addr": "Robbyn@his.biz",
+          "risk_level": "saves hawaii mozilla",
+          "uid_alt": "legitimate breeds space"
+        },
+        "mime_type": "substances/approval",
+        "parent_folder": "antivirus moisture surveys/helen.vcd",
+        "hashes": [
+          {
+            "value": "A7C6F3C09956B1C170AFAA2B8844AF524A41154C2A22CFC17D43872B78B49B2A",
+            "algorithm": "magic",
+            "algorithm_id": 99
+          },
+          {
+            "value": "39062B16CA45E8994869F54D7ED161EA0AC7DED14D46F0B5A5447320F5D8811F2A80BB3128BC02B3A435060D0680FDD5BD5BCCFD483D191A8EE0F3567B737EF6",
+            "algorithm": "CTPH",
+            "algorithm_id": 5
+          }
+        ]
+      },
+      "user": {
+        "name": "Mixture",
+        "type": "Admin",
+        "uid": "d93b1b5c-54dd-11ef-a65a-0242ac110006",
+        "org": {
+          "name": "someone observe argument",
+          "uid": "d93b2408-54dd-11ef-acf3-0242ac110006",
+          "ou_name": "karl sat auction"
+        },
+        "type_id": 2,
+        "risk_score": 44
+      },
+      "uid": "d93b2ade-54dd-11ef-b0e8-0242ac110006",
+      "cmd_line": "bookmarks cutting sense",
+      "created_time": 1723049728081399,
+      "parent_process": {
+        "name": "Procurement",
+        "pid": 23,
+        "file": {
+          "attributes": 14,
+          "name": "tips.jpg",
+          "type": "Local Socket",
+          "path": "enhancing micro hosting/louis.c/tips.jpg",
+          "uid": "d93b40c8-54dd-11ef-83a8-0242ac110006",
+          "type_id": 5,
+          "company_name": "Tamisha Mignon",
+          "parent_folder": "enhancing micro hosting/louis.c",
+          "hashes": [
+            {
+              "value": "CA48718ACF012C96C95E595F0F7566EE3D936E2AD7E7BB973498B8E5FB6CCABB",
+              "algorithm": "magic",
+              "algorithm_id": 99
+            }
+          ],
+          "is_system": true
+        },
+        "tid": 3,
+        "uid": "d93b4d0c-54dd-11ef-aaa9-0242ac110006",
+        "cmd_line": "advisor seat mentor",
+        "created_time": 1723049728082274,
+        "parent_process": {
+          "name": "Dolls",
+          "pid": 40,
+          "session": {
+            "uid": "d93b5dec-54dd-11ef-a362-0242ac110006",
+            "issuer": "bookmark rug countries",
+            "created_time": 1723049728082708
+          },
+          "file": {
+            "name": "matched.mpg",
+            "type": "Named Pipe",
+            "path": "knows tried daddy/considering.app/matched.mpg",
+            "type_id": 6,
+            "parent_folder": "knows tried daddy/considering.app",
+            "hashes": [
+              {
+                "value": "D771B2B7A5C5AD346F431BC93F4FE4A1F19B5D75F93C96737DE8CAC445E6143A289E0AA9E207115591DA3891685FF99E65A5EBC0D8588BE5F2884F8F7C52D489",
+                "algorithm": "Unknown",
+                "algorithm_id": 0
+              }
+            ],
+            "is_system": true,
+            "security_descriptor": "rb toe prepaid"
+          },
+          "user": {
+            "name": "Finally",
+            "type": "System",
+            "uid": "d93b74f8-54dd-11ef-827c-0242ac110006",
+            "type_id": 3
+          },
+          "tid": 14,
+          "uid": "d93b7be2-54dd-11ef-98a5-0242ac110006",
+          "loaded_modules": [
+            "/coupon/music/regarded/could/expressed.css"
+          ],
+          "cmd_line": "someone jane matches",
+          "created_time": 1723049728083494,
+          "lineage": [
+            "concepts grip independence",
+            "place has gateway"
+          ],
+          "xattributes": {}
+        },
+        "terminated_time": 1723049728083652
+      },
+      "terminated_time": 1723049728083658
+    },
+    "sandbox": "keys combines bennett"
+  },
+  "status": "Unknown",
+  "time": 1723049728075693,
+  "state": "LAST_ACK",
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "lebanon chronicles belong",
+      "version": "1.2.0",
+      "uid": "d93a31ec-54dd-11ef-b753-0242ac110006",
+      "feature": {
+        "name": "weapon hardware complete",
+        "version": "1.2.0",
+        "uid": "d93a4150-54dd-11ef-b130-0242ac110006"
+      },
+      "lang": "en",
+      "cpe_name": "compensation consolidation alice",
+      "url_string": "carefully",
+      "vendor_name": "bloom commitments someone"
+    },
+    "log_level": "henderson realize incl",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "warnings sic loans",
+    "log_provider": "involved essence able",
+    "modified_time": 1723049728075480,
+    "original_time": "seminars nasty denmark",
+    "tenant_uid": "d93a4c18-54dd-11ef-8fbe-0242ac110006"
+  },
+  "connection_info": {
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 34
+  },
+  "severity": "Medium",
+  "duration": 70,
+  "type_name": "Network Connection Query: Unknown",
+  "activity_id": 0,
+  "type_uid": 501200,
+  "observables": [
+    {
+      "name": "sec anger prep",
+      "type": "Process",
+      "type_id": 25
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5012,
+  "category_uid": 5,
+  "class_name": "Network Connection Query",
+  "timezone_offset": 57,
+  "activity_name": "Unknown",
+  "query_info": {
+    "name": "reservation distinction lu",
+    "uid": "d93a5924-54dd-11ef-b8df-0242ac110006",
+    "query_string": "subscriber forth commitment",
+    "query_time": 1723049728076029
+  },
+  "query_result": "dis",
+  "query_result_id": 99,
+  "severity_id": 3,
+  "state_id": 9,
+  "status_code": "indoor",
+  "status_detail": "bother shorts block",
+  "status_id": 0
+}

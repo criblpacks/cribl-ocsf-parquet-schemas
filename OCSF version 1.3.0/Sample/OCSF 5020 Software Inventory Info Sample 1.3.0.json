@@ -1,0 +1,66 @@
+{
+  "message": "tribes franchise documented",
+  "status": "Success",
+  "time": 1723049768144350,
+  "device": {
+    "type": "Hub",
+    "uid": "f11c4944-54dd-11ef-ad1a-0242ac110007",
+    "hostname": "integrity.jobs",
+    "type_id": 11,
+    "created_time": 1723049768143142,
+    "instance_uid": "f11c2400-54dd-11ef-9eeb-0242ac110007",
+    "interface_name": "islands workshops chemistry",
+    "interface_uid": "f11c3f3a-54dd-11ef-9755-0242ac110007",
+    "region": "lectures humidity decorative",
+    "risk_level": "Medium",
+    "risk_level_id": 2
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "jones odds quarter",
+      "version": "1.3.0",
+      "uid": "f11bf08e-54dd-11ef-abd2-0242ac110007",
+      "vendor_name": "translated afterwards coin"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "pokemon older dutch",
+    "original_time": "agrees versus nashville",
+    "tenant_uid": "f11bf980-54dd-11ef-bd5c-0242ac110007"
+  },
+  "start_time": 1723049768144376,
+  "severity": "Fatal",
+  "type_uid": 502002,
+  "category_name": "Discovery",
+  "type_name": "Software Inventory Info: Collect",
+  "activity_id": 2,
+  "observables": [
+    {
+      "name": "certain salad brunei",
+      "type": "URL String",
+      "type_id": 6
+    },
+    {
+      "name": "lesson specializing think",
+      "type": "Process ID",
+      "type_id": 15
+    }
+  ],
+  "class_uid": 5020,
+  "category_uid": 5,
+  "class_name": "Software Inventory Info",
+  "timezone_offset": 86,
+  "activity_name": "Collect",
+  "package": {
+    "name": "blessed lose ff",
+    "version": "1.3.0",
+    "release": "because egg losses",
+    "epoch": 48
+  },
+  "severity_id": 6,
+  "status_code": "center",
+  "status_detail": "thumbzilla irish appointed",
+  "status_id": 1
+}

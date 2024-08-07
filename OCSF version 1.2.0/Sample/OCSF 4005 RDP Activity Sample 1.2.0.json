@@ -1,0 +1,287 @@
+{
+  "message": "greatly thursday launched",
+  "status": "Unknown",
+  "time": 1723049712692819,
+  "request": {
+    "uid": "d00e784e-54dd-11ef-b778-0242ac110006"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "greeting military suit",
+      "version": "1.2.0",
+      "path": "lazy injuries usgs",
+      "uid": "d00dceda-54dd-11ef-92fa-0242ac110006",
+      "vendor_name": "moderate boom hearing"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "d00dd650-54dd-11ef-a0bf-0242ac110006",
+    "log_name": "concerned interview charleston",
+    "log_provider": "son road asn",
+    "logged_time": 1723049712684836,
+    "loggers": [
+      {
+        "name": "forth editorial ruby",
+        "device": {
+          "name": "editor nominated mb",
+          "owner": {
+            "name": "Behind",
+            "type": "System",
+            "domain": "verified given totally",
+            "uid": "d00e261e-54dd-11ef-8396-0242ac110006",
+            "org": {
+              "uid": "d00e3046-54dd-11ef-b09c-0242ac110006",
+              "ou_name": "natural sacramento smallest"
+            },
+            "type_id": 3,
+            "account": {
+              "name": "banned compiled keyboards",
+              "type": "Azure AD Account",
+              "uid": "d00e3d3e-54dd-11ef-9d51-0242ac110006",
+              "type_id": 6
+            },
+            "credential_uid": "d00e4630-54dd-11ef-9c78-0242ac110006"
+          },
+          "type": "Tablet",
+          "os": {
+            "name": "th seekers yacht",
+            "type": "iOS",
+            "version": "1.2.0",
+            "type_id": 301,
+            "cpu_bits": 26
+          },
+          "uid": "d00e4d38-54dd-11ef-99a6-0242ac110006",
+          "hostname": "phantom.org",
+          "type_id": 4,
+          "created_time": 1723049712687696,
+          "hw_info": {
+            "cpu_speed": 66
+          },
+          "instance_uid": "d00e12e6-54dd-11ef-acbe-0242ac110006",
+          "interface_name": "transcripts history tracked",
+          "interface_uid": "d00e04ea-54dd-11ef-bf77-0242ac110006",
+          "modified_time": 1723049712686037,
+          "region": "colleague moore tip"
+        },
+        "product": {
+          "name": "mexico divided ex",
+          "version": "1.2.0",
+          "uid": "d00e5c38-54dd-11ef-a756-0242ac110006",
+          "url_string": "rat",
+          "vendor_name": "college integrating xanax"
+        },
+        "uid": "d00e6336-54dd-11ef-b1df-0242ac110006",
+        "log_name": "interstate trio typically",
+        "log_provider": "higher recommend xp"
+      }
+    ],
+    "original_time": "lauren fruit quarters",
+    "tenant_uid": "d00e6a34-54dd-11ef-9eec-0242ac110006"
+  },
+  "proxy": {
+    "name": "bank polar asset",
+    "owner": {
+      "name": "Past",
+      "type": "System",
+      "uid": "d00d6274-54dd-11ef-9cbd-0242ac110006",
+      "type_id": 3,
+      "email_addr": "Cyril@here.museum",
+      "ldap_person": {
+        "cost_center": "significant activated proudly",
+        "employee_uid": "d00d7ee4-54dd-11ef-b5c8-0242ac110006",
+        "modified_time": 1723049712682577,
+        "office_location": "greatly telecharger edward"
+      }
+    },
+    "port": 19157,
+    "type": "Tablet",
+    "domain": "mechanism writing admitted",
+    "ip": "225.245.226.101",
+    "location": {
+      "desc": "Lesotho, Kingdom of",
+      "city": "I geneva",
+      "country": "LS",
+      "coordinates": [
+        -24.0018,
+        -2.1274
+      ],
+      "continent": "Africa"
+    },
+    "uid": "d00d8b5a-54dd-11ef-bc77-0242ac110006",
+    "hostname": "eyes.gov",
+    "type_id": 4,
+    "instance_uid": "d00d9276-54dd-11ef-8243-0242ac110006",
+    "interface_uid": "d00d985c-54dd-11ef-a295-0242ac110006",
+    "intermediate_ips": [
+      "194.77.183.167"
+    ],
+    "svc_name": "long grass journey",
+    "vlan_uid": "d00da04a-54dd-11ef-9452-0242ac110006"
+  },
+  "response": {
+    "error": "advance ooo anchor",
+    "code": 85,
+    "message": "learning toner trash",
+    "error_message": "freight names sold"
+  },
+  "connection_info": {
+    "session": {
+      "uuid": "d00db698-54dd-11ef-b158-0242ac110006",
+      "issuer": "interested counters denial",
+      "created_time": 1723049712684023,
+      "is_remote": true,
+      "is_vpn": false
+    },
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 69,
+    "protocol_ver": "Internet Protocol version 6 (IPv6)",
+    "protocol_ver_id": 6
+  },
+  "severity": "Critical",
+  "certificate_chain": [
+    "impossible predict little"
+  ],
+  "type_name": "RDP Activity: TLS Handshake",
+  "activity_id": 5,
+  "type_uid": 400505,
+  "observables": [
+    {
+      "name": "stunning ferrari installations",
+      "type": "CVE Object: uid",
+      "type_id": 18
+    },
+    {
+      "name": "julian atlanta accept",
+      "type": "File",
+      "type_id": 24
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4005,
+  "category_uid": 4,
+  "class_name": "RDP Activity",
+  "timezone_offset": 65,
+  "activity_name": "TLS Handshake",
+  "capabilities": [
+    "verizon jewellery certification",
+    "angels comp cholesterol"
+  ],
+  "dst_endpoint": {
+    "name": "making kyle belarus",
+    "port": 13607,
+    "type": "IOT",
+    "os": {
+      "name": "installed sarah your",
+      "type": "Solaris",
+      "version": "1.2.0",
+      "build": "damages caution attacked",
+      "type_id": 400,
+      "cpu_bits": 87
+    },
+    "ip": "28.122.147.90",
+    "uid": "d00f2262-54dd-11ef-95e7-0242ac110006",
+    "hostname": "incurred.mil",
+    "type_id": 7,
+    "agent_list": [
+      {
+        "name": "france cult plastic",
+        "type": "Log Forwarding",
+        "type_id": 6
+      },
+      {
+        "name": "frontpage amber halifax",
+        "type": "Vulnerability Management",
+        "uid": "d00f32f2-54dd-11ef-95b9-0242ac110006",
+        "type_id": 5,
+        "policies": [
+          {
+            "version": "1.2.0",
+            "uid": "d00f3cc0-54dd-11ef-b2ab-0242ac110006"
+          },
+          {
+            "name": "weekly pathology cycling",
+            "group": {
+              "name": "cheap comprehensive avon",
+              "uid": "d00f46fc-54dd-11ef-ab1c-0242ac110006"
+            },
+            "is_applied": false
+          }
+        ]
+      }
+    ],
+    "instance_uid": "d00f4d32-54dd-11ef-b518-0242ac110006",
+    "interface_name": "thy fascinating sophisticated",
+    "interface_uid": "d00f53cc-54dd-11ef-8626-0242ac110006",
+    "svc_name": "ministers skills assembly",
+    "vpc_uid": "d00f5a02-54dd-11ef-921a-0242ac110006",
+    "zone": "lite labels richmond"
+  },
+  "protocol_ver": "1.3",
+  "severity_id": 5,
+  "src_endpoint": {
+    "owner": {
+      "name": "Tex",
+      "type": "User",
+      "uid": "d00ece34-54dd-11ef-93fb-0242ac110006",
+      "type_id": 1,
+      "ldap_person": {
+        "deleted_time": 1723049712691393,
+        "given_name": "electric thousands thus",
+        "job_title": "embassy coated token",
+        "leave_time": 1723049712691421,
+        "modified_time": 1723049712691423,
+        "surname": "ira importantly vinyl"
+      },
+      "uid_alt": "acres framework geological"
+    },
+    "port": 32631,
+    "type": "Hub",
+    "ip": "121.137.116.104",
+    "location": {
+      "desc": "Saudi Arabia, Kingdom of",
+      "city": "Seven air",
+      "country": "SA",
+      "coordinates": [
+        -48.1096,
+        70.9473
+      ],
+      "continent": "Asia"
+    },
+    "hostname": "attractive.mobi",
+    "type_id": 11,
+    "agent_list": [
+      {
+        "name": "obtain kill runtime",
+        "type": "Mobile Device Management",
+        "uid": "d00eef22-54dd-11ef-970c-0242ac110006",
+        "type_id": 7,
+        "vendor_name": "classics offices fewer"
+      },
+      {
+        "name": "beside asp media",
+        "type": "Vulnerability Management",
+        "uid": "d00efdaa-54dd-11ef-b607-0242ac110006",
+        "type_id": 5,
+        "vendor_name": "threaded forty returns"
+      }
+    ],
+    "autonomous_system": {
+      "name": "ict characteristic snow",
+      "number": 94
+    },
+    "instance_uid": "d00f0796-54dd-11ef-88ec-0242ac110006",
+    "interface_name": "merit hoped circuits",
+    "interface_uid": "d00f0e1c-54dd-11ef-a168-0242ac110006",
+    "svc_name": "authentic guestbook messenger"
+  },
+  "status_code": "began",
+  "status_detail": "archive educational compiler",
+  "status_id": 0,
+  "traffic": {
+    "packets": 1042884275,
+    "packets_out": 2059689795
+  }
+}

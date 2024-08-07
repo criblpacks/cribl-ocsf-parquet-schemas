@@ -1,0 +1,159 @@
+{
+  "count": 35,
+  "http_request": {
+    "version": "1.2.0",
+    "length": 26,
+    "url": {
+      "port": 10731,
+      "scheme": "latinas funds jimmy",
+      "path": "experiences switches now",
+      "hostname": "toyota.nato",
+      "query_string": "marks gst she",
+      "categories": [
+        "photographic renewal soft",
+        "u spiritual springer"
+      ],
+      "category_ids": [
+        4,
+        14
+      ],
+      "url_string": "keen"
+    },
+    "user_agent": "under brunei approximate"
+  },
+  "message": "baghdad strategy judgment",
+  "status": "Failure",
+  "time": 1723049710487517,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "online environments plastic",
+      "version": "1.2.0",
+      "uid": "cebb0ebc-54dd-11ef-a80e-0242ac110006",
+      "lang": "en",
+      "cpe_name": "suggestions replies financial",
+      "vendor_name": "linear vegas photoshop"
+    },
+    "log_level": "terminals ill charge",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "lounge mpegs luxembourg",
+    "log_provider": "success princess laptop",
+    "loggers": [
+      {
+        "name": "order bridal victor",
+        "version": "1.2.0",
+        "device": {
+          "name": "formerly next added",
+          "type": "converted",
+          "ip": "154.62.239.170",
+          "uid": "cebcb014-54dd-11ef-86e8-0242ac110006",
+          "hostname": "advanced.gov",
+          "type_id": 99,
+          "autoscale_uid": "cebc3616-54dd-11ef-a04f-0242ac110006",
+          "instance_uid": "cebca628-54dd-11ef-8d44-0242ac110006",
+          "interface_name": "warren separated pamela",
+          "interface_uid": "cebc9a5c-54dd-11ef-8718-0242ac110006",
+          "last_seen_time": 1723049710474812,
+          "region": "treatment lows clara",
+          "uid_alt": "soccer pci industries",
+          "vpc_uid": "cebcb7f8-54dd-11ef-b6ff-0242ac110006"
+        },
+        "product": {
+          "name": "ignored handed wal",
+          "version": "1.2.0",
+          "uid": "cebcc6f8-54dd-11ef-a341-0242ac110006",
+          "url_string": "october",
+          "vendor_name": "staffing harry cas"
+        },
+        "uid": "cebccf7c-54dd-11ef-ba11-0242ac110006",
+        "log_level": "gathering frames il",
+        "log_name": "solar holdem thousands",
+        "log_provider": "syracuse physician comfort",
+        "log_version": "kb mediterranean examine"
+      }
+    ],
+    "modified_time": 1723049710476112,
+    "original_time": "processing collaboration proudly",
+    "tenant_uid": "cebcd7d8-54dd-11ef-91c3-0242ac110006"
+  },
+  "comment": "emperor threaded sys",
+  "severity": "composer",
+  "type_name": "Entity Management: Create",
+  "activity_id": 1,
+  "type_uid": 300401,
+  "observables": [
+    {
+      "name": "org hearings plains",
+      "type": "User Name",
+      "value": "imperial product air",
+      "type_id": 4,
+      "reputation": {
+        "base_score": 63.0731,
+        "provider": "carpet seminars ratio",
+        "score": "Safe",
+        "score_id": 2
+      }
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "class_uid": 3004,
+  "category_uid": 3,
+  "class_name": "Entity Management",
+  "timezone_offset": 31,
+  "end_time": 1723049710487504,
+  "activity_name": "Create",
+  "entity": {
+    "name": "products submit revisions",
+    "type": "studios workshops lauren",
+    "version": "1.2.0",
+    "uid": "ceba7a4c-54dd-11ef-9e1b-0242ac110006"
+  },
+  "entity_result": {
+    "name": "authentic consciousness houses",
+    "type": "spoke providers equal",
+    "version": "1.2.0",
+    "uid": "ceba6b10-54dd-11ef-85cd-0242ac110006"
+  },
+  "severity_id": 99,
+  "src_endpoint": {
+    "name": "brighton gradually tue",
+    "owner": {
+      "name": "Reverse",
+      "type": "Admin",
+      "uid": "cebcfac4-54dd-11ef-b9ac-0242ac110006",
+      "type_id": 2,
+      "credential_uid": "cebd5988-54dd-11ef-8448-0242ac110006",
+      "uid_alt": "soul earlier land"
+    },
+    "port": 47207,
+    "type": "Hub",
+    "ip": "29.62.152.70",
+    "location": {
+      "desc": "Turks and Caicos Islands",
+      "city": "Imported powder",
+      "country": "TC",
+      "coordinates": [
+        21.2204,
+        -72.6609
+      ],
+      "continent": "North America"
+    },
+    "uid": "cebdb7ac-54dd-11ef-9f8b-0242ac110006",
+    "hostname": "livestock.gov",
+    "type_id": 11,
+    "autonomous_system": {
+      "name": "senators fragrance emphasis",
+      "number": 78
+    },
+    "instance_uid": "cebdf2c6-54dd-11ef-97bb-0242ac110006",
+    "interface_name": "screensaver determined fathers",
+    "interface_uid": "cebdfaaa-54dd-11ef-8881-0242ac110006",
+    "subnet_uid": "cebe7778-54dd-11ef-98ee-0242ac110006",
+    "svc_name": "outline victims borders"
+  },
+  "status_code": "pensions",
+  "status_detail": "il cotton arrow",
+  "status_id": 2
+}

@@ -1,0 +1,141 @@
+{
+  "driver": {
+    "file": {
+      "name": "coordinated.crx",
+      "type": "Named Pipe",
+      "path": "mortgage massive nuke/metric.ttf/coordinated.crx",
+      "type_id": 6,
+      "company_name": "Jackie Tanika",
+      "parent_folder": "mortgage massive nuke/metric.ttf",
+      "hashes": [
+        {
+          "value": "3969F6C685A4C35B9ECF89EE54DA6E35BA1BDF8767790C8FA43F3D896525B7023D033DB1FB8358BE36965B9E7518458564752EDCCD1E342C4D15635625687594",
+          "algorithm": "CTPH",
+          "algorithm_id": 5
+        },
+        {
+          "value": "ABCC7832A1BFE0A79B84A31494C6379B",
+          "algorithm": "MD5",
+          "algorithm_id": 1
+        }
+      ]
+    }
+  },
+  "message": "typical neighbor trained",
+  "status": "Failure",
+  "time": 1723049740908927,
+  "device": {
+    "name": "indiana occurrence alto",
+    "owner": {
+      "name": "Compete",
+      "type": "Unknown",
+      "uid": "e0e02762-54dd-11ef-815f-0242ac110006",
+      "type_id": 0,
+      "account": {
+        "name": "allocation fixes tribe",
+        "type": "AWS IAM Role",
+        "uid": "e0e03180-54dd-11ef-b8b3-0242ac110006",
+        "type_id": 4
+      },
+      "risk_score": 30
+    },
+    "type": "Browser",
+    "ip": "96.233.16.174",
+    "uid": "e0e038a6-54dd-11ef-b0c6-0242ac110006",
+    "hostname": "stainless.int",
+    "type_id": 8,
+    "instance_uid": "e0dffe68-54dd-11ef-8262-0242ac110006",
+    "interface_name": "reception abs ba",
+    "interface_uid": "e0dff670-54dd-11ef-86df-0242ac110006",
+    "is_personal": false,
+    "region": "arab departments seq"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "stakeholders ir spencer",
+      "version": "1.2.0",
+      "uid": "e0dfd7c6-54dd-11ef-814e-0242ac110006",
+      "vendor_name": "lifestyle bestsellers respond"
+    },
+    "labels": [
+      "bucks"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "wallpaper failures published",
+    "log_version": "dealtime available precision",
+    "modified_time": 1723049740904702,
+    "original_time": "lobby fluid polished",
+    "tenant_uid": "e0dfe1d0-54dd-11ef-874e-0242ac110006"
+  },
+  "severity": "Fatal",
+  "type_name": "Kernel Extension Activity: Unknown",
+  "activity_id": 0,
+  "type_uid": 100200,
+  "observables": [
+    {
+      "name": "difference formed fc",
+      "type": "prostores",
+      "type_id": 99
+    },
+    {
+      "name": "kai sides incorporated",
+      "type": "scores",
+      "type_id": 99
+    }
+  ],
+  "category_name": "System Activity",
+  "class_uid": 1002,
+  "category_uid": 1,
+  "class_name": "Kernel Extension Activity",
+  "timezone_offset": 91,
+  "end_time": 1723049740908925,
+  "activity_name": "Unknown",
+  "actor": {
+    "user": {
+      "type": "sas mint assisted",
+      "domain": "titles texts consortium",
+      "credential_uid": "e0e056f6-54dd-11ef-8460-0242ac110006",
+      "ldap_person": {
+        "location": {
+          "desc": "Dominican Republic",
+          "city": "Paris relatively",
+          "country": "DO",
+          "coordinates": [
+            62.0901,
+            74.9327
+          ],
+          "continent": "North America"
+        },
+        "manager": {
+          "name": "Restricted",
+          "type": "domains",
+          "uid": "e0e07118-54dd-11ef-bd27-0242ac110006",
+          "org": {
+            "name": "attack ic rica",
+            "ou_name": "immigration oem radical"
+          },
+          "type_id": 99,
+          "email_addr": "Brittney@hispanic.mobi"
+        },
+        "cost_center": "disability honda welsh",
+        "email_addrs": [
+          "Georgiana@hayes.mil",
+          "Sirena@activation.name"
+        ],
+        "employee_uid": "e0e07cd0-54dd-11ef-9ce1-0242ac110006",
+        "given_name": "sad quiet beautifully",
+        "leave_time": 1723049740908893,
+        "office_location": "gap seller snap"
+      },
+      "risk_score": 25
+    },
+    "invoked_by": "fisheries christina ja"
+  },
+  "severity_id": 6,
+  "status_code": "shared",
+  "status_detail": "match advancement lithuania",
+  "status_id": 2
+}

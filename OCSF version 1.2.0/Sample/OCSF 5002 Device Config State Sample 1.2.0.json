@@ -1,0 +1,238 @@
+{
+  "message": "nano reduce recording",
+  "status": "ho",
+  "time": 1723049733552858,
+  "device": {
+    "name": "coal walks fujitsu",
+    "owner": {
+      "name": "Speech",
+      "type": "User",
+      "uid": "dc7de3a8-54dd-11ef-b989-0242ac110006",
+      "org": {
+        "name": "zshops regional machine",
+        "ou_name": "holds wellness lucy",
+        "ou_uid": "dc7df424-54dd-11ef-95e5-0242ac110006"
+      },
+      "type_id": 1,
+      "account": {
+        "name": "dl untitled louisville",
+        "type": "Windows Account",
+        "uid": "dc7dfdf2-54dd-11ef-b656-0242ac110006",
+        "type_id": 2
+      }
+    },
+    "type": "Tablet",
+    "domain": "wisconsin mean portions",
+    "ip": "7.182.150.161",
+    "desc": "question continue zum",
+    "uid": "dc7e0518-54dd-11ef-9cbd-0242ac110006",
+    "hostname": "wild.net",
+    "groups": [
+      {
+        "name": "nicholas formerly forbidden",
+        "uid": "dc7da884-54dd-11ef-a598-0242ac110006"
+      },
+      {
+        "domain": "bytes precise healthcare",
+        "uid": "dc7daf14-54dd-11ef-81b9-0242ac110006"
+      }
+    ],
+    "type_id": 4,
+    "agent_list": [
+      {
+        "name": "storm hamburg tourist",
+        "policies": [
+          {
+            "name": "sequence plans demand",
+            "version": "1.2.0",
+            "uid": "dc7dbb44-54dd-11ef-96e0-0242ac110006"
+          },
+          {
+            "name": "shopper carl preserve",
+            "uid": "dc7dc1b6-54dd-11ef-a801-0242ac110006",
+            "is_applied": false
+          }
+        ]
+      },
+      {
+        "name": "ride spending netherlands",
+        "type": "fur",
+        "uid": "dc7dcf8a-54dd-11ef-bc5f-0242ac110006",
+        "type_id": 99,
+        "vendor_name": "seconds dictionaries destroyed"
+      }
+    ],
+    "autoscale_uid": "dc7d899e-54dd-11ef-8fbd-0242ac110006",
+    "created_time": 1723049733552513,
+    "instance_uid": "dc7dd8b8-54dd-11ef-a52b-0242ac110006",
+    "interface_name": "pro cnet thumbnail",
+    "interface_uid": "dc7d9074-54dd-11ef-9637-0242ac110006",
+    "is_managed": true,
+    "is_trusted": true,
+    "last_seen_time": 1723049733550472,
+    "network_interfaces": [
+      {
+        "name": "honest supreme hazards",
+        "type": "Unknown",
+        "ip": "57.169.14.128",
+        "hostname": "reprints.nato",
+        "mac": "DB:EC:C3:7F:40:59:4A:EC",
+        "type_id": 0
+      },
+      {
+        "name": "hold lands adidas",
+        "type": "uganda",
+        "uid": "dc7d9e16-54dd-11ef-b720-0242ac110006",
+        "hostname": "mason.web",
+        "mac": "15:A0:32:5E:AF:3F:24:14",
+        "type_id": 99
+      }
+    ],
+    "region": "liberal wagon harassment",
+    "risk_score": 39,
+    "subnet_uid": "dc7e0bf8-54dd-11ef-849a-0242ac110006",
+    "uid_alt": "guinea released nike"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "version": "1.2.0",
+      "uid": "dc7c2310-54dd-11ef-8079-0242ac110006",
+      "lang": "en",
+      "vendor_name": "massage environments pencil"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "roman sequence phone",
+    "log_provider": "mon moisture delays",
+    "loggers": [
+      {
+        "device": {
+          "name": "natural computed connecting",
+          "owner": {
+            "name": "Durham",
+            "type": "Unknown",
+            "uid": "dc7c7c5c-54dd-11ef-b4c4-0242ac110006",
+            "type_id": 0,
+            "full_name": "Verda Ward",
+            "email_addr": "Tomasa@sheer.com",
+            "risk_level": "Medium",
+            "risk_level_id": 2
+          },
+          "type": "Laptop",
+          "uid": "dc7c84f4-54dd-11ef-ac52-0242ac110006",
+          "hostname": "best.edu",
+          "type_id": 3,
+          "created_time": 1723049733542667,
+          "instance_uid": "dc7c6f14-54dd-11ef-9021-0242ac110006",
+          "interface_name": "hanging encourages pieces",
+          "interface_uid": "dc7c65f0-54dd-11ef-9f31-0242ac110006",
+          "last_seen_time": 1723049733542091,
+          "region": "refrigerator wells indianapolis",
+          "zone": "ri keen rocky"
+        },
+        "product": {
+          "version": "1.2.0",
+          "uid": "dc7c9142-54dd-11ef-91a6-0242ac110006",
+          "vendor_name": "presence verification watt"
+        },
+        "uid": "dc7c98ae-54dd-11ef-98fb-0242ac110006",
+        "log_name": "confidential protocols symantec",
+        "log_provider": "cruz robbie die"
+      },
+      {
+        "name": "unfortunately whats purple",
+        "device": {
+          "name": "ph certificates wine",
+          "type": "Virtual",
+          "domain": "lady october infectious",
+          "ip": "49.58.132.187",
+          "uid": "dc7d4d62-54dd-11ef-82b3-0242ac110006",
+          "hostname": "boats.info",
+          "org": {
+            "name": "foul migration nobody",
+            "uid": "dc7d0212-54dd-11ef-8160-0242ac110006",
+            "ou_name": "stainless sunset stays"
+          },
+          "groups": [
+            {
+              "name": "cathedral seminar assembled",
+              "uid": "dc7d382c-54dd-11ef-9e14-0242ac110006"
+            },
+            {
+              "name": "essay sara san",
+              "uid": "dc7d3fb6-54dd-11ef-98b9-0242ac110006"
+            }
+          ],
+          "type_id": 6,
+          "first_seen_time": 1723049733547065,
+          "instance_uid": "dc7d45c4-54dd-11ef-b773-0242ac110006",
+          "interface_name": "protein personnel min",
+          "interface_uid": "dc7cf6d2-54dd-11ef-9d85-0242ac110006",
+          "modified_time": 1723049733547074,
+          "network_interfaces": [
+            {
+              "name": "trying layers mall",
+              "type": "garage",
+              "ip": "58.15.206.3",
+              "hostname": "concentrate.travel",
+              "mac": "E8:BF:2D:94:CD:CD:13:B1",
+              "type_id": 99
+            }
+          ],
+          "region": "download jordan talented"
+        },
+        "product": {
+          "name": "believes contemporary task",
+          "uid": "dc7d57da-54dd-11ef-b77a-0242ac110006",
+          "vendor_name": "larry zdnet uganda"
+        },
+        "uid": "dc7d5e56-54dd-11ef-9e0e-0242ac110006",
+        "log_name": "activated detected flush",
+        "log_provider": "developer ideas necessarily"
+      }
+    ],
+    "modified_time": 1723049733548429,
+    "original_time": "powerpoint attempts appeared",
+    "tenant_uid": "dc7d69c8-54dd-11ef-8bb1-0242ac110006"
+  },
+  "severity": "High",
+  "duration": 18,
+  "type_name": "Device Config State: Other",
+  "activity_id": 99,
+  "type_uid": 500299,
+  "observables": [
+    {
+      "name": "formatting import ensures",
+      "type": "Process ID",
+      "type_id": 15
+    },
+    {
+      "name": "premier deaths commerce",
+      "type": "MAC Address",
+      "type_id": 3
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5002,
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "timezone_offset": 78,
+  "activity_name": "antivirus",
+  "cis_benchmark_result": {
+    "name": "alexander vessel surrounding",
+    "desc": "humor fi alarm",
+    "remediation": {
+      "desc": "digit met waiver"
+    },
+    "rule": {
+      "name": "favors overview wow",
+      "uid": "dc7d7620-54dd-11ef-84b7-0242ac110006"
+    }
+  },
+  "severity_id": 4,
+  "status_code": "genres",
+  "status_detail": "swing sm daddy",
+  "status_id": 99
+}

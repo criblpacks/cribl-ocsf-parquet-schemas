@@ -1,0 +1,346 @@
+{
+  "impact_score": 18,
+  "impact_id": 99,
+  "status_detail": "has ruling yield",
+  "impact": "vista",
+  "attacks": [
+    {
+      "version": "12.1",
+      "tactics": [
+        {
+          "name": "Execution The adversary is trying to run malicious code.",
+          "uid": "TA0002"
+        },
+        {
+          "name": "Initial Access | The adversary is trying to get into your network.",
+          "uid": "TA0001"
+        }
+      ],
+      "technique": {
+        "name": "Windows Admin Shares",
+        "uid": "T1077"
+      }
+    },
+    {
+      "version": "12.1",
+      "tactics": [
+        {
+          "name": "Privilege Escalation | The adversary is trying to gain higher-level permissions.",
+          "uid": "TA0004"
+        }
+      ],
+      "technique": {
+        "name": "Modify Existing Service",
+        "uid": "T1031"
+      }
+    }
+  ],
+  "class_uid": 2001,
+  "type_name": "Security Finding: Update",
+  "state": "Resolved",
+  "risk_level": "Medium",
+  "message": "symantec www delta",
+  "category_name": "Findings",
+  "status_id": 0,
+  "time": 1723049772533934,
+  "resources": [
+    {
+      "data": "wiley",
+      "name": "rarely seeks maine",
+      "owner": {
+        "name": "Sink",
+        "type": "User",
+        "domain": "eddie physician gem",
+        "uid": "f3b9ef4e-54dd-11ef-96d2-0242ac110007",
+        "org": {
+          "uid": "f3b9f7e6-54dd-11ef-9af3-0242ac110007",
+          "ou_name": "leon condition fix"
+        },
+        "type_id": 1,
+        "uid_alt": "cad distinction trace"
+      },
+      "uid": "f3ba0bb4-54dd-11ef-9d25-0242ac110007",
+      "namespace": "needs myrtle luxury"
+    },
+    {
+      "data": "nt",
+      "name": "newsletters privacy infection",
+      "uid": "f3ba1672-54dd-11ef-9af0-0242ac110007"
+    }
+  ],
+  "type_uid": 200102,
+  "activity_name": "Update",
+  "state_id": 4,
+  "risk_score": 51,
+  "confidence_score": 22,
+  "risk_level_id": 2,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "substances yemen dialog",
+      "version": "1.3.0",
+      "uid": "f3b9cf96-54dd-11ef-9bbf-0242ac110007",
+      "vendor_name": "patch knives impaired"
+    },
+    "labels": [
+      "separate",
+      "ge"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "vocational electron turner",
+    "log_provider": "nyc rehab genre",
+    "tenant_uid": "f3b9da9a-54dd-11ef-966d-0242ac110007"
+  },
+  "status_code": "individuals",
+  "severity_id": 6,
+  "status": "Unknown",
+  "vulnerabilities": [
+    {
+      "severity": "sean burlington prescribed",
+      "references": [
+        "bridges seat wonder",
+        "lab happen avoiding"
+      ],
+      "remediation": {
+        "desc": "visitors requirements quality",
+        "references": [
+          "hometown absolute brian"
+        ]
+      },
+      "affected_code": [
+        {
+          "file": {
+            "name": "disco.c",
+            "type": "combining",
+            "version": "1.3.0",
+            "path": "depth forth tells/damaged.dbf/disco.c",
+            "signature": {
+              "digest": {
+                "value": "7DB12F2BBC6328E8E03B3BB89BA099F2DF75BC438BC4DB128CA339A25ED13A30EF599E4F7301FCF3F909C6A095DEEAE5C2FDC226C81765924AD2E23E6E985E19",
+                "algorithm": "quickXorHash",
+                "algorithm_id": 7
+              },
+              "certificate": {
+                "version": "1.3.0",
+                "uid": "f3b7e078-54dd-11ef-808b-0242ac110007",
+                "is_self_signed": true,
+                "subject": "richardson loss villas",
+                "issuer": "derby cafe strongly",
+                "fingerprints": [
+                  {
+                    "value": "8FC9C272870B6329C4C261F99576F84EE1496C72",
+                    "algorithm": "SHA-1",
+                    "algorithm_id": 2
+                  },
+                  {
+                    "value": "392B4C486143606C0296CE70C0EB7DF1D583F9EC093D4BBC7501F20D58EB5A86",
+                    "algorithm": "SHA-256",
+                    "algorithm_id": 3
+                  }
+                ],
+                "created_time": 1723049772523850,
+                "expiration_time": 1723049772523863,
+                "serial_number": "hop books attempted"
+              },
+              "algorithm": "workflow",
+              "algorithm_id": 99
+            },
+            "product": {
+              "name": "tampa mate dodge",
+              "version": "1.3.0",
+              "uid": "f3b8f13e-54dd-11ef-9665-0242ac110007",
+              "vendor_name": "bath showing penalties"
+            },
+            "type_id": 99,
+            "parent_folder": "depth forth tells/damaged.dbf",
+            "accessed_time": 1723049772526625,
+            "created_time": 1723049772526635,
+            "hashes": [
+              {
+                "value": "FE4C0F30AA359C41D9F9A5F69C8C4192",
+                "algorithm": "MD5",
+                "algorithm_id": 1
+              },
+              {
+                "value": "DA72949F2E70DBD440F67484059595FE9B88727D291A51A543C5CA1A948B65D2B8E80A77E690FBD13C7FEE63C8F4BD0478C2EFF5F7E5E71B5F51FCD6EA58C885",
+                "algorithm": "Unknown",
+                "algorithm_id": 0
+              }
+            ]
+          },
+          "end_line": 57,
+          "start_line": 70
+        },
+        {
+          "file": {
+            "name": "checks.yuv",
+            "size": 1643393100,
+            "type": "Block Device",
+            "version": "1.3.0",
+            "path": "injured ways pharmaceuticals/erotica.c/checks.yuv",
+            "ext": "bacon arms incomplete",
+            "type_id": 4,
+            "company_name": "Avril Leatrice",
+            "parent_folder": "injured ways pharmaceuticals/erotica.c",
+            "security_descriptor": "vector buyer tours",
+            "xattributes": {}
+          },
+          "end_line": 64,
+          "start_line": 4
+        }
+      ],
+      "affected_packages": [
+        {
+          "name": "pm connect were",
+          "type": "Operating System",
+          "version": "1.3.0",
+          "release": "maternity chrysler remove",
+          "type_id": 2,
+          "architecture": "dome pl returns"
+        }
+      ],
+      "cwe": {
+        "uid": "f3b974d8-54dd-11ef-8044-0242ac110007",
+        "caption": "chip duplicate aj"
+      }
+    },
+    {
+      "title": "central elsewhere unless",
+      "desc": "birthday tenant tuning",
+      "references": [
+        "brian daddy knowledge",
+        "matching stomach schema"
+      ],
+      "remediation": {
+        "desc": "irish turkish owen"
+      },
+      "cve": {
+        "type": "house resistance chi",
+        "title": "sonic reid accent",
+        "uid": "f3b986ee-54dd-11ef-898c-0242ac110007",
+        "references": [
+          "institutions entity stands",
+          "commodity floppy stories"
+        ],
+        "created_time": 1723049772530333,
+        "cvss": [
+          {
+            "version": "1.3.0",
+            "depth": "Environmental",
+            "base_score": 7.4688,
+            "overall_score": 83.4065,
+            "vector_string": "flickr adsl negotiations"
+          },
+          {
+            "version": "1.3.0",
+            "depth": "Temporal",
+            "severity": "zoo surge banners",
+            "base_score": 81.2689,
+            "overall_score": 82.6526
+          }
+        ],
+        "cwe_url": "camping"
+      },
+      "cwe": {
+        "uid": "f3b99800-54dd-11ef-96d0-0242ac110007"
+      },
+      "related_vulnerabilities": [
+        "warm learn island",
+        "flows blank winston"
+      ]
+    }
+  ],
+  "confidence": "Medium",
+  "class_name": "Security Finding",
+  "severity": "Fatal",
+  "observables": [
+    {
+      "name": "or angela cole",
+      "type": "Resource UID",
+      "type_id": 10
+    },
+    {
+      "name": "singer unions minister",
+      "type": "Hash",
+      "type_id": 8,
+      "reputation": {
+        "base_score": 85.8293,
+        "provider": "peers year os",
+        "score": "Malicious",
+        "score_id": 10
+      }
+    }
+  ],
+  "finding": {
+    "title": "pretty barnes promised",
+    "uid": "f3b6b1e4-54dd-11ef-9aa1-0242ac110007",
+    "created_time": 1723049772511697,
+    "product_uid": "f3b6bda6-54dd-11ef-b30a-0242ac110007",
+    "src_url": "complexity"
+  },
+  "malware": [
+    {
+      "name": "dies ht usage",
+      "path": "aqua tar variations",
+      "uid": "f3b657e4-54dd-11ef-bfb8-0242ac110007",
+      "classification_ids": [
+        2,
+        10
+      ],
+      "provider": "bid george pressing"
+    },
+    {
+      "name": "sweet calgary walnut",
+      "uid": "f3b660ae-54dd-11ef-a1ec-0242ac110007",
+      "classification_ids": [
+        18,
+        16
+      ],
+      "cves": [
+        {
+          "type": "draws collector unit",
+          "title": "experienced adam humans",
+          "uid": "f3b6735a-54dd-11ef-93e6-0242ac110007",
+          "references": [
+            "determination continental hourly",
+            "wallet shell handled"
+          ],
+          "created_time": 1723049772510121,
+          "cvss": [
+            {
+              "version": "1.3.0",
+              "base_score": 34.5762,
+              "overall_score": 55.1304
+            },
+            {
+              "version": "1.3.0",
+              "base_score": 96.1923,
+              "metrics": [
+                {
+                  "name": "derived purchase raid",
+                  "value": "trail uganda si"
+                }
+              ],
+              "overall_score": 17.0316
+            }
+          ],
+          "cwe_uid": "f3b6a096-54dd-11ef-8c83-0242ac110007",
+          "modified_time": 1723049772511265
+        }
+      ],
+      "provider": "stores carpet billion"
+    }
+  ],
+  "duration": 1304457211,
+  "confidence_id": 2,
+  "category_uid": 2,
+  "activity_id": 2,
+  "analytic": {
+    "name": "purchasing online contracts",
+    "type": "right",
+    "type_id": 99
+  },
+  "timezone_offset": 78
+}

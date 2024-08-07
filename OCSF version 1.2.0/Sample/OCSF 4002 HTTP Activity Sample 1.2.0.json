@@ -1,0 +1,242 @@
+{
+  "count": 17,
+  "http_response": {
+    "code": 77,
+    "http_headers": [
+      {
+        "name": "workstation compute harmony",
+        "value": "dominant equality exceed"
+      },
+      {
+        "name": "grades workers width",
+        "value": "accomplish partially february"
+      }
+    ],
+    "latency": 84
+  },
+  "http_request": {
+    "version": "1.2.0",
+    "url": {
+      "port": 37838,
+      "scheme": "disputes singapore ripe",
+      "path": "taxes place trustees",
+      "hostname": "magnetic.pro",
+      "query_string": "aaa heavy travels",
+      "category_ids": [
+        58,
+        89
+      ],
+      "subdomain": "openings soap blah",
+      "url_string": "grew"
+    },
+    "user_agent": "deputy austria supporting",
+    "http_headers": [
+      {
+        "name": "printed annoying x",
+        "value": "athens vocals makes"
+      },
+      {
+        "name": "timeline representatives tn",
+        "value": "figured necessity ray"
+      }
+    ],
+    "http_method": "HEAD",
+    "referrer": "dec allowing contracting"
+  },
+  "message": "ah screensaver myself",
+  "time": 1723049744114963,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "lovers rpm occupational",
+      "version": "1.2.0",
+      "uid": "e2c78c8c-54dd-11ef-a5b0-0242ac110006",
+      "cpe_name": "finds sponsorship practice",
+      "vendor_name": "again occupation reproductive"
+    },
+    "log_level": "develop merger dubai",
+    "sequence": 46,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "full acoustic satisfied",
+    "log_provider": "teaches deputy bother",
+    "original_time": "interviews beads writers",
+    "tenant_uid": "e2c7957e-54dd-11ef-bec7-0242ac110006"
+  },
+  "proxy": {
+    "name": "clearance tunes mentioned",
+    "owner": {
+      "name": "Viruses",
+      "type": "User",
+      "uid": "e2c717ca-54dd-11ef-9d77-0242ac110006",
+      "type_id": 1,
+      "risk_level": "surveys salem entity"
+    },
+    "port": 65485,
+    "type": "IOT",
+    "ip": "79.203.236.186",
+    "uid": "e2c720e4-54dd-11ef-8d20-0242ac110006",
+    "hostname": "jewelry.firm",
+    "type_id": 7,
+    "autonomous_system": {
+      "name": "infrared poster cutting",
+      "number": 16
+    },
+    "hw_info": {
+      "bios_manufacturer": "gaming map though",
+      "bios_ver": "3.4",
+      "chassis": "slightly infringement agreements"
+    },
+    "instance_uid": "e2c73a16-54dd-11ef-8e54-0242ac110006",
+    "interface_name": "brazilian false perception",
+    "interface_uid": "e2c74470-54dd-11ef-b04a-0242ac110006",
+    "subnet_uid": "e2c74ace-54dd-11ef-adeb-0242ac110006",
+    "svc_name": "networks fl developers",
+    "vpc_uid": "e2c75294-54dd-11ef-b676-0242ac110006"
+  },
+  "connection_info": {
+    "direction": "Unknown",
+    "direction_id": 0,
+    "protocol_num": 86
+  },
+  "severity": "High",
+  "duration": 70,
+  "type_name": "HTTP Activity: Get",
+  "activity_id": 3,
+  "type_uid": 400203,
+  "observables": [
+    {
+      "name": "joy respected ar",
+      "type": "Endpoint",
+      "value": "debate fiji rest",
+      "type_id": 20
+    },
+    {
+      "name": "carmen tries new",
+      "type": "Endpoint",
+      "type_id": 20
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4002,
+  "category_uid": 4,
+  "class_name": "HTTP Activity",
+  "activity_name": "Get",
+  "dst_endpoint": {
+    "name": "yugoslavia chosen whose",
+    "owner": {
+      "name": "Ski",
+      "type": "System",
+      "uid": "e2c9caec-54dd-11ef-80cb-0242ac110006",
+      "groups": [
+        {
+          "name": "pentium advantages terror",
+          "type": "protecting grenada additional",
+          "uid": "e2c9d7ee-54dd-11ef-bc56-0242ac110006",
+          "privileges": [
+            "attach song warranty",
+            "done invasion resolve"
+          ]
+        }
+      ],
+      "type_id": 3,
+      "ldap_person": {
+        "location": {
+          "desc": "Timor-Leste, Democratic Republic of",
+          "city": "Legacy health",
+          "country": "TL",
+          "coordinates": [
+            -28.123,
+            -53.8154
+          ],
+          "continent": "Asia"
+        },
+        "created_time": 1723049744116241,
+        "deleted_time": 1723049744116249,
+        "email_addrs": [
+          "Bibi@direct.store",
+          "Brittny@dept.web"
+        ],
+        "ldap_cn": "announce mx price"
+      },
+      "uid_alt": "hearings yesterday discrete"
+    },
+    "port": 17973,
+    "ip": "122.178.239.89",
+    "uid": "e2c9ed92-54dd-11ef-8f5f-0242ac110006",
+    "hostname": "integer.pro",
+    "autonomous_system": {
+      "number": 98
+    },
+    "instance_uid": "e2c9f6de-54dd-11ef-8eb2-0242ac110006",
+    "interface_name": "hunter ratio limits",
+    "interface_uid": "e2c9fdbe-54dd-11ef-a266-0242ac110006",
+    "svc_name": "dedicated meant induction"
+  },
+  "http_cookies": [
+    {
+      "name": "indirect chips command",
+      "value": "several martin editions",
+      "path": "introduce consideration translated",
+      "domain": "governor being academy"
+    },
+    {
+      "name": "modular regulatory accompanying",
+      "value": "kelkoo including charges",
+      "path": "cop wars cho",
+      "is_secure": false
+    }
+  ],
+  "http_status": 8,
+  "severity_id": 4,
+  "src_endpoint": {
+    "owner": {
+      "name": "Bingo",
+      "type": "Admin",
+      "uid": "e2c9600c-54dd-11ef-9777-0242ac110006",
+      "org": {
+        "name": "brings terry tender",
+        "ou_name": "chamber pmid td"
+      },
+      "type_id": 2,
+      "account": {
+        "name": "client tasks and",
+        "type": "Linux Account",
+        "uid": "e2c9725e-54dd-11ef-a282-0242ac110006",
+        "type_id": 9
+      },
+      "risk_level": "profiles specifications enlarge"
+    },
+    "port": 56095,
+    "type": "Browser",
+    "ip": "58.10.171.169",
+    "uid": "e2c98186-54dd-11ef-ab9d-0242ac110006",
+    "hostname": "turtle.firm",
+    "type_id": 8,
+    "agent_list": [
+      {
+        "name": "knife medications toe",
+        "type": "Performance Monitoring & Observability",
+        "uid": "e2c98fe6-54dd-11ef-b8bf-0242ac110006",
+        "type_id": 4
+      },
+      {
+        "name": "zone voices distribution",
+        "type": "Mobile Device Management",
+        "type_id": 7
+      }
+    ],
+    "instance_uid": "e2c99806-54dd-11ef-ac1d-0242ac110006",
+    "interface_name": "heroes features feature",
+    "interface_uid": "e2c99f4a-54dd-11ef-8635-0242ac110006",
+    "svc_name": "messaging anti period"
+  },
+  "status_code": "postal",
+  "status_detail": "pct royal invitation",
+  "traffic": {
+    "bytes_out": 3808561748,
+    "bytes": 2715059848,
+    "packets": 2260399296
+  }
+}

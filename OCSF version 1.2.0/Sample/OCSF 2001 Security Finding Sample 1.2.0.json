@@ -1,0 +1,210 @@
+{
+  "state_id": 4,
+  "status_code": "expenditure",
+  "risk_score": 19,
+  "confidence": "Low",
+  "observables": [
+    {
+      "name": "titled purple benefit",
+      "type": "Email Address",
+      "type_id": 5
+    },
+    {
+      "name": "sin possession maximize",
+      "type": "Email",
+      "type_id": 22,
+      "reputation": {
+        "base_score": 57.3072,
+        "provider": "dd management indirect",
+        "score": "Probably Safe",
+        "score_id": 3
+      }
+    }
+  ],
+  "category_uid": 2,
+  "state": "Resolved",
+  "message": "phillips frames imposed",
+  "category_name": "Findings",
+  "cis_csc": [
+    {
+      "control": "arrivals decent governor",
+      "version": "1.2.0"
+    },
+    {
+      "control": "pp second consistently",
+      "version": "1.2.0"
+    }
+  ],
+  "status_detail": "ssl copyright ev",
+  "severity": "Low",
+  "time": 1723049706013018,
+  "class_uid": 2001,
+  "impact": "Unknown",
+  "type_name": "Security Finding: Update",
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "managing sample scared",
+      "version": "1.2.0",
+      "uid": "cc12fa4e-54dd-11ef-8f76-0242ac110006",
+      "vendor_name": "bottom than optimum"
+    },
+    "extensions": [
+      {
+        "name": "seat should fundraising",
+        "version": "1.2.0",
+        "uid": "cc130cd2-54dd-11ef-a14c-0242ac110006"
+      }
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "circuits peter households",
+    "log_provider": "winner machine think",
+    "logged_time": 1723049706008132,
+    "loggers": [
+      {
+        "name": "cause prairie dentists",
+        "version": "1.2.0",
+        "device": {
+          "name": "routines appliance project",
+          "owner": {
+            "name": "Variety",
+            "type": "User",
+            "uid": "cc13660a-54dd-11ef-bcae-0242ac110006",
+            "type_id": 1
+          },
+          "type": "Unknown",
+          "ip": "195.2.78.117",
+          "uid": "cc136d30-54dd-11ef-a854-0242ac110006",
+          "hostname": "largely.pro",
+          "mac": "AA:B1:87:2:6B:4E:D9:FD",
+          "image": {
+            "name": "roulette aluminium pontiac",
+            "path": "doug aruba bringing",
+            "uid": "cc134ba2-54dd-11ef-b53d-0242ac110006"
+          },
+          "org": {
+            "name": "footwear foreign gdp",
+            "uid": "cc133f36-54dd-11ef-a2a9-0242ac110006",
+            "ou_name": "funky kenya appear"
+          },
+          "type_id": 0,
+          "instance_uid": "cc135516-54dd-11ef-95cf-0242ac110006",
+          "interface_name": "jam exceptional conventional",
+          "interface_uid": "cc1332fc-54dd-11ef-85f8-0242ac110006",
+          "risk_level": "ou marilyn cisco",
+          "subnet_uid": "cc1374ba-54dd-11ef-a26b-0242ac110006"
+        },
+        "product": {
+          "name": "dc surgeon leadership",
+          "uid": "cc13a62e-54dd-11ef-a27d-0242ac110006",
+          "lang": "en",
+          "vendor_name": "magnetic uri screenshot"
+        },
+        "uid": "cc13adb8-54dd-11ef-9a8a-0242ac110006",
+        "log_name": "place threatened which",
+        "log_provider": "defined canada cleared",
+        "logged_time": 1723049706012233
+      },
+      {
+        "name": "teen coordination sometimes",
+        "product": {
+          "name": "charlie melbourne monetary",
+          "version": "1.2.0",
+          "uid": "cc13bc86-54dd-11ef-a831-0242ac110006",
+          "vendor_name": "discussions english because"
+        },
+        "log_name": "owner fun merely",
+        "log_provider": "laptop starter mechanics",
+        "transmit_time": 1723049706012699
+      }
+    ],
+    "original_time": "plus pts reel",
+    "tenant_uid": "cc13cb7c-54dd-11ef-9fb4-0242ac110006"
+  },
+  "impact_id": 0,
+  "analytic": {
+    "name": "funny clubs specifics",
+    "type": "Statistical",
+    "uid": "cc11d146-54dd-11ef-a75c-0242ac110006",
+    "category": "dress intimate syndrome",
+    "type_id": 3
+  },
+  "status_id": 0,
+  "status": "Unknown",
+  "finding": {
+    "title": "parish urban great",
+    "uid": "cc11be86-54dd-11ef-b1bc-0242ac110006",
+    "types": [
+      "trust peace pray"
+    ],
+    "last_seen_time": 1723049705999563
+  },
+  "kill_chain": [
+    {
+      "phase": "Weaponization",
+      "phase_id": 2
+    },
+    {
+      "phase": "Command & Control",
+      "phase_id": 6
+    }
+  ],
+  "severity_id": 2,
+  "activity_name": "Update",
+  "attacks": [
+    {
+      "version": "12.1",
+      "tactics": [
+        {
+          "name": "Execution The adversary is trying to run malicious code.",
+          "uid": "TA0002"
+        },
+        {
+          "name": "Exfiltration | The adversary is trying to steal data.",
+          "uid": "TA0010"
+        }
+      ],
+      "technique": {
+        "name": "Social Media",
+        "uid": "T1593.001"
+      }
+    },
+    {
+      "version": "12.1",
+      "tactics": [
+        {
+          "name": "Execution The adversary is trying to run malicious code.",
+          "uid": "TA0002"
+        },
+        {
+          "name": "Privilege Escalation | The adversary is trying to gain higher-level permissions.",
+          "uid": "TA0004"
+        },
+        {
+          "name": "Discovery The adversary is trying to figure out your environment.",
+          "uid": "TA0007"
+        }
+      ],
+      "technique": {
+        "name": "Implant Container Image",
+        "uid": "T1525"
+      }
+    }
+  ],
+  "class_name": "Security Finding",
+  "duration": 66,
+  "timezone_offset": 26,
+  "type_uid": 200102,
+  "confidence_id": 1,
+  "activity_id": 2,
+  "compliance": {
+    "control": "subscriptions kinda abstracts",
+    "status": "Fail",
+    "standards": [
+      "rj phd vpn"
+    ],
+    "status_id": 3
+  }
+}

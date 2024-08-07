@@ -1,0 +1,228 @@
+{
+  "status_code": "eric",
+  "dialect": "nine horrible expanded",
+  "observables": [
+    {
+      "name": "arise hp technician",
+      "type": "items",
+      "value": "visible timber wear",
+      "type_id": 99
+    },
+    {
+      "name": "pour sexual item",
+      "type": "Hostname",
+      "value": "base bachelor causing",
+      "type_id": 1
+    }
+  ],
+  "category_uid": 4,
+  "dst_endpoint": {
+    "name": "talked education llp",
+    "port": 20286,
+    "type": "Server",
+    "os": {
+      "name": "feb bridal greensboro",
+      "type": "Unknown",
+      "version": "1.2.0",
+      "country": "Switzerland, Swiss Confederation",
+      "type_id": 0
+    },
+    "ip": "51.95.157.4",
+    "uid": "decb2dc8-54dd-11ef-a5d1-0242ac110006",
+    "hostname": "fabrics.pro",
+    "type_id": 1,
+    "instance_uid": "decb37c8-54dd-11ef-8180-0242ac110006",
+    "interface_name": "theology recreation foundations",
+    "interface_uid": "decb3e26-54dd-11ef-a3f5-0242ac110006",
+    "proxy_endpoint": {
+      "name": "orders clear surveys",
+      "owner": {
+        "name": "Sh",
+        "type": "System",
+        "uid": "decb5050-54dd-11ef-a063-0242ac110006",
+        "org": {
+          "name": "medicine sweden vital",
+          "uid": "decb58ca-54dd-11ef-a7c0-0242ac110006",
+          "ou_name": "wc rebates leg"
+        },
+        "type_id": 3,
+        "account": {
+          "name": "porcelain telling shaped",
+          "type": "Unknown",
+          "uid": "decb632e-54dd-11ef-8111-0242ac110006",
+          "type_id": 0
+        },
+        "email_addr": "Candis@electoral.edu"
+      },
+      "port": 43673,
+      "ip": "36.137.158.117",
+      "hostname": "texas.travel",
+      "instance_uid": "decb6e96-54dd-11ef-9a7b-0242ac110006",
+      "interface_name": "kill egg joseph",
+      "interface_uid": "decb756c-54dd-11ef-a658-0242ac110006",
+      "svc_name": "thousands answered turns"
+    },
+    "svc_name": "cult eye bomb",
+    "vlan_uid": "decb7c2e-54dd-11ef-9ed1-0242ac110006"
+  },
+  "message": "polished fairly mention",
+  "category_name": "Network Activity",
+  "status_detail": "similar bulgarian divine",
+  "severity": "Fatal",
+  "time": 1723049737413069,
+  "class_uid": 4006,
+  "src_endpoint": {
+    "name": "told remarkable molecules",
+    "owner": {
+      "type": "Unknown",
+      "uid": "decacb6c-54dd-11ef-ada6-0242ac110006",
+      "org": {
+        "name": "consideration please coal",
+        "ou_name": "either head cool"
+      },
+      "type_id": 0,
+      "account": {
+        "name": "alignment doubt gardening",
+        "uid": "decae688-54dd-11ef-972f-0242ac110006"
+      },
+      "credential_uid": "decaeda4-54dd-11ef-baa4-0242ac110006",
+      "uid_alt": "stick municipality humanitarian"
+    },
+    "port": 47932,
+    "type": "tracks",
+    "ip": "131.229.231.163",
+    "uid": "decaf506-54dd-11ef-8fe3-0242ac110006",
+    "hostname": "well.biz",
+    "mac": "30:5A:2D:D8:65:54:9F:0",
+    "type_id": 99,
+    "instance_uid": "decb0104-54dd-11ef-b281-0242ac110006",
+    "interface_name": "exp simpsons destination",
+    "interface_uid": "decb07c6-54dd-11ef-b596-0242ac110006",
+    "subnet_uid": "decb0dde-54dd-11ef-92de-0242ac110006",
+    "svc_name": "toner mixer difficulty"
+  },
+  "type_name": "SMB Activity: File Open",
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "religion jesus ranks",
+      "version": "1.2.0",
+      "uid": "deca9e58-54dd-11ef-a4a0-0242ac110006",
+      "feature": {
+        "name": "prescription dr equivalent",
+        "version": "1.2.0",
+        "uid": "decaaace-54dd-11ef-883b-0242ac110006"
+      },
+      "vendor_name": "born charms pages"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "decab1a4-54dd-11ef-b7ca-0242ac110006",
+    "log_name": "written hills ada",
+    "log_provider": "including costume handmade",
+    "original_time": "lovers survivors www"
+  },
+  "command": "fog ce audit",
+  "share_type": "Unknown",
+  "share_type_id": 0,
+  "traffic": {
+    "chunks": 1401965015,
+    "bytes": 2293702997,
+    "packets": 1835393841
+  },
+  "tree_uid": "deca8d64-54dd-11ef-9c97-0242ac110006",
+  "status_id": 1,
+  "connection_info": {
+    "session": {
+      "count": 57,
+      "uid": "deca7cc0-54dd-11ef-9e87-0242ac110006",
+      "uuid": "deca82b0-54dd-11ef-af00-0242ac110006",
+      "issuer": "favorite established engineers",
+      "created_time": 1723049737409423,
+      "expiration_time": 1723049737409437,
+      "is_remote": true,
+      "uid_alt": "cam elite bg"
+    },
+    "protocol_name": "print dui matches",
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 24,
+    "protocol_ver": "2.1.1"
+  },
+  "status": "Success",
+  "response": {
+    "error": "non poet empty",
+    "code": 82,
+    "message": "touch ez cruz",
+    "error_message": "italiano mask comic"
+  },
+  "severity_id": 6,
+  "activity_name": "File Open",
+  "class_name": "SMB Activity",
+  "proxy": {
+    "name": "mice carolina nerve",
+    "owner": {
+      "name": "Across",
+      "type": "System",
+      "uid": "deca0ea2-54dd-11ef-80ce-0242ac110006",
+      "org": {
+        "name": "entertaining abstracts msn",
+        "ou_name": "licensed direct hierarchy"
+      },
+      "type_id": 3,
+      "credential_uid": "deca1956-54dd-11ef-a977-0242ac110006",
+      "risk_level": "weeks worldwide wyoming",
+      "uid_alt": "blacks bass compatible"
+    },
+    "port": 14950,
+    "type": "Server",
+    "uid": "deca272a-54dd-11ef-af8e-0242ac110006",
+    "type_id": 1,
+    "autonomous_system": {
+      "name": "chair poly pennsylvania",
+      "number": 13
+    },
+    "instance_uid": "deca310c-54dd-11ef-a2d3-0242ac110006",
+    "interface_name": "take suggested fraction",
+    "interface_uid": "deca4408-54dd-11ef-994c-0242ac110006",
+    "svc_name": "great participating trials",
+    "vlan_uid": "deca4e94-54dd-11ef-8188-0242ac110006"
+  },
+  "client_dialects": [
+    "keen combat ministries",
+    "grades aberdeen neighbor"
+  ],
+  "timezone_offset": 93,
+  "file": {
+    "name": "partially.pl",
+    "owner": {
+      "type": "User",
+      "uid": "dec9b362-54dd-11ef-b853-0242ac110006",
+      "org": {
+        "name": "dimension killing nba",
+        "uid": "dec9ea94-54dd-11ef-81f6-0242ac110006",
+        "ou_name": "implied recently albums"
+      },
+      "type_id": 1,
+      "email_addr": "Mitch@phys.mil",
+      "uid_alt": "celebs your sudden"
+    },
+    "type": "Regular File",
+    "desc": "disorder reliability conscious",
+    "uid": "dec9f642-54dd-11ef-89f9-0242ac110006",
+    "type_id": 1,
+    "confidentiality": "wages",
+    "confidentiality_id": 99,
+    "hashes": [
+      {
+        "value": "CD0933D48C5A022781C4589E03CF0071C5914AAD6697B36811B1522072B3DEB31BDD1750CC4FF1E8DC7E753539FBE55CBBAFBE6199886F04E747CF1A572455F9",
+        "algorithm": "CTPH",
+        "algorithm_id": 5
+      }
+    ]
+  },
+  "type_uid": 400602,
+  "open_type": "eco arbitration capital",
+  "activity_id": 2
+}

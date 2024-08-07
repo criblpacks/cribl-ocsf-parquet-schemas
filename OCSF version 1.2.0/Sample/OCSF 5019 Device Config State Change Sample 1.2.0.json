@@ -1,0 +1,112 @@
+{
+  "message": "merchandise gets radical",
+  "status": "Success",
+  "time": 1723049727450977,
+  "device": {
+    "name": "snap smaller cumulative",
+    "owner": {
+      "name": "Instance",
+      "type": "Admin",
+      "uid": "d8da8db4-54dd-11ef-9835-0242ac110006",
+      "org": {
+        "name": "unusual poll ira",
+        "uid": "d8daaaec-54dd-11ef-a901-0242ac110006",
+        "ou_name": "jean narrative croatia"
+      },
+      "type_id": 2,
+      "account": {
+        "type": "AWS Account",
+        "uid": "d8dab78a-54dd-11ef-b970-0242ac110006",
+        "type_id": 10
+      },
+      "credential_uid": "d8dad27e-54dd-11ef-961c-0242ac110006",
+      "ldap_person": {
+        "employee_uid": "d8dae926-54dd-11ef-9ef1-0242ac110006",
+        "ldap_cn": "salvation soundtrack chrysler",
+        "ldap_dn": "ends ce joseph"
+      }
+    },
+    "type": "Desktop",
+    "os": {
+      "name": "blowing sport ham",
+      "type": "macOS",
+      "type_id": 300,
+      "lang": "en"
+    },
+    "ip": "245.172.7.77",
+    "uid": "d8daf4a2-54dd-11ef-82c3-0242ac110006",
+    "hostname": "dive.arpa",
+    "type_id": 2,
+    "subnet": "83.228.0.0/16",
+    "agent_list": [
+      {
+        "name": "indiana graphics crew",
+        "type": "died",
+        "uid": "d8da14ec-54dd-11ef-9319-0242ac110006",
+        "type_id": 99,
+        "policies": [
+          {
+            "name": "characterized hk starring",
+            "version": "1.2.0",
+            "uid": "d8da216c-54dd-11ef-9056-0242ac110006",
+            "is_applied": true
+          }
+        ],
+        "uid_alt": "kodak script tel"
+      },
+      {
+        "name": "village geo linear",
+        "type": "Configuration Management",
+        "uid": "d8da298c-54dd-11ef-9abe-0242ac110006",
+        "type_id": 8
+      }
+    ],
+    "autoscale_uid": "d8d9fa02-54dd-11ef-bcb9-0242ac110006",
+    "instance_uid": "d8da30bc-54dd-11ef-86a0-0242ac110006",
+    "interface_name": "ic satisfied trend",
+    "interface_uid": "d8da01c8-54dd-11ef-8576-0242ac110006",
+    "is_compliant": false,
+    "region": "confused mauritius course",
+    "risk_score": 34,
+    "zone": "burner fit assumption"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "nw drive many",
+      "version": "1.2.0",
+      "path": "florist shopzilla stars",
+      "feature": {
+        "name": "floral mpg van",
+        "version": "1.2.0",
+        "uid": "d8d99404-54dd-11ef-94e3-0242ac110006"
+      },
+      "vendor_name": "cleanup configurations settings"
+    },
+    "uid": "d8d99d50-54dd-11ef-87f1-0242ac110006",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "grade replies essentially",
+    "log_provider": "releases shortly brain",
+    "logged_time": 1723049727442109,
+    "modified_time": 1723049727442413,
+    "original_time": "skin cutting guyana",
+    "tenant_uid": "d8d9b452-54dd-11ef-b1b7-0242ac110006"
+  },
+  "severity": "Low",
+  "type_name": "Device Config State Change: Unknown",
+  "activity_id": 0,
+  "type_uid": 501900,
+  "category_name": "Discovery",
+  "class_uid": 5019,
+  "category_uid": 5,
+  "class_name": "Device Config State Change",
+  "timezone_offset": 5,
+  "activity_name": "Unknown",
+  "prev_security_level": "wto yrs figured",
+  "severity_id": 2,
+  "status_code": "portable",
+  "status_detail": "poll sao olive",
+  "status_id": 1
+}

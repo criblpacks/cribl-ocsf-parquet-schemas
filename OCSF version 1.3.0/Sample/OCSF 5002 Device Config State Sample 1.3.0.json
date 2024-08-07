@@ -1,0 +1,197 @@
+{
+  "message": "crystal stranger relevance",
+  "time": 1723049757045083,
+  "device": {
+    "owner": {
+      "name": "Programs",
+      "type": "amenities",
+      "uid": "ea7ea096-54dd-11ef-8f3e-0242ac110007",
+      "type_id": 99
+    },
+    "type": "Tablet",
+    "uid": "ea7ea7ee-54dd-11ef-8da5-0242ac110007",
+    "hostname": "lose.cat",
+    "mac": "59:CB:A8:53:FC:4D:58:24",
+    "type_id": 4,
+    "subnet": "33.29.0.0/16",
+    "hypervisor": "medicaid surgical retrieval",
+    "imei": "space lang telecom",
+    "instance_uid": "ea7e88b8-54dd-11ef-8da2-0242ac110007",
+    "interface_name": "wives legs designed",
+    "interface_uid": "ea7e8f66-54dd-11ef-be9f-0242ac110007",
+    "is_managed": true,
+    "network_interfaces": [
+      {
+        "name": "voluntary delivering cord",
+        "type": "Wireless",
+        "ip": "101.190.180.37",
+        "hostname": "workflow.info",
+        "mac": "81:39:59:A8:DC:65:FB:74",
+        "type_id": 2,
+        "subnet_prefix": 37
+      },
+      {
+        "name": "space reported ll",
+        "type": "trustees",
+        "ip": "95.225.137.16",
+        "hostname": "quiz.org",
+        "mac": "0:D1:9:AE:FB:DB:A:E2",
+        "type_id": 99
+      }
+    ],
+    "region": "bbs invision hc",
+    "uid_alt": "diffs activity ceremony",
+    "zone": "situations scale hey"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "refugees raid dies",
+      "uid": "ea7ca26e-54dd-11ef-a1b4-0242ac110007",
+      "feature": {
+        "name": "homes heaven got",
+        "version": "1.3.0",
+        "uid": "ea7cb312-54dd-11ef-8962-0242ac110007"
+      },
+      "vendor_name": "duke mud f"
+    },
+    "log_level": "headquarters talent phenomenon",
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "hardware rain casinos",
+    "loggers": [
+      {
+        "name": "revelation international corporate",
+        "device": {
+          "owner": {
+            "type": "Unknown",
+            "uid": "ea7d245a-54dd-11ef-af6f-0242ac110007",
+            "groups": [
+              {
+                "name": "announcements emphasis toxic",
+                "type": "engine reprint deleted",
+                "desc": "bennett matthew estimate",
+                "uid": "ea7d3116-54dd-11ef-9a2a-0242ac110007"
+              }
+            ],
+            "type_id": 0,
+            "account": {
+              "name": "genuine share decline",
+              "type": "AWS Account",
+              "uid": "ea7d3e18-54dd-11ef-82f8-0242ac110007",
+              "type_id": 10
+            }
+          },
+          "type": "Firewall",
+          "os": {
+            "name": "mali usps classics",
+            "type": "AIX",
+            "type_id": 401,
+            "cpu_bits": 21
+          },
+          "ip": "5.164.189.187",
+          "uid": "ea7d4502-54dd-11ef-b5c8-0242ac110007",
+          "hostname": "followed.store",
+          "image": {
+            "name": "screenshots remains educators",
+            "tag": "transfer musicians theaters",
+            "uid": "ea7d5290-54dd-11ef-822b-0242ac110007"
+          },
+          "type_id": 9,
+          "hypervisor": "ukraine singapore african",
+          "instance_uid": "ea7d02f4-54dd-11ef-a012-0242ac110007",
+          "interface_name": "au savings civil",
+          "interface_uid": "ea7d15d2-54dd-11ef-a94b-0242ac110007",
+          "is_personal": false,
+          "is_trusted": false,
+          "region": "supervisors industries annual",
+          "risk_level": "Low",
+          "risk_level_id": 1
+        },
+        "product": {
+          "path": "clara determining amendment",
+          "uid": "ea7d619a-54dd-11ef-9ff2-0242ac110007",
+          "vendor_name": "enjoyed remind pie"
+        },
+        "uid": "ea7d67da-54dd-11ef-8168-0242ac110007",
+        "log_provider": "circulation floyd provides",
+        "logged_time": 1723049757036764,
+        "transmit_time": 1723049757036777
+      },
+      {
+        "name": "oem firms drawings",
+        "device": {
+          "owner": {
+            "name": "Catch",
+            "type": "Admin",
+            "uid": "ea7e4b82-54dd-11ef-bdc9-0242ac110007",
+            "type_id": 2,
+            "full_name": "Wilmer Doreatha",
+            "email_addr": "Glenda@memo.name"
+          },
+          "type": "Mobile",
+          "domain": "depth stamps displaying",
+          "uid": "ea7e5348-54dd-11ef-8cd3-0242ac110007",
+          "hostname": "ensures.net",
+          "type_id": 5,
+          "hw_info": {
+            "cpu_speed": 53
+          },
+          "instance_uid": "ea7e32aa-54dd-11ef-8029-0242ac110007",
+          "interface_name": "rod gif poison",
+          "interface_uid": "ea7e391c-54dd-11ef-95f9-0242ac110007",
+          "region": "private preview studies",
+          "risk_score": 61
+        },
+        "product": {
+          "name": "calendar savannah soonest",
+          "version": "1.3.0",
+          "uid": "ea7e5e74-54dd-11ef-b855-0242ac110007",
+          "vendor_name": "activities increased missions"
+        },
+        "uid": "ea7e650e-54dd-11ef-afa3-0242ac110007",
+        "log_name": "forbidden up focusing",
+        "log_provider": "ty sheriff beaches",
+        "logged_time": 1723049757043253
+      }
+    ],
+    "original_time": "despite demonstrate spoken",
+    "processed_time": 1723049757043271,
+    "tenant_uid": "ea7e730a-54dd-11ef-8db2-0242ac110007"
+  },
+  "severity": "Medium",
+  "type_uid": 500201,
+  "category_name": "Discovery",
+  "type_name": "Device Config State: Log",
+  "activity_id": 1,
+  "observables": [
+    {
+      "name": "ethnic regardless forestry",
+      "type": "Registry Value",
+      "type_id": 29,
+      "reputation": {
+        "base_score": 81.4863,
+        "score": "Probably Malicious",
+        "score_id": 9
+      }
+    },
+    {
+      "name": "championship artificial cpu",
+      "type": "pursuit",
+      "value": "reduction estimated acne",
+      "type_id": 99
+    }
+  ],
+  "class_uid": 5002,
+  "category_uid": 5,
+  "class_name": "Device Config State",
+  "timezone_offset": 37,
+  "activity_name": "Log",
+  "cis_benchmark_result": {
+    "name": "occur pilot enormous"
+  },
+  "severity_id": 3,
+  "status_code": "caroline",
+  "status_detail": "diy mic pediatric"
+}

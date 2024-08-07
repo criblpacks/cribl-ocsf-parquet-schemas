@@ -1,0 +1,172 @@
+{
+  "status": "Unknown",
+  "time": 1723049735464151,
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "billion towers bold",
+      "version": "1.2.0",
+      "uid": "dda11764-54dd-11ef-b34e-0242ac110006"
+    },
+    "product": {
+      "name": "influenced deutschland reliable",
+      "version": "1.2.0",
+      "uid": "dda12326-54dd-11ef-9ed0-0242ac110006",
+      "vendor_name": "shed crisis ind"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "civilization strikes restored",
+    "log_provider": "launched galaxy howard",
+    "log_version": "herbal editor czech",
+    "modified_time": 1723049735460579,
+    "original_time": "ni andrew cop",
+    "tenant_uid": "dda12b96-54dd-11ef-bc3f-0242ac110006"
+  },
+  "desc": "dean earliest offer",
+  "severity": "Unknown",
+  "type_name": "Incident Finding: Create",
+  "activity_id": 1,
+  "type_uid": 200501,
+  "observables": [
+    {
+      "name": "cartoons prime academics",
+      "type": "Hostname",
+      "type_id": 1
+    }
+  ],
+  "category_name": "Findings",
+  "class_uid": 2005,
+  "category_uid": 2,
+  "class_name": "Incident Finding",
+  "timezone_offset": 32,
+  "attacks": [
+    {
+      "version": "12.1",
+      "tactics": [
+        {
+          "name": "Command and Control The adversary is trying to communicate with compromised systems to control them.",
+          "uid": "TA0011"
+        },
+        {
+          "name": "Collection | The adversary is trying to gather data of interest to their goal.",
+          "uid": "TA0009"
+        }
+      ],
+      "technique": {
+        "name": "System Shutdown/Reboot",
+        "uid": "T1529"
+      }
+    },
+    {
+      "version": "12.1",
+      "tactics": [
+        {
+          "name": "Persistence The adversary is trying to maintain their foothold.",
+          "uid": "TA0003"
+        },
+        {
+          "name": "Impact | The adversary is trying to manipulate, interrupt, or destroy your systems and data.",
+          "uid": "TA0040"
+        },
+        {
+          "name": "Impact | The adversary is trying to manipulate, interrupt, or destroy your systems and data.",
+          "uid": "TA0040"
+        }
+      ],
+      "technique": {
+        "name": "Domains",
+        "uid": "T1584.001"
+      }
+    }
+  ],
+  "end_time": 1723049735464146,
+  "activity_name": "Create",
+  "confidence": "legends view eliminate",
+  "confidence_id": 99,
+  "enrichments": [
+    {
+      "data": "wrist",
+      "name": "lindsay white pipeline",
+      "type": "elementary kodak basically",
+      "value": "pdas trailer journey",
+      "provider": "enabling fired terrorist"
+    }
+  ],
+  "finding_info_list": [
+    {
+      "title": "nutritional leo volunteer",
+      "desc": "chelsea fame four",
+      "uid": "dda13708-54dd-11ef-9fb7-0242ac110006",
+      "analytic": {
+        "name": "roster gb engines",
+        "type": "Regular Expressions",
+        "version": "1.2.0",
+        "desc": "team sheep lectures",
+        "uid": "dda155ee-54dd-11ef-abca-0242ac110006",
+        "type_id": 8
+      },
+      "first_seen_time": 1723049735461853,
+      "product_uid": "dda15f80-54dd-11ef-85f7-0242ac110006"
+    },
+    {
+      "title": "ladies looks spears",
+      "uid": "dda16930-54dd-11ef-bafe-0242ac110006",
+      "analytic": {
+        "name": "jeffrey prevention casinos",
+        "type": "Unknown",
+        "type_id": 0,
+        "related_analytics": [
+          {
+            "name": "l highway enhanced",
+            "type": "Regular Expressions",
+            "uid": "dda18000-54dd-11ef-a73d-0242ac110006",
+            "type_id": 8,
+            "related_analytics": [
+              {
+                "name": "studio fm amplifier",
+                "type": "Statistical",
+                "uid": "dda18e06-54dd-11ef-b7ba-0242ac110006",
+                "type_id": 3,
+                "related_analytics": [
+                  {
+                    "name": "walker clerk style",
+                    "type": "Keyword Match",
+                    "uid": "dda19b94-54dd-11ef-9460-0242ac110006",
+                    "type_id": 7
+                  },
+                  {
+                    "name": "bidder restricted machines",
+                    "type": "Exact Data Match",
+                    "uid": "dda1a33c-54dd-11ef-9b44-0242ac110006",
+                    "type_id": 9
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "albania errors seek",
+            "type": "Regular Expressions",
+            "version": "1.2.0",
+            "uid": "dda1abde-54dd-11ef-b61a-0242ac110006",
+            "category": "ugly combination eh",
+            "type_id": 8
+          }
+        ]
+      },
+      "created_time": 1723049735464061,
+      "first_seen_time": 1723049735464070
+    }
+  ],
+  "impact": "bk dirt theme",
+  "impact_score": 90,
+  "severity_id": 0,
+  "src_url": "capability",
+  "status_code": "intent",
+  "status_detail": "isp shelter lectures",
+  "status_id": 0,
+  "verdict": "Duplicate",
+  "verdict_id": 10
+}

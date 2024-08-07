@@ -1,0 +1,233 @@
+{
+  "http_request": {
+    "version": "1.2.0",
+    "length": 5,
+    "url": {
+      "port": 43617,
+      "scheme": "helping cas beginner",
+      "path": "goal bookmark organization",
+      "hostname": "costume.museum",
+      "query_string": "adrian income collector",
+      "category_ids": [
+        51,
+        25
+      ],
+      "resource_type": "protest qc dodge",
+      "url_string": "removed"
+    },
+    "x_forwarded_for": [
+      "144.92.165.187",
+      "36.80.232.235"
+    ],
+    "user_agent": "fan june rover",
+    "http_headers": [
+      {
+        "name": "jamaica items knock",
+        "value": "conclusion rfc worn"
+      }
+    ]
+  },
+  "message": "trainers yield speaks",
+  "status": "Success",
+  "time": 1723049734200898,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "sender index authentication",
+      "version": "1.2.0",
+      "uid": "dcdf8fd6-54dd-11ef-924f-0242ac110006",
+      "feature": {
+        "name": "sticks internet cameron",
+        "version": "1.2.0",
+        "uid": "dcdf9c1a-54dd-11ef-bdb3-0242ac110006"
+      },
+      "lang": "en",
+      "vendor_name": "birds observe moral"
+    },
+    "extensions": [
+      {
+        "name": "towards ty picture",
+        "version": "1.2.0",
+        "uid": "dcdfa7c8-54dd-11ef-aaff-0242ac110006"
+      }
+    ],
+    "labels": [
+      "lanes",
+      "inkjet"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "keywords cycle doc",
+    "loggers": [
+      {
+        "name": "str including packard",
+        "version": "1.2.0",
+        "device": {
+          "name": "certainly cave alternate",
+          "owner": {
+            "name": "Loans",
+            "type": "System",
+            "domain": "bunny hitachi lang",
+            "uid": "dce00b46-54dd-11ef-9db2-0242ac110006",
+            "type_id": 3,
+            "credential_uid": "dce011a4-54dd-11ef-9afc-0242ac110006",
+            "uid_alt": "exhibits street fifth"
+          },
+          "type": "Tablet",
+          "domain": "wash wc kernel",
+          "ip": "34.234.219.44",
+          "uid": "dce01906-54dd-11ef-a6cb-0242ac110006",
+          "type_id": 4,
+          "autoscale_uid": "dcdfe0f8-54dd-11ef-b610-0242ac110006",
+          "instance_uid": "dcdffd9a-54dd-11ef-82f4-0242ac110006",
+          "interface_name": "jul ethnic recommendations",
+          "interface_uid": "dcdfe80a-54dd-11ef-b473-0242ac110006",
+          "is_personal": true,
+          "network_interfaces": [
+            {
+              "name": "xml planned designs",
+              "type": "Mobile",
+              "ip": "182.210.178.90",
+              "uid": "dcdff494-54dd-11ef-93fa-0242ac110006",
+              "hostname": "execute.edu",
+              "mac": "A6:A6:CC:44:B3:23:52:67",
+              "type_id": 3
+            },
+            {
+              "type": "Wireless",
+              "hostname": "compared.jobs",
+              "mac": "5E:DD:CD:36:C7:82:69:7C",
+              "type_id": 2,
+              "subnet_prefix": 99
+            }
+          ]
+        },
+        "product": {
+          "name": "strict army scanning",
+          "version": "1.2.0",
+          "uid": "dce04638-54dd-11ef-bca5-0242ac110006",
+          "vendor_name": "attacks paste fioricet"
+        },
+        "uid": "dce04d40-54dd-11ef-b4a8-0242ac110006",
+        "log_name": "later mom abandoned",
+        "log_provider": "dx childrens institutes",
+        "logged_time": 1723049734196797
+      },
+      {
+        "name": "pushing achieving prev",
+        "device": {
+          "type": "Unknown",
+          "ip": "250.98.244.210",
+          "uid": "dce0728e-54dd-11ef-b963-0242ac110006",
+          "hostname": "races.museum",
+          "type_id": 0,
+          "autoscale_uid": "dce06104-54dd-11ef-88dc-0242ac110006",
+          "created_time": 1723049734197564,
+          "first_seen_time": 1723049734197357,
+          "hypervisor": "minutes stood trust",
+          "imei": "raised relaxation automobiles",
+          "instance_uid": "dce06b68-54dd-11ef-b3c9-0242ac110006",
+          "interface_name": "survival history presently",
+          "is_compliant": false,
+          "is_personal": false,
+          "region": "rb represents textiles",
+          "risk_level": "Info",
+          "risk_level_id": 0,
+          "subnet_uid": "dce079e6-54dd-11ef-a054-0242ac110006",
+          "uid_alt": "pd archived junior"
+        },
+        "product": {
+          "name": "meat recommend extraction",
+          "version": "1.2.0",
+          "uid": "dce085bc-54dd-11ef-b92e-0242ac110006",
+          "vendor_name": "derived noted puzzle"
+        },
+        "uid": "dce08c74-54dd-11ef-afa0-0242ac110006",
+        "log_name": "forth folding alternatives"
+      }
+    ],
+    "original_time": "incentive veterinary try",
+    "tenant_uid": "dce093ea-54dd-11ef-b781-0242ac110006"
+  },
+  "severity": "Low",
+  "type_name": "Web Resource Access Activity: Other",
+  "activity_id": 99,
+  "type_uid": 600499,
+  "category_name": "Application Activity",
+  "class_uid": 6004,
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "timezone_offset": 69,
+  "activity_name": "villas",
+  "severity_id": 2,
+  "src_endpoint": {
+    "name": "convenience creates libraries",
+    "owner": {
+      "name": "Wikipedia",
+      "type": "Unknown",
+      "uid": "dce0a876-54dd-11ef-99b3-0242ac110006",
+      "org": {
+        "name": "procedure price nec",
+        "uid": "dce0baaa-54dd-11ef-b71d-0242ac110006",
+        "ou_name": "fact guided municipality"
+      },
+      "type_id": 0,
+      "ldap_person": {
+        "labels": [
+          "stone",
+          "erotica"
+        ],
+        "ldap_cn": "cluster mortality cluster",
+        "modified_time": 1723049734199855
+      }
+    },
+    "port": 23039,
+    "type": "Mobile",
+    "ip": "41.252.125.45",
+    "location": {
+      "desc": "Taiwan",
+      "city": "Graphics suffer",
+      "country": "TW",
+      "coordinates": [
+        117.8397,
+        -80.6223
+      ],
+      "continent": "Asia"
+    },
+    "uid": "dce0d18e-54dd-11ef-a4e3-0242ac110006",
+    "hostname": "river.arpa",
+    "type_id": 5,
+    "hw_info": {
+      "cpu_count": 47,
+      "keyboard_info": {
+        "function_keys": 74,
+        "ime": "normal automobiles ball"
+      },
+      "ram_size": 68,
+      "serial_number": "speeds flu brad"
+    },
+    "instance_uid": "dce0dc6a-54dd-11ef-bcbb-0242ac110006",
+    "interface_name": "carlos roads require",
+    "interface_uid": "dce0e37c-54dd-11ef-8b04-0242ac110006",
+    "svc_name": "ssl kills download",
+    "zone": "draft joins minus"
+  },
+  "status_code": "ministry",
+  "status_detail": "photographic excerpt monday",
+  "status_id": 1,
+  "web_resources": [
+    {
+      "data": "resolved",
+      "labels": [
+        "georgia"
+      ],
+      "url_string": "prefers"
+    },
+    {
+      "data": "cheats",
+      "desc": "blair color files",
+      "url_string": "msg"
+    }
+  ]
+}

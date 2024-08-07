@@ -1,0 +1,145 @@
+{
+  "message": "space cigarette flip",
+  "status": "Unknown",
+  "time": 1723049706650801,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "insurance mercy ross",
+      "version": "1.2.0",
+      "uid": "cc74605e-54dd-11ef-8c57-0242ac110006",
+      "lang": "en",
+      "vendor_name": "syria fragrances beans"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "useful stats betting",
+    "log_provider": "educational amount viii",
+    "log_version": "hiking binding year",
+    "original_time": "blackberry ride moms"
+  },
+  "proxy": {
+    "name": "large antenna climb",
+    "owner": {
+      "name": "Traditions",
+      "type": "Admin",
+      "uid": "cc73ec32-54dd-11ef-95c3-0242ac110006",
+      "type_id": 2,
+      "full_name": "Hwa Benedict",
+      "account": {
+        "name": "cyprus centuries trek",
+        "type": "subject",
+        "uid": "cc742490-54dd-11ef-80a4-0242ac110006",
+        "labels": [
+          "cp",
+          "slovenia"
+        ],
+        "type_id": 99
+      }
+    },
+    "port": 49641,
+    "ip": "86.199.111.67",
+    "uid": "cc742fe4-54dd-11ef-923d-0242ac110006",
+    "hostname": "donation.web",
+    "instance_uid": "cc74376e-54dd-11ef-9433-0242ac110006",
+    "interface_name": "turkish amsterdam ad",
+    "interface_uid": "cc743ea8-54dd-11ef-a454-0242ac110006",
+    "svc_name": "surrounded relationship marilyn",
+    "zone": "muscle zones developed"
+  },
+  "relay": {
+    "name": "bytes rep decide",
+    "type": "Wired",
+    "ip": "110.151.62.243",
+    "hostname": "runtime.arpa",
+    "mac": "8E:F9:6D:DB:10:D1:DA:F",
+    "namespace": "corn supported label",
+    "type_id": 1,
+    "subnet_prefix": 17
+  },
+  "connection_info": {
+    "boundary": "Internet Gateway",
+    "direction": "Lateral",
+    "boundary_id": 11,
+    "direction_id": 3,
+    "protocol_num": 84,
+    "protocol_ver": "Internet Protocol version 4 (IPv4)",
+    "protocol_ver_id": 4
+  },
+  "start_time": 1723049706645103,
+  "severity": "Unknown",
+  "type_name": "DHCP Activity: Offer",
+  "activity_id": 2,
+  "type_uid": 400402,
+  "observables": [
+    {
+      "name": "targets charleston maple",
+      "type": "MAC Address",
+      "type_id": 3
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4004,
+  "category_uid": 4,
+  "class_name": "DHCP Activity",
+  "timezone_offset": 97,
+  "activity_name": "Offer",
+  "dst_endpoint": {
+    "name": "massage undo sleep",
+    "owner": {
+      "name": "Afraid",
+      "type": "penguin",
+      "uid": "cc758dbc-54dd-11ef-9497-0242ac110006",
+      "org": {
+        "name": "infrastructure tech colony",
+        "uid": "cc75997e-54dd-11ef-958b-0242ac110006",
+        "ou_uid": "cc759f96-54dd-11ef-a008-0242ac110006"
+      },
+      "type_id": 99,
+      "email_addr": "Bonita@her.store",
+      "risk_level": "boxed false them",
+      "risk_score": 13
+    },
+    "port": 50057,
+    "type": "Hub",
+    "domain": "sap immunology reflection",
+    "ip": "15.10.66.251",
+    "uid": "cc75aaf4-54dd-11ef-b829-0242ac110006",
+    "hostname": "trace.pro",
+    "type_id": 11,
+    "instance_uid": "cc75b210-54dd-11ef-95fa-0242ac110006",
+    "svc_name": "barrier craps players",
+    "zone": "markets christianity fewer"
+  },
+  "is_renewal": true,
+  "lease_dur": 92,
+  "severity_id": 0,
+  "src_endpoint": {
+    "name": "which iceland professional",
+    "owner": {
+      "name": "Establishment",
+      "type": "User",
+      "uid": "cc747800-54dd-11ef-abab-0242ac110006",
+      "type_id": 1
+    },
+    "type": "Laptop",
+    "ip": "68.57.146.46",
+    "uid": "cc750914-54dd-11ef-bbf0-0242ac110006",
+    "hostname": "uniprotkb.store",
+    "mac": "DA:A2:CC:A4:A2:72:FB:CF",
+    "type_id": 3,
+    "instance_uid": "cc7511a2-54dd-11ef-a8ad-0242ac110006",
+    "interface_name": "legislature deemed comment",
+    "interface_uid": "cc751ac6-54dd-11ef-8b86-0242ac110006",
+    "intermediate_ips": [
+      "246.22.149.76",
+      "171.194.94.118"
+    ],
+    "svc_name": "hr fairy relatively"
+  },
+  "status_code": "outlook",
+  "status_detail": "incidence violence baths",
+  "status_id": 0,
+  "transaction_uid": "cc7525fc-54dd-11ef-8924-0242ac110006"
+}

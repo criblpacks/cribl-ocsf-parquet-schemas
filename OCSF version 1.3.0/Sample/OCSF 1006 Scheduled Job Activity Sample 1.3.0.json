@@ -1,0 +1,143 @@
+{
+  "message": "milan priority newsletter",
+  "status": "Failure",
+  "time": 1723049787783171,
+  "device": {
+    "owner": {
+      "type": "Unknown",
+      "uid": "fcd03e26-54dd-11ef-adac-0242ac110007",
+      "org": {
+        "name": "bluetooth september uniprotkb",
+        "uid": "fcd04a7e-54dd-11ef-81fd-0242ac110007"
+      },
+      "type_id": 0,
+      "full_name": "Jerome Rubie",
+      "risk_level": "High",
+      "risk_level_id": 3
+    },
+    "type": "Unknown",
+    "domain": "embedded beautiful roommate",
+    "desc": "infinite podcasts claire",
+    "uid": "fcd05208-54dd-11ef-9841-0242ac110007",
+    "hostname": "processor.jobs",
+    "image": {
+      "name": "publishing teen exclusive",
+      "uid": "fcd05d20-54dd-11ef-84d4-0242ac110007",
+      "labels": [
+        "sim",
+        "local"
+      ]
+    },
+    "type_id": 0,
+    "instance_uid": "fcd019a0-54dd-11ef-99c4-0242ac110007",
+    "interface_name": "clients wy dramatic",
+    "interface_uid": "fcd029cc-54dd-11ef-9e68-0242ac110007",
+    "is_compliant": true,
+    "region": "elizabeth organizing mia",
+    "subnet_uid": "fcd0210c-54dd-11ef-960c-0242ac110007",
+    "vpc_uid": "fcd00a5a-54dd-11ef-8e65-0242ac110007"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "enzyme cnet birth",
+      "uid": "fccfcdec-54dd-11ef-9cd2-0242ac110007",
+      "feature": {
+        "name": "plains isbn written",
+        "version": "1.3.0",
+        "uid": "fccfdbde-54dd-11ef-9fdb-0242ac110007"
+      },
+      "lang": "en",
+      "vendor_name": "ideal lambda elect"
+    },
+    "uid": "fccfe520-54dd-11ef-9ca5-0242ac110007",
+    "sequence": 0,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "lawyer fares promotes",
+    "log_provider": "arbitration identified airfare",
+    "original_time": "supervisors tomorrow calm",
+    "tenant_uid": "fccfefa2-54dd-11ef-a9c7-0242ac110007"
+  },
+  "severity": "Fatal",
+  "type_uid": 100604,
+  "category_name": "System Activity",
+  "type_name": "Scheduled Job Activity: Enable",
+  "activity_id": 4,
+  "observables": [
+    {
+      "name": "subscriber graphic tions",
+      "type": "User Name",
+      "value": "purple je cups",
+      "type_id": 4,
+      "reputation": {
+        "base_score": 16.9653,
+        "score": "Very Safe",
+        "score_id": 1
+      }
+    },
+    {
+      "name": "burden transfers training",
+      "type": "Hash",
+      "type_id": 8,
+      "reputation": {
+        "base_score": 50.0403,
+        "provider": "submitted conversion developmental",
+        "score": "Exercise Caution",
+        "score_id": 6
+      }
+    }
+  ],
+  "class_uid": 1006,
+  "category_uid": 1,
+  "class_name": "Scheduled Job Activity",
+  "timezone_offset": 39,
+  "end_time": 1723049787772852,
+  "activity_name": "Enable",
+  "job": {
+    "name": "cosmetics pamela depending",
+    "file": {
+      "name": "double.bmp",
+      "type": "Named Pipe",
+      "type_id": 6,
+      "hashes": [
+        {
+          "value": "084243855820F9CA47F466F645784636",
+          "algorithm": "MD5",
+          "algorithm_id": 1
+        },
+        {
+          "value": "16A118483D38266A1650C89DF6D883A6A7AFC2CA2BAC171FC850F0907919856EFD4F7F8B4521D141895ED194CEA42A131F23E67AB58E75BE071266DD1764B119",
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7
+        }
+      ]
+    },
+    "user": {
+      "name": "Worried",
+      "type": "Admin",
+      "groups": [
+        {
+          "name": "definition families design",
+          "domain": "gnu deputy va"
+        }
+      ],
+      "type_id": 2,
+      "account": {
+        "name": "cooperative tied refrigerator",
+        "type": "GCP Account",
+        "uid": "fcd096fa-54dd-11ef-8f59-0242ac110007",
+        "type_id": 5
+      },
+      "credential_uid": "fcd0befa-54dd-11ef-8b44-0242ac110007"
+    },
+    "desc": "edges conservative easy",
+    "cmd_line": "kitty commander beads",
+    "created_time": 1723049787783151
+  },
+  "severity_id": 6,
+  "status_code": "overnight",
+  "status_detail": "rocks split swiss",
+  "status_id": 2
+}

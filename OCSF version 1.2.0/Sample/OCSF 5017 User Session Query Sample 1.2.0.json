@@ -1,0 +1,84 @@
+{
+  "message": "enjoying know recent",
+  "session": {
+    "uid": "dc1adbf0-54dd-11ef-9721-0242ac110006",
+    "issuer": "determines welsh g",
+    "created_time": 1723049732902832,
+    "credential_uid": "dc1ae3d4-54dd-11ef-bcd7-0242ac110006",
+    "is_remote": false
+  },
+  "status": "Unknown",
+  "time": 1723049732901276,
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "polyphonic platinum column",
+      "version": "1.2.0",
+      "uid": "dc1a8a7e-54dd-11ef-aae7-0242ac110006"
+    },
+    "product": {
+      "name": "distinguished specifically ceo",
+      "path": "surf adelaide attempting",
+      "uid": "dc1a96c2-54dd-11ef-91bb-0242ac110006",
+      "lang": "en",
+      "cpe_name": "users bit substitute",
+      "vendor_name": "alumni pub classroom"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "schedule ministries inputs",
+    "log_provider": "transcript christmas vat",
+    "original_time": "volumes mathematical if",
+    "tenant_uid": "dc1a9f8c-54dd-11ef-8672-0242ac110006"
+  },
+  "severity": "High",
+  "duration": 93,
+  "type_name": "User Session Query: Query",
+  "activity_id": 1,
+  "type_uid": 501701,
+  "observables": [
+    {
+      "name": "trademark bleeding milk",
+      "type": "Fingerprint",
+      "type_id": 30
+    },
+    {
+      "name": "reproduction butler firm",
+      "type": "Unknown",
+      "type_id": 0
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5017,
+  "category_uid": 5,
+  "class_name": "User Session Query",
+  "activity_name": "Query",
+  "enrichments": [
+    {
+      "data": "booth",
+      "name": "blah loaded injury",
+      "type": "welfare lights strand",
+      "value": "camp churches spectacular",
+      "provider": "greenhouse sao redeem"
+    },
+    {
+      "data": "rugby",
+      "name": "options individuals qualities",
+      "type": "undertake reducing mystery",
+      "value": "choosing vatican mhz",
+      "provider": "sellers wearing threads"
+    }
+  ],
+  "query_info": {
+    "name": "tunnel experiments maintained",
+    "uid": "dc1aaa7c-54dd-11ef-9dcc-0242ac110006",
+    "query_string": "coordinates six chancellor"
+  },
+  "query_result": "Partial",
+  "query_result_id": 2,
+  "severity_id": 4,
+  "status_code": "lingerie",
+  "status_detail": "lion marking unlimited",
+  "status_id": 0
+}

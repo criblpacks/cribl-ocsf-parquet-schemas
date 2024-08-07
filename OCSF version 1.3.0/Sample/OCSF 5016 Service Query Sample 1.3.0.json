@@ -1,0 +1,79 @@
+{
+  "message": "improvement protect hundreds",
+  "status": "Failure",
+  "time": 1723049763360381,
+  "service": {
+    "name": "jelsoft textiles timing",
+    "version": "1.3.0",
+    "uid": "ee425aba-54dd-11ef-b213-0242ac110007"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "designer projection rooms",
+      "version": "1.3.0",
+      "uid": "ee423062-54dd-11ef-8b93-0242ac110007",
+      "lang": "en",
+      "vendor_name": "monica brussels dense"
+    },
+    "uid": "ee4237b0-54dd-11ef-a069-0242ac110007",
+    "extensions": [
+      {
+        "name": "compete browsers seeks",
+        "version": "1.3.0",
+        "uid": "ee4241f6-54dd-11ef-8ea2-0242ac110007"
+      },
+      {
+        "name": "aid judy window",
+        "version": "1.3.0",
+        "uid": "ee42491c-54dd-11ef-bbd4-0242ac110007"
+      }
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "actress lover nest",
+    "log_provider": "hang tournaments screensavers",
+    "original_time": "rep stream attributes",
+    "tenant_uid": "ee42504c-54dd-11ef-a593-0242ac110007"
+  },
+  "severity": "Critical",
+  "type_uid": 501600,
+  "category_name": "Discovery",
+  "type_name": "Service Query: Unknown",
+  "activity_id": 0,
+  "observables": [
+    {
+      "name": "collectors bacteria beauty",
+      "type": "User Name",
+      "type_id": 4
+    },
+    {
+      "name": "cheese wooden modeling",
+      "type": "Subnet",
+      "type_id": 12,
+      "reputation": {
+        "base_score": 30.5195,
+        "provider": "pcs woman cop",
+        "score": "May not be Safe",
+        "score_id": 5
+      }
+    }
+  ],
+  "class_uid": 5016,
+  "category_uid": 5,
+  "class_name": "Service Query",
+  "timezone_offset": 20,
+  "activity_name": "Unknown",
+  "query_info": {
+    "data": "fri",
+    "name": "invitation architect navigate",
+    "uid": "ee4201a0-54dd-11ef-8d90-0242ac110007",
+    "query_string": "reason dual designers"
+  },
+  "query_result": "Unsupported",
+  "query_result_id": 5,
+  "severity_id": 5,
+  "status_code": "band",
+  "status_id": 2
+}

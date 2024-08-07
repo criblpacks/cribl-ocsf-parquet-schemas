@@ -1,0 +1,146 @@
+{
+  "message": "batteries documented confirmation",
+  "status": "fruit",
+  "time": 1723049807715178,
+  "metadata": {
+    "version": "1.3.0",
+    "extension": {
+      "name": "allan independence pale",
+      "version": "1.3.0",
+      "uid": "08afdc74-54de-11ef-a48a-0242ac110007"
+    },
+    "product": {
+      "version": "1.3.0",
+      "uid": "08afea16-54de-11ef-b6c4-0242ac110007",
+      "feature": {
+        "name": "tools artists blackjack",
+        "version": "1.3.0",
+        "uid": "08b01cde-54de-11ef-86b8-0242ac110007"
+      },
+      "vendor_name": "generation customize check"
+    },
+    "extensions": [
+      {
+        "name": "concentrate gi whom",
+        "version": "1.3.0",
+        "uid": "08b02e7c-54de-11ef-9346-0242ac110007"
+      },
+      {
+        "name": "shakira belong soa",
+        "version": "1.3.0",
+        "uid": "08b064aa-54de-11ef-aa16-0242ac110007"
+      }
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "08b10234-54de-11ef-8669-0242ac110007",
+    "log_name": "una usage infant",
+    "log_provider": "adrian uncertainty young",
+    "original_time": "fully llp subaru",
+    "tenant_uid": "08b12db8-54de-11ef-a132-0242ac110007"
+  },
+  "severity": "Critical",
+  "duration": 1916919869,
+  "type_uid": 501099,
+  "category_name": "Discovery",
+  "type_name": "Job Query: Other",
+  "activity_id": 99,
+  "observables": [
+    {
+      "name": "announcement alerts impressive",
+      "type": "IP Address",
+      "type_id": 2
+    },
+    {
+      "name": "aj timeline earnings",
+      "type": "Process Name",
+      "type_id": 9
+    }
+  ],
+  "class_uid": 5010,
+  "category_uid": 5,
+  "class_name": "Job Query",
+  "timezone_offset": 59,
+  "activity_name": "prot",
+  "enrichments": [
+    {
+      "data": "player",
+      "name": "worship gauge charging",
+      "type": "newbie ppc parameters",
+      "value": "branches tells organic",
+      "created_time": 1723049807708429,
+      "provider": "rapidly dividend remedies",
+      "short_desc": "sudan hash powder",
+      "src_url": "ethical"
+    }
+  ],
+  "job": {
+    "name": "net desperate topic",
+    "file": {
+      "name": "bullet.cs",
+      "owner": {
+        "name": "Bought",
+        "type": "User",
+        "uid": "08b19172-54de-11ef-a729-0242ac110007",
+        "org": {
+          "name": "bunny conversion jones",
+          "uid": "08b19d5c-54de-11ef-9137-0242ac110007",
+          "ou_name": "categories adventure auckland"
+        },
+        "groups": [
+          {
+            "name": "manhattan wind determines",
+            "uid": "08b1aaa4-54de-11ef-af89-0242ac110007"
+          },
+          {
+            "uid": "08b2369a-54de-11ef-9f3a-0242ac110007"
+          }
+        ],
+        "type_id": 1
+      },
+      "type": "Named Pipe",
+      "version": "1.3.0",
+      "path": "packets mar airline/cv.dll/bullet.cs",
+      "desc": "madagascar pl naval",
+      "ext": "statement benchmark chassis",
+      "type_id": 6,
+      "parent_folder": "packets mar airline/cv.dll",
+      "hashes": [
+        {
+          "value": "10290BBB1DDF3C193F359A85C02CCC36C0C7393B4D0D471B0B947A6086DE943CEF0F1EEAC3D55095A1CE3A59DB7113A9C825AE81BFE6CB00F02CEF055935800E",
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7
+        },
+        {
+          "value": "089DB8F1FA0F6E02142A6F515A3A1CAB",
+          "algorithm": "MD5",
+          "algorithm_id": 1
+        }
+      ],
+      "security_descriptor": "fruits predict network"
+    },
+    "user": {
+      "name": "Guitar",
+      "uid": "08b24c5c-54de-11ef-94d1-0242ac110007",
+      "full_name": "Ria Debera"
+    },
+    "desc": "speed erik improve",
+    "cmd_line": "banana francis relaxation",
+    "created_time": 1723049807715153,
+    "last_run_time": 1723049807715164,
+    "run_state": "essex",
+    "run_state_id": 99
+  },
+  "query_info": {
+    "name": "deferred proprietary reflected",
+    "uid": "08af4dae-54de-11ef-a53a-0242ac110007",
+    "query_string": "ahead stevens av"
+  },
+  "query_result": "Exists",
+  "query_result_id": 1,
+  "severity_id": 5,
+  "status_code": "brazilian",
+  "status_detail": "checking were even",
+  "status_id": 99
+}

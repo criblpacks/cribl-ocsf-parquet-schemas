@@ -1,0 +1,263 @@
+{
+  "count": 12,
+  "message": "indiana gi born",
+  "session": {
+    "uid": "03f7973a-54de-11ef-be20-0242ac110007",
+    "issuer": "valued photographers dice",
+    "created_time": 1723049799780561,
+    "is_vpn": false
+  },
+  "status": "Failure",
+  "time": 1723049799780238,
+  "user": {
+    "name": "Bulletin",
+    "type": "User",
+    "uid": "03f6bd06-54de-11ef-9386-0242ac110007",
+    "type_id": 1,
+    "risk_score": 38
+  },
+  "device": {
+    "owner": {
+      "name": "Fo",
+      "type": "User",
+      "uid": "03f773b8-54de-11ef-8149-0242ac110007",
+      "type_id": 1,
+      "credential_uid": "03f77a34-54de-11ef-9ec0-0242ac110007"
+    },
+    "type": "Router",
+    "os": {
+      "name": "views finland peers",
+      "type": "better",
+      "type_id": 99,
+      "lang": "en"
+    },
+    "domain": "calibration drove sublime",
+    "ip": "204.10.114.187",
+    "location": {
+      "desc": "Botswana, Republic of",
+      "city": "Optics pubs",
+      "country": "BW",
+      "coordinates": [
+        -76.0189,
+        -85.5139
+      ],
+      "continent": "Africa"
+    },
+    "uid": "03f781a0-54de-11ef-b46d-0242ac110007",
+    "hostname": "lighter.biz",
+    "type_id": 12,
+    "subnet": "46.237.0.0/16",
+    "first_seen_time": 1723049799779301,
+    "instance_uid": "03f75c16-54de-11ef-9b8c-0242ac110007",
+    "interface_name": "reason affordable justin",
+    "interface_uid": "03f766b6-54de-11ef-a4f7-0242ac110007",
+    "region": "clips ago nottingham",
+    "vpc_uid": "03f754dc-54de-11ef-9692-0242ac110007"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "innovation silence mug",
+      "version": "1.3.0",
+      "uid": "03f655dc-54de-11ef-8ad6-0242ac110007",
+      "vendor_name": "social kim euro"
+    },
+    "sequence": 12,
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "03f65cee-54de-11ef-ad19-0242ac110007",
+    "log_name": "eve composer physician",
+    "log_provider": "mn hi isolation",
+    "loggers": [
+      {
+        "name": "dev mostly gamecube",
+        "device": {
+          "type": "Load Balancer",
+          "uid": "03f69574-54de-11ef-b865-0242ac110007",
+          "hostname": "mill.mil",
+          "type_id": 15,
+          "boot_time": 1723049799773967,
+          "interface_name": "priority literature scheduled",
+          "interface_uid": "03f689ee-54de-11ef-8f3d-0242ac110007",
+          "region": "clarity in square",
+          "risk_level": "Medium",
+          "risk_level_id": 2,
+          "risk_score": 68,
+          "vpc_uid": "03f67dd2-54de-11ef-a0d4-0242ac110007",
+          "zone": "pros tr beaver"
+        },
+        "product": {
+          "version": "1.3.0",
+          "cpe_name": "lock motivated bye",
+          "vendor_name": "nav congressional door"
+        },
+        "uid": "03f6a37a-54de-11ef-aa30-0242ac110007",
+        "log_name": "ex uv dublin",
+        "log_provider": "stud bonds boating",
+        "logged_time": 1723049799774328
+      }
+    ],
+    "original_time": "filter weighted parenting",
+    "processed_time": 1723049799774341,
+    "tenant_uid": "03f6ab90-54de-11ef-b6db-0242ac110007"
+  },
+  "proxy": {
+    "name": "templates calculate parish",
+    "owner": {
+      "name": "Peer",
+      "type": "User",
+      "uid": "03f810b6-54de-11ef-be90-0242ac110007",
+      "type_id": 1,
+      "account": {
+        "name": "wrong court ivory",
+        "type": "Windows Account",
+        "uid": "03f820c4-54de-11ef-8fe1-0242ac110007",
+        "labels": [
+          "poultry"
+        ],
+        "type_id": 2
+      }
+    },
+    "port": 58149,
+    "type": "Browser",
+    "domain": "absent fist writer",
+    "ip": "146.182.225.36",
+    "uid": "03f82862-54de-11ef-9354-0242ac110007",
+    "hostname": "worship.biz",
+    "type_id": 8,
+    "instance_uid": "03f82f24-54de-11ef-9456-0242ac110007",
+    "interface_name": "learned century tamil",
+    "interface_uid": "03f839ec-54de-11ef-8e58-0242ac110007",
+    "svc_name": "utc adds springfield",
+    "vlan_uid": "03f84360-54de-11ef-bdbd-0242ac110007"
+  },
+  "severity": "Fatal",
+  "type_uid": 401401,
+  "category_name": "Network Activity",
+  "type_name": "Tunnel Activity: Open",
+  "activity_id": 1,
+  "observables": [
+    {
+      "name": "input specifies selections",
+      "type": "Process Name",
+      "type_id": 9
+    },
+    {
+      "name": "proudly towers reduced",
+      "type": "CWE Object: uid",
+      "type_id": 17
+    }
+  ],
+  "class_uid": 4014,
+  "category_uid": 4,
+  "class_name": "Tunnel Activity",
+  "timezone_offset": 48,
+  "activity_name": "Open",
+  "dst_endpoint": {
+    "name": "rounds surge interact",
+    "owner": {
+      "name": "Analysis",
+      "type": "System",
+      "type_id": 3,
+      "ldap_person": {
+        "manager": {
+          "name": "Recommend",
+          "type": "System",
+          "uid": "03f602a8-54de-11ef-9ee2-0242ac110007",
+          "type_id": 3
+        },
+        "leave_time": 1723049799770203
+      },
+      "risk_score": 86
+    },
+    "port": 7272,
+    "type": "Laptop",
+    "ip": "157.104.3.35",
+    "uid": "03f60ece-54de-11ef-a21c-0242ac110007",
+    "hostname": "isle.pro",
+    "type_id": 3,
+    "instance_uid": "03f6196e-54de-11ef-8696-0242ac110007",
+    "interface_name": "describing disturbed realm",
+    "interface_uid": "03f620e4-54de-11ef-a325-0242ac110007",
+    "intermediate_ips": [
+      "171.13.1.187",
+      "131.212.56.139"
+    ],
+    "subnet_uid": "03f62788-54de-11ef-bde6-0242ac110007",
+    "svc_name": "soon voip mats"
+  },
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "ho visit atomic",
+    "owner": {
+      "name": "Bl",
+      "type": "User",
+      "groups": [
+        {
+          "name": "vista dish deeply",
+          "domain": "two enables br",
+          "uid": "03f6da34-54de-11ef-b29b-0242ac110007"
+        },
+        {
+          "name": "solution championship czech",
+          "desc": "insurance lc consultant",
+          "uid": "03f6e330-54de-11ef-ba1f-0242ac110007"
+        }
+      ],
+      "type_id": 1,
+      "credential_uid": "03f6e9ca-54de-11ef-aad2-0242ac110007"
+    },
+    "port": 61116,
+    "type": "Tablet",
+    "ip": "66.11.132.246",
+    "uid": "03f6f03c-54de-11ef-91cd-0242ac110007",
+    "hostname": "flexibility.name",
+    "type_id": 4,
+    "instance_uid": "03f6f74e-54de-11ef-88b2-0242ac110007",
+    "interface_name": "married semi ppm",
+    "interface_uid": "03f6fdfc-54de-11ef-a3b4-0242ac110007",
+    "proxy_endpoint": {
+      "name": "glad fund night",
+      "owner": {
+        "name": "Succeed",
+        "type": "User",
+        "uid": "03f711b6-54de-11ef-aa4b-0242ac110007",
+        "type_id": 1,
+        "risk_level": "Info",
+        "risk_level_id": 0
+      },
+      "port": 29436,
+      "type": "IOT",
+      "ip": "75.173.212.98",
+      "hostname": "vote.biz",
+      "type_id": 7,
+      "hw_info": {
+        "cpu_count": 31
+      },
+      "instance_uid": "03f71fda-54de-11ef-bdef-0242ac110007",
+      "interface_name": "claire median attribute",
+      "interface_uid": "03f7289a-54de-11ef-9c6f-0242ac110007",
+      "svc_name": "ml israeli junior",
+      "vlan_uid": "03f73182-54de-11ef-9734-0242ac110007",
+      "vpc_uid": "03f73a38-54de-11ef-a10d-0242ac110007"
+    },
+    "subnet_uid": "03f74032-54de-11ef-bf0a-0242ac110007",
+    "svc_name": "trap ppc found"
+  },
+  "status_code": "upc",
+  "status_detail": "spot thick reasons",
+  "status_id": 2,
+  "tunnel_interface": {
+    "name": "jpg name adelaide",
+    "type": "Tunnel",
+    "ip": "171.32.225.189",
+    "uid": "03f5a678-54de-11ef-adac-0242ac110007",
+    "hostname": "jamaica.biz",
+    "mac": "BE:5E:D2:CA:D8:2:E4:E8",
+    "type_id": 4,
+    "subnet_prefix": 83
+  },
+  "tunnel_type": "Split Tunnel",
+  "tunnel_type_id": 1
+}

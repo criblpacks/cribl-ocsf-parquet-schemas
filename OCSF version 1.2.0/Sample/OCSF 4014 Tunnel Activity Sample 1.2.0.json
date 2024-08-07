@@ -1,0 +1,245 @@
+{
+  "message": "quotations garage preserve",
+  "status": "Success",
+  "time": 1723049717314206,
+  "user": {
+    "name": "Rpg",
+    "type": "lg",
+    "uid": "d2ced542-54dd-11ef-ae91-0242ac110006",
+    "org": {
+      "name": "referral transparent mlb",
+      "uid": "d2cedf60-54dd-11ef-8a10-0242ac110006",
+      "ou_name": "inherited consortium speech",
+      "ou_uid": "d2cef540-54dd-11ef-97d9-0242ac110006"
+    },
+    "type_id": 99,
+    "ldap_person": {
+      "labels": [
+        "turkey",
+        "paradise"
+      ],
+      "employee_uid": "d2cf0756-54dd-11ef-b770-0242ac110006",
+      "hire_time": 1723049717306356,
+      "office_location": "scale manuals finland"
+    },
+    "risk_level": "shopping interact policies"
+  },
+  "device": {
+    "name": "alaska combination accommodation",
+    "owner": {
+      "name": "Instrumentation",
+      "type": "Unknown",
+      "uid": "d2cfc68c-54dd-11ef-a028-0242ac110006",
+      "org": {
+        "uid": "d2cfd30c-54dd-11ef-9342-0242ac110006",
+        "ou_name": "situation capitol arizona"
+      },
+      "groups": [
+        {
+          "name": "revealed seemed accommodate",
+          "uid": "d2cfdfbe-54dd-11ef-bcec-0242ac110006"
+        },
+        {
+          "name": "bloomberg among enabled",
+          "uid": "d2cfe720-54dd-11ef-8c31-0242ac110006"
+        }
+      ],
+      "type_id": 0,
+      "ldap_person": {
+        "labels": [
+          "addresses",
+          "analysis"
+        ],
+        "created_time": 1723049717312227,
+        "deleted_time": 1723049717312238,
+        "employee_uid": "d2cff3d2-54dd-11ef-85f6-0242ac110006",
+        "job_title": "discounted intl laden",
+        "ldap_dn": "oman thumbzilla marketing",
+        "modified_time": 1723049717312433
+      },
+      "risk_level": "Medium",
+      "risk_level_id": 2
+    },
+    "type": "Server",
+    "os": {
+      "name": "collaborative communicate searched",
+      "type": "iPadOS",
+      "type_id": 302,
+      "sp_name": "applied newsletter yet"
+    },
+    "ip": "206.81.80.145",
+    "uid": "d2cffb52-54dd-11ef-8f30-0242ac110006",
+    "hostname": "therapeutic.int",
+    "groups": [
+      {
+        "name": "tooth voices divorce",
+        "uid": "d2cf7600-54dd-11ef-b52d-0242ac110006"
+      },
+      {
+        "name": "gadgets happening weddings",
+        "uid": "d2cf7cf4-54dd-11ef-9d7d-0242ac110006",
+        "privileges": [
+          "seed guinea automotive",
+          "puts isolated instruction"
+        ]
+      }
+    ],
+    "type_id": 1,
+    "autoscale_uid": "d2cf5a9e-54dd-11ef-b2cb-0242ac110006",
+    "imei": "spin becomes moisture",
+    "instance_uid": "d2cf8aaa-54dd-11ef-9ce1-0242ac110006",
+    "interface_name": "speakers program ls",
+    "interface_uid": "d2cf63cc-54dd-11ef-9e4d-0242ac110006",
+    "risk_level": "Low",
+    "risk_level_id": 1,
+    "vlan_uid": "d2cf6b38-54dd-11ef-a0ac-0242ac110006",
+    "zone": "dispatch improve sail"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "friends surgeons ez",
+      "version": "1.2.0",
+      "path": "burns fda wilson",
+      "lang": "en",
+      "vendor_name": "kg solomon username"
+    },
+    "log_level": "fought assume deals",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "casual worker outlets",
+    "log_provider": "collecting euro funding",
+    "log_version": "proprietary urge looksmart",
+    "tenant_uid": "d2ce8222-54dd-11ef-9ffe-0242ac110006"
+  },
+  "proxy": {
+    "name": "lot bottom magical",
+    "owner": {
+      "type": "monsters",
+      "uid": "d2ce325e-54dd-11ef-8432-0242ac110006",
+      "type_id": 99,
+      "risk_level": "Info",
+      "risk_level_id": 0
+    },
+    "port": 54582,
+    "type": "Switch",
+    "ip": "225.57.85.88",
+    "uid": "d2ce3bbe-54dd-11ef-b163-0242ac110006",
+    "hostname": "tie.info",
+    "mac": "26:A6:52:A0:74:AA:1C:70",
+    "type_id": 10,
+    "instance_uid": "d2ce46cc-54dd-11ef-b75b-0242ac110006",
+    "interface_name": "timeline president impose",
+    "interface_uid": "d2ce64d6-54dd-11ef-b262-0242ac110006",
+    "subnet_uid": "d2ce6ca6-54dd-11ef-8fcc-0242ac110006",
+    "svc_name": "inventory highs interactive"
+  },
+  "severity": "Fatal",
+  "app_name": "animal copyrighted mission",
+  "type_name": "Tunnel Activity: Unknown",
+  "activity_id": 0,
+  "type_uid": 401400,
+  "observables": [
+    {
+      "name": "pen bass bidding",
+      "type": "Uniform Resource Locator",
+      "value": "bryant declare huntington",
+      "type_id": 23
+    },
+    {
+      "name": "plots extras publish",
+      "type": "Hash",
+      "type_id": 8,
+      "reputation": {
+        "base_score": 19.6857,
+        "provider": "triple surface gibson",
+        "score": "Very Safe",
+        "score_id": 1
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4014,
+  "category_uid": 4,
+  "class_name": "Tunnel Activity",
+  "timezone_offset": 4,
+  "activity_name": "Unknown",
+  "dst_endpoint": {
+    "name": "variety fur substantial",
+    "owner": {
+      "name": "Programme",
+      "type": "vegetables",
+      "uid": "d2d05386-54dd-11ef-8dc5-0242ac110006",
+      "type_id": 99,
+      "full_name": "Kandace Guillermina",
+      "ldap_person": {
+        "labels": [
+          "starring"
+        ],
+        "email_addrs": [
+          "Latonya@lion.web",
+          "Loriann@verbal.org"
+        ],
+        "employee_uid": "d2d06682-54dd-11ef-956d-0242ac110006",
+        "last_login_time": 1723049717315347,
+        "ldap_cn": "measurement profiles attack",
+        "leave_time": 1723049717315372
+      }
+    },
+    "port": 15464,
+    "type": "Hub",
+    "ip": "178.112.94.51",
+    "uid": "d2d06e3e-54dd-11ef-8ec6-0242ac110006",
+    "hostname": "retailer.info",
+    "mac": "95:6A:65:97:E:8B:37:CB",
+    "type_id": 11,
+    "autonomous_system": {
+      "name": "mile abs chicken"
+    },
+    "instance_uid": "d2d078de-54dd-11ef-b996-0242ac110006",
+    "intermediate_ips": [
+      "62.231.202.132"
+    ],
+    "svc_name": "jacob handling solve"
+  },
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "increasingly roommate transfer",
+    "owner": {
+      "name": "Stud",
+      "type": "Unknown",
+      "uid": "d2d012cc-54dd-11ef-99dd-0242ac110006",
+      "type_id": 0,
+      "credential_uid": "d2d01948-54dd-11ef-b93c-0242ac110006",
+      "ldap_person": {},
+      "uid_alt": "boxes carry file"
+    },
+    "port": 32620,
+    "type": "Server",
+    "ip": "41.85.48.91",
+    "uid": "d2d02a46-54dd-11ef-aaf4-0242ac110006",
+    "hostname": "canal.web",
+    "type_id": 1,
+    "hw_info": {
+      "cpu_bits": 43,
+      "cpu_speed": 46
+    },
+    "interface_uid": "d2d038e2-54dd-11ef-ac0d-0242ac110006",
+    "svc_name": "math frequent rb"
+  },
+  "status_code": "consumers",
+  "status_detail": "transactions pad outputs",
+  "status_id": 1,
+  "tunnel_interface": {
+    "name": "blogs netscape admitted",
+    "type": "Wired",
+    "ip": "31.86.254.251",
+    "hostname": "suites.nato",
+    "mac": "3A:22:E:D7:F6:12:5D:C1",
+    "namespace": "someone nirvana alternatives",
+    "type_id": 1
+  },
+  "tunnel_type": "Split Tunnel",
+  "tunnel_type_id": 1
+}

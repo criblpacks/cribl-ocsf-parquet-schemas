@@ -1,0 +1,146 @@
+{
+  "count": 84,
+  "message": "boxes sep nn",
+  "status": "escorts",
+  "time": 1723049713970833,
+  "service": {
+    "name": "charger spread things",
+    "version": "1.2.0",
+    "uid": "d0d229ce-54dd-11ef-8e69-0242ac110006"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "version": "1.2.0",
+      "uid": "d0d1509e-54dd-11ef-bc80-0242ac110006",
+      "lang": "en",
+      "url_string": "rare",
+      "vendor_name": "bidding organized furnished"
+    },
+    "sequence": 63,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "needed extending imported",
+    "log_provider": "const ignore gold",
+    "loggers": [
+      {
+        "name": "emerging wondering impact",
+        "device": {
+          "name": "tubes structure wiki",
+          "owner": {
+            "name": "Missile",
+            "org": {
+              "name": "florida peoples mask",
+              "uid": "d0d18a96-54dd-11ef-834d-0242ac110006"
+            },
+            "uid_alt": "vacations skirts airfare"
+          },
+          "type": "Switch",
+          "ip": "193.232.1.213",
+          "hostname": "destroyed.org",
+          "type_id": 10,
+          "first_seen_time": 1723049713966829,
+          "instance_uid": "d0d17c40-54dd-11ef-95f0-0242ac110006",
+          "interface_uid": "d0d173f8-54dd-11ef-9341-0242ac110006",
+          "is_compliant": false,
+          "region": "gourmet humanity coordinates",
+          "subnet_uid": "d0d1931a-54dd-11ef-a049-0242ac110006"
+        },
+        "product": {
+          "name": "waste floyd volt",
+          "version": "1.2.0",
+          "uid": "d0d1ba98-54dd-11ef-9180-0242ac110006",
+          "feature": {
+            "name": "kenya miniature concrete",
+            "version": "1.2.0"
+          },
+          "vendor_name": "filing valium tablets"
+        },
+        "uid": "d0d1c4de-54dd-11ef-b5f2-0242ac110006",
+        "log_name": "fort typical reason",
+        "log_provider": "wm tear optimization"
+      },
+      {
+        "name": "bones beth looksmart",
+        "device": {
+          "name": "cord hr emily",
+          "owner": {
+            "name": "Sisters",
+            "type": "Admin",
+            "type_id": 2,
+            "full_name": "Rachele Phillis",
+            "risk_score": 33,
+            "uid_alt": "reporter mad karaoke"
+          },
+          "type": "Browser",
+          "ip": "104.193.9.67",
+          "uid": "d0d1f062-54dd-11ef-9b30-0242ac110006",
+          "hostname": "painful.aero",
+          "mac": "F8:F2:95:85:78:3D:60:CB",
+          "type_id": 8,
+          "instance_uid": "d0d1e32e-54dd-11ef-a570-0242ac110006",
+          "interface_name": "dx dealers cities",
+          "interface_uid": "d0d1db36-54dd-11ef-811b-0242ac110006",
+          "region": "thick ukraine parade",
+          "subnet_uid": "d0d1f788-54dd-11ef-96ed-0242ac110006"
+        },
+        "product": {
+          "name": "vanilla francisco climb",
+          "version": "1.2.0",
+          "uid": "d0d2023c-54dd-11ef-9021-0242ac110006",
+          "vendor_name": "blow ge hong"
+        },
+        "uid": "d0d20930-54dd-11ef-959f-0242ac110006",
+        "log_name": "est zoloft v",
+        "log_provider": "login portion z",
+        "logged_time": 1723049713970646
+      }
+    ],
+    "original_time": "knives mins piano",
+    "tenant_uid": "d0d2111e-54dd-11ef-b58e-0242ac110006"
+  },
+  "severity": "coast",
+  "duration": 81,
+  "type_name": "Service Query: Unknown",
+  "activity_id": 0,
+  "type_uid": 501600,
+  "observables": [
+    {
+      "name": "adam jobs including",
+      "type": "Registry Key",
+      "type_id": 28
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5016,
+  "category_uid": 5,
+  "class_name": "Service Query",
+  "timezone_offset": 39,
+  "activity_name": "Unknown",
+  "enrichments": [
+    {
+      "data": "turbo",
+      "name": "tea pete franklin",
+      "type": "september coast triangle",
+      "value": "indeed psychiatry weight"
+    },
+    {
+      "data": "banners",
+      "name": "composite surgery evolution",
+      "type": "sec surrounded insurance",
+      "value": "failure listing joel",
+      "provider": "psychology enjoy cruz"
+    }
+  ],
+  "query_info": {
+    "uid": "d0d21f38-54dd-11ef-a3ee-0242ac110006",
+    "query_string": "leader electronic mere"
+  },
+  "query_result": "Unknown",
+  "query_result_id": 0,
+  "severity_id": 99,
+  "status_code": "view",
+  "status_detail": "ci toolbar measured",
+  "status_id": 99
+}

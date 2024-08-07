@@ -1,0 +1,152 @@
+{
+  "message": "infrared minolta belts",
+  "status": "Unknown",
+  "time": 1723049722006007,
+  "device": {
+    "name": "confident dairy entries",
+    "owner": {
+      "name": "Ws",
+      "type": "Admin",
+      "uid": "d59b896e-54dd-11ef-9edc-0242ac110006",
+      "type_id": 2
+    },
+    "type": "Server",
+    "ip": "238.1.11.38",
+    "uid": "d59b90da-54dd-11ef-a9a6-0242ac110006",
+    "hostname": "comply.museum",
+    "mac": "D0:46:1A:9B:5D:2F:D6:A2",
+    "type_id": 1,
+    "instance_uid": "d59b5d04-54dd-11ef-bcc0-0242ac110006",
+    "interface_name": "lowest nothing samoa",
+    "interface_uid": "d59b4d1e-54dd-11ef-bc74-0242ac110006",
+    "modified_time": 1723049722000728,
+    "region": "dice shipped marker",
+    "subnet_uid": "d59b97c4-54dd-11ef-a3b7-0242ac110006",
+    "vlan_uid": "d59b5408-54dd-11ef-a894-0242ac110006"
+  },
+  "kernel": {
+    "name": "ukraine locks obtaining",
+    "type": "Shared Mutex",
+    "type_id": 1
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "alphabetical compatible clay",
+      "version": "1.2.0",
+      "uid": "d59b282a-54dd-11ef-807e-0242ac110006"
+    },
+    "product": {
+      "name": "india join boxes",
+      "version": "1.2.0",
+      "vendor_name": "val highways decline"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "agents none requirements",
+    "log_provider": "chef drilling buddy",
+    "original_time": "magnetic vitamin adverse",
+    "processed_time": 1723049721999746,
+    "tenant_uid": "d59b3824-54dd-11ef-b9ba-0242ac110006"
+  },
+  "severity": "Informational",
+  "type_name": "Kernel Activity: Unknown",
+  "activity_id": 0,
+  "type_uid": 100300,
+  "observables": [
+    {
+      "name": "worse document beads",
+      "type": "HTTP User-Agent",
+      "type_id": 16
+    },
+    {
+      "name": "generation civilian pirates",
+      "type": "Container",
+      "type_id": 27
+    }
+  ],
+  "category_name": "System Activity",
+  "class_uid": 1003,
+  "category_uid": 1,
+  "class_name": "Kernel Activity",
+  "timezone_offset": 54,
+  "end_time": 1723049722005997,
+  "activity_name": "Unknown",
+  "actor": {
+    "process": {
+      "name": "Excitement",
+      "pid": 96,
+      "file": {
+        "name": "environment.lnk",
+        "type": "Block Device",
+        "path": "cleaner edinburgh rankings/orleans.deb/environment.lnk",
+        "product": {
+          "name": "severe merchants songs",
+          "version": "1.2.0",
+          "uid": "d59bb632-54dd-11ef-9c28-0242ac110006",
+          "lang": "en",
+          "url_string": "posts",
+          "vendor_name": "ya chronicles style"
+        },
+        "modifier": {
+          "type": "User",
+          "uid": "d59bc366-54dd-11ef-98fa-0242ac110006",
+          "type_id": 1
+        },
+        "type_id": 4,
+        "parent_folder": "cleaner edinburgh rankings/orleans.deb",
+        "is_system": false
+      },
+      "user": {
+        "name": "General",
+        "domain": "messages hearts perry",
+        "uid": "d59bd84c-54dd-11ef-9349-0242ac110006",
+        "groups": [
+          {
+            "name": "gamma shops purchased",
+            "type": "milton weighted ana",
+            "desc": "none rational collector",
+            "uid": "d59be788-54dd-11ef-91f4-0242ac110006"
+          }
+        ],
+        "full_name": "Mervin Kerry",
+        "credential_uid": "d59bee86-54dd-11ef-930d-0242ac110006",
+        "email_addr": "Hallie@rocky.aero",
+        "risk_level": "fabulous remind grave"
+      },
+      "uid": "d59bf5a2-54dd-11ef-baf0-0242ac110006",
+      "cmd_line": "challenges col collapse",
+      "created_time": 1723049722004848,
+      "integrity": "System",
+      "integrity_id": 5
+    },
+    "user": {
+      "name": "Buzz",
+      "type": "System",
+      "uid": "d59c04ac-54dd-11ef-96f8-0242ac110006",
+      "groups": [
+        {
+          "name": "universities wolf assess",
+          "uid": "d59c0e98-54dd-11ef-8d02-0242ac110006"
+        },
+        {
+          "name": "slope india bl",
+          "uid": "d59c1582-54dd-11ef-876c-0242ac110006",
+          "privileges": [
+            "junction wearing double",
+            "penguin latina arbitrary"
+          ]
+        }
+      ],
+      "type_id": 3,
+      "credential_uid": "d59c1c80-54dd-11ef-819a-0242ac110006",
+      "risk_level": "Critical",
+      "risk_level_id": 4
+    },
+    "app_uid": "d59c22ca-54dd-11ef-92bb-0242ac110006"
+  },
+  "severity_id": 1,
+  "status_detail": "auctions admit donate",
+  "status_id": 0
+}

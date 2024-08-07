@@ -1,0 +1,78 @@
+{
+  "message": "doubt dans semiconductor",
+  "status": "Failure",
+  "time": 1723049786111848,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "ru interviews comedy",
+      "version": "1.3.0",
+      "uid": "fbd1cb2a-54dd-11ef-afd4-0242ac110007",
+      "feature": {
+        "name": "money solomon summer",
+        "version": "1.3.0",
+        "uid": "fbd1d7aa-54dd-11ef-b608-0242ac110007"
+      },
+      "cpe_name": "partially socks integrated",
+      "url_string": "ny",
+      "vendor_name": "introduces frames extending"
+    },
+    "extensions": [
+      {
+        "name": "gregory quickly proteins",
+        "version": "1.3.0",
+        "uid": "fbd1e1fa-54dd-11ef-b151-0242ac110007"
+      }
+    ],
+    "sequence": 64,
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "lauderdale parking disease",
+    "original_time": "nav solve amendment",
+    "tenant_uid": "fbd1e966-54dd-11ef-8d69-0242ac110007"
+  },
+  "severity": "Medium",
+  "type_uid": 501499,
+  "category_name": "Discovery",
+  "type_name": "Peripheral Device Query: Other",
+  "activity_id": 99,
+  "observables": [
+    {
+      "name": "intranet spotlight therapist",
+      "type": "Geo Location",
+      "value": "comparative kick sizes",
+      "type_id": 26
+    },
+    {
+      "name": "accredited tanks ati",
+      "type": "Geo Location",
+      "type_id": 26
+    }
+  ],
+  "class_uid": 5014,
+  "category_uid": 5,
+  "class_name": "Peripheral Device Query",
+  "timezone_offset": 20,
+  "end_time": 1723049786109827,
+  "activity_name": "hills",
+  "peripheral_device": {
+    "name": "goes da charm",
+    "class": "louise arrangements jamie",
+    "uid": "fbd1f83e-54dd-11ef-803e-0242ac110007",
+    "model": "fly tires backgrounds",
+    "serial_number": "gloves inappropriate fri",
+    "vendor_name": "contamination united jeans"
+  },
+  "query_info": {
+    "name": "cam tokyo vietnam",
+    "bytes": 3613143152,
+    "query_string": "sized sage carol"
+  },
+  "query_result": "Unsupported",
+  "query_result_id": 5,
+  "severity_id": 3,
+  "status_code": "exception",
+  "status_detail": "compute catherine slim",
+  "status_id": 2
+}

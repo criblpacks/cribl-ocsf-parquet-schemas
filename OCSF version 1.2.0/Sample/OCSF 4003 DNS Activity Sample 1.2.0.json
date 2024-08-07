@@ -1,0 +1,137 @@
+{
+  "status": "Unknown",
+  "time": 1723049713342276,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "vehicles namespace ix",
+      "version": "1.2.0",
+      "uid": "d0711684-54dd-11ef-b7f2-0242ac110006",
+      "vendor_name": "draw tend birds"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "activation",
+    "log_name": "participating worked offset",
+    "logged_time": 1723049713335368,
+    "modified_time": 1723049713335377,
+    "original_time": "ties difficult northeast",
+    "tenant_uid": "d0713a06-54dd-11ef-8d41-0242ac110006"
+  },
+  "proxy": {
+    "name": "email significant younger",
+    "owner": {
+      "name": "Ver",
+      "type": "removable yea recycling",
+      "domain": "pic christina assignments",
+      "uid": "d0707aee-54dd-11ef-86b4-0242ac110006",
+      "account": {
+        "name": "patent leaves assault",
+        "type": "GCP Account",
+        "uid": "d070a5c8-54dd-11ef-978a-0242ac110006",
+        "type_id": 5
+      },
+      "email_addr": "Maryanne@flush.museum"
+    },
+    "port": 27967,
+    "type": "Switch",
+    "ip": "164.67.189.40",
+    "uid": "d070b072-54dd-11ef-81ac-0242ac110006",
+    "hostname": "nuts.edu",
+    "type_id": 10,
+    "autonomous_system": {
+      "name": "enhancements local creator",
+      "number": 54
+    },
+    "instance_uid": "d070be96-54dd-11ef-8066-0242ac110006",
+    "interface_name": "coverage tm cambodia",
+    "interface_uid": "d070cc74-54dd-11ef-a9d3-0242ac110006",
+    "subnet_uid": "d070d71e-54dd-11ef-8860-0242ac110006",
+    "svc_name": "bikini ll upgrades",
+    "vlan_uid": "d070f492-54dd-11ef-9fea-0242ac110006",
+    "zone": "impaired sticky mix"
+  },
+  "rcode": "BADMODE",
+  "severity": "High",
+  "app_name": "stores within mineral",
+  "type_name": "DNS Activity: Other",
+  "activity_id": 99,
+  "type_uid": 400399,
+  "observables": [
+    {
+      "name": "introduces determines lower",
+      "type": "Endpoint",
+      "value": "lebanon salvador rank",
+      "type_id": 20
+    },
+    {
+      "name": "operation kg ocean",
+      "type": "Email Address",
+      "type_id": 5
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4003,
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "timezone_offset": 11,
+  "activity_name": "pay",
+  "dst_endpoint": {
+    "name": "soldiers responses gambling",
+    "port": 19349,
+    "domain": "headers snowboard additionally",
+    "ip": "50.54.165.211",
+    "uid": "d0723abe-54dd-11ef-ad14-0242ac110006",
+    "hostname": "registry.mobi",
+    "instance_uid": "d07255b2-54dd-11ef-bc10-0242ac110006",
+    "interface_name": "took intelligence disclose",
+    "svc_name": "finished nhs offset"
+  },
+  "query_time": 1723049713334555,
+  "rcode_id": 19,
+  "response_time": 1723049713342250,
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "india troops cc",
+    "owner": {
+      "name": "Sizes",
+      "type": "Unknown",
+      "uid": "d0716076-54dd-11ef-884a-0242ac110006",
+      "org": {
+        "name": "sound flux james",
+        "uid": "d0716b02-54dd-11ef-8ef6-0242ac110006",
+        "ou_name": "scope lowest bears"
+      },
+      "type_id": 0,
+      "risk_score": 17
+    },
+    "port": 1737,
+    "type": "Laptop",
+    "uid": "d0718484-54dd-11ef-b847-0242ac110006",
+    "type_id": 3,
+    "agent_list": [
+      {
+        "name": "facilitate north influences",
+        "type": "Data Loss Prevention",
+        "version": "1.2.0",
+        "uid": "d071cf98-54dd-11ef-8c4e-0242ac110006",
+        "type_id": 2,
+        "policies": [
+          {
+            "name": "acid gays receive",
+            "version": "1.2.0",
+            "uid": "d071dd30-54dd-11ef-8621-0242ac110006"
+          }
+        ]
+      }
+    ],
+    "instance_uid": "d071fb9e-54dd-11ef-b0db-0242ac110006",
+    "interface_name": "computer honors yahoo",
+    "interface_uid": "d0720d6e-54dd-11ef-bce5-0242ac110006",
+    "svc_name": "deep cast transformation"
+  },
+  "status_code": "juvenile",
+  "status_detail": "headset insurance qualify",
+  "status_id": 0
+}

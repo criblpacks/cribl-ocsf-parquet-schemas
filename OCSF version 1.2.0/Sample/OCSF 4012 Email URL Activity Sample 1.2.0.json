@@ -1,0 +1,150 @@
+{
+  "status": "Success",
+  "time": 1723049730901213,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "headlines ups df",
+      "uid": "dae8781e-54dd-11ef-96c0-0242ac110006",
+      "vendor_name": "millions hills unlike"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "typically difficult liz",
+    "log_provider": "rl intervention wire",
+    "loggers": [
+      {
+        "name": "endless swift sheffield",
+        "version": "1.2.0",
+        "device": {
+          "name": "rendered estimation pokemon",
+          "owner": {
+            "name": "Craps",
+            "type": "invitations",
+            "uid": "dae8d03e-54dd-11ef-98ce-0242ac110006",
+            "type_id": 99,
+            "credential_uid": "dae8d6d8-54dd-11ef-90c4-0242ac110006",
+            "ldap_person": {
+              "labels": [
+                "defence",
+                "demonstrate"
+              ],
+              "deleted_time": 1723049730897386,
+              "email_addrs": [
+                "Dovie@actively.museum",
+                "Luisa@african.arpa"
+              ],
+              "employee_uid": "dae8e286-54dd-11ef-ace1-0242ac110006",
+              "given_name": "medical expect clocks",
+              "modified_time": 1723049730897597
+            }
+          },
+          "type": "Desktop",
+          "os": {
+            "name": "dutch maintenance uploaded",
+            "type": "wyoming",
+            "type_id": 99,
+            "cpu_bits": 15
+          },
+          "ip": "199.15.146.157",
+          "uid": "dae8e9de-54dd-11ef-9c75-0242ac110006",
+          "mac": "53:18:DA:76:D1:28:B9:E6",
+          "type_id": 2,
+          "instance_uid": "dae8c4a4-54dd-11ef-b6c8-0242ac110006",
+          "interface_name": "synthesis bargains visit",
+          "interface_uid": "dae8b7ca-54dd-11ef-945f-0242ac110006",
+          "region": "shame est singh"
+        },
+        "product": {
+          "name": "wagon determines cyber",
+          "version": "1.2.0",
+          "path": "notice ability fails",
+          "uid": "dae923f4-54dd-11ef-9ea3-0242ac110006",
+          "feature": {
+            "version": "1.2.0"
+          },
+          "vendor_name": "measures connectors larger"
+        },
+        "uid": "dae92f34-54dd-11ef-b074-0242ac110006",
+        "log_name": "motherboard control rw",
+        "log_provider": "expedia shock hungarian"
+      },
+      {
+        "name": "guest back architect",
+        "device": {
+          "name": "fellowship orientation reconstruction",
+          "type": "Virtual",
+          "os": {
+            "name": "adjustment volunteer grade",
+            "type": "drag",
+            "type_id": 99,
+            "lang": "en"
+          },
+          "domain": "adjustments muze international",
+          "ip": "192.166.245.209",
+          "uid": "dae95c34-54dd-11ef-9a3b-0242ac110006",
+          "hostname": "html.coop",
+          "type_id": 6,
+          "subnet": "27.140.0.0/16",
+          "first_seen_time": 1723049730900235,
+          "instance_uid": "dae95590-54dd-11ef-a25f-0242ac110006",
+          "interface_name": "holder preliminary paper",
+          "interface_uid": "dae948ac-54dd-11ef-bdd2-0242ac110006",
+          "is_compliant": true,
+          "region": "whereas chargers fallen",
+          "zone": "formed educational into"
+        },
+        "uid": "dae962d8-54dd-11ef-b63b-0242ac110006",
+        "log_name": "ag archived donated",
+        "log_provider": "they inside participate",
+        "log_version": "skirts singer alternative"
+      }
+    ],
+    "original_time": "instances interference tr",
+    "tenant_uid": "dae969ea-54dd-11ef-b3e3-0242ac110006"
+  },
+  "severity": "Critical",
+  "url": {
+    "scheme": "teacher kruger dsc",
+    "path": "reject complex whilst",
+    "hostname": "implications.museum",
+    "query_string": "mainland hugh spatial",
+    "categories": [
+      "terms hans computing",
+      "aw accident civil"
+    ],
+    "subdomain": "chat promised proposed",
+    "url_string": "settled"
+  },
+  "type_name": "fatty vertical sections",
+  "type_uid": 1061520710,
+  "observables": [
+    {
+      "name": "vote organize allowed",
+      "type": "File Name",
+      "type_id": 7
+    },
+    {
+      "name": "equality permanent count",
+      "type": "Country",
+      "type_id": 14,
+      "reputation": {
+        "base_score": 57.5624,
+        "provider": "alignment america cottage",
+        "score": "Very Safe",
+        "score_id": 1
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4012,
+  "category_uid": 4,
+  "class_name": "Email URL Activity",
+  "timezone_offset": 10,
+  "email_uid": "dae9702a-54dd-11ef-9bab-0242ac110006",
+  "severity_id": 5,
+  "status_code": "salmon",
+  "status_detail": "pi collectibles jean",
+  "status_id": 1
+}

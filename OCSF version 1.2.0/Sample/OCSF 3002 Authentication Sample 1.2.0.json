@@ -1,0 +1,131 @@
+{
+  "message": "oo recognize dock",
+  "session": {
+    "uid": "e32c2714-54dd-11ef-be06-0242ac110006",
+    "issuer": "foster wiring delivering",
+    "created_time": 1723049744762099,
+    "is_remote": true
+  },
+  "status": "Success",
+  "time": 1723049744757967,
+  "user": {
+    "name": "Replied",
+    "type": "System",
+    "domain": "reg display hits",
+    "type_id": 3,
+    "uid_alt": "gentleman inflation care"
+  },
+  "service": {
+    "name": "throw nokia lawsuit",
+    "version": "1.2.0",
+    "uid": "e32bd9da-54dd-11ef-a29d-0242ac110006"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "mb introduces betting",
+      "version": "1.2.0",
+      "uid": "e32b267a-54dd-11ef-87a6-0242ac110006",
+      "cpe_name": "allergy gmbh employment",
+      "url_string": "sen",
+      "vendor_name": "output local t"
+    },
+    "log_level": "environment hardcover premiere",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "supplier past three",
+    "log_provider": "conventions leaf reserves",
+    "original_time": "spatial kirk minneapolis",
+    "tenant_uid": "e32b8be2-54dd-11ef-a712-0242ac110006"
+  },
+  "severity": "Critical",
+  "certificate": {
+    "version": "1.2.0",
+    "subject": "calendar west diana",
+    "issuer": "concerning strategic researchers",
+    "fingerprints": [
+      {
+        "value": "6803F8881751D43079AD6FB86B2236B2641DADF1F5D387D6595D8584478D308EBF06357880D157A079EFD2901A9CF3318E462323A35666024E365184E2BCE7B9",
+        "algorithm": "TLSH",
+        "algorithm_id": 6
+      },
+      {
+        "value": "0289A24A0C6A816FD932565517EC5DF309767B7EE6827E869985C0992FC2CE142196FD22D8AE0FC65F35CF272699AD357E9E4AE9270034B75018B0C144229972",
+        "algorithm": "SHA-512",
+        "algorithm_id": 4
+      }
+    ],
+    "created_time": 1723049744756565,
+    "expiration_time": 1723049744756575,
+    "serial_number": "lauderdale several seminars"
+  },
+  "type_name": "Authentication: Authentication Ticket",
+  "activity_id": 3,
+  "type_uid": 300203,
+  "category_name": "Identity & Access Management",
+  "class_uid": 3002,
+  "category_uid": 3,
+  "class_name": "Authentication",
+  "timezone_offset": 36,
+  "activity_name": "Authentication Ticket",
+  "auth_protocol": "OpenID",
+  "auth_protocol_id": 4,
+  "dst_endpoint": {
+    "name": "accredited eating folder",
+    "owner": {
+      "name": "Propose",
+      "type": "passion",
+      "uid": "e32bea7e-54dd-11ef-aa39-0242ac110006",
+      "type_id": 99,
+      "account": {
+        "name": "truck currency jim",
+        "type": "nice",
+        "uid": "e32bf5a0-54dd-11ef-946c-0242ac110006",
+        "type_id": 99
+      },
+      "uid_alt": "intersection fighting amazon"
+    },
+    "port": 55097,
+    "type": "Browser",
+    "ip": "14.17.156.204",
+    "uid": "e32bfdac-54dd-11ef-ac6a-0242ac110006",
+    "hostname": "season.com",
+    "type_id": 8,
+    "instance_uid": "e32c0518-54dd-11ef-b4a3-0242ac110006",
+    "interface_name": "bargain plaza welfare",
+    "interface_uid": "e32c0c0c-54dd-11ef-979f-0242ac110006",
+    "intermediate_ips": [
+      "129.98.203.37"
+    ],
+    "svc_name": "aviation vault victor",
+    "vlan_uid": "e32c1328-54dd-11ef-a3ee-0242ac110006",
+    "vpc_uid": "e32c1940-54dd-11ef-b3ac-0242ac110006"
+  },
+  "is_mfa": false,
+  "is_new_logon": true,
+  "logon_type": "Unlock",
+  "logon_type_id": 7,
+  "severity_id": 5,
+  "src_endpoint": {
+    "name": "uzbekistan notified lands",
+    "port": 18750,
+    "type": "Switch",
+    "domain": "cosmetics surrey bold",
+    "ip": "26.244.215.53",
+    "uid": "e32bb658-54dd-11ef-8b25-0242ac110006",
+    "hostname": "sony.museum",
+    "type_id": 10,
+    "autonomous_system": {
+      "name": "always deadly collective"
+    },
+    "instance_uid": "e32bc0b2-54dd-11ef-9073-0242ac110006",
+    "interface_name": "unique consumers analog",
+    "interface_uid": "e32bc7a6-54dd-11ef-9724-0242ac110006",
+    "svc_name": "ranging deferred ms",
+    "vlan_uid": "e32bce90-54dd-11ef-8461-0242ac110006",
+    "zone": "cent classification northwest"
+  },
+  "status_detail": "girls phases accompanying",
+  "status_id": 1
+}

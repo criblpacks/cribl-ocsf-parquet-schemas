@@ -1,0 +1,162 @@
+{
+  "message": "sake indicate wider",
+  "status": "Failure",
+  "time": 1723049720742544,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "annual trying even",
+      "version": "1.2.0",
+      "path": "software formerly forward",
+      "uid": "d4dacf30-54dd-11ef-a194-0242ac110006",
+      "vendor_name": "discovery communist top"
+    },
+    "log_level": "generating respect basis",
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "facial",
+    "log_name": "fisher marina keeping",
+    "log_provider": "grows shades coupons",
+    "tenant_uid": "d4dad7b4-54dd-11ef-aa27-0242ac110006"
+  },
+  "proxy": {
+    "name": "dosage selecting workplace",
+    "owner": {
+      "name": "Individuals",
+      "type": "Unknown",
+      "uid": "d4da71a2-54dd-11ef-9f4a-0242ac110006",
+      "type_id": 0
+    },
+    "type": "Tablet",
+    "os": {
+      "name": "threads programming alive",
+      "type": "Windows",
+      "country": "Sint Maarten (Netherlands)",
+      "type_id": 100,
+      "cpe_name": "downloads slightly liked",
+      "sp_ver": 49
+    },
+    "ip": "233.118.14.151",
+    "uid": "d4da9cf4-54dd-11ef-ad98-0242ac110006",
+    "hostname": "status.int",
+    "type_id": 4,
+    "instance_uid": "d4daa712-54dd-11ef-89b7-0242ac110006",
+    "intermediate_ips": [
+      "182.38.177.23",
+      "128.150.111.167"
+    ],
+    "svc_name": "poker tex stored"
+  },
+  "connection_info": {
+    "boundary": "worry logan strict",
+    "direction": "fairfield",
+    "direction_id": 99,
+    "protocol_num": 85,
+    "tcp_flags": 21
+  },
+  "severity": "Unknown",
+  "duration": 85,
+  "type_name": "SSH Activity: Fail",
+  "activity_id": 4,
+  "type_uid": 400704,
+  "observables": [
+    {
+      "name": "expenditure firmware brass",
+      "type": "Hostname",
+      "type_id": 1
+    },
+    {
+      "name": "wooden bee said",
+      "type": "URL String",
+      "type_id": 6
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4007,
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "timezone_offset": 78,
+  "end_time": 1723049720742532,
+  "activity_name": "Fail",
+  "auth_type": "Public Key",
+  "auth_type_id": 6,
+  "client_hassh": {
+    "fingerprint": {
+      "value": "455A51C0F4B0BEC8CAA3FFCB56364DAC2A25392BF98A8ACA478ABF15728259FC9F825FB52D72BA29FDB12DAA7D8DBC3A96CB5E0E850ED52E7F5AECDBA3D51BD5",
+      "algorithm": "TLSH",
+      "algorithm_id": 6
+    }
+  },
+  "dst_endpoint": {
+    "name": "mortgage enrollment zoom",
+    "owner": {
+      "name": "North",
+      "type": "System",
+      "uid": "d4db7aca-54dd-11ef-88a6-0242ac110006",
+      "groups": [
+        {
+          "name": "foundation extras fy",
+          "desc": "scenario pins av",
+          "uid": "d4db94f6-54dd-11ef-a97e-0242ac110006"
+        }
+      ],
+      "type_id": 3,
+      "uid_alt": "craps spam dvd"
+    },
+    "port": 65333,
+    "type": "Browser",
+    "domain": "corn murphy dot",
+    "uid": "d4db9de8-54dd-11ef-8d59-0242ac110006",
+    "hostname": "israel.jobs",
+    "mac": "13:AF:27:E4:DE:BC:15:AC",
+    "type_id": 8,
+    "instance_uid": "d4dba5fe-54dd-11ef-acc4-0242ac110006",
+    "interface_name": "silence movies retrieved",
+    "interface_uid": "d4dbacca-54dd-11ef-83be-0242ac110006",
+    "svc_name": "screening flex tomato"
+  },
+  "server_hassh": {
+    "algorithm": "strengthening kg false",
+    "fingerprint": {
+      "value": "0C53C95BA3F182D84971A056F423E621FC607DC1FA48FEEEACDFB7219EF3F140850CC9198199D3E251D4E04A085A518D663827C9B769084914233E9D6191682C",
+      "algorithm": "quickXorHash",
+      "algorithm_id": 7
+    }
+  },
+  "severity_id": 0,
+  "src_endpoint": {
+    "name": "vehicles jamaica events",
+    "owner": {
+      "name": "Frontier",
+      "type": "User",
+      "uid": "d4db39d4-54dd-11ef-bfd7-0242ac110006",
+      "type_id": 1,
+      "uid_alt": "links powerseller roles"
+    },
+    "type": "Hub",
+    "os": {
+      "name": "thoroughly soon nervous",
+      "type": "iPadOS",
+      "type_id": 302
+    },
+    "domain": "med advances daisy",
+    "ip": "210.170.17.229",
+    "uid": "d4db479e-54dd-11ef-851d-0242ac110006",
+    "hostname": "occurrence.gov",
+    "type_id": 11,
+    "instance_uid": "d4db4eec-54dd-11ef-a5f3-0242ac110006",
+    "interface_name": "paintball expires seeing",
+    "interface_uid": "d4db55b8-54dd-11ef-976e-0242ac110006",
+    "svc_name": "controlling strikes individuals"
+  },
+  "status_code": "exists",
+  "status_detail": "consequences extreme conclusions",
+  "status_id": 2,
+  "traffic": {
+    "bytes": 2112074544,
+    "chunks_out": 2982673716,
+    "packets": 750410475,
+    "packets_out": 2885837744
+  }
+}

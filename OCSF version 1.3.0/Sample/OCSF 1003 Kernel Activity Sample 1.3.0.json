@@ -1,0 +1,280 @@
+{
+  "message": "terminology chubby modified",
+  "status": "Unknown",
+  "time": 1723049761234196,
+  "device": {
+    "owner": {
+      "name": "Feeling",
+      "type": "eyed",
+      "domain": "chose sisters milton",
+      "uid": "ecfdd3d2-54dd-11ef-978d-0242ac110007",
+      "type_id": 99,
+      "email_addr": "Suzanne@toe.info"
+    },
+    "type": "Server",
+    "uid": "ecfddb70-54dd-11ef-b925-0242ac110007",
+    "hostname": "somalia.pro",
+    "type_id": 1,
+    "instance_uid": "ecfdbc62-54dd-11ef-805e-0242ac110007",
+    "interface_name": "inspiration complicated gore",
+    "interface_uid": "ecfdc4f0-54dd-11ef-b52d-0242ac110007",
+    "is_compliant": false,
+    "is_trusted": true,
+    "network_interfaces": [
+      {
+        "name": "timely academic axis",
+        "type": "Mobile",
+        "hostname": "honda.int",
+        "mac": "A:F8:79:7C:51:91:E9:81",
+        "type_id": 3,
+        "subnet_prefix": 44
+      },
+      {
+        "name": "dem requesting enforcement",
+        "type": "Unknown",
+        "ip": "1.148.89.209",
+        "hostname": "statements.mil",
+        "mac": "A2:B3:E1:55:9D:D0:5A:32",
+        "type_id": 0
+      }
+    ],
+    "region": "windsor strengthening asylum",
+    "risk_level": "revelation",
+    "risk_level_id": 99
+  },
+  "kernel": {
+    "name": "calibration victoria rally",
+    "type": "System Call",
+    "type_id": 2
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "uid": "ecfcb9a2-54dd-11ef-b8d3-0242ac110007",
+      "feature": {
+        "name": "failures trustees april",
+        "version": "1.3.0",
+        "uid": "ecfcc4f6-54dd-11ef-9fdf-0242ac110007"
+      },
+      "vendor_name": "trunk maryland mobile"
+    },
+    "labels": [
+      "campbell",
+      "cabinet"
+    ],
+    "sequence": 15,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "ones slow valuable",
+    "log_provider": "village shanghai remove",
+    "tenant_uid": "ecfccf28-54dd-11ef-98dc-0242ac110007"
+  },
+  "severity": "Critical",
+  "type_uid": 100304,
+  "category_name": "System Activity",
+  "type_name": "Kernel Activity: Invoke",
+  "activity_id": 4,
+  "observables": [
+    {
+      "name": "chip bag simon",
+      "type": "Email Address",
+      "type_id": 5,
+      "reputation": {
+        "base_score": 42.9145,
+        "provider": "camps focal gap",
+        "score": "Safe",
+        "score_id": 2
+      }
+    },
+    {
+      "name": "analytical connect botswana",
+      "type": "Command Line",
+      "type_id": 13
+    }
+  ],
+  "class_uid": 1003,
+  "category_uid": 1,
+  "class_name": "Kernel Activity",
+  "timezone_offset": 43,
+  "activity_name": "Invoke",
+  "actor": {
+    "process": {
+      "name": "Later",
+      "pid": 33,
+      "file": {
+        "name": "attraction.cur",
+        "size": 3559083165,
+        "type": "Symbolic Link",
+        "uid": "ecff4ad2-54dd-11ef-9ede-0242ac110007",
+        "ext": "cruise riding operator",
+        "type_id": 7,
+        "company_name": "Shirl Sonny",
+        "created_time": 1723049761243466,
+        "hashes": [
+          {
+            "value": "93024C444BA85BF4EAE0CF9435B1440B64602CE3EF98DB00C0B4441EC64AA445FA7C01AD98533E5503CD9A2C7D77B8BD2C60FA908FD054680F3C6403B360DBA4",
+            "algorithm": "CTPH",
+            "algorithm_id": 5
+          },
+          {
+            "value": "914805730CCC4B8304C343D537307F3D31A98B6A8F9B66FE9E89332B125C8DE76EF3EE6F6F8425CA61F9B93526072B8E89AB24331A1F1F77D15BCFBB3B646110",
+            "algorithm": "SHA-512",
+            "algorithm_id": 4
+          }
+        ]
+      },
+      "user": {
+        "name": "Wait",
+        "type": "User",
+        "uid": "ecff5f18-54dd-11ef-a313-0242ac110007",
+        "type_id": 1,
+        "full_name": "Margart Virginia",
+        "account": {
+          "name": "drums lesson mastercard",
+          "type": "Azure AD Account",
+          "uid": "ed0175d2-54dd-11ef-bf70-0242ac110007",
+          "type_id": 6
+        },
+        "risk_level": "Info",
+        "risk_level_id": 0
+      },
+      "uid": "ed0186c6-54dd-11ef-99f7-0242ac110007",
+      "cmd_line": "rom fifty breath",
+      "created_time": 1723049761258104,
+      "integrity": "Protected",
+      "integrity_id": 6,
+      "parent_process": {
+        "name": "Departments",
+        "pid": 28,
+        "session": {
+          "uid": "ed019dbe-54dd-11ef-972c-0242ac110007",
+          "issuer": "wn instructional packs",
+          "created_time": 1723049761258672,
+          "is_mfa": false,
+          "is_remote": false,
+          "uid_alt": "commit neighbor thousands"
+        },
+        "file": {
+          "attributes": 63,
+          "name": "souls.pl",
+          "type": "Symbolic Link",
+          "path": "diana dod sticks/brochure.bak/souls.pl",
+          "modifier": {
+            "name": "Acids",
+            "type": "Unknown",
+            "uid": "ed01d45a-54dd-11ef-98b1-0242ac110007",
+            "groups": [
+              {
+                "name": "relates nature iii",
+                "uid": "ed01dffe-54dd-11ef-bb95-0242ac110007"
+              },
+              {
+                "name": "trek turning opinion",
+                "uid": "ed01ff48-54dd-11ef-8970-0242ac110007"
+              }
+            ],
+            "type_id": 0,
+            "risk_score": 4,
+            "uid_alt": "wax thong sh"
+          },
+          "desc": "exhaust chicken accommodations",
+          "type_id": 7,
+          "parent_folder": "diana dod sticks/brochure.bak",
+          "hashes": [
+            {
+              "value": "4FFDE4F8CFB17F49FC61A16CAD62844B607E21550CA6DDC390270C5C5B39FF186F89CF8950B4F7ADA4ACA46B7AF80B10336C433C4A262ABD4BCA925043DFE7E9",
+              "algorithm": "Unknown",
+              "algorithm_id": 0
+            }
+          ]
+        },
+        "user": {
+          "name": "Marco",
+          "type": "System",
+          "domain": "raleigh drag mechanics",
+          "uid": "ed029c6e-54dd-11ef-a5e7-0242ac110007",
+          "type_id": 3,
+          "ldap_person": {
+            "created_time": 1723049761265322,
+            "office_location": "lan ticket lookup"
+          }
+        },
+        "uid": "ed02abbe-54dd-11ef-8920-0242ac110007",
+        "loaded_modules": [
+          "/transportation/oscar/vintage/skins/arrangement.indd"
+        ],
+        "created_time": 1723049761265612,
+        "parent_process": {
+          "name": "Awarded",
+          "pid": 96,
+          "file": {
+            "name": "aid.gz",
+            "type": "Block Device",
+            "path": "gun enhancements farm/relative.sh/aid.gz",
+            "product": {
+              "name": "supply thermal about",
+              "version": "1.3.0",
+              "uid": "ed02ca54-54dd-11ef-9404-0242ac110007",
+              "lang": "en",
+              "vendor_name": "bizrate quote hits"
+            },
+            "uid": "ed043fec-54dd-11ef-b777-0242ac110007",
+            "ext": "suggests boring miles",
+            "type_id": 4,
+            "parent_folder": "gun enhancements farm/relative.sh",
+            "accessed_time": 1723049761277199,
+            "confidentiality": "Private",
+            "confidentiality_id": 5,
+            "hashes": [
+              {
+                "value": "11F5672E0E0C779F51DE850C5C5C75A646BC18159082B8F15BF98BAA9F2158AAE54C7461092253A01F8678A8206EB31EF53400369AB0DC599E7C9ACE9D66118B",
+                "algorithm": "CTPH",
+                "algorithm_id": 5
+              }
+            ],
+            "security_descriptor": "suffering suites yrs"
+          },
+          "user": {
+            "name": "Zus",
+            "type": "System",
+            "uid": "ed048830-54dd-11ef-97fd-0242ac110007",
+            "type_id": 3,
+            "account": {
+              "name": "bright quote conflicts",
+              "type": "Windows Account",
+              "uid": "ed052bf0-54dd-11ef-aa8a-0242ac110007",
+              "type_id": 2
+            },
+            "email_addr": "Avril@warcraft.org",
+            "risk_level": "cab characteristic beds",
+            "uid_alt": "parents ist beautiful"
+          },
+          "tid": 98,
+          "uid": "ed058a82-54dd-11ef-be25-0242ac110007",
+          "cmd_line": "viewpicture gilbert sd",
+          "integrity": "posts",
+          "integrity_id": 99
+        },
+        "sandbox": "scanner exclusively perspective",
+        "xattributes": {}
+      }
+    },
+    "user": {
+      "name": "Birthday",
+      "type": "Admin",
+      "uid": "ed05a472-54dd-11ef-a939-0242ac110007",
+      "type_id": 2,
+      "account": {
+        "name": "overhead vhs lifestyle",
+        "type": "Unknown",
+        "uid": "ed07705e-54dd-11ef-83a9-0242ac110007",
+        "type_id": 0
+      }
+    }
+  },
+  "severity_id": 5,
+  "status_code": "forum",
+  "status_detail": "fundamentals interest letting",
+  "status_id": 0
+}

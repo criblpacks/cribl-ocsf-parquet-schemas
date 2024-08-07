@@ -1,0 +1,146 @@
+{
+  "message": "economic replication pt",
+  "status": "Unsupported",
+  "time": 1723049795392866,
+  "file": {
+    "attributes": 32,
+    "name": "tourism.exe",
+    "owner": {
+      "type": "classroom mali pal",
+      "uid": "01595f72-54de-11ef-b098-0242ac110007",
+      "org": {
+        "name": "episode reservation assists",
+        "uid": "01596954-54de-11ef-b0eb-0242ac110007",
+        "ou_name": "tattoo chocolate recall"
+      },
+      "ldap_person": {
+        "location": {
+          "desc": "Disputed Territory",
+          "city": "Prophet lending",
+          "country": "XX",
+          "coordinates": [
+            85.1735,
+            -31.5234
+          ],
+          "continent": "Oceania"
+        },
+        "manager": {
+          "name": "Nose",
+          "type": "fly",
+          "type_id": 99
+        },
+        "employee_uid": "01597f0c-54de-11ef-b86f-0242ac110007",
+        "hire_time": 1723049795389012,
+        "ldap_dn": "pole legally telephone",
+        "surname": "mexican push insured"
+      },
+      "risk_level": "Info",
+      "risk_level_id": 0,
+      "uid_alt": "brakes payroll coal"
+    },
+    "type": "Local Socket",
+    "version": "1.3.0",
+    "path": "county forestry enforcement/boxed.xml/tourism.exe",
+    "ext": "auction sent perhaps",
+    "type_id": 5,
+    "accessor": {
+      "name": "Winning",
+      "type": "wall",
+      "uid": "0159bbd4-54de-11ef-8aad-0242ac110007",
+      "type_id": 99,
+      "full_name": "Milton Vera",
+      "risk_level": "Critical",
+      "risk_level_id": 4
+    },
+    "parent_folder": "county forestry enforcement/boxed.xml",
+    "hashes": [
+      {
+        "value": "AB97542E73D2CA454912ABFF83137D238C44C9EB6F6557763D18C051FF572EA8",
+        "algorithm": "SHA-256",
+        "algorithm_id": 3
+      },
+      {
+        "value": "D7AA07FDF70490D4E9B5558C8EC6B42DE24ADE13AA44AE91C06A6761EAD85B5AA07525B3F54A73DD752FACE104101A2602ABAC3DA521FA3FFB051B5B50F220B2",
+        "algorithm": "quickXorHash",
+        "algorithm_id": 7
+      }
+    ],
+    "is_system": true,
+    "xattributes": {}
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "lived hewlett line",
+      "version": "1.3.0",
+      "path": "aud portfolio dimensional",
+      "uid": "0159df10-54de-11ef-a71d-0242ac110007",
+      "url_string": "trim",
+      "vendor_name": "textbooks prev origins"
+    },
+    "extensions": [
+      {
+        "name": "shot complications mild",
+        "version": "1.3.0",
+        "uid": "0159f478-54de-11ef-8b43-0242ac110007"
+      },
+      {
+        "name": "karaoke panels variation",
+        "version": "1.3.0",
+        "uid": "015a0224-54de-11ef-85c6-0242ac110007"
+      }
+    ],
+    "sequence": 25,
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "penetration portuguese sri",
+    "original_time": "cheapest rb am",
+    "tenant_uid": "015a1318-54de-11ef-863b-0242ac110007"
+  },
+  "severity": "Low",
+  "type_uid": 700203,
+  "category_name": "Remediation",
+  "type_name": "File Remediation Activity: Restore",
+  "activity_id": 3,
+  "observables": [
+    {
+      "name": "addressed reflection tub",
+      "type": "civilian",
+      "value": "derek mon advocate",
+      "type_id": 99
+    }
+  ],
+  "class_uid": 7002,
+  "category_uid": 7,
+  "class_name": "File Remediation Activity",
+  "timezone_offset": 65,
+  "activity_name": "Restore",
+  "command_uid": "015a3f46-54de-11ef-a371-0242ac110007",
+  "countermeasures": [
+    {
+      "version": "1.3.0",
+      "d3f_tactic": {
+        "uid": "015a2178-54de-11ef-81a1-0242ac110007"
+      },
+      "d3f_technique": {
+        "name": "iran patient carmen",
+        "uid": "015a2ba0-54de-11ef-a890-0242ac110007",
+        "src_url": "cameroon"
+      }
+    },
+    {
+      "version": "1.3.0",
+      "d3f_tactic": {
+        "name": "very henderson insights"
+      },
+      "d3f_technique": {
+        "name": "compete dish gossip",
+        "uid": "015a3834-54de-11ef-8c3c-0242ac110007"
+      }
+    }
+  ],
+  "severity_id": 2,
+  "status_detail": "pda contained aims",
+  "status_id": 5
+}

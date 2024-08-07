@@ -1,0 +1,131 @@
+{
+  "message": "magic paying feedback",
+  "status": "Failure",
+  "time": 1723049718675202,
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "woman button rankings",
+      "version": "1.2.0",
+      "uid": "d39f48ee-54dd-11ef-b4b5-0242ac110006"
+    },
+    "product": {
+      "version": "1.2.0",
+      "uid": "d39f59a6-54dd-11ef-b4d0-0242ac110006",
+      "lang": "en",
+      "vendor_name": "variety unlikely announcements"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "observer rivers consider",
+    "log_provider": "abstracts meetings switched",
+    "log_version": "abilities preventing goto",
+    "original_time": "kills values policy",
+    "processed_time": 1723049718671746,
+    "tenant_uid": "d39f6798-54dd-11ef-8be6-0242ac110006"
+  },
+  "start_time": 1723049718670628,
+  "severity": "Medium",
+  "banner": "commander blackjack piano",
+  "email": {
+    "size": 771829281,
+    "uid": "d39f11b2-54dd-11ef-8357-0242ac110006",
+    "from": "Krissy@pdf.arpa",
+    "cc": [
+      "Digna@reducing.int",
+      "Deandre@yr.org"
+    ],
+    "to": [
+      "Alta@conversion.int",
+      "Bambi@notifications.web"
+    ],
+    "message_uid": "d39f2be8-54dd-11ef-9b98-0242ac110006",
+    "raw_header": "success pp closed",
+    "reply_to": "Josue@bikini.pro",
+    "smtp_to": [
+      "Melda@quiet.cat"
+    ]
+  },
+  "direction": "Internal",
+  "type_uid": 1700570807,
+  "observables": [
+    {
+      "name": "fraud sudden models",
+      "type": "MAC Address",
+      "type_id": 3
+    },
+    {
+      "name": "heart talent cooperative",
+      "type": "Uniform Resource Locator",
+      "type_id": 23
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4009,
+  "category_uid": 4,
+  "class_name": "Email Activity",
+  "timezone_offset": 51,
+  "activity_name": "attributes drink ham",
+  "direction_id": 3,
+  "dst_endpoint": {
+    "name": "hollow contemporary reflected",
+    "port": 52951,
+    "type": "IOT",
+    "ip": "214.138.0.13",
+    "uid": "d3a00130-54dd-11ef-b17c-0242ac110006",
+    "hostname": "firewall.jobs",
+    "type_id": 7,
+    "agent_list": [
+      {
+        "name": "secretary lee howard",
+        "type": "Remote Access",
+        "uid": "d3a0199a-54dd-11ef-bbc7-0242ac110006",
+        "type_id": 9,
+        "uid_alt": "career ranging recruiting"
+      }
+    ],
+    "autonomous_system": {
+      "name": "grown nicholas rca",
+      "number": 82
+    },
+    "interface_name": "corp supplies rpm",
+    "subnet_uid": "d3a02e6c-54dd-11ef-854a-0242ac110006",
+    "svc_name": "limits plant solved",
+    "vpc_uid": "d3a03efc-54dd-11ef-961c-0242ac110006",
+    "zone": "notebooks azerbaijan sustained"
+  },
+  "email_auth": {
+    "spf": "jobs struggle slovak",
+    "dkim": "mixed where subsidiaries",
+    "dkim_domain": "tgp affecting realty",
+    "dkim_signature": "explorer twenty coaches",
+    "dmarc": "textbooks ticket beads",
+    "dmarc_override": "becoming passport cohen",
+    "dmarc_policy": "www collected monitors"
+  },
+  "severity_id": 3,
+  "smtp_hello": "diagram deviant experimental",
+  "src_endpoint": {
+    "name": "wifi registered discussing",
+    "owner": {
+      "name": "Reprints",
+      "domain": "r recreational thunder",
+      "uid": "d39fc274-54dd-11ef-b714-0242ac110006",
+      "uid_alt": "stating reactions hazards"
+    },
+    "port": 50748,
+    "uid": "d39fcdaa-54dd-11ef-9863-0242ac110006",
+    "hostname": "speakers.mil",
+    "instance_uid": "d39fd840-54dd-11ef-97de-0242ac110006",
+    "interface_name": "contributor second penn",
+    "interface_uid": "d39fe2ae-54dd-11ef-a2ce-0242ac110006",
+    "intermediate_ips": [
+      "87.81.100.211"
+    ],
+    "svc_name": "seller bit honduras",
+    "zone": "needed italia garden"
+  },
+  "status_code": "dome",
+  "status_id": 2
+}

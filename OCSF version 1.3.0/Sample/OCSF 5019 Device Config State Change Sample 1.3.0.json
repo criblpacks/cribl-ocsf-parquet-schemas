@@ -1,0 +1,112 @@
+{
+  "message": "rent airport again",
+  "status": "Failure",
+  "time": 1723049764003899,
+  "state": "Disabled",
+  "device": {
+    "owner": {
+      "type": "Unknown",
+      "uid": "eea4652a-54dd-11ef-8cbe-0242ac110007",
+      "type_id": 0,
+      "risk_score": 52,
+      "uid_alt": "acne kb holder"
+    },
+    "type": "Desktop",
+    "uid": "eea47d62-54dd-11ef-886a-0242ac110007",
+    "hostname": "comparison.museum",
+    "type_id": 2,
+    "agent_list": [
+      {
+        "name": "barnes threatened technologies",
+        "type": "Performance Monitoring & Observability",
+        "type_id": 4,
+        "uid_alt": "tribes inches premium"
+      },
+      {
+        "type": "Backup & Recovery",
+        "uid": "eea3a608-54dd-11ef-ad0f-0242ac110007",
+        "type_id": 3,
+        "uid_alt": "president ba fancy"
+      }
+    ],
+    "hypervisor": "draw aviation imported",
+    "imei": "doe photography automobile",
+    "instance_uid": "eea3956e-54dd-11ef-ae66-0242ac110007",
+    "interface_name": "textbooks speech skiing",
+    "interface_uid": "eea40d3c-54dd-11ef-b2ba-0242ac110007",
+    "is_compliant": false
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "button struggle capture",
+      "version": "1.3.0",
+      "uid": "eea31422-54dd-11ef-a16f-0242ac110007",
+      "url_string": "theorem",
+      "vendor_name": "zoom al import"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "fake",
+    "log_name": "friendship diet pictures",
+    "log_provider": "ns pork magnitude",
+    "logged_time": 1723049763994728,
+    "modified_time": 1723049763994742,
+    "original_time": "faculty cf mean",
+    "tenant_uid": "eea33d58-54dd-11ef-b364-0242ac110007"
+  },
+  "severity": "Informational",
+  "type_uid": 501901,
+  "category_name": "Discovery",
+  "type_name": "Device Config State Change: Log",
+  "activity_id": 1,
+  "observables": [
+    {
+      "name": "duo critical corn",
+      "type": "File",
+      "type_id": 24
+    },
+    {
+      "name": "respective savings scott",
+      "type": "Subnet",
+      "type_id": 12
+    }
+  ],
+  "class_uid": 5019,
+  "category_uid": 5,
+  "class_name": "Device Config State Change",
+  "timezone_offset": 51,
+  "activity_name": "Log",
+  "actor": {
+    "user": {
+      "name": "Blame",
+      "uid": "eea49504-54dd-11ef-ad24-0242ac110007",
+      "credential_uid": "eea49978-54dd-11ef-ad02-0242ac110007",
+      "email_addr": "Marlin@dating.coop",
+      "risk_level": "samuel scoring belle"
+    }
+  },
+  "prev_security_level": "Unknown",
+  "prev_security_level_id": 0,
+  "prev_security_states": [
+    {},
+    {
+      "state": "OTA updates disabled",
+      "state_id": 20
+    }
+  ],
+  "security_level": "lower",
+  "security_level_id": 99,
+  "security_states": [
+    {
+      "state": "Policy mismatch",
+      "state_id": 2
+    }
+  ],
+  "severity_id": 1,
+  "state_id": 1,
+  "status_code": "potter",
+  "status_detail": "timing clinton syracuse",
+  "status_id": 2
+}

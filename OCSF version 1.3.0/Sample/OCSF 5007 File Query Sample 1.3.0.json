@@ -1,0 +1,98 @@
+{
+  "count": 7,
+  "message": "bk brooks continuing",
+  "status": "discussing",
+  "time": 1723049792954524,
+  "file": {
+    "attributes": 22,
+    "name": "store.deb",
+    "type": "Regular File",
+    "path": "twelve navigation concentration/attempted.msi/store.deb",
+    "signature": {
+      "certificate": {
+        "uid": "ffe590c0-54dd-11ef-b607-0242ac110007",
+        "is_self_signed": true,
+        "subject": "bandwidth subsidiary parking",
+        "issuer": "governmental locally stunning",
+        "fingerprints": [
+          {
+            "value": "10FE82ADB964FA73C3C60BE251181C421193F56AE01BA671974D82365A08A410",
+            "algorithm": "SHA-256",
+            "algorithm_id": 3
+          },
+          {
+            "value": "F2F589129B8EDD9EA84FB3F77FD9C64B9053F671",
+            "algorithm": "SHA-1",
+            "algorithm_id": 2
+          }
+        ],
+        "created_time": 1723049792951643,
+        "expiration_time": 1723049792951654,
+        "serial_number": "headset cabin matching"
+      },
+      "algorithm": "DSA",
+      "algorithm_id": 1
+    },
+    "uid": "ffe59dcc-54dd-11ef-9444-0242ac110007",
+    "ext": "ribbon bad resistance",
+    "type_id": 1,
+    "accessor": {
+      "name": "Whilst",
+      "type": "User",
+      "uid": "ffe5ae52-54dd-11ef-b431-0242ac110007",
+      "type_id": 1,
+      "full_name": "Jeanna Annamae",
+      "credential_uid": "ffe5b690-54dd-11ef-a4ac-0242ac110007"
+    },
+    "company_name": "Lynsey King",
+    "parent_folder": "twelve navigation concentration/attempted.msi",
+    "hashes": [
+      {
+        "value": "8CC2CD79785B73D701B8101328E262205CC6FD36DBA13F07936CCE15FB6408C8",
+        "algorithm": "SHA-256",
+        "algorithm_id": 3
+      }
+    ],
+    "security_descriptor": "independence prisoners choices"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "locator battlefield journalists",
+      "version": "1.3.0",
+      "uid": "ffe5fa7e-54dd-11ef-951c-0242ac110007",
+      "cpe_name": "ui experience peterson",
+      "vendor_name": "greek attractions fitness"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "advantage sims reed",
+    "log_provider": "chain influence kodak",
+    "log_version": "feeling force rising",
+    "logged_time": 1723049792954308,
+    "original_time": "teaching compiler sum",
+    "tenant_uid": "ffe604d8-54dd-11ef-bae3-0242ac110007"
+  },
+  "severity": "Medium",
+  "type_uid": 500700,
+  "category_name": "Discovery",
+  "type_name": "File Query: Unknown",
+  "activity_id": 0,
+  "class_uid": 5007,
+  "category_uid": 5,
+  "class_name": "File Query",
+  "timezone_offset": 4,
+  "activity_name": "Unknown",
+  "query_info": {
+    "data": "investment",
+    "uid": "ffe5c6a8-54dd-11ef-a20d-0242ac110007",
+    "query_string": "track odds typical"
+  },
+  "query_result": "clock",
+  "query_result_id": 99,
+  "severity_id": 3,
+  "status_code": "portal",
+  "status_detail": "terror model repository",
+  "status_id": 99
+}

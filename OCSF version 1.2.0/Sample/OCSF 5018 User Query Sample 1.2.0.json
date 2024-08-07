@@ -1,0 +1,67 @@
+{
+  "message": "strike lottery admissions",
+  "status": "battery",
+  "time": 1723049722616852,
+  "user": {
+    "name": "Assign",
+    "type": "Unknown",
+    "uid": "d5f957c4-54dd-11ef-b4ad-0242ac110006",
+    "type_id": 0
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "espn measure invention",
+      "version": "1.2.0",
+      "uid": "d5f91d0e-54dd-11ef-9509-0242ac110006",
+      "vendor_name": "exempt finest scores"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "sample",
+    "log_name": "supplements unlike russian",
+    "log_provider": "true planned terrain",
+    "original_time": "weak refined bend",
+    "tenant_uid": "d5f9487e-54dd-11ef-93cc-0242ac110006"
+  },
+  "severity": "disputes",
+  "type_name": "User Query: Other",
+  "activity_id": 99,
+  "type_uid": 501899,
+  "observables": [
+    {
+      "name": "seven leo md",
+      "type": "IP Address",
+      "type_id": 2,
+      "reputation": {
+        "base_score": 85.9392,
+        "provider": "apply can accident",
+        "score": "Leans Safe",
+        "score_id": 4
+      }
+    },
+    {
+      "name": "io recommended matter",
+      "type": "Hostname",
+      "type_id": 1
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5018,
+  "category_uid": 5,
+  "class_name": "User Query",
+  "timezone_offset": 51,
+  "activity_name": "bone",
+  "query_info": {
+    "name": "duplicate federal united",
+    "uid": "d5f96502-54dd-11ef-8507-0242ac110006",
+    "query_string": "monaco structured fu"
+  },
+  "query_result": "recommends",
+  "query_result_id": 99,
+  "severity_id": 99,
+  "status_code": "administrator",
+  "status_detail": "sunshine rapidly produces",
+  "status_id": 99
+}

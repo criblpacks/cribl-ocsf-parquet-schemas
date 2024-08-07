@@ -1,0 +1,133 @@
+{
+  "message": "turning bother isp",
+  "status": "mac",
+  "time": 1723049766485604,
+  "user": {
+    "name": "Const",
+    "domain": "hanging official myrtle"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "championships bandwidth reports",
+      "version": "1.3.0",
+      "uid": "f01e13ba-54dd-11ef-b041-0242ac110007",
+      "vendor_name": "field determine flashers"
+    },
+    "labels": [
+      "knew",
+      "rv"
+    ],
+    "log_level": "parent ones chi",
+    "sequence": 67,
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "f01e215c-54dd-11ef-a3ea-0242ac110007",
+    "log_provider": "crazy inspector rpm",
+    "log_version": "tier sorted dryer",
+    "logged_time": 1723049766478784,
+    "loggers": [
+      {
+        "name": "legislative partners forming",
+        "device": {
+          "name": "psychology sum audience",
+          "owner": {
+            "type": "System",
+            "uid": "f01ec4ea-54dd-11ef-8415-0242ac110007",
+            "type_id": 3,
+            "email_addr": "Lamar@aqua.arpa",
+            "ldap_person": {
+              "manager": {
+                "name": "Clicking",
+                "type": "Admin",
+                "uid": "f01ed872-54dd-11ef-912a-0242ac110007",
+                "org": {
+                  "name": "hungary income ns",
+                  "uid": "f01ee2c2-54dd-11ef-822b-0242ac110007",
+                  "ou_name": "its vertex counting"
+                },
+                "type_id": 2,
+                "full_name": "Frankie Elly",
+                "credential_uid": "f01eeed4-54dd-11ef-b490-0242ac110007",
+                "email_addr": "Mika@generators.name"
+              },
+              "cost_center": "occasional burning movement",
+              "leave_time": 1723049766483984
+            }
+          },
+          "type": "Switch",
+          "uid": "f01ef794-54dd-11ef-bbfb-0242ac110007",
+          "hostname": "levels.cat",
+          "groups": [
+            {
+              "name": "strongly lip forgot",
+              "uid": "f01e668a-54dd-11ef-81b4-0242ac110007"
+            }
+          ],
+          "type_id": 10,
+          "agent_list": [
+            {
+              "name": "achievement foto exhibit",
+              "type": "Configuration Management",
+              "uid": "f01e713e-54dd-11ef-8f31-0242ac110007",
+              "type_id": 8
+            }
+          ],
+          "hw_info": {
+            "bios_date": "apparent worldcat icon",
+            "bios_manufacturer": "membrane relative protein",
+            "bios_ver": "2",
+            "chassis": "hwy voices literary",
+            "cpu_speed": 59
+          },
+          "hypervisor": "nursery nor endif",
+          "imei": "indexes rugby shopper",
+          "instance_uid": "f01e49fc-54dd-11ef-bbe4-0242ac110007",
+          "interface_name": "catch forge away",
+          "interface_uid": "f01e7cd8-54dd-11ef-88b3-0242ac110007",
+          "region": "nigeria simpsons blues",
+          "risk_level": "office opponents insight"
+        },
+        "product": {
+          "version": "1.3.0",
+          "uid": "f01f043c-54dd-11ef-b519-0242ac110007",
+          "lang": "en",
+          "vendor_name": "boundaries force patches"
+        },
+        "uid": "f01f1e2c-54dd-11ef-a5f2-0242ac110007",
+        "log_name": "com ide become",
+        "log_version": "naughty accommodations after",
+        "logged_time": 1723049766485183
+      }
+    ],
+    "tenant_uid": "f01f2642-54dd-11ef-a183-0242ac110007"
+  },
+  "severity": "neck",
+  "type_uid": 500301,
+  "category_name": "Discovery",
+  "type_name": "User Inventory Info: Log",
+  "activity_id": 1,
+  "observables": [
+    {
+      "name": "webcast rescue basic",
+      "type": "kentucky",
+      "value": "comment let checkout",
+      "type_id": 99
+    },
+    {
+      "name": "factor cs tampa",
+      "type": "User Name",
+      "type_id": 4
+    }
+  ],
+  "class_uid": 5003,
+  "category_uid": 5,
+  "class_name": "User Inventory Info",
+  "timezone_offset": 0,
+  "activity_name": "Log",
+  "severity_id": 99,
+  "status_code": "select",
+  "status_detail": "du hydrogen listen",
+  "status_id": 99
+}

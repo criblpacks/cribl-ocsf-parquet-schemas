@@ -1,0 +1,451 @@
+{
+  "status": "foster",
+  "type": "derek hk debug",
+  "time": 1723049798869477,
+  "file": {
+    "name": "mo.dem",
+    "size": 2078915518,
+    "type": "Unknown",
+    "path": "certain vt sell/copy.ppt/mo.dem",
+    "signature": {
+      "certificate": {
+        "version": "1.3.0",
+        "is_self_signed": true,
+        "subject": "dawn appointments participation",
+        "issuer": "controller dust headed",
+        "fingerprints": [
+          {
+            "value": "5EEC8E1CABA298AF9CB3BA60CF956C4F98EA2D1F",
+            "algorithm": "SHA-1",
+            "algorithm_id": 2
+          },
+          {
+            "value": "80A346634E5CD09AAFC3C417ABCE0C6A156B40EBB910123FAC486DC6197D24EC4C575301A8CC06D58FBAEEAE6F40E42B6D84FDA6996E06EE2F68282EA73FDA93",
+            "algorithm": "SHA-512",
+            "algorithm_id": 4
+          }
+        ],
+        "created_time": 1723049798853286,
+        "serial_number": "larger rank affiliated"
+      },
+      "algorithm": "DSA",
+      "algorithm_id": 1
+    },
+    "ext": "award annotation aj",
+    "type_id": 0,
+    "mime_type": "speed/lasting",
+    "parent_folder": "certain vt sell/copy.ppt",
+    "confidentiality": "Unknown",
+    "confidentiality_id": 0,
+    "created_time": 1723049798853328,
+    "hashes": [
+      {
+        "value": "80537D65D479A2F986A78E859CC2BCAAF6A62F6DF7A6BA2C5DD192CFCB2FF790",
+        "algorithm": "SHA-256",
+        "algorithm_id": 3
+      },
+      {
+        "value": "ACBB77435D3B2DC2C5B600A292F94C0A703686B833119FF0366B1152453A5621",
+        "algorithm": "SHA-256",
+        "algorithm_id": 3
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "version": "1.3.0",
+      "path": "resistance blake obtaining",
+      "uid": "036a86c4-54de-11ef-9a10-0242ac110007",
+      "url_string": "flush",
+      "vendor_name": "japan notices confirm"
+    },
+    "extensions": [
+      {
+        "name": "earn a lcd",
+        "version": "1.3.0",
+        "uid": "036a9060-54de-11ef-8be3-0242ac110007"
+      },
+      {
+        "name": "teach kit lock",
+        "version": "1.3.0",
+        "uid": "036a9768-54de-11ef-9a5c-0242ac110007"
+      }
+    ],
+    "log_level": "luxembourg recognition heroes",
+    "sequence": 19,
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "036a9dbc-54de-11ef-846c-0242ac110007",
+    "log_name": "dutch musician gregory",
+    "log_provider": "argued headset maintained",
+    "logged_time": 1723049798856671,
+    "loggers": [
+      {
+        "name": "side golf matching",
+        "device": {
+          "owner": {
+            "name": "Tops",
+            "type": "User",
+            "uid": "036aed6c-54de-11ef-9efc-0242ac110007",
+            "type_id": 1,
+            "account": {
+              "name": "holdem emphasis mo",
+              "type": "LDAP Account",
+              "uid": "036afe24-54de-11ef-9905-0242ac110007",
+              "type_id": 1
+            },
+            "ldap_person": {
+              "location": {
+                "desc": "Trinidad and Tobago, Republic of",
+                "city": "Affairs seasons",
+                "country": "TT",
+                "coordinates": [
+                  164.7402,
+                  -49.8996
+                ],
+                "continent": "North America"
+              },
+              "labels": [
+                "testimony",
+                "wireless"
+              ],
+              "manager": {
+                "name": "Gravity",
+                "type": "Admin",
+                "org": {
+                  "name": "crops usda mate",
+                  "uid": "036b1404-54de-11ef-b3f6-0242ac110007",
+                  "ou_uid": "036b1e0e-54de-11ef-9b10-0242ac110007"
+                },
+                "type_id": 2,
+                "credential_uid": "036b24a8-54de-11ef-bd6c-0242ac110007",
+                "risk_score": 2
+              },
+              "hire_time": 1723049798860112,
+              "leave_time": 1723049798860122
+            }
+          },
+          "type": "Laptop",
+          "domain": "baptist beast hair",
+          "ip": "56.226.195.35",
+          "uid": "036b2c1e-54de-11ef-94e2-0242ac110007",
+          "hostname": "voluntary.nato",
+          "type_id": 3,
+          "boot_time": 1723049798860433,
+          "imei": "outsourcing classroom stage",
+          "instance_uid": "036ada52-54de-11ef-9292-0242ac110007",
+          "interface_name": "tied falling battle",
+          "interface_uid": "036ae056-54de-11ef-98f4-0242ac110007",
+          "network_interfaces": [
+            {
+              "name": "bags passenger debug",
+              "type": "Wired",
+              "ip": "223.159.96.67",
+              "hostname": "fax.biz",
+              "mac": "D1:EF:C4:32:7B:CC:3B:E8",
+              "namespace": "breath distinguished o",
+              "type_id": 1
+            }
+          ],
+          "region": "princeton areas trash",
+          "risk_level": "High",
+          "risk_level_id": 3,
+          "vlan_uid": "036ad46c-54de-11ef-9b4c-0242ac110007",
+          "vpc_uid": "036acd64-54de-11ef-8e47-0242ac110007",
+          "zone": "establishment creation bulk"
+        },
+        "product": {
+          "name": "scary album dies",
+          "version": "1.3.0",
+          "uid": "036b4028-54de-11ef-b94f-0242ac110007",
+          "lang": "en",
+          "vendor_name": "researcher content goals"
+        },
+        "uid": "036b479e-54de-11ef-ae44-0242ac110007",
+        "log_name": "fees studying cas",
+        "log_provider": "princeton collectors sends",
+        "logged_time": 1723049798861039
+      },
+      {
+        "name": "angela death concentrate",
+        "device": {
+          "owner": {
+            "name": "Trouble",
+            "type": "System",
+            "uid": "036b7926-54de-11ef-9ffc-0242ac110007",
+            "type_id": 3,
+            "account": {
+              "name": "promoting provision brandon",
+              "type": "GCP Account",
+              "type_id": 5
+            },
+            "ldap_person": {
+              "deleted_time": 1723049798862493
+            },
+            "risk_level": "Medium",
+            "risk_level_id": 2,
+            "uid_alt": "transcription tools box"
+          },
+          "type": "Firewall",
+          "uid": "036b89d4-54de-11ef-8067-0242ac110007",
+          "type_id": 9,
+          "agent_list": [
+            {
+              "name": "barn agencies gibson",
+              "type": "Data Loss Prevention",
+              "type_id": 2
+            }
+          ],
+          "hypervisor": "none witch undertake",
+          "imei": "measured printed scenes",
+          "instance_uid": "036b5bf8-54de-11ef-a80c-0242ac110007",
+          "interface_uid": "036b6d0a-54de-11ef-bf2d-0242ac110007",
+          "is_personal": false,
+          "last_seen_time": 1723049798862514,
+          "region": "aus deadly build",
+          "subnet_uid": "036b6210-54de-11ef-a61d-0242ac110007"
+        },
+        "product": {
+          "name": "complement lm precipitation",
+          "version": "1.3.0",
+          "uid": "036b95f0-54de-11ef-9fa1-0242ac110007",
+          "vendor_name": "macro tourist polish"
+        },
+        "uid": "036b9cd0-54de-11ef-9ffd-0242ac110007",
+        "log_name": "asbestos ruling alt",
+        "log_provider": "forum undergraduate teams",
+        "logged_time": 1723049798863203,
+        "transmit_time": 1723049798863209
+      }
+    ],
+    "modified_time": 1723049798863211,
+    "original_time": "widely phase exams",
+    "tenant_uid": "036ba50e-54de-11ef-87f8-0242ac110007"
+  },
+  "proxy": {
+    "name": "mask anxiety paragraph",
+    "owner": {
+      "name": "Edit",
+      "type": "System",
+      "uid": "036ca378-54de-11ef-8d45-0242ac110007",
+      "type_id": 3,
+      "credential_uid": "036ca9d6-54de-11ef-90fe-0242ac110007",
+      "ldap_person": {
+        "labels": [
+          "max",
+          "connecting"
+        ],
+        "created_time": 1723049798870237
+      }
+    },
+    "type": "bureau",
+    "domain": "urgent imported water",
+    "ip": "133.68.159.211",
+    "uid": "036cb804-54de-11ef-a422-0242ac110007",
+    "type_id": 99,
+    "autonomous_system": {
+      "number": 64
+    },
+    "interface_uid": "036cc39e-54de-11ef-9189-0242ac110007",
+    "svc_name": "headquarters correlation oc"
+  },
+  "connection_info": {
+    "protocol_name": "governing counting state",
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 40,
+    "protocol_ver": "Internet Protocol version 4 (IPv4)",
+    "protocol_ver_id": 4
+  },
+  "severity": "dishes",
+  "duration": 1477918610,
+  "tls": {
+    "version": "1.3.0",
+    "certificate": {
+      "version": "1.3.0",
+      "is_self_signed": false,
+      "subject": "np measurement hybrid",
+      "issuer": "ranch volvo giving",
+      "fingerprints": [
+        {
+          "value": "C03286BD205731A1FE4E66D75ED9CD6B1FE488FE166CFEBD1DBD419F9626CAD1",
+          "algorithm": "magic",
+          "algorithm_id": 99
+        },
+        {
+          "value": "FC060574F55A849C98A530BABD7CF605D4EFBBA9BAE2357CEF498295F5E2936D5C6CA8FEDC3ACE3CEA70A1B6479A8DC7153D4ACB1035CDF409F8C70A6EBC60F5",
+          "algorithm": "TLSH",
+          "algorithm_id": 6
+        }
+      ],
+      "created_time": 1723049798866194,
+      "expiration_time": 1723049798866199,
+      "serial_number": "allen grew delivered"
+    },
+    "cipher": "postcards verizon pts",
+    "sni": "awarded fruits pricing",
+    "certificate_chain": [
+      "develops imaging legislative"
+    ],
+    "client_ciphers": [
+      "rainbow glenn tier"
+    ],
+    "ja3_hash": {
+      "value": "FA31F4C07578C6BC89522189EB95B17ED58ED2960431AFAFC59BDC8BD43E71830B3AC271C0034B258D3D4845C6B7DC8DF8BFFBD8F3082139476002D4A9395043",
+      "algorithm": "CTPH",
+      "algorithm_id": 5
+    },
+    "ja3s_hash": {
+      "value": "8538872A5A6FAFA43128D651C9AD60824F166BAA761A901856204DE6883A638373E2E6847B5BA358E1CFA6B0E22AF9D61236705BE282CAE69533932A04DBC6C4",
+      "algorithm": "quickXorHash",
+      "algorithm_id": 7
+    },
+    "tls_extension_list": [
+      {
+        "data": "vocal",
+        "type": "server_certificate_type",
+        "type_id": 20
+      },
+      {
+        "data": "orientation",
+        "type": "pre_shared_key",
+        "type_id": 41
+      }
+    ]
+  },
+  "app_name": "merry to kennedy",
+  "type_uid": 400899,
+  "category_name": "Network Activity",
+  "type_name": "FTP Activity: Other",
+  "activity_id": 99,
+  "observables": [
+    {
+      "name": "novel malaysia usb",
+      "type": "Email Address",
+      "type_id": 5
+    }
+  ],
+  "class_uid": 4008,
+  "category_uid": 4,
+  "class_name": "FTP Activity",
+  "timezone_offset": 81,
+  "activity_name": "including",
+  "codes": [
+    44
+  ],
+  "command_responses": [
+    "lots submission headquarters"
+  ],
+  "dst_endpoint": {
+    "name": "selections instructions trigger",
+    "owner": {
+      "type": "User",
+      "uid": "036a3502-54de-11ef-9113-0242ac110007",
+      "groups": [
+        {
+          "name": "arrest negative bath",
+          "domain": "hockey ob ballet",
+          "uid": "036a44a2-54de-11ef-b78e-0242ac110007"
+        },
+        {
+          "name": "thee entering fears",
+          "domain": "tender pray acres",
+          "uid": "036a4c68-54de-11ef-ab6f-0242ac110007"
+        }
+      ],
+      "type_id": 1,
+      "credential_uid": "036a5334-54de-11ef-a7f6-0242ac110007",
+      "risk_level": "reputation",
+      "risk_level_id": 99,
+      "uid_alt": "resources boating supplier"
+    },
+    "port": 33586,
+    "type": "IPS",
+    "ip": "138.123.52.138",
+    "uid": "036a5ae6-54de-11ef-80d1-0242ac110007",
+    "hostname": "shaped.aero",
+    "mac": "E4:C8:E8:6:43:F:CF:6D",
+    "type_id": 14,
+    "hw_info": {
+      "cpu_cores": 81,
+      "ram_size": 82,
+      "serial_number": "buys roads phpbb"
+    },
+    "instance_uid": "036a645a-54de-11ef-8a30-0242ac110007",
+    "interface_name": "tex passage pt",
+    "interface_uid": "036a6b9e-54de-11ef-8a61-0242ac110007",
+    "subnet_uid": "036a751c-54de-11ef-b5c4-0242ac110007",
+    "svc_name": "importantly privilege e"
+  },
+  "severity_id": 99,
+  "src_endpoint": {
+    "name": "bandwidth they play",
+    "owner": {
+      "name": "Society",
+      "type": "Admin",
+      "uid": "036c32d0-54de-11ef-8412-0242ac110007",
+      "type_id": 2,
+      "account": {
+        "name": "shorter strength losing",
+        "type": "Azure AD Account",
+        "uid": "036c3e06-54de-11ef-8574-0242ac110007",
+        "type_id": 6
+      }
+    },
+    "port": 29390,
+    "type": "Tablet",
+    "os": {
+      "name": "rom biggest announced",
+      "type": "macOS",
+      "build": "mostly biodiversity breast",
+      "type_id": 300,
+      "cpe_name": "himself wage affiliation",
+      "sp_ver": 11
+    },
+    "ip": "0.162.184.235",
+    "uid": "036c4a72-54de-11ef-b7ff-0242ac110007",
+    "hostname": "winds.name",
+    "type_id": 4,
+    "autonomous_system": {
+      "name": "gain develop serving",
+      "number": 80
+    },
+    "instance_uid": "036c531e-54de-11ef-9ccf-0242ac110007",
+    "interface_name": "microphone technician preston",
+    "interface_uid": "036c5bfc-54de-11ef-8c3f-0242ac110007",
+    "proxy_endpoint": {
+      "name": "unwrap with nationwide",
+      "owner": {
+        "name": "Bedroom",
+        "type": "chrysler",
+        "uid": "036c6c00-54de-11ef-9472-0242ac110007",
+        "type_id": 99,
+        "credential_uid": "036c72ae-54de-11ef-9d3a-0242ac110007",
+        "ldap_person": {
+          "created_time": 1723049798868909,
+          "hire_time": 1723049798868917,
+          "office_location": "moses article mu",
+          "surname": "eat arrival grad"
+        }
+      },
+      "port": 10082,
+      "type": "Router",
+      "ip": "122.240.122.8",
+      "uid": "036c84b0-54de-11ef-bbe2-0242ac110007",
+      "type_id": 12,
+      "instance_uid": "036c8b0e-54de-11ef-97d5-0242ac110007",
+      "interface_name": "spyware indianapolis justice",
+      "interface_uid": "036c918a-54de-11ef-8200-0242ac110007",
+      "svc_name": "yang space tales"
+    },
+    "svc_name": "speed stuffed finals"
+  },
+  "status_code": "considering",
+  "status_id": 99,
+  "traffic": {
+    "bytes": 1733510192,
+    "packets": 2138292173
+  }
+}

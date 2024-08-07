@@ -1,0 +1,114 @@
+{
+  "message": "bandwidth ask takes",
+  "session": {
+    "uid": "dbb9178a-54dd-11ef-bce3-0242ac110006",
+    "uuid": "dbb91f14-54dd-11ef-bcdd-0242ac110006",
+    "issuer": "missed ballet pi",
+    "created_time": 1723049732262294,
+    "is_remote": true
+  },
+  "status": "Failure",
+  "time": 1723049732261634,
+  "user": {
+    "name": "Proposals",
+    "type": "Unknown",
+    "uid": "dbb88c66-54dd-11ef-b1cc-0242ac110006",
+    "type_id": 0,
+    "email_addr": "Susan@perform.nato",
+    "risk_score": 23
+  },
+  "group": {
+    "name": "inn thumbnail resources",
+    "type": "awards nec edt",
+    "uid": "dbb864de-54dd-11ef-836a-0242ac110006",
+    "privileges": [
+      "able experiments absent",
+      "pumps summaries pc"
+    ]
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "article tulsa engaging",
+      "version": "1.2.0",
+      "path": "ver scenes significantly",
+      "vendor_name": "juice clusters castle"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "titles suggesting tag",
+    "log_provider": "numeric countries period",
+    "log_version": "advise fm educators",
+    "logged_time": 1723049732257872,
+    "original_time": "relax wires mechanism",
+    "tenant_uid": "dbb87a28-54dd-11ef-bc89-0242ac110006"
+  },
+  "severity": "Critical",
+  "type_name": "Authorize Session: Unknown",
+  "activity_id": 0,
+  "type_uid": 300300,
+  "observables": [
+    {
+      "name": "shortcuts comic detector",
+      "type": "MAC Address",
+      "type_id": 3
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "class_uid": 3003,
+  "category_uid": 3,
+  "class_name": "Authorize Session",
+  "timezone_offset": 84,
+  "activity_name": "Unknown",
+  "privileges": [
+    "illustration chair doing",
+    "login binding pricing"
+  ],
+  "severity_id": 5,
+  "src_endpoint": {
+    "name": "dreams invitations character",
+    "owner": {
+      "name": "Orchestra",
+      "type": "Unknown",
+      "uid": "dbb8bc40-54dd-11ef-995d-0242ac110006",
+      "org": {
+        "name": "doing dynamic naples",
+        "uid": "dbb8c7d0-54dd-11ef-80e2-0242ac110006",
+        "ou_name": "mention tear protein"
+      },
+      "type_id": 0
+    },
+    "type": "Browser",
+    "domain": "emission secondary cos",
+    "ip": "106.87.60.243",
+    "uid": "dbb8cf32-54dd-11ef-a4f8-0242ac110006",
+    "hostname": "dana.info",
+    "mac": "47:78:E0:AD:2E:EE:E3:0",
+    "type_id": 8,
+    "instance_uid": "dbb8d75c-54dd-11ef-b527-0242ac110006",
+    "interface_name": "fence reading douglas",
+    "interface_uid": "dbb8df22-54dd-11ef-982c-0242ac110006",
+    "proxy_endpoint": {
+      "name": "tutorials emerald discount",
+      "port": 11910,
+      "type": "Browser",
+      "domain": "agenda academic cayman",
+      "uid": "dbb8edaa-54dd-11ef-93a4-0242ac110006",
+      "hostname": "instant.net",
+      "mac": "8A:D5:7:4A:6:8D:93:50",
+      "type_id": 8,
+      "instance_uid": "dbb8f322-54dd-11ef-acc4-0242ac110006",
+      "interface_name": "hebrew alerts obtained",
+      "interface_uid": "dbb8f7f0-54dd-11ef-b783-0242ac110006",
+      "subnet_uid": "dbb8fc1e-54dd-11ef-8f42-0242ac110006",
+      "svc_name": "expo loves temporarily",
+      "vlan_uid": "dbb900e2-54dd-11ef-84ef-0242ac110006",
+      "vpc_uid": "dbb90506-54dd-11ef-ba98-0242ac110006"
+    },
+    "svc_name": "drew musical sharon"
+  },
+  "status_code": "pointed",
+  "status_detail": "issues wealth clay",
+  "status_id": 2
+}

@@ -1,0 +1,110 @@
+{
+  "message": "ad hydrogen academy",
+  "priority": "Medium",
+  "status": "Unknown",
+  "time": 1723049806918381,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "strain memo wings",
+      "version": "1.3.0",
+      "uid": "0838b2a2-54de-11ef-b089-0242ac110007",
+      "vendor_name": "jamie upc nhl"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "discretion ralph rw",
+    "log_provider": "movie graphic resolutions",
+    "original_time": "cz resolved presently",
+    "tenant_uid": "0838bcac-54de-11ef-9561-0242ac110007"
+  },
+  "desc": "roy discounted og",
+  "start_time": 1723049806918687,
+  "severity": "Unknown",
+  "type_uid": 200502,
+  "category_name": "Findings",
+  "type_name": "Incident Finding: Update",
+  "activity_id": 2,
+  "observables": [
+    {
+      "name": "occurrence pens chemistry",
+      "type": "Uniform Resource Locator",
+      "type_id": 23,
+      "reputation": {
+        "base_score": 72.4273,
+        "provider": "chains divine furniture",
+        "score": "Possibly Malicious",
+        "score_id": 8
+      }
+    },
+    {
+      "name": "vector venezuela holds",
+      "type": "CVE Object: uid",
+      "value": "approx islamic dennis",
+      "type_id": 18
+    }
+  ],
+  "class_uid": 2005,
+  "category_uid": 2,
+  "class_name": "Incident Finding",
+  "timezone_offset": 25,
+  "activity_name": "Update",
+  "assignee_group": {
+    "name": "habits creature travel",
+    "uid": "0838c7b0-54de-11ef-b50d-0242ac110007"
+  },
+  "confidence_id": 1,
+  "finding_info_list": [
+    {
+      "title": "monroe sensor theorem",
+      "uid": "08383bce-54de-11ef-8b88-0242ac110007",
+      "analytic": {
+        "name": "myers kijiji execute",
+        "type": "Unknown",
+        "uid": "08384aba-54de-11ef-a045-0242ac110007",
+        "type_id": 0
+      },
+      "data_sources": [
+        "med latitude ended",
+        "creator pike recover"
+      ],
+      "first_seen_time": 1723049806915488
+    },
+    {
+      "title": "changelog boolean spank",
+      "uid": "08385956-54de-11ef-bf7e-0242ac110007",
+      "types": [
+        "square squad computed",
+        "execution platinum practitioners"
+      ],
+      "analytic": {
+        "name": "cross carroll picked",
+        "type": "Learning (ML/DL)",
+        "desc": "joy car accounting",
+        "uid": "08387d32-54de-11ef-8214-0242ac110007",
+        "type_id": 4
+      },
+      "kill_chain": [
+        {
+          "phase": "Actions on Objectives",
+          "phase_id": 7
+        },
+        {
+          "phase": "Unknown",
+          "phase_id": 0
+        }
+      ]
+    }
+  ],
+  "impact": "Medium",
+  "impact_id": 2,
+  "impact_score": 63,
+  "priority_id": 2,
+  "severity_id": 0,
+  "status_code": "fm",
+  "status_detail": "tin dozens saved",
+  "status_id": 0,
+  "verdict": "Disregard",
+  "verdict_id": 3
+}

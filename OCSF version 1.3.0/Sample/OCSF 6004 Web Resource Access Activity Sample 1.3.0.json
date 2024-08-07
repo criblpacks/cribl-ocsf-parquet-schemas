@@ -1,0 +1,79 @@
+{
+  "http_request": {
+    "args": "closest outcomes mounting",
+    "version": "1.3.0",
+    "url": {
+      "port": 60631,
+      "scheme": "handling remains velocity",
+      "query_string": "providence dutch seeker",
+      "category_ids": [
+        18,
+        92
+      ],
+      "subdomain": "sign johnny lm",
+      "url_string": "authority"
+    },
+    "user_agent": "hosts cpu catering",
+    "http_headers": [
+      {
+        "name": "pink meaningful chrysler",
+        "value": "powerpoint communist butts"
+      },
+      {
+        "name": "addresses tuner advocacy",
+        "value": "times ut clicking"
+      }
+    ],
+    "http_method": "PUT"
+  },
+  "message": "ensuring would could",
+  "status": "Unknown",
+  "time": 1723049771596424,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "version": "1.3.0",
+      "uid": "f32adae8-54dd-11ef-b3fb-0242ac110007",
+      "cpe_name": "award cleveland technologies",
+      "vendor_name": "context truly retro"
+    },
+    "sequence": 92,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "potter tvs satisfied",
+    "log_provider": "rage appreciate pupils",
+    "original_time": "holding champions suggestion",
+    "processed_time": 1723049771595302,
+    "tenant_uid": "f32af1fe-54dd-11ef-8b66-0242ac110007"
+  },
+  "severity": "announce",
+  "type_uid": 600402,
+  "category_name": "Application Activity",
+  "type_name": "Web Resource Access Activity: Access Deny",
+  "activity_id": 2,
+  "observables": [
+    {
+      "name": "announcement democratic ceramic",
+      "type": "Container",
+      "type_id": 27
+    }
+  ],
+  "class_uid": 6004,
+  "category_uid": 6,
+  "class_name": "Web Resource Access Activity",
+  "timezone_offset": 97,
+  "activity_name": "Access Deny",
+  "severity_id": 99,
+  "status_code": "watched",
+  "status_detail": "std enquiry geo",
+  "status_id": 0,
+  "web_resources": [
+    {
+      "data": "lately",
+      "name": "programmer mae guarantees",
+      "uid": "f32b0892-54dd-11ef-86bf-0242ac110007",
+      "url_string": "ranch"
+    }
+  ]
+}

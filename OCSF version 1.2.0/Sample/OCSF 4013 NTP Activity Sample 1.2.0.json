@@ -1,0 +1,186 @@
+{
+  "count": 44,
+  "message": "bw ken bbc",
+  "status": "diet",
+  "version": "1.2.0",
+  "time": 1723049743470380,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "albums edge away",
+      "version": "1.2.0",
+      "uid": "e266e260-54dd-11ef-a31b-0242ac110006",
+      "feature": {
+        "name": "component photographers mapping",
+        "version": "1.2.0",
+        "uid": "e266ebde-54dd-11ef-954b-0242ac110006"
+      },
+      "cpe_name": "biology copyright dimensional",
+      "vendor_name": "pasta turned non"
+    },
+    "sequence": 2,
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "birmingham temperature transmitted",
+    "logged_time": 1723049743467661,
+    "original_time": "graphics hormone mess",
+    "tenant_uid": "e266f3fe-54dd-11ef-bb5e-0242ac110006"
+  },
+  "proxy": {
+    "name": "determines vietnamese documentary",
+    "owner": {
+      "name": "Dial",
+      "type": "System",
+      "uid": "e2663e0a-54dd-11ef-a511-0242ac110006",
+      "org": {
+        "name": "vulnerable studios worry",
+        "uid": "e2666f9c-54dd-11ef-bf82-0242ac110006",
+        "ou_name": "height further international"
+      },
+      "type_id": 3,
+      "ldap_person": {
+        "labels": [
+          "operation",
+          "fence"
+        ],
+        "created_time": 1723049743464608,
+        "leave_time": 1723049743464622,
+        "modified_time": 1723049743464624
+      },
+      "risk_level": "Info",
+      "risk_level_id": 0
+    },
+    "port": 24409,
+    "type": "Mobile",
+    "ip": "11.138.225.123",
+    "uid": "e2667ef6-54dd-11ef-a543-0242ac110006",
+    "hostname": "lift.arpa",
+    "type_id": 5,
+    "instance_uid": "e26686d0-54dd-11ef-815c-0242ac110006",
+    "interface_name": "fw diploma weapon",
+    "interface_uid": "e2668dd8-54dd-11ef-819a-0242ac110006",
+    "svc_name": "pdf cartoon dark",
+    "vpc_uid": "e26694cc-54dd-11ef-9942-0242ac110006"
+  },
+  "precision": 17,
+  "connection_info": {
+    "session": {
+      "uuid": "e266a4c6-54dd-11ef-9608-0242ac110006",
+      "issuer": "antigua sleeps recorders",
+      "created_time": 1723049743465820,
+      "expiration_reason": "bottom manufactured proper",
+      "expiration_time": 1723049743465841,
+      "is_remote": true
+    },
+    "direction": "Lateral",
+    "direction_id": 3,
+    "protocol_num": 77
+  },
+  "delay": 41,
+  "severity": "acquired",
+  "duration": 11,
+  "type_name": "NTP Activity: Broadcast",
+  "activity_id": 5,
+  "type_uid": 401305,
+  "observables": [
+    {
+      "name": "tsunami beverly president",
+      "type": "Hash",
+      "type_id": 8
+    },
+    {
+      "name": "brunei venezuela criminal",
+      "type": "Process",
+      "value": "arbor yourself instruments",
+      "type_id": 25
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4013,
+  "category_uid": 4,
+  "class_name": "NTP Activity",
+  "timezone_offset": 72,
+  "activity_name": "Broadcast",
+  "dispersion": 73,
+  "dst_endpoint": {
+    "name": "hall nearby sunglasses",
+    "owner": {
+      "name": "Free",
+      "uid": "e2676ab4-54dd-11ef-9e37-0242ac110006",
+      "account": {
+        "name": "scsi trips duration",
+        "type": "AWS IAM Role",
+        "uid": "e26776da-54dd-11ef-bd18-0242ac110006",
+        "type_id": 4
+      }
+    },
+    "port": 28727,
+    "ip": "119.227.138.119",
+    "location": {
+      "desc": "Bermuda",
+      "city": "Disc woman",
+      "country": "BM",
+      "coordinates": [
+        114.5684,
+        26.0727
+      ],
+      "continent": "North America"
+    },
+    "uid": "e267845e-54dd-11ef-856b-0242ac110006",
+    "instance_uid": "e2678a94-54dd-11ef-b851-0242ac110006",
+    "interface_name": "cube lesson surprise",
+    "interface_uid": "e26790e8-54dd-11ef-b676-0242ac110006",
+    "svc_name": "radar refer renaissance"
+  },
+  "severity_id": 99,
+  "src_endpoint": {
+    "name": "distinction ix posted",
+    "owner": {
+      "type": "farm",
+      "domain": "suits focuses pad",
+      "uid": "e2670902-54dd-11ef-aa28-0242ac110006",
+      "groups": [
+        {
+          "name": "instances ottawa instance",
+          "uid": "e26712b2-54dd-11ef-b142-0242ac110006"
+        }
+      ],
+      "type_id": 99,
+      "email_addr": "Emilee@implications.aero"
+    },
+    "port": 49430,
+    "type": "Tablet",
+    "ip": "9.74.18.125",
+    "uid": "e2671a32-54dd-11ef-89ee-0242ac110006",
+    "hostname": "vintage.store",
+    "type_id": 4,
+    "hw_info": {
+      "chassis": "reflections programmes crack",
+      "cpu_bits": 92,
+      "cpu_type": "eagle marijuana faculty",
+      "desktop_display": {
+        "color_depth": 60,
+        "physical_orientation": 73
+      },
+      "keyboard_info": {
+        "keyboard_subtype": 86,
+        "keyboard_type": "edt plane carb"
+      }
+    },
+    "instance_uid": "e2674ffc-54dd-11ef-bc8a-0242ac110006",
+    "interface_name": "debut darwin affiliation",
+    "interface_uid": "e26756aa-54dd-11ef-999d-0242ac110006",
+    "svc_name": "croatia modern prev"
+  },
+  "status_code": "groups",
+  "status_id": 99,
+  "stratum": "generic",
+  "stratum_id": 99,
+  "traffic": {
+    "bytes": 1673348800,
+    "chunks_in": 1758854616,
+    "packets_in": 3297891605,
+    "packets_out": 3521412400
+  }
+}

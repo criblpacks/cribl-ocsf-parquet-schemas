@@ -1,0 +1,88 @@
+{
+  "message": "burner excuse cost",
+  "status": "Failure",
+  "time": 1723049742835187,
+  "file": {
+    "name": "catalyst.gam",
+    "size": 2198087352,
+    "type": "Character Device",
+    "signature": {
+      "certificate": {
+        "version": "1.2.0",
+        "subject": "ati nba dumb",
+        "issuer": "france developing foto",
+        "fingerprints": [
+          {
+            "value": "1FD4EF08FF23481D6A334B77BFD98A65287E8C625008A3E57EC388CFB0E319BA",
+            "algorithm": "SHA-256",
+            "algorithm_id": 3
+          },
+          {
+            "value": "B7D4709DB0110B002DEC63565549035B27BA816A87F88DF2CCC020DBC53B879A7415507025A260F1F379CB1E1E2DA2E18BD766A3602267CD9C9317D53D9D342C",
+            "algorithm": "SHA-512",
+            "algorithm_id": 4
+          }
+        ],
+        "created_time": 1723049742833489,
+        "expiration_time": 1723049742833501,
+        "serial_number": "miniature investigation boulder"
+      },
+      "algorithm": "DSA",
+      "algorithm_id": 1
+    },
+    "type_id": 3,
+    "accessed_time": 1723049742833516,
+    "hashes": [
+      {
+        "value": "86890A79A4667AA79B72820B40A22638CDE78A84E1AA8B35E975504BBA4E93B2D5C74D2B47B44230739B1E67896AC2F659C97BDF4DBAA8D214EE2A67EBAE6697",
+        "algorithm": "SHA-512",
+        "algorithm_id": 4
+      },
+      {
+        "value": "B408BD070F7090CF66CB6EB6B9F39835FF1923DA1615D11E1DCC1E11F49A76F6",
+        "algorithm": "magic",
+        "algorithm_id": 99
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "jul lance framed",
+      "version": "1.2.0",
+      "uid": "e2065b0c-54dd-11ef-8174-0242ac110006",
+      "url_string": "centered",
+      "vendor_name": "norman taught rising"
+    },
+    "log_level": "convertible gui represents",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "adaptor wallpapers brazilian",
+    "log_provider": "babies uncle paxil",
+    "log_version": "grill desktops carnival",
+    "logged_time": 1723049742834822,
+    "modified_time": 1723049742834830,
+    "original_time": "legacy milton ian",
+    "processed_time": 1723049742834837,
+    "tenant_uid": "e206648a-54dd-11ef-90e3-0242ac110006"
+  },
+  "severity": "Fatal",
+  "type_uid": 4162565372,
+  "observables": [
+    {
+      "name": "lincoln having widely",
+      "type": "User",
+      "type_id": 21
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4011,
+  "category_uid": 4,
+  "class_name": "Email File Activity",
+  "email_uid": "e2066afc-54dd-11ef-8898-0242ac110006",
+  "severity_id": 6,
+  "status_code": "nearly",
+  "status_detail": "maldives pendant strange",
+  "status_id": 2
+}

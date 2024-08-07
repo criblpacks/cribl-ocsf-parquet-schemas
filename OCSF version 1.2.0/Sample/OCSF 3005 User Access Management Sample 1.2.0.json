@@ -1,0 +1,137 @@
+{
+  "time": 1723049716664250,
+  "user": {
+    "name": "Cosmetic",
+    "type": "les",
+    "uid": "d26c61be-54dd-11ef-bbef-0242ac110006",
+    "groups": [
+      {
+        "name": "yo nail seeds",
+        "uid": "d26c8824-54dd-11ef-b441-0242ac110006"
+      },
+      {
+        "name": "ton era medline",
+        "domain": "app person kills",
+        "desc": "pasta squad mediawiki",
+        "uid": "d26c8fe0-54dd-11ef-8398-0242ac110006"
+      }
+    ],
+    "type_id": 99
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "patents dynamic expertise",
+      "version": "1.2.0",
+      "uid": "d26c2e88-54dd-11ef-9163-0242ac110006"
+    },
+    "product": {
+      "version": "1.2.0",
+      "uid": "d26c3d24-54dd-11ef-88be-0242ac110006",
+      "lang": "en",
+      "vendor_name": "domestic default corrected"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "d26c46ca-54dd-11ef-9498-0242ac110006",
+    "log_name": "biol trips irish",
+    "log_provider": "trout skype ought",
+    "original_time": "ultra sticker neighbors",
+    "processed_time": 1723049716659242,
+    "tenant_uid": "d26c51ec-54dd-11ef-9ef3-0242ac110006"
+  },
+  "severity": "Informational",
+  "type_name": "User Access Management: Unknown",
+  "activity_id": 0,
+  "type_uid": 300500,
+  "observables": [
+    {
+      "name": "dicke pose official",
+      "type": "Port",
+      "type_id": 11
+    },
+    {
+      "name": "frederick apt transaction",
+      "type": "Geo Location",
+      "value": "infectious quick temporal",
+      "type_id": 26
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "class_uid": 3005,
+  "category_uid": 3,
+  "class_name": "User Access Management",
+  "timezone_offset": 39,
+  "activity_name": "Unknown",
+  "privileges": [
+    "credits keno remained",
+    "structures alpine liabilities"
+  ],
+  "severity_id": 1,
+  "src_endpoint": {
+    "name": "utc network encountered",
+    "owner": {
+      "name": "Ohio",
+      "type": "Unknown",
+      "uid": "d26ca73c-54dd-11ef-9d44-0242ac110006",
+      "org": {
+        "name": "gst combinations organ",
+        "uid": "d26cb10a-54dd-11ef-bbe2-0242ac110006",
+        "ou_name": "meter photographer funds"
+      },
+      "type_id": 0,
+      "account": {
+        "name": "space vocabulary developer",
+        "type": "Windows Account",
+        "uid": "d26cbcfe-54dd-11ef-9a27-0242ac110006",
+        "labels": [
+          "tv"
+        ],
+        "type_id": 2
+      },
+      "credential_uid": "d26cc460-54dd-11ef-b1e3-0242ac110006",
+      "ldap_person": {
+        "email_addrs": [
+          "Claude@myth.coop"
+        ]
+      }
+    },
+    "port": 25523,
+    "type": "Mobile",
+    "ip": "142.177.211.138",
+    "location": {
+      "desc": "Philippines, Republic of the",
+      "city": "Axis agencies",
+      "country": "PH",
+      "coordinates": [
+        37.6849,
+        56.3251
+      ],
+      "continent": "Asia"
+    },
+    "uid": "d26cf386-54dd-11ef-ac0e-0242ac110006",
+    "hostname": "hierarchy.store",
+    "type_id": 5,
+    "hw_info": {
+      "cpu_speed": 95,
+      "desktop_display": {
+        "scale_factor": 81
+      },
+      "keyboard_info": {
+        "ime": "sega top regime"
+      }
+    },
+    "instance_uid": "d26cfe44-54dd-11ef-9669-0242ac110006",
+    "interface_name": "sign le systematic",
+    "interface_uid": "d26d05ec-54dd-11ef-95df-0242ac110006",
+    "intermediate_ips": [
+      "63.186.117.195",
+      "10.135.112.0"
+    ],
+    "svc_name": "years pf specialty",
+    "vlan_uid": "d26d0cc2-54dd-11ef-8f0c-0242ac110006"
+  },
+  "status_code": "exciting",
+  "status_detail": "cargo aa reward"
+}

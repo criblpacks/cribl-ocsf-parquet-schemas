@@ -1,0 +1,323 @@
+{
+  "http_request": {
+    "version": "1.2.0",
+    "url": {
+      "port": 58138,
+      "scheme": "receptors rule agencies",
+      "path": "ts lived luxury",
+      "hostname": "identifies.name",
+      "query_string": "compact chase hat",
+      "categories": [
+        "painted threatened subsidiary",
+        "lips diff exterior"
+      ],
+      "category_ids": [
+        15,
+        53
+      ],
+      "url_string": "drivers"
+    },
+    "x_forwarded_for": [
+      "52.69.122.67"
+    ],
+    "user_agent": "keith papers protect",
+    "http_headers": [
+      {
+        "name": "maple broker defects",
+        "value": "combat projectors segments"
+      },
+      {
+        "name": "daisy alpha remarks",
+        "value": "kennedy ky rainbow"
+      }
+    ]
+  },
+  "message": "screening assumption chapel",
+  "status": "hazardous",
+  "time": 1723049707923233,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "potatoes condos giant",
+      "version": "1.2.0",
+      "uid": "cd35e256-54dd-11ef-b133-0242ac110006",
+      "url_string": "branch",
+      "vendor_name": "stamp suggests lance"
+    },
+    "uid": "cd35e9a4-54dd-11ef-83ce-0242ac110006",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "trout cycle believe",
+    "log_provider": "vendors omega ease",
+    "log_version": "mapping translations freeze",
+    "loggers": [
+      {
+        "name": "fred citizens ears",
+        "version": "1.2.0",
+        "device": {
+          "name": "taxation persian gdp",
+          "owner": {
+            "name": "Selection",
+            "type": "pot",
+            "uid": "cd36255e-54dd-11ef-8e7d-0242ac110006",
+            "type_id": 99,
+            "risk_level": "radius specialties pa"
+          },
+          "type": "industry",
+          "os": {
+            "name": "aluminium global elegant",
+            "type": "HP-UX",
+            "version": "1.2.0",
+            "type_id": 402,
+            "sp_ver": 48
+          },
+          "ip": "211.14.62.0",
+          "hostname": "gazette.web",
+          "image": {
+            "name": "austin medication darwin",
+            "uid": "cd360d1c-54dd-11ef-9553-0242ac110006"
+          },
+          "org": {
+            "name": "probably reporters pamela",
+            "ou_name": "consultant arbitration base"
+          },
+          "type_id": 99,
+          "created_time": 1723049707915850,
+          "instance_uid": "cd3619ec-54dd-11ef-89a5-0242ac110006",
+          "interface_name": "participants strength excitement",
+          "interface_uid": "cd360182-54dd-11ef-9155-0242ac110006",
+          "is_personal": true,
+          "modified_time": 1723049707915223,
+          "region": "rendering ecuador serial",
+          "zone": "modems folk somehow"
+        },
+        "uid": "cd362f68-54dd-11ef-882d-0242ac110006",
+        "log_name": "stronger durable comics",
+        "log_provider": "varies mental jpeg",
+        "logged_time": 1723049707916090
+      }
+    ],
+    "original_time": "newbie cheats per",
+    "tenant_uid": "cd3636ac-54dd-11ef-96da-0242ac110006"
+  },
+  "severity": "Fatal",
+  "api": {
+    "request": {
+      "uid": "cd3596c0-54dd-11ef-9c6e-0242ac110006"
+    },
+    "group": {
+      "name": "finnish maximize audi"
+    },
+    "response": {
+      "error": "immediately neil arnold",
+      "code": 7,
+      "data": "terrace",
+      "message": "precision charger hr",
+      "containers": [
+        {
+          "name": "describes registry burlington",
+          "size": 3889784274,
+          "uid": "cd35a840-54dd-11ef-9140-0242ac110006",
+          "image": {
+            "name": "fabric tourism workers",
+            "uid": "cd35c3ac-54dd-11ef-be2d-0242ac110006",
+            "labels": [
+              "evaluating",
+              "blocking"
+            ]
+          },
+          "hash": {
+            "value": "4BA835AC61A56AE65E9C064BD9470929EADE51B8843FA22C1C780AF06480B23AF14FF60AFB96F28529ACCACB06A931BACACE49356C99CFEA096968D80BD36A7F",
+            "algorithm": "TLSH",
+            "algorithm_id": 6
+          }
+        }
+      ]
+    },
+    "operation": "pn recover mailto"
+  },
+  "resources": [
+    {
+      "data": "stickers",
+      "owner": {
+        "type": "Admin",
+        "uid": "cd36476e-54dd-11ef-b525-0242ac110006",
+        "org": {
+          "name": "consideration car given",
+          "uid": "cd365146-54dd-11ef-8169-0242ac110006",
+          "ou_name": "quality enhancing counsel"
+        },
+        "type_id": 2
+      },
+      "labels": [
+        "ranking",
+        "mpg"
+      ],
+      "criticality": "mice mag kind"
+    },
+    {
+      "owner": {
+        "name": "Shoulder",
+        "type": "cia",
+        "uid": "cd367824-54dd-11ef-8592-0242ac110006",
+        "groups": [
+          {
+            "name": "hunt blanket justice",
+            "domain": "atm correction o",
+            "uid": "cd368346-54dd-11ef-9de9-0242ac110006"
+          },
+          {
+            "name": "wet damaged integrate",
+            "domain": "pushed patients marine",
+            "uid": "cd368a62-54dd-11ef-8f67-0242ac110006"
+          }
+        ],
+        "type_id": 99
+      }
+    }
+  ],
+  "type_name": "API Activity: Create",
+  "activity_id": 1,
+  "type_uid": 600301,
+  "observables": [
+    {
+      "name": "consortium bought massachusetts",
+      "type": "Endpoint",
+      "type_id": 20
+    },
+    {
+      "name": "controls superb li",
+      "type": "Email Address",
+      "type_id": 5
+    }
+  ],
+  "category_name": "Application Activity",
+  "class_uid": 6003,
+  "category_uid": 6,
+  "class_name": "API Activity",
+  "timezone_offset": 58,
+  "activity_name": "Create",
+  "actor": {
+    "process": {
+      "name": "Promising",
+      "pid": 52,
+      "file": {
+        "name": "rather.psd",
+        "owner": {
+          "name": "Overhead",
+          "type": "Admin",
+          "uid": "cd36ef98-54dd-11ef-a26e-0242ac110006",
+          "type_id": 2,
+          "account": {
+            "type": "LDAP Account",
+            "uid": "cd36f97a-54dd-11ef-bc99-0242ac110006",
+            "labels": [
+              "douglas",
+              "cash"
+            ],
+            "type_id": 1
+          },
+          "risk_level": "Critical",
+          "risk_level_id": 4
+        },
+        "type": "Symbolic Link",
+        "path": "organisms custody seller/antenna.pdb/rather.psd",
+        "type_id": 7,
+        "mime_type": "thereby/collections",
+        "parent_folder": "organisms custody seller/antenna.pdb"
+      },
+      "user": {
+        "name": "Dog",
+        "type": "Admin",
+        "uid": "cd3706ea-54dd-11ef-8014-0242ac110006",
+        "type_id": 2,
+        "ldap_person": {
+          "employee_uid": "cd371446-54dd-11ef-88a5-0242ac110006"
+        }
+      },
+      "cmd_line": "suggesting finger vision",
+      "created_time": 1723049707921955,
+      "integrity": "Untrusted",
+      "integrity_id": 1
+    },
+    "session": {
+      "terminal": "patches reed nyc",
+      "uid": "cd3720bc-54dd-11ef-82d0-0242ac110006",
+      "issuer": "stamps elevation safer",
+      "created_time": 1723049707922266,
+      "expiration_reason": "territory america draw",
+      "is_remote": true
+    },
+    "user": {
+      "name": "Realized",
+      "type": "Unknown",
+      "domain": "shine happiness obligations",
+      "uid": "cd372c88-54dd-11ef-ab57-0242ac110006",
+      "org": {
+        "uid": "cd373782-54dd-11ef-a3d3-0242ac110006",
+        "ou_uid": "cd373dfe-54dd-11ef-9589-0242ac110006"
+      },
+      "type_id": 0,
+      "email_addr": "Lindsey@miscellaneous.firm"
+    },
+    "idp": {
+      "uid": "cd3746c8-54dd-11ef-b836-0242ac110006"
+    }
+  },
+  "dst_endpoint": {
+    "name": "conjunction bridal headers",
+    "owner": {
+      "name": "Fellowship",
+      "type": "Unknown",
+      "uid": "cd375b68-54dd-11ef-80c5-0242ac110006",
+      "type_id": 0,
+      "email_addr": "Harmony@retention.museum"
+    },
+    "type": "Virtual",
+    "domain": "podcasts circuits devoted",
+    "ip": "208.79.189.124",
+    "uid": "cd376446-54dd-11ef-a743-0242ac110006",
+    "hostname": "performed.jobs",
+    "type_id": 6,
+    "instance_uid": "cd376afe-54dd-11ef-96a7-0242ac110006",
+    "interface_name": "cylinder whom specially",
+    "intermediate_ips": [
+      "160.122.33.32",
+      "247.29.146.4"
+    ],
+    "svc_name": "watch lose prisoners",
+    "vpc_uid": "cd377210-54dd-11ef-a136-0242ac110006"
+  },
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "locale moisture organizer",
+    "owner": {
+      "name": "Dash",
+      "type": "Unknown",
+      "domain": "fax reprint baghdad",
+      "uid": "cd369e08-54dd-11ef-b8c7-0242ac110006",
+      "type_id": 0,
+      "credential_uid": "cd36a47a-54dd-11ef-873b-0242ac110006",
+      "ldap_person": {
+        "hire_time": 1723049707919263,
+        "ldap_cn": "gif dish specialties"
+      }
+    },
+    "port": 31017,
+    "domain": "vsnet theta denmark",
+    "ip": "236.221.7.181",
+    "uid": "cd36b546-54dd-11ef-917e-0242ac110006",
+    "hostname": "ongoing.name",
+    "hw_info": {
+      "ram_size": 40
+    },
+    "instance_uid": "cd36c0fe-54dd-11ef-9ddb-0242ac110006",
+    "interface_uid": "cd36c84c-54dd-11ef-ae4f-0242ac110006",
+    "svc_name": "offered phenomenon scripting",
+    "zone": "aid described detail"
+  },
+  "status_code": "argentina",
+  "status_detail": "corners newcastle gm",
+  "status_id": 99
+}

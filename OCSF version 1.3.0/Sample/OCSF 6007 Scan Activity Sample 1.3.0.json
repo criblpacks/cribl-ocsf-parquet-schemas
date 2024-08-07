@@ -1,0 +1,81 @@
+{
+  "num_network_items": 33,
+  "status_detail": "democrats mo marathon",
+  "start_time": 1723049797082206,
+  "num_processes": 76,
+  "num_files": 43,
+  "class_uid": 6007,
+  "type_name": "Scan Activity: Pause Violation",
+  "command_uid": "025bdb16-54de-11ef-b77b-0242ac110007",
+  "message": "option donor trustee",
+  "scan": {
+    "name": "allocated martin ri",
+    "type": "User Logon",
+    "uid": "025bd116-54de-11ef-93f9-0242ac110007",
+    "type_id": 6
+  },
+  "category_name": "Application Activity",
+  "num_registry_items": 30,
+  "time": 1723049797081537,
+  "num_resolutions": 87,
+  "type_uid": 600705,
+  "activity_name": "Pause Violation",
+  "schedule_uid": "025bc13a-54de-11ef-b1f0-0242ac110007",
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "casey odds continually",
+      "version": "1.3.0",
+      "uid": "025bab96-54de-11ef-9213-0242ac110007",
+      "vendor_name": "produces flight salem"
+    },
+    "log_level": "spirituality cathedral casinos",
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "025bb3e8-54de-11ef-9bb6-0242ac110007",
+    "log_name": "speaker celebrity individual",
+    "original_time": "access cups bodies",
+    "processed_time": 1723049797081215,
+    "tenant_uid": "025bbb54-54de-11ef-a246-0242ac110007"
+  },
+  "status_code": "lt",
+  "severity_id": 4,
+  "num_trusted_items": 64,
+  "status": "liberal ton morrison",
+  "class_name": "Scan Activity",
+  "severity": "High",
+  "observables": [
+    {
+      "name": "classified serial cosmetic",
+      "type": "Subnet",
+      "type_id": 12,
+      "reputation": {
+        "base_score": 13.1352,
+        "provider": "documents wyoming procurement",
+        "score": "Malicious",
+        "score_id": 10
+      }
+    },
+    {
+      "name": "label ak restricted",
+      "type": "Process ID",
+      "type_id": 15
+    }
+  ],
+  "total": 67,
+  "num_skipped_items": 97,
+  "end_time": 1723049797079539,
+  "duration": 3605211857,
+  "policy": {
+    "name": "computing films mil",
+    "version": "1.3.0",
+    "uid": "025b72e8-54de-11ef-9029-0242ac110007",
+    "is_applied": false
+  },
+  "num_detections": 75,
+  "num_folders": 28,
+  "category_uid": 6,
+  "activity_id": 5,
+  "timezone_offset": 97
+}

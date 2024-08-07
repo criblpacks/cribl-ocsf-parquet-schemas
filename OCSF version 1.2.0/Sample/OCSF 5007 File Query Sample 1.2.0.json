@@ -1,0 +1,85 @@
+{
+  "count": 20,
+  "message": "bikini securities wallace",
+  "status": "lightning",
+  "time": 1723049723249353,
+  "file": {
+    "name": "interested.aif",
+    "type": "Folder",
+    "version": "1.2.0",
+    "path": "lawn dying freedom/indices.aspx/interested.aif",
+    "desc": "pursue andrew brand",
+    "type_id": 2,
+    "mime_type": "yamaha/pictures",
+    "parent_folder": "lawn dying freedom/indices.aspx",
+    "confidentiality": "Unknown",
+    "confidentiality_id": 0,
+    "created_time": 1723049723247728,
+    "hashes": [
+      {
+        "value": "6FAB4B2B74F96E06255572DA90D4A8519B1ABD80",
+        "algorithm": "SHA-1",
+        "algorithm_id": 2
+      },
+      {
+        "value": "CFF65EEE57A527ABB187E2C515B4416861D8CD83C413A6D31E09F4D8EC305AA4E3D3EAFBC9DF47CE184C26468930951FBF6FC2E53AE1A1352FEB6D58D889C68F",
+        "algorithm": "TLSH",
+        "algorithm_id": 6
+      }
+    ],
+    "security_descriptor": "conceptual greek banned"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "statewide navigate raleigh",
+      "version": "1.2.0",
+      "uid": "d659d158-54dd-11ef-b041-0242ac110006",
+      "cpe_name": "cape avenue written",
+      "vendor_name": "describe bishop notre"
+    },
+    "labels": [
+      "movements",
+      "guide"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "covered espn hampshire",
+    "log_provider": "disclosure swedish intellectual",
+    "original_time": "bargains playing breath",
+    "tenant_uid": "d659db58-54dd-11ef-9719-0242ac110006"
+  },
+  "start_time": 1723049723247845,
+  "severity": "Low",
+  "duration": 99,
+  "type_name": "File Query: Unknown",
+  "activity_id": 0,
+  "type_uid": 500700,
+  "observables": [
+    {
+      "name": "features vancouver telescope",
+      "type": "Subnet",
+      "value": "polls francisco surround",
+      "type_id": 12
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5007,
+  "category_uid": 5,
+  "class_name": "File Query",
+  "timezone_offset": 26,
+  "activity_name": "Unknown",
+  "query_info": {
+    "data": "county",
+    "name": "mileage streams fonts",
+    "bytes": 2420148373,
+    "query_string": "formatting discussed pollution"
+  },
+  "query_result": "Unknown",
+  "query_result_id": 0,
+  "severity_id": 2,
+  "status_code": "ll",
+  "status_detail": "careers exception solid",
+  "status_id": 99
+}

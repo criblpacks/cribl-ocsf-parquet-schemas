@@ -1,0 +1,85 @@
+{
+  "command_uid": "dd410310-54dd-11ef-acf5-0242ac110006",
+  "num_files": 56,
+  "num_trusted_items": 46,
+  "status_code": "jc",
+  "observables": [
+    {
+      "name": "aside injured vast",
+      "type": "File Name",
+      "type_id": 7
+    },
+    {
+      "name": "wondering valued null",
+      "type": "User",
+      "type_id": 21
+    }
+  ],
+  "category_uid": 6,
+  "message": "ebay webshots mobiles",
+  "category_name": "Application Activity",
+  "status_detail": "aol bali joseph",
+  "severity": "Low",
+  "time": 1723049734830129,
+  "end_time": 1723049734830120,
+  "class_uid": 6007,
+  "num_detections": 62,
+  "scan": {
+    "name": "memories refund levels",
+    "type": "Scheduled",
+    "uid": "dd40d6d8-54dd-11ef-90b3-0242ac110006",
+    "type_id": 2
+  },
+  "type_name": "Scan Activity: Unknown",
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "varies on integrate",
+      "version": "1.2.0",
+      "vendor_name": "french couples const"
+    },
+    "labels": [
+      "modes",
+      "rope"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "finished agents insight",
+    "log_provider": "promotions ns classes",
+    "original_time": "mixture maui advertisement",
+    "processed_time": 1723049734828665,
+    "tenant_uid": "dd40c40e-54dd-11ef-9e05-0242ac110006"
+  },
+  "status_id": 0,
+  "num_resolutions": 98,
+  "start_time": 1723049734828370,
+  "status": "Unknown",
+  "severity_id": 2,
+  "activity_name": "Unknown",
+  "total": 50,
+  "num_skipped_items": 60,
+  "class_name": "Scan Activity",
+  "policy": {
+    "name": "clicking ciao integrated",
+    "version": "1.2.0",
+    "desc": "perfect oscar montana"
+  },
+  "num_network_items": 7,
+  "duration": 57,
+  "enrichments": [
+    {
+      "data": "prisoners",
+      "name": "maximize strongly marking",
+      "type": "clay cm miles",
+      "value": "oregon traditional speeds",
+      "provider": "axis nano connecting"
+    }
+  ],
+  "timezone_offset": 22,
+  "num_folders": 13,
+  "type_uid": 600700,
+  "num_processes": 68,
+  "activity_id": 0,
+  "schedule_uid": "dd407c06-54dd-11ef-b055-0242ac110006"
+}

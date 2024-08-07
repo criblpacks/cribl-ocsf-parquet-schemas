@@ -1,0 +1,194 @@
+{
+  "http_request": {
+    "version": "1.3.0",
+    "length": 81,
+    "url": {
+      "port": 44062,
+      "scheme": "details robin roberts",
+      "path": "breakfast provincial manually",
+      "hostname": "components.jobs",
+      "query_string": "southampton resist strategic",
+      "categories": [
+        "gamecube problems accepts",
+        "weddings martha fragrance"
+      ],
+      "url_string": "described"
+    },
+    "user_agent": "taxes adipex operate",
+    "http_headers": [
+      {
+        "name": "format shipped meant",
+        "value": "snapshot bryan hp"
+      },
+      {
+        "name": "blogs la minds",
+        "value": "producing collaboration blend"
+      }
+    ],
+    "http_method": "DELETE",
+    "referrer": "slovakia restriction chronicle"
+  },
+  "message": "bend progressive detect",
+  "status": "Unknown",
+  "time": 1723049765629959,
+  "user": {
+    "name": "Generic",
+    "type": "Unknown",
+    "uid": "ef9b8fda-54dd-11ef-a31b-0242ac110007",
+    "type_id": 0,
+    "account": {
+      "name": "likelihood candle consisting",
+      "type": "Windows Account",
+      "uid": "ef9ba5d8-54dd-11ef-bc1e-0242ac110007",
+      "type_id": 2
+    },
+    "risk_level": "Low",
+    "risk_level_id": 1,
+    "risk_score": 68
+  },
+  "group": {
+    "name": "ad spain solving",
+    "uid": "ef9afcdc-54dd-11ef-a157-0242ac110007",
+    "privileges": [
+      "interval sold baby",
+      "fool terminals realtor"
+    ]
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "wiring np reader",
+      "version": "1.3.0",
+      "path": "magazine sell logitech",
+      "uid": "ef9b4a70-54dd-11ef-9356-0242ac110007",
+      "vendor_name": "unix ascii here"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "ef9b55ec-54dd-11ef-af61-0242ac110007",
+    "event_code": "revolutionary",
+    "log_name": "through editorial league",
+    "log_provider": "sentences investment drawing",
+    "original_time": "existed antiques lately",
+    "tenant_uid": "ef9b7ec8-54dd-11ef-b345-0242ac110007"
+  },
+  "resource": {
+    "data": "casey",
+    "name": "motorcycles interests steven",
+    "owner": {
+      "name": "Civic",
+      "type": "Unknown",
+      "uid": "ef9cd886-54dd-11ef-9de7-0242ac110007",
+      "type_id": 0,
+      "risk_level": "reasonable",
+      "risk_level_id": 99
+    },
+    "group": {
+      "type": "smtp sunrise administrative",
+      "uid": "ef9d1a6c-54dd-11ef-8975-0242ac110007"
+    },
+    "uid": "ef9d32c2-54dd-11ef-9375-0242ac110007",
+    "namespace": "athletic ranks jason"
+  },
+  "start_time": 1723049765629986,
+  "severity": "Low",
+  "duration": 2997105812,
+  "type_uid": 300606,
+  "category_name": "Identity & Access Management",
+  "type_name": "Group Management: Create",
+  "activity_id": 6,
+  "observables": [
+    {
+      "name": "pledge macromedia thunder",
+      "type": "Endpoint",
+      "type_id": 20,
+      "reputation": {
+        "base_score": 26.4263,
+        "provider": "answer jennifer experimental",
+        "score": "Possibly Malicious",
+        "score_id": 8
+      }
+    },
+    {
+      "name": "unfortunately wrapped assessing",
+      "type": "Geo Location",
+      "type_id": 26
+    }
+  ],
+  "class_uid": 3006,
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "timezone_offset": 99,
+  "activity_name": "Create",
+  "enrichments": [
+    {
+      "data": "albany",
+      "name": "complement bride richmond",
+      "value": "precipitation corner medium",
+      "created_time": 1723049765624572,
+      "provider": "warnings colleagues lived"
+    },
+    {
+      "data": "dental",
+      "name": "explosion acrylic rising",
+      "type": "managers query answered",
+      "value": "strengthening medium sword",
+      "created_time": 1723049765624611,
+      "provider": "mem bubble johnston",
+      "short_desc": "kansas won normally",
+      "src_url": "low"
+    }
+  ],
+  "privileges": [
+    "foot camel happiness"
+  ],
+  "severity_id": 2,
+  "src_endpoint": {
+    "name": "bizrate m berlin",
+    "owner": {
+      "type": "Unknown",
+      "domain": "fabulous bridges ellen",
+      "uid": "ef9be4a8-54dd-11ef-a2ba-0242ac110007",
+      "org": {
+        "name": "ent wines reggae",
+        "uid": "ef9bfd44-54dd-11ef-b11b-0242ac110007",
+        "ou_name": "weekly ac forward"
+      },
+      "type_id": 0,
+      "ldap_person": {
+        "email_addrs": [
+          "Rashida@cage.org",
+          "Marco@livecam.pro"
+        ],
+        "given_name": "transition contributions pod",
+        "leave_time": 1723049765626242
+      }
+    },
+    "port": 3588,
+    "type": "Tablet",
+    "domain": "electric kelly optics",
+    "ip": "230.96.86.183",
+    "location": {
+      "desc": "Luxembourg, Grand Duchy of",
+      "city": "Thompson chambers",
+      "country": "LU",
+      "coordinates": [
+        165.0487,
+        -15.607
+      ],
+      "continent": "Europe"
+    },
+    "uid": "ef9c466e-54dd-11ef-8da5-0242ac110007",
+    "hostname": "maybe.info",
+    "type_id": 4,
+    "instance_uid": "ef9c6086-54dd-11ef-a434-0242ac110007",
+    "interface_name": "schedule banners jack",
+    "interface_uid": "ef9c781e-54dd-11ef-a9af-0242ac110007",
+    "subnet_uid": "ef9c8d40-54dd-11ef-8420-0242ac110007",
+    "svc_name": "platform cat burning"
+  },
+  "status_code": "mirrors",
+  "status_detail": "estates manor amber",
+  "status_id": 0
+}

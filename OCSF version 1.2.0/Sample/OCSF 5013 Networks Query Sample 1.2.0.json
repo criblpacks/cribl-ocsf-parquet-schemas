@@ -1,0 +1,87 @@
+{
+  "message": "jurisdiction activity rated",
+  "status": "Unknown",
+  "time": 1723049709208066,
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "boolean ss loved",
+      "version": "1.2.0",
+      "uid": "cdfaf762-54dd-11ef-94b9-0242ac110006"
+    },
+    "product": {
+      "name": "bizrate revenues bulk",
+      "version": "1.2.0",
+      "uid": "cdfb0bb2-54dd-11ef-84d6-0242ac110006",
+      "lang": "en",
+      "cpe_name": "hindu biz scottish",
+      "vendor_name": "ed athens volkswagen"
+    },
+    "uid": "cdfb1440-54dd-11ef-94ae-0242ac110006",
+    "extensions": [
+      {
+        "name": "theta evident protect",
+        "version": "1.2.0",
+        "uid": "cdfb1ec2-54dd-11ef-8d1e-0242ac110006"
+      }
+    ],
+    "sequence": 34,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "perhaps funeral epinions",
+    "log_provider": "dirty wonder barbados",
+    "modified_time": 1723049709207816,
+    "tenant_uid": "cdfb5342-54dd-11ef-85ba-0242ac110006"
+  },
+  "severity": "High",
+  "type_name": "Networks Query: Query",
+  "activity_id": 1,
+  "type_uid": 501301,
+  "observables": [
+    {
+      "name": "shade packard truly",
+      "type": "Geo Location",
+      "type_id": 26,
+      "reputation": {
+        "base_score": 53.3916,
+        "provider": "cds qualified bars",
+        "score": "Exercise Caution",
+        "score_id": 6
+      }
+    },
+    {
+      "name": "writes ring visitor",
+      "type": "Hostname",
+      "type_id": 1,
+      "reputation": {
+        "base_score": 1.5808,
+        "provider": "electricity flashing ns",
+        "score": "Possibly Malicious",
+        "score_id": 8
+      }
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5013,
+  "category_uid": 5,
+  "class_name": "Networks Query",
+  "timezone_offset": 62,
+  "activity_name": "Query",
+  "network_interfaces": [
+    {
+      "type": "Wired",
+      "ip": "161.60.148.106",
+      "hostname": "nat.org",
+      "mac": "4E:FE:D0:AA:DD:92:A4:22",
+      "namespace": "judges positioning honor",
+      "type_id": 1
+    }
+  ],
+  "query_result": "Does not exist",
+  "query_result_id": 3,
+  "severity_id": 4,
+  "status_code": "subscribers",
+  "status_detail": "outlined birmingham d",
+  "status_id": 0
+}

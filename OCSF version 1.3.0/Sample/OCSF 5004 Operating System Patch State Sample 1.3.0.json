@@ -1,0 +1,207 @@
+{
+  "message": "belle gen respective",
+  "status": "Unknown",
+  "time": 1723049764750727,
+  "device": {
+    "name": "advert victoria accounting",
+    "owner": {
+      "name": "Watching",
+      "uid": "ef165d2e-54dd-11ef-b9cc-0242ac110007",
+      "org": {
+        "name": "acoustic duty informative",
+        "uid": "ef166666-54dd-11ef-adda-0242ac110007",
+        "ou_name": "nba mt plane"
+      },
+      "credential_uid": "ef166d5a-54dd-11ef-8d54-0242ac110007",
+      "email_addr": "Lanny@flower.store",
+      "risk_level": "disabled awards refurbished"
+    },
+    "type": "IPS",
+    "desc": "utils seen specifies",
+    "uid": "ef1675ca-54dd-11ef-bbc0-0242ac110007",
+    "groups": [
+      {
+        "name": "expired utilize roof",
+        "uid": "ef1641e0-54dd-11ef-b4d7-0242ac110007",
+        "privileges": [
+          "mv pointed israel"
+        ]
+      },
+      {
+        "name": "identified eddie factors",
+        "desc": "oakland created paintball",
+        "privileges": [
+          "dawn sony topics",
+          "calvin drops paintings"
+        ]
+      }
+    ],
+    "type_id": 14,
+    "autoscale_uid": "ef163056-54dd-11ef-96c5-0242ac110007",
+    "imei": "fantasy consecutive basketball",
+    "instance_uid": "ef163768-54dd-11ef-9dbd-0242ac110007",
+    "interface_name": "settle lauren ink",
+    "interface_uid": "ef165018-54dd-11ef-9868-0242ac110007",
+    "is_compliant": true,
+    "is_managed": true,
+    "is_trusted": false,
+    "region": "ac robinson dem",
+    "subnet_uid": "ef164a00-54dd-11ef-ae6a-0242ac110007",
+    "uid_alt": "saskatchewan gallery causes"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "extension": {
+      "name": "mountains producer senegal",
+      "version": "1.3.0",
+      "uid": "ef149a84-54dd-11ef-ac38-0242ac110007"
+    },
+    "product": {
+      "name": "rochester parker smith",
+      "version": "1.3.0",
+      "uid": "ef14a7fe-54dd-11ef-bf4e-0242ac110007",
+      "feature": {
+        "name": "producers lecture yale",
+        "version": "1.3.0",
+        "uid": "ef14fb64-54dd-11ef-a5d6-0242ac110007"
+      },
+      "vendor_name": "zoom unity dark"
+    },
+    "uid": "ef150348-54dd-11ef-b61b-0242ac110007",
+    "log_level": "casinos greensboro receptors",
+    "sequence": 99,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "folders excellent controller",
+    "log_provider": "albany sustained abortion",
+    "loggers": [
+      {
+        "name": "maternity console distances",
+        "device": {
+          "owner": {
+            "name": "Additional",
+            "type": "Unknown",
+            "uid": "ef155ab4-54dd-11ef-bdd5-0242ac110007",
+            "type_id": 0
+          },
+          "type": "xhtml",
+          "domain": "assist worthy portuguese",
+          "location": {
+            "desc": "Tanzania, United Republic of",
+            "city": "Deutsche processor",
+            "country": "TZ",
+            "coordinates": [
+              -4.8266,
+              19.6561
+            ],
+            "continent": "Africa"
+          },
+          "uid": "ef1561bc-54dd-11ef-a8ea-0242ac110007",
+          "hostname": "space.biz",
+          "image": {
+            "name": "pf protein biol",
+            "uid": "ef15fabe-54dd-11ef-8a7c-0242ac110007"
+          },
+          "org": {
+            "name": "concrete surgeons rankings",
+            "uid": "ef152ae4-54dd-11ef-a84b-0242ac110007",
+            "ou_name": "fc suggestions hs"
+          },
+          "type_id": 99,
+          "hypervisor": "wedding managing procedure",
+          "instance_uid": "ef153a0c-54dd-11ef-8f40-0242ac110007",
+          "interface_name": "graphic connecting marijuana",
+          "interface_uid": "ef154a60-54dd-11ef-8087-0242ac110007",
+          "network_interfaces": [
+            {
+              "name": "congo composer depends",
+              "type": "finance",
+              "ip": "200.194.174.216",
+              "hostname": "talent.coop",
+              "mac": "67:2C:9B:33:67:99:42:80",
+              "type_id": 99
+            }
+          ],
+          "region": "mats tells partners",
+          "risk_level": "reduced",
+          "risk_level_id": 99,
+          "subnet_uid": "ef1540d8-54dd-11ef-a871-0242ac110007",
+          "vlan_uid": "ef153322-54dd-11ef-bd55-0242ac110007"
+        },
+        "product": {
+          "name": "babe kb raised",
+          "version": "1.3.0",
+          "path": "inexpensive mistake nw",
+          "uid": "ef160996-54dd-11ef-8f29-0242ac110007",
+          "vendor_name": "machinery jokes ruling"
+        },
+        "uid": "ef161134-54dd-11ef-8b8b-0242ac110007",
+        "log_provider": "insects clean nickname",
+        "logged_time": 1723049764748138,
+        "transmit_time": 1723049764748149
+      }
+    ],
+    "original_time": "okay martha cheers",
+    "tenant_uid": "ef161954-54dd-11ef-845b-0242ac110007"
+  },
+  "severity": "Unknown",
+  "duration": 2085007958,
+  "type_uid": 500402,
+  "category_name": "Discovery",
+  "type_name": "Operating System Patch State: Collect",
+  "activity_id": 2,
+  "observables": [
+    {
+      "name": "species odds depth",
+      "type": "Country",
+      "type_id": 14
+    },
+    {
+      "name": "dicke awful turner",
+      "type": "Uniform Resource Locator",
+      "type_id": 23
+    }
+  ],
+  "class_uid": 5004,
+  "category_uid": 5,
+  "class_name": "Operating System Patch State",
+  "timezone_offset": 67,
+  "activity_name": "Collect",
+  "kb_article_list": [
+    {
+      "os": {
+        "name": "pushed republican sentence",
+        "type": "iPadOS",
+        "type_id": 302,
+        "cpe_name": "affect owen tgp"
+      },
+      "title": "india displays tears",
+      "uid": "ef13dd42-54dd-11ef-a4f7-0242ac110007",
+      "severity": "facilities cadillac johnston",
+      "install_state": "second tract robert"
+    },
+    {
+      "os": {
+        "name": "despite hospital challenged",
+        "type": "Unknown",
+        "type_id": 0,
+        "lang": "en"
+      },
+      "title": "seconds bright grove",
+      "product": {
+        "name": "recommendations sl yield",
+        "path": "jan scanner appearance",
+        "url_string": "construction",
+        "vendor_name": "audio wins hamburg"
+      },
+      "uid": "ef145b78-54dd-11ef-b842-0242ac110007",
+      "severity": "victims wright either",
+      "install_state": "Not Installed",
+      "install_state_id": 2
+    }
+  ],
+  "severity_id": 0,
+  "status_code": "whenever",
+  "status_id": 0
+}

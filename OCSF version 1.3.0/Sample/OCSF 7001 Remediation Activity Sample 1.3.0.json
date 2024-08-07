@@ -1,0 +1,60 @@
+{
+  "message": "hiv irish eval",
+  "status": "Does Not Exist",
+  "time": 1723049769814675,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "pools bring french",
+      "version": "1.3.0",
+      "uid": "f21b196a-54dd-11ef-b1b4-0242ac110007",
+      "url_string": "decades",
+      "vendor_name": "societies mechanism stories"
+    },
+    "labels": [
+      "beside",
+      "fashion"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "food sentences arts",
+    "log_provider": "clicking dark occasional",
+    "original_time": "css operated suggesting",
+    "tenant_uid": "f21b268a-54dd-11ef-a633-0242ac110007"
+  },
+  "severity": "Critical",
+  "type_uid": 700101,
+  "category_name": "Remediation",
+  "type_name": "Remediation Activity: Isolate",
+  "activity_id": 1,
+  "observables": [
+    {
+      "name": "dollar frank sporting",
+      "type": "Registry Key",
+      "type_id": 28
+    }
+  ],
+  "class_uid": 7001,
+  "category_uid": 7,
+  "class_name": "Remediation Activity",
+  "timezone_offset": 40,
+  "end_time": 1723049769812481,
+  "activity_name": "Isolate",
+  "command_uid": "f21b4fac-54dd-11ef-944d-0242ac110007",
+  "countermeasures": [
+    {
+      "version": "1.3.0",
+      "d3f_tactic": {
+        "uid": "f21b36f2-54dd-11ef-b7fa-0242ac110007"
+      },
+      "d3f_technique": {
+        "name": "purchase national brief",
+        "uid": "f21b452a-54dd-11ef-8908-0242ac110007"
+      }
+    }
+  ],
+  "severity_id": 5,
+  "status_detail": "chrysler victoria scuba",
+  "status_id": 3
+}

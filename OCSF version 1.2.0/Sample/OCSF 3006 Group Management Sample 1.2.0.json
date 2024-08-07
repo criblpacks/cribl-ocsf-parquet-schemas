@@ -1,0 +1,150 @@
+{
+  "http_request": {
+    "version": "1.2.0",
+    "url": {
+      "port": 39080,
+      "scheme": "going advise editors",
+      "path": "zoloft horrible br",
+      "hostname": "variety.travel",
+      "query_string": "workshops politics opposite",
+      "category_ids": [
+        85,
+        27
+      ],
+      "url_string": "threatened"
+    },
+    "user_agent": "username portion brad",
+    "http_headers": [
+      {
+        "name": "course traditional special",
+        "value": "cleaners medical asia"
+      },
+      {
+        "name": "appear moderate buddy",
+        "value": "cable ml resistant"
+      }
+    ]
+  },
+  "message": "album previously kingdom",
+  "status": "Unknown",
+  "time": 1723049716028871,
+  "user": {
+    "type": "Unknown",
+    "uid": "d20b1cd8-54dd-11ef-9c7c-0242ac110006",
+    "org": {
+      "name": "regulated excuse refer",
+      "uid": "d20b47c6-54dd-11ef-ae73-0242ac110006",
+      "ou_name": "standard canyon does"
+    },
+    "type_id": 0,
+    "credential_uid": "d20b54f0-54dd-11ef-9e21-0242ac110006",
+    "ldap_person": {
+      "cost_center": "biology emails defense",
+      "email_addrs": [
+        "Arthur@parallel.net",
+        "Ellis@ranch.biz"
+      ],
+      "hire_time": 1723049716024009,
+      "ldap_dn": "crm extent trouble"
+    },
+    "risk_score": 97
+  },
+  "group": {
+    "name": "rolling closes improving",
+    "uid": "d20af26c-54dd-11ef-ad40-0242ac110006"
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "version": "1.2.0",
+      "path": "cooked jonathan bias",
+      "url_string": "fotos",
+      "vendor_name": "aircraft closest renaissance"
+    },
+    "sequence": 76,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "cycles professional integrating",
+    "log_provider": "metals described day",
+    "original_time": "structural latex boxed",
+    "tenant_uid": "d20b0b26-54dd-11ef-ab1c-0242ac110006"
+  },
+  "resource": {
+    "owner": {
+      "name": "Explained",
+      "type": "Admin",
+      "uid": "d20b8b28-54dd-11ef-b2a8-0242ac110006",
+      "type_id": 2,
+      "ldap_person": {
+        "labels": [
+          "za",
+          "aircraft"
+        ],
+        "deleted_time": 1723049716025327,
+        "employee_uid": "d20b95f0-54dd-11ef-abda-0242ac110006",
+        "job_title": "attachment biography worried",
+        "ldap_dn": "representation mature vb",
+        "surname": "branches layers phoenix"
+      }
+    },
+    "group": {
+      "name": "gem flu safety",
+      "desc": "overseas du keno"
+    },
+    "uid": "d20ba09a-54dd-11ef-924e-0242ac110006"
+  },
+  "severity": "Fatal",
+  "type_name": "Group Management: Delete",
+  "activity_id": 5,
+  "type_uid": 300605,
+  "observables": [
+    {
+      "name": "statewide represented james",
+      "type": "Process Name",
+      "type_id": 9
+    },
+    {
+      "name": "folk law in",
+      "type": "CWE Object: uid",
+      "type_id": 17
+    }
+  ],
+  "category_name": "Identity & Access Management",
+  "class_uid": 3006,
+  "category_uid": 3,
+  "class_name": "Group Management",
+  "timezone_offset": 50,
+  "activity_name": "Delete",
+  "severity_id": 6,
+  "src_endpoint": {
+    "name": "comments compression strain",
+    "owner": {
+      "name": "Unlock",
+      "type": "System",
+      "uid": "d20bc46c-54dd-11ef-8a7d-0242ac110006",
+      "org": {
+        "uid": "d20bcf2a-54dd-11ef-8898-0242ac110006",
+        "ou_name": "denver lovely sb"
+      },
+      "type_id": 3,
+      "ldap_person": {},
+      "risk_level": "violation gas bound",
+      "uid_alt": "advice oklahoma petite"
+    },
+    "port": 23755,
+    "type": "Mobile",
+    "ip": "11.5.85.102",
+    "uid": "d20bf11c-54dd-11ef-8200-0242ac110006",
+    "hostname": "beautiful.mobi",
+    "type_id": 5,
+    "interface_name": "roland buf licking",
+    "interface_uid": "d20bfa2c-54dd-11ef-b563-0242ac110006",
+    "svc_name": "vic margaret secretary",
+    "vlan_uid": "d20c058a-54dd-11ef-a6f5-0242ac110006",
+    "vpc_uid": "d20c0bca-54dd-11ef-b4c5-0242ac110006"
+  },
+  "status_code": "performed",
+  "status_detail": "guyana instead tuning",
+  "status_id": 0
+}

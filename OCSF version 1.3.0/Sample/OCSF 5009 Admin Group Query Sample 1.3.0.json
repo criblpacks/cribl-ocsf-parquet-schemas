@@ -1,0 +1,98 @@
+{
+  "message": "magazines gave played",
+  "status": "Success",
+  "time": 1723049777773683,
+  "group": {
+    "name": "uzbekistan citizens acknowledge",
+    "desc": "subsidiaries preceding apnic",
+    "uid": "f6d84824-54dd-11ef-94a3-0242ac110007"
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "version": "1.3.0",
+      "uid": "f6d87c5e-54dd-11ef-b289-0242ac110007",
+      "vendor_name": "indicated tagged fell"
+    },
+    "profiles": [
+      "[]"
+    ],
+    "log_provider": "outlook excellence mississippi",
+    "loggers": [
+      {
+        "name": "deserve offices tropical",
+        "device": {
+          "owner": {
+            "name": "Used",
+            "type": "Unknown",
+            "domain": "brilliant voltage curious",
+            "uid": "f6d8b138-54dd-11ef-9cc7-0242ac110007",
+            "groups": [
+              {
+                "name": "microphone specialties terminals",
+                "uid": "f6d8bbb0-54dd-11ef-8a68-0242ac110007"
+              },
+              {
+                "name": "per floors search",
+                "domain": "peas sub typical",
+                "desc": "lauderdale meters cooper",
+                "uid": "f6d8ca56-54dd-11ef-923c-0242ac110007"
+              }
+            ],
+            "type_id": 0,
+            "risk_level": "resource wise pushing"
+          },
+          "type": "Switch",
+          "ip": "9.238.178.221",
+          "uid": "f6d8d1ea-54dd-11ef-9e61-0242ac110007",
+          "hostname": "fonts.web",
+          "type_id": 10,
+          "boot_time": 1723049777768525,
+          "imei": "holland ecuador trace",
+          "instance_uid": "f6d8950e-54dd-11ef-b82a-0242ac110007",
+          "interface_name": "permalink pt open",
+          "interface_uid": "f6d8a3be-54dd-11ef-a3f7-0242ac110007",
+          "is_managed": true,
+          "region": "oclc likewise very"
+        },
+        "product": {
+          "name": "through kick cal",
+          "version": "1.3.0",
+          "uid": "f6d8dd52-54dd-11ef-b32a-0242ac110007",
+          "vendor_name": "fires generator after"
+        },
+        "uid": "f6d95976-54dd-11ef-9e55-0242ac110007",
+        "log_provider": "investment gps notify",
+        "logged_time": 1723049777771994
+      }
+    ],
+    "tenant_uid": "f6d99bac-54dd-11ef-8b93-0242ac110007"
+  },
+  "severity": "Fatal",
+  "type_uid": 500999,
+  "category_name": "Discovery",
+  "type_name": "Admin Group Query: Other",
+  "activity_id": 99,
+  "observables": [
+    {
+      "name": "sheffield proudly refers",
+      "type": "Fingerprint",
+      "type_id": 30
+    },
+    {
+      "name": "president presentations cake",
+      "type": "URL String",
+      "type_id": 6
+    }
+  ],
+  "class_uid": 5009,
+  "category_uid": 5,
+  "class_name": "Admin Group Query",
+  "timezone_offset": 96,
+  "activity_name": "isp",
+  "query_result": "Does not exist",
+  "query_result_id": 3,
+  "severity_id": 6,
+  "status_detail": "os seven payable",
+  "status_id": 1
+}

@@ -1,0 +1,108 @@
+{
+  "count": 22,
+  "message": "builders llp round",
+  "status": "Unknown",
+  "time": 1723049736749345,
+  "device": {
+    "name": "framing singapore bat",
+    "owner": {
+      "name": "Po",
+      "type": "Unknown",
+      "type_id": 0,
+      "account": {
+        "name": "conducted saudi banned",
+        "type": "rocks",
+        "uid": "de65c226-54dd-11ef-8469-0242ac110006",
+        "labels": [
+          "covers"
+        ],
+        "type_id": 99
+      },
+      "risk_level": "tip promote produced"
+    },
+    "type": "Tablet",
+    "ip": "149.30.144.86",
+    "location": {
+      "desc": "Burundi, Republic of",
+      "city": "Cleared corpus",
+      "country": "BI",
+      "coordinates": [
+        -133.0967,
+        -67.6853
+      ],
+      "continent": "Africa"
+    },
+    "uid": "de65ca14-54dd-11ef-a8b2-0242ac110006",
+    "hostname": "climate.aero",
+    "org": {
+      "name": "above cons publicity",
+      "uid": "de6572d0-54dd-11ef-b575-0242ac110006",
+      "ou_name": "kept tears arrested"
+    },
+    "type_id": 4,
+    "subnet": "56.232.229.0/24",
+    "autoscale_uid": "de65110a-54dd-11ef-b3d4-0242ac110006",
+    "interface_name": "detailed financial brothers",
+    "interface_uid": "de656844-54dd-11ef-a17c-0242ac110006",
+    "is_trusted": false,
+    "network_interfaces": [
+      {
+        "name": "oasis researcher ready",
+        "type": "Wireless",
+        "ip": "157.212.55.120",
+        "uid": "de65839c-54dd-11ef-849e-0242ac110006",
+        "hostname": "dubai.nato",
+        "mac": "6E:93:84:D9:BF:AA:1C:2D",
+        "type_id": 2
+      },
+      {
+        "name": "collar microsoft complimentary",
+        "type": "Wired",
+        "ip": "248.114.235.8",
+        "uid": "de65918e-54dd-11ef-99fa-0242ac110006",
+        "hostname": "uw.com",
+        "mac": "2:1C:0:9F:6E:4A:93:76",
+        "namespace": "athens edinburgh possession",
+        "type_id": 1
+      }
+    ],
+    "region": "newfoundland because abandoned",
+    "risk_score": 42
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "extension": {
+      "name": "banks lucky dvd",
+      "version": "1.2.0",
+      "uid": "de64bc1e-54dd-11ef-ac27-0242ac110006"
+    },
+    "product": {
+      "name": "epson cnn mf",
+      "version": "1.2.0",
+      "uid": "de64cf42-54dd-11ef-82d6-0242ac110006",
+      "vendor_name": "engagement horses wire"
+    },
+    "sequence": 31,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "skating poor miscellaneous",
+    "log_provider": "containers theory java",
+    "original_time": "boolean cottages blast",
+    "tenant_uid": "de64f06c-54dd-11ef-882f-0242ac110006"
+  },
+  "severity": "Medium",
+  "type_name": "Device Inventory Info: Collect",
+  "activity_id": 2,
+  "type_uid": 500102,
+  "category_name": "Discovery",
+  "class_uid": 5001,
+  "category_uid": 5,
+  "class_name": "Device Inventory Info",
+  "timezone_offset": 85,
+  "activity_name": "Collect",
+  "severity_id": 3,
+  "status_code": "trackback",
+  "status_detail": "descending promotes system",
+  "status_id": 0
+}

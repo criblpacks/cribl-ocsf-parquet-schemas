@@ -1,0 +1,139 @@
+{
+  "http_request": {
+    "version": "1.2.0",
+    "url": {
+      "port": 45274,
+      "scheme": "documents clinics departmental",
+      "path": "create commander boxes",
+      "query_string": "resulting qt bulletin",
+      "category_ids": [
+        97
+      ],
+      "url_string": "unnecessary"
+    },
+    "user_agent": "palestinian croatia outlets"
+  },
+  "message": "inspection damages sl",
+  "status": "Success",
+  "time": 1723049729348170,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "receptors forecast dramatically",
+      "path": "ww inquiries blocking",
+      "uid": "d9fbe698-54dd-11ef-90cb-0242ac110006",
+      "feature": {
+        "name": "user completion connected",
+        "version": "1.2.0",
+        "uid": "d9fc0042-54dd-11ef-bb64-0242ac110006"
+      },
+      "vendor_name": "risks standards enemies"
+    },
+    "uid": "d9fc0d9e-54dd-11ef-94da-0242ac110006",
+    "extensions": [
+      {
+        "name": "substantial lexmark matters",
+        "version": "1.2.0",
+        "uid": "d9fc227a-54dd-11ef-97c8-0242ac110006"
+      }
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "valued",
+    "log_name": "rounds ventures meter",
+    "log_provider": "licence episode william",
+    "log_version": "basic databases risk",
+    "original_time": "graphical sustainable goat",
+    "tenant_uid": "d9fc4660-54dd-11ef-91d3-0242ac110006"
+  },
+  "severity": "Critical",
+  "duration": 32,
+  "type_name": "Web Resources Activity: Import",
+  "activity_id": 6,
+  "type_uid": 600106,
+  "observables": [
+    {
+      "name": "unlock respond theaters",
+      "type": "Country",
+      "type_id": 14
+    }
+  ],
+  "category_name": "Application Activity",
+  "class_uid": 6001,
+  "category_uid": 6,
+  "class_name": "Web Resources Activity",
+  "timezone_offset": 76,
+  "activity_name": "Import",
+  "dst_endpoint": {
+    "name": "trance percentage islands",
+    "owner": {
+      "name": "Versions",
+      "type": "Admin",
+      "uid": "d9fc8cd8-54dd-11ef-a00e-0242ac110006",
+      "type_id": 2,
+      "risk_level": "adjustments daniel tb",
+      "risk_score": 53
+    },
+    "type": "Mobile",
+    "ip": "252.174.239.52",
+    "uid": "d9fcb532-54dd-11ef-8879-0242ac110006",
+    "hostname": "nepal.aero",
+    "type_id": 5,
+    "instance_uid": "d9fcbeec-54dd-11ef-bc93-0242ac110006",
+    "interface_name": "forward bbc nvidia",
+    "interface_uid": "d9fcc8ba-54dd-11ef-b140-0242ac110006",
+    "subnet_uid": "d9fd5212-54dd-11ef-adbf-0242ac110006",
+    "svc_name": "troubleshooting google grass"
+  },
+  "severity_id": 5,
+  "src_endpoint": {
+    "name": "talent stating habitat",
+    "owner": {
+      "name": "Fame",
+      "type": "password",
+      "type_id": 99,
+      "risk_level": "Critical",
+      "risk_level_id": 4
+    },
+    "port": 3822,
+    "type": "Browser",
+    "domain": "sweet surgical wood",
+    "ip": "242.241.68.192",
+    "hostname": "studying.com",
+    "type_id": 8,
+    "instance_uid": "d9fc5d3a-54dd-11ef-b419-0242ac110006",
+    "interface_name": "particular toward integrating",
+    "interface_uid": "d9fc649c-54dd-11ef-b011-0242ac110006",
+    "intermediate_ips": [
+      "86.246.159.98"
+    ],
+    "svc_name": "finishing sin roberts"
+  },
+  "status_code": "directed",
+  "status_detail": "superior connector amongst",
+  "status_id": 1,
+  "web_resources": [
+    {
+      "data": "punk"
+    },
+    {
+      "data": "travesti",
+      "uid": "d9fbabba-54dd-11ef-bfc9-0242ac110006",
+      "url_string": "meeting"
+    }
+  ],
+  "web_resources_result": [
+    {
+      "url_string": "mar"
+    },
+    {
+      "desc": "works rock pink",
+      "labels": [
+        "lesson",
+        "consensus"
+      ],
+      "url_string": "saying"
+    }
+  ]
+}

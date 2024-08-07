@@ -1,0 +1,171 @@
+{
+  "message": "toward une spray",
+  "status": "Failure",
+  "time": 1723049709850555,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "isolation jeep submissions",
+      "version": "1.2.0",
+      "uid": "ce5bcc2c-54dd-11ef-b7da-0242ac110006",
+      "cpe_name": "builder sixth appendix",
+      "vendor_name": "ab much grade"
+    },
+    "labels": [
+      "vietnamese",
+      "viewpicture"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "configured principle memo",
+    "log_provider": "cable ecommerce murray",
+    "loggers": [
+      {
+        "name": "departmental expect measuring",
+        "version": "1.2.0",
+        "device": {
+          "name": "team seen reliance",
+          "owner": {
+            "name": "Patio",
+            "domain": "approach mortgages ace",
+            "account": {
+              "type": "GCP Account",
+              "uid": "ce5ce8dc-54dd-11ef-9694-0242ac110006",
+              "labels": [
+                "scottish",
+                "august"
+              ],
+              "type_id": 5
+            },
+            "risk_level": "respiratory dependent nike"
+          },
+          "type": "Mobile",
+          "os": {
+            "name": "sage punch cia",
+            "type": "iOS",
+            "type_id": 301,
+            "cpe_name": "possibly fireplace collect",
+            "sp_name": "swift entrepreneur molecules"
+          },
+          "ip": "53.220.194.235",
+          "uid": "ce5cf390-54dd-11ef-b74f-0242ac110006",
+          "hostname": "retro.jobs",
+          "groups": [
+            {
+              "name": "incoming nbc middle",
+              "desc": "elected darwin mart",
+              "uid": "ce5c1b82-54dd-11ef-9e5b-0242ac110006"
+            },
+            {
+              "name": "artists enormous motorola",
+              "uid": "ce5c3338-54dd-11ef-ad5c-0242ac110006"
+            }
+          ],
+          "type_id": 5,
+          "subnet": "143.0.0.0/8",
+          "imei": "consultant researchers parent",
+          "instance_uid": "ce5cd284-54dd-11ef-ba92-0242ac110006",
+          "interface_name": "q mistakes rejected",
+          "interface_uid": "ce5c0430-54dd-11ef-b90d-0242ac110006",
+          "network_interfaces": [
+            {
+              "type": "mil",
+              "ip": "227.165.248.17",
+              "hostname": "salad.edu",
+              "type_id": 99,
+              "subnet_prefix": 37
+            },
+            {
+              "name": "bare stanley applies",
+              "type": "struggle",
+              "ip": "25.211.234.163",
+              "hostname": "cleared.net",
+              "mac": "84:EA:E6:7F:F6:85:5E:F2",
+              "namespace": "shipments sol half",
+              "type_id": 99
+            }
+          ],
+          "region": "max menu refresh",
+          "risk_level": "beats galaxy italy"
+        },
+        "product": {
+          "name": "encounter governing inspection",
+          "feature": {
+            "name": "islamic view premium",
+            "version": "1.2.0",
+            "uid": "ce5d0db2-54dd-11ef-97d1-0242ac110006"
+          },
+          "vendor_name": "shelf cambridge had"
+        },
+        "uid": "ce5d1e92-54dd-11ef-9e34-0242ac110006",
+        "log_name": "pgp dpi seasonal"
+      },
+      {
+        "name": "hydrocodone foul cornwall",
+        "product": {
+          "name": "ron privilege duties",
+          "version": "1.2.0",
+          "uid": "ce5d329c-54dd-11ef-92a4-0242ac110006",
+          "url_string": "daughter",
+          "vendor_name": "got serial earlier"
+        },
+        "uid": "ce5d3f62-54dd-11ef-807e-0242ac110006",
+        "log_name": "involvement mouse plugin",
+        "log_provider": "congress his italic"
+      }
+    ],
+    "modified_time": 1723049709849889,
+    "original_time": "endangered dog doctors",
+    "tenant_uid": "ce5d4a7a-54dd-11ef-a86e-0242ac110006"
+  },
+  "severity": "Unknown",
+  "type_name": "Peripheral Device Query: Other",
+  "activity_id": 99,
+  "type_uid": 501499,
+  "observables": [
+    {
+      "name": "usb politics telecommunications",
+      "type": "Email",
+      "type_id": 22
+    },
+    {
+      "name": "becomes generation lm",
+      "type": "Process Name",
+      "value": "appendix cookies street",
+      "type_id": 9
+    }
+  ],
+  "category_name": "Discovery",
+  "class_uid": 5014,
+  "category_uid": 5,
+  "class_name": "Peripheral Device Query",
+  "timezone_offset": 73,
+  "activity_name": "healthy",
+  "enrichments": [
+    {
+      "data": "author",
+      "name": "helicopter egypt lone",
+      "type": "awesome billing contains",
+      "value": "runner accepts advantage",
+      "provider": "cbs hitting move"
+    }
+  ],
+  "peripheral_device": {
+    "name": "commons inside cool",
+    "class": "rpm ati system",
+    "uid": "ce5d5b64-54dd-11ef-bd34-0242ac110006",
+    "model": "laundry tire designated",
+    "serial_number": "freight decision components"
+  },
+  "query_info": {
+    "uid": "ce5d66e0-54dd-11ef-908c-0242ac110006",
+    "query_string": "participated allows webmasters",
+    "query_time": 1723049709850821
+  },
+  "query_result": "Exists",
+  "query_result_id": 1,
+  "severity_id": 0,
+  "status_code": "video",
+  "status_id": 2
+}

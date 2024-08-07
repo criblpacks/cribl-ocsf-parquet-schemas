@@ -1,0 +1,219 @@
+{
+  "message": "sticks picks integration",
+  "status": "Unknown",
+  "time": 1723049759123304,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "peripheral hazards continuous",
+      "version": "1.3.0",
+      "uid": "ebbb2876-54dd-11ef-bed9-0242ac110007",
+      "feature": {
+        "name": "impressed counties academy",
+        "version": "1.3.0",
+        "uid": "ebbb369a-54dd-11ef-bc0b-0242ac110007"
+      },
+      "lang": "en",
+      "cpe_name": "contracting fired renewal",
+      "vendor_name": "infected doors integrating"
+    },
+    "extensions": [
+      {
+        "name": "vertical inquiry floral",
+        "version": "1.3.0",
+        "uid": "ebbb4360-54dd-11ef-b06e-0242ac110007"
+      }
+    ],
+    "log_level": "heart deviation spending",
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "farmers",
+    "log_name": "holder opt losing",
+    "log_provider": "google photograph excessive",
+    "original_time": "physician utils lauderdale"
+  },
+  "proxy": {
+    "name": "printed evaluated pg",
+    "owner": {
+      "type": "System",
+      "uid": "ebbc1448-54dd-11ef-a4dd-0242ac110007",
+      "type_id": 3,
+      "risk_level": "Critical",
+      "risk_level_id": 4,
+      "risk_score": 37,
+      "uid_alt": "short royal pale"
+    },
+    "port": 46824,
+    "type": "Laptop",
+    "os": {
+      "name": "substance sale informal",
+      "type": "iPadOS",
+      "type_id": 302,
+      "lang": "en"
+    },
+    "domain": "magnificent lm authorization",
+    "ip": "15.147.66.121",
+    "uid": "ebbc2500-54dd-11ef-9446-0242ac110007",
+    "hostname": "freelance.store",
+    "mac": "CE:7A:6A:A9:16:74:3A:71",
+    "type_id": 3,
+    "agent_list": [
+      {
+        "name": "does def suburban",
+        "type": "Performance Monitoring & Observability",
+        "uid": "ebbc3310-54dd-11ef-bdb8-0242ac110007",
+        "type_id": 4
+      },
+      {
+        "name": "fibre gently barely",
+        "type": "laden",
+        "type_id": 99,
+        "policies": [
+          {
+            "name": "hitting enough dance",
+            "version": "1.3.0",
+            "uid": "ebbc4364-54dd-11ef-b479-0242ac110007",
+            "is_applied": false
+          },
+          {
+            "name": "referral birthday relocation",
+            "version": "1.3.0",
+            "uid": "ebbc613c-54dd-11ef-925d-0242ac110007"
+          }
+        ]
+      }
+    ],
+    "hw_info": {
+      "cpu_type": "april electricity encyclopedia"
+    },
+    "interface_name": "establish powell bo",
+    "interface_uid": "ebbc83ec-54dd-11ef-a9a2-0242ac110007",
+    "intermediate_ips": [
+      "30.88.37.10",
+      "217.121.220.87"
+    ],
+    "subnet_uid": "ebbc8bc6-54dd-11ef-9866-0242ac110007",
+    "svc_name": "bachelor sender turned",
+    "vpc_uid": "ebbc9332-54dd-11ef-96b8-0242ac110007"
+  },
+  "rcode": "BADTRUNC",
+  "query": {
+    "type": "zip pay row",
+    "class": "jews defined rhode",
+    "hostname": "nba.com",
+    "opcode_id": 3,
+    "packet_uid": 41
+  },
+  "severity": "High",
+  "type_uid": 400302,
+  "category_name": "Network Activity",
+  "type_name": "DNS Activity: Response",
+  "activity_id": 2,
+  "observables": [
+    {
+      "name": "conferences saturn veterans",
+      "type": "Process ID",
+      "value": "videos phases malpractice",
+      "type_id": 15
+    },
+    {
+      "name": "city larry combinations",
+      "type": "Process Name",
+      "type_id": 9
+    }
+  ],
+  "class_uid": 4003,
+  "category_uid": 4,
+  "class_name": "DNS Activity",
+  "timezone_offset": 17,
+  "activity_name": "Response",
+  "answers": [
+    {
+      "type": "knights ice jumping",
+      "flag_ids": [
+        0
+      ],
+      "rdata": "iron yo imagine"
+    }
+  ],
+  "dst_endpoint": {
+    "name": "swiss dual canvas",
+    "owner": {
+      "name": "Saw",
+      "type": "System",
+      "uid": "ebbaf9fa-54dd-11ef-8617-0242ac110007",
+      "type_id": 3,
+      "ldap_person": {
+        "location": {
+          "desc": "United Nations Neutral Zone",
+          "city": "Entirely tone",
+          "country": "XD",
+          "coordinates": [
+            -76.5802,
+            -14.6556
+          ],
+          "continent": "Asia"
+        },
+        "modified_time": 1723049759118190
+      }
+    },
+    "port": 56400,
+    "type": "Tablet",
+    "os": {
+      "name": "greetings cylinder shows",
+      "type": "iOS",
+      "type_id": 301,
+      "lang": "en"
+    },
+    "ip": "132.77.61.6",
+    "uid": "ebbb0e9a-54dd-11ef-a581-0242ac110007",
+    "hostname": "certain.coop",
+    "type_id": 4,
+    "interface_name": "fare rats usr",
+    "interface_uid": "ebbb16c4-54dd-11ef-acbc-0242ac110007",
+    "svc_name": "optics good fares"
+  },
+  "enrichments": [
+    {
+      "data": "mattress",
+      "name": "verzeichnis dimensions independent",
+      "type": "ag objects asia",
+      "value": "discussing psychology subject",
+      "created_time": 1723049759120357,
+      "reputation": {
+        "base_score": 21.9186,
+        "provider": "headphones cfr notify",
+        "score": "Very Safe",
+        "score_id": 1
+      },
+      "short_desc": "temp wednesday courts"
+    }
+  ],
+  "rcode_id": 22,
+  "response_time": 1723049759118751,
+  "severity_id": 4,
+  "src_endpoint": {
+    "name": "investigate yields marijuana",
+    "port": 40109,
+    "type": "IDS",
+    "ip": "137.0.39.11",
+    "uid": "ebbb6908-54dd-11ef-978f-0242ac110007",
+    "hostname": "spelling.firm",
+    "mac": "97:D0:11:11:3B:49:E0:6E",
+    "type_id": 13,
+    "instance_uid": "ebbb709c-54dd-11ef-83fc-0242ac110007",
+    "interface_name": "operating achievements avoiding",
+    "interface_uid": "ebbb7768-54dd-11ef-9e73-0242ac110007",
+    "intermediate_ips": [
+      "151.147.131.242",
+      "115.72.195.21"
+    ],
+    "subnet_uid": "ebbbc862-54dd-11ef-a310-0242ac110007",
+    "svc_name": "dave father safety",
+    "zone": "bring seasonal phd"
+  },
+  "status_code": "locally",
+  "status_detail": "individual bargains cents",
+  "status_id": 0
+}

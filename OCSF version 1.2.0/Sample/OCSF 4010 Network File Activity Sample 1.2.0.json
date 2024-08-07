@@ -1,0 +1,241 @@
+{
+  "message": "mia reflect skating",
+  "status": "Success",
+  "time": 1723049725249971,
+  "file": {
+    "name": "ugly.zip",
+    "type": "Character Device",
+    "path": "roof peripheral joel/circles.part/ugly.zip",
+    "signature": {
+      "certificate": {
+        "version": "1.2.0",
+        "subject": "tournaments men canon",
+        "issuer": "dairy sacrifice although",
+        "fingerprints": [
+          {
+            "value": "1512F7CAA4203FDFF2D69EF9551DC8B6FA17C77B",
+            "algorithm": "SHA-1",
+            "algorithm_id": 2
+          },
+          {
+            "value": "54D0689EA0AE0DD05F48DA46F3293B2DDC14B6ED9F272C661FBAE63809AE6765",
+            "algorithm": "magic",
+            "algorithm_id": 99
+          }
+        ],
+        "created_time": 1723049725226375,
+        "expiration_time": 1723049725226391,
+        "serial_number": "britain synopsis se"
+      },
+      "algorithm": "RSA",
+      "algorithm_id": 2
+    },
+    "type_id": 3,
+    "parent_folder": "roof peripheral joel/circles.part",
+    "hashes": [
+      {
+        "value": "71532136B0A22E80611B3AA7C15FE9542A959E75D882997D765AF52734F400AFA21848FBA37109F2838FB14A6A96EECA40AFE9F6A5CB1E009C24C755F90146D8",
+        "algorithm": "TLSH",
+        "algorithm_id": 6
+      },
+      {
+        "value": "69EF2BCE8D7E823C091F8144056D53F29815B374BC9AB23EB93734CC6E0D7ADAF3BE85B87F2ADE64A9493DDE251346C98DE4BD10ECE43C32F0C013AF2CEBF50B",
+        "algorithm": "Unknown",
+        "algorithm_id": 0
+      }
+    ],
+    "security_descriptor": "king discipline transcription",
+    "xattributes": {}
+  },
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "simon boolean wife",
+      "version": "1.2.0",
+      "url_string": "lending",
+      "vendor_name": "generating quantity evil"
+    },
+    "extensions": [
+      {
+        "name": "hats removed pocket",
+        "version": "1.2.0",
+        "uid": "d78a348c-54dd-11ef-a35a-0242ac110006"
+      },
+      {
+        "name": "indicators hamilton un",
+        "version": "1.2.0",
+        "uid": "d78a6042-54dd-11ef-95f9-0242ac110006"
+      }
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "royalty democracy travelling",
+    "log_provider": "claims hepatitis f",
+    "log_version": "strips devices africa",
+    "original_time": "slovak batteries respected",
+    "tenant_uid": "d78a75b4-54dd-11ef-8dcf-0242ac110006"
+  },
+  "proxy": {
+    "name": "thought skill respectively",
+    "owner": {
+      "name": "Interviews",
+      "type": "System",
+      "uid": "d788732c-54dd-11ef-9c69-0242ac110006",
+      "org": {
+        "name": "eventually gsm contact",
+        "uid": "d7888182-54dd-11ef-a2f8-0242ac110006",
+        "ou_name": "generates housewives basis"
+      },
+      "type_id": 3,
+      "ldap_person": {
+        "location": {
+          "desc": "Netherlands, Kingdom of the",
+          "city": "Quantities peripheral",
+          "country": "NL",
+          "coordinates": [
+            148.8925,
+            14.7511
+          ],
+          "continent": "Europe"
+        },
+        "email_addrs": [
+          "Nia@browsing.firm"
+        ],
+        "last_login_time": 1723049725235745,
+        "office_location": "appeared harbor edward"
+      },
+      "uid_alt": "shelf lover act"
+    },
+    "port": 34544,
+    "type": "IOT",
+    "os": {
+      "name": "cb grenada played",
+      "type": "iOS",
+      "type_id": 301,
+      "cpu_bits": 69,
+      "edition": "animated niger demonstrated"
+    },
+    "ip": "10.224.239.155",
+    "uid": "d78907c4-54dd-11ef-8a45-0242ac110006",
+    "hostname": "clocks.nato",
+    "type_id": 7,
+    "instance_uid": "d7898bea-54dd-11ef-9a4f-0242ac110006",
+    "interface_name": "identifying cached helping",
+    "interface_uid": "d78997de-54dd-11ef-b9be-0242ac110006",
+    "svc_name": "absence retrieve observer",
+    "vpc_uid": "d789c574-54dd-11ef-a796-0242ac110006"
+  },
+  "connection_info": {
+    "direction": "Outbound",
+    "direction_id": 2,
+    "protocol_num": 64
+  },
+  "severity": "Low",
+  "type_name": "Network File Activity: Restore",
+  "activity_id": 8,
+  "type_uid": 401008,
+  "observables": [
+    {
+      "name": "lending promotes treated",
+      "type": "Container",
+      "type_id": 27
+    },
+    {
+      "name": "banks fate did",
+      "type": "Hostname",
+      "type_id": 1,
+      "reputation": {
+        "base_score": 87.4986,
+        "provider": "foot periods slides",
+        "score": "Malicious",
+        "score_id": 10
+      }
+    }
+  ],
+  "category_name": "Network Activity",
+  "class_uid": 4010,
+  "category_uid": 4,
+  "class_name": "Network File Activity",
+  "timezone_offset": 43,
+  "end_time": 1723049725249960,
+  "activity_name": "Restore",
+  "dst_endpoint": {
+    "name": "election vast gained",
+    "owner": {
+      "name": "Councils",
+      "type": "Admin",
+      "type_id": 2,
+      "uid_alt": "rendered websites ae"
+    },
+    "type": "Unknown",
+    "domain": "madagascar widespread nav",
+    "ip": "195.51.97.28",
+    "uid": "d78b3710-54dd-11ef-95f7-0242ac110006",
+    "hostname": "barrel.com",
+    "type_id": 0,
+    "autonomous_system": {
+      "number": 10
+    },
+    "hw_info": {
+      "bios_date": "pgp wagon enclosure",
+      "cpu_bits": 95,
+      "cpu_speed": 0,
+      "cpu_type": "newsletter barrier cfr"
+    },
+    "instance_uid": "d78b6866-54dd-11ef-a950-0242ac110006",
+    "interface_name": "tension frog specifics",
+    "interface_uid": "d78b6f50-54dd-11ef-a598-0242ac110006",
+    "svc_name": "hunter appliance ten",
+    "vlan_uid": "d78b7572-54dd-11ef-96d2-0242ac110006"
+  },
+  "enrichments": [
+    {
+      "data": "adsl",
+      "name": "blanket soundtrack psychology",
+      "type": "faqs debate eau",
+      "value": "stick preceding recorders",
+      "provider": "implementing outsourcing silly"
+    }
+  ],
+  "severity_id": 2,
+  "src_endpoint": {
+    "name": "cancelled explain amongst",
+    "owner": {
+      "name": "Alter",
+      "type": "neither",
+      "domain": "thanks circles somehow",
+      "uid": "d78abe16-54dd-11ef-9b45-0242ac110006",
+      "org": {
+        "name": "organizer clips instruction",
+        "uid": "d78aca8c-54dd-11ef-9b4b-0242ac110006",
+        "ou_name": "responsible our barnes"
+      },
+      "type_id": 99,
+      "full_name": "Mara Jaqueline",
+      "uid_alt": "myself jpeg dot"
+    },
+    "port": 54012,
+    "type": "Desktop",
+    "uid": "d78ae986-54dd-11ef-b546-0242ac110006",
+    "hostname": "box.com",
+    "mac": "C5:A4:33:B:CE:40:E9:90",
+    "type_id": 2,
+    "instance_uid": "d78af1e2-54dd-11ef-82b6-0242ac110006",
+    "interface_name": "sudan measurement pit",
+    "interface_uid": "d78b141a-54dd-11ef-b7fd-0242ac110006",
+    "intermediate_ips": [
+      "220.144.49.109"
+    ],
+    "svc_name": "recovery sexually syracuse"
+  },
+  "status_code": "terrace",
+  "status_detail": "minimum todd boc",
+  "status_id": 1,
+  "traffic": {
+    "chunks_out": 1760137413,
+    "packets": 3130705098,
+    "packets_in": 621926662,
+    "packets_out": 3863249868
+  }
+}

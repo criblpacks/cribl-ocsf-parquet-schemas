@@ -1,0 +1,243 @@
+{
+  "status": "rental",
+  "time": 1723049800647562,
+  "file": {
+    "attributes": 31,
+    "name": "sun.pptx",
+    "type": "Block Device",
+    "path": "congratulations reviews specialty/publication.gz/sun.pptx",
+    "uid": "047943f2-54de-11ef-904d-0242ac110007",
+    "ext": "certificates discipline corpus",
+    "type_id": 4,
+    "parent_folder": "congratulations reviews specialty/publication.gz",
+    "confidentiality": "quad usc builders",
+    "hashes": [
+      {
+        "value": "92DAC74D672157F9C3B190A436EAA7E11CE829EDC330D64EF91AFCE72E5529D48C8E469C00689D98310F7C41552E4E3691641250031A6796A8C3B59BC9688AEF",
+        "algorithm": "CTPH",
+        "algorithm_id": 5
+      },
+      {
+        "value": "32D7901B0ABC2EC622F7FF8C1774F5B35BAD67FDC5B603DBE5D52A3B4F816931BC7139C930E9CD723B7C19BDC40CD7CD6EE3D5EF9DDD568AB0E44446F1112313",
+        "algorithm": "quickXorHash",
+        "algorithm_id": 7
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "adjacent bobby desert",
+      "version": "1.3.0",
+      "vendor_name": "swap dont guam"
+    },
+    "labels": [
+      "dad",
+      "usgs"
+    ],
+    "log_level": "configured rays cards",
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "047a38a2-54de-11ef-8a0f-0242ac110007",
+    "event_code": "tokyo",
+    "log_name": "prefers sally bones",
+    "log_provider": "kilometers embedded earning",
+    "tenant_uid": "047a41b2-54de-11ef-9e48-0242ac110007"
+  },
+  "proxy": {
+    "name": "excellent sea baghdad",
+    "owner": {
+      "name": "Guess",
+      "type": "User",
+      "domain": "connector guitars ripe",
+      "uid": "047c05c4-54de-11ef-be25-0242ac110007",
+      "type_id": 1,
+      "ldap_person": {
+        "email_addrs": [
+          "Elissa@lined.travel",
+          "Molly@declaration.web"
+        ],
+        "modified_time": 1723049800649106,
+        "surname": "patterns charming vinyl"
+      }
+    },
+    "port": 58253,
+    "type": "Router",
+    "os": {
+      "name": "las thoroughly was",
+      "type": "iOS",
+      "build": "boulevard learn enhancement",
+      "country": "Saudi Arabia, Kingdom of",
+      "type_id": 301
+    },
+    "ip": "40.250.225.69",
+    "uid": "047c2c3e-54de-11ef-bd33-0242ac110007",
+    "hostname": "experience.biz",
+    "type_id": 12,
+    "instance_uid": "047c3c56-54de-11ef-be95-0242ac110007",
+    "interface_name": "switch arrangements estimation",
+    "interface_uid": "047c7f36-54de-11ef-a95f-0242ac110007",
+    "svc_name": "minute invision gamma"
+  },
+  "connection_info": {
+    "uid": "0478e646-54de-11ef-87c2-0242ac110007",
+    "boundary": "Unknown",
+    "protocol_name": "passing calendars hugh",
+    "direction": "Lateral",
+    "boundary_id": 0,
+    "direction_id": 3,
+    "protocol_ver": "children",
+    "protocol_ver_id": 99,
+    "tcp_flags": 9
+  },
+  "severity": "Medium",
+  "tls": {
+    "version": "1.3.0",
+    "certificate": {
+      "version": "1.3.0",
+      "is_self_signed": false,
+      "subject": "bytes trivia photographers",
+      "issuer": "first thumbnail paso",
+      "fingerprints": [
+        {
+          "value": "B7FC2CA863B10996E5B68DF2079B7E3574D0DCEF099A8275C24C89C986A90B68",
+          "algorithm": "magic",
+          "algorithm_id": 99
+        },
+        {
+          "value": "EF4DE77E61BA7FA48E5D81E5C80985B92A039327A54380F7B4874D83CB0776D4861CEB6C2072889C2469D3A24EC9682BECB06A60025437F2D76592989E590E56",
+          "algorithm": "quickXorHash",
+          "algorithm_id": 7
+        }
+      ],
+      "created_time": 1723049800638270,
+      "expiration_time": 1723049800638283,
+      "serial_number": "ba workstation excluding"
+    },
+    "cipher": "resist enjoy downloading",
+    "sni": "offer brighton cart",
+    "certificate_chain": [
+      "bearing pre climb",
+      "unified inbox norway"
+    ],
+    "client_ciphers": [
+      "emotional eliminate might",
+      "phoenix ratings slow"
+    ],
+    "extension_list": [
+      {
+        "data": "object",
+        "type": "indians",
+        "type_id": 99
+      }
+    ],
+    "ja3_hash": {
+      "value": "F856853288D043EA29C2C8AF8A7985348FA23FA91386DB8B97994BB4CEB0AC88FA597DB8E1F7FAED147FC146CB6A0B44BF6DC2EFA64E3CF9B6B2C06C2135BA05",
+      "algorithm": "CTPH",
+      "algorithm_id": 5
+    },
+    "ja3s_hash": {
+      "value": "FF4060DD088D6952AFE754FCB971A8E0BF8A1E0A18D5E38F368696477E87B015A12A8A88CFB8F54DFC125216FCB8A0BEB0902DB87B1F9951AF38939CB7B6CDD9",
+      "algorithm": "Unknown",
+      "algorithm_id": 0
+    }
+  },
+  "app_name": "nonprofit recruitment identifying",
+  "type_uid": 401002,
+  "category_name": "Network Activity",
+  "type_name": "Network File Activity: Download",
+  "activity_id": 2,
+  "class_uid": 4010,
+  "category_uid": 4,
+  "class_name": "Network File Activity",
+  "timezone_offset": 40,
+  "activity_name": "Download",
+  "dst_endpoint": {
+    "owner": {
+      "name": "Layer",
+      "type": "transmission",
+      "domain": "talented blogger tee",
+      "type_id": 99,
+      "risk_score": 64
+    },
+    "port": 24777,
+    "ip": "70.171.43.21",
+    "uid": "0479ace8-54de-11ef-a948-0242ac110007",
+    "instance_uid": "0479ff04-54de-11ef-b715-0242ac110007",
+    "interface_uid": "047a09c2-54de-11ef-bf6c-0242ac110007",
+    "svc_name": "specialties province stan",
+    "vpc_uid": "047a1494-54de-11ef-a5a9-0242ac110007"
+  },
+  "enrichments": [
+    {
+      "data": "anyone",
+      "name": "implications bike minneapolis",
+      "type": "wv r forget",
+      "value": "ghost commands tip",
+      "provider": "hearings war buffer",
+      "reputation": {
+        "base_score": 93.5247,
+        "provider": "fioricet peers graduates",
+        "score": "Malicious",
+        "score_id": 10
+      },
+      "short_desc": "columbia veterans roommate",
+      "src_url": "mate"
+    }
+  ],
+  "severity_id": 3,
+  "src_endpoint": {
+    "name": "loud emission ken",
+    "owner": {
+      "name": "Antonio",
+      "type": "Unknown",
+      "uid": "047ad3f2-54de-11ef-96c8-0242ac110007",
+      "type_id": 0,
+      "full_name": "Laree Willow",
+      "credential_uid": "047ae036-54de-11ef-9371-0242ac110007",
+      "risk_score": 97
+    },
+    "port": 50087,
+    "type": "Load Balancer",
+    "domain": "associates sc losses",
+    "location": {
+      "desc": "Tajikistan, Republic of",
+      "city": "Domain candles",
+      "country": "TJ",
+      "coordinates": [
+        119.451,
+        -63.9318
+      ],
+      "continent": "Asia"
+    },
+    "hostname": "hi.net",
+    "type_id": 15,
+    "agent_list": [
+      {
+        "name": "reproduced simplified meditation",
+        "type": "Data Loss Prevention",
+        "uid": "047b22a8-54de-11ef-85e4-0242ac110007",
+        "type_id": 2
+      },
+      {
+        "name": "posing derby jewel",
+        "type": "Configuration Management",
+        "uid": "047b2b04-54de-11ef-bf9a-0242ac110007",
+        "type_id": 8
+      }
+    ],
+    "instance_uid": "047b9986-54de-11ef-b714-0242ac110007",
+    "interface_name": "circuit legislative explaining",
+    "interface_uid": "047bae62-54de-11ef-8b3e-0242ac110007",
+    "subnet_uid": "047bcf50-54de-11ef-b5de-0242ac110007",
+    "svc_name": "weapon reserve brown"
+  },
+  "status_code": "tongue",
+  "status_detail": "royalty gallery composition",
+  "status_id": 99,
+  "traffic": {
+    "bytes": 2452648362,
+    "chunks_in": 3674679055
+  }
+}

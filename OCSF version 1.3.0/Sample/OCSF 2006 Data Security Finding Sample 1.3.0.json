@@ -1,0 +1,412 @@
+{
+  "impact_score": 78,
+  "impact_id": 4,
+  "status_detail": "onto loves total",
+  "start_time": 1723049770719105,
+  "impact": "Critical",
+  "class_uid": 2006,
+  "database": {
+    "name": "exp agency delete",
+    "type": "musical",
+    "uid": "f2a52740-54dd-11ef-8304-0242ac110007",
+    "type_id": 99,
+    "created_time": 1723049770719029
+  },
+  "type_name": "Data Security Finding: Update",
+  "message": "davis discovery alice",
+  "category_name": "Findings",
+  "status_id": 4,
+  "time": 1723049770718702,
+  "resources": [
+    {
+      "name": "expanded closed how",
+      "owner": {
+        "name": "Hansen",
+        "type": "User",
+        "uid": "f2a4c444-54dd-11ef-ab51-0242ac110007",
+        "type_id": 1,
+        "email_addr": "Georgine@brochure.biz"
+      },
+      "uid": "f2a4cb88-54dd-11ef-af11-0242ac110007"
+    },
+    {
+      "data": "minister",
+      "owner": {
+        "name": "Ferry",
+        "type": "polls",
+        "domain": "leisure nominations thomson",
+        "uid": "f2a4d7d6-54dd-11ef-8592-0242ac110007",
+        "org": {
+          "name": "strategies begins criteria",
+          "uid": "f2a4e0b4-54dd-11ef-8cb0-0242ac110007",
+          "ou_name": "jenny eat recipient"
+        },
+        "groups": [
+          {
+            "name": "career draw customs",
+            "uid": "f2a4f0a4-54dd-11ef-ba15-0242ac110007"
+          },
+          {
+            "name": "lie opposed survive",
+            "type": "simon align birth",
+            "domain": "tent engaging acrylic",
+            "uid": "f2a4f86a-54dd-11ef-9297-0242ac110007"
+          }
+        ],
+        "type_id": 99,
+        "full_name": "Kathlyn Mandy",
+        "ldap_person": {
+          "location": {
+            "desc": "Guinea-Bissau, Republic of",
+            "city": "Maryland brother",
+            "country": "GW",
+            "coordinates": [
+              78.0124,
+              -71.9503
+            ],
+            "continent": "Africa"
+          },
+          "hire_time": 1723049770718032
+        },
+        "uid_alt": "protocols harmful devil"
+      },
+      "uid": "f2a50850-54dd-11ef-b0e4-0242ac110007",
+      "agent_list": [
+        {
+          "name": "nevertheless terry packard",
+          "type": "Vulnerability Management",
+          "uid": "f2a51462-54dd-11ef-acc4-0242ac110007",
+          "type_id": 5
+        },
+        {
+          "type": "Configuration Management",
+          "uid": "f2a51ad4-54dd-11ef-b328-0242ac110007",
+          "type_id": 8
+        }
+      ]
+    }
+  ],
+  "type_uid": 200602,
+  "activity_name": "Update",
+  "src_endpoint": {
+    "owner": {
+      "type": "User",
+      "uid": "f2a4854c-54dd-11ef-941e-0242ac110007",
+      "type_id": 1,
+      "credential_uid": "f2a48c4a-54dd-11ef-8dce-0242ac110007",
+      "ldap_person": {
+        "location": {
+          "desc": "Cocos (Keeling) Islands",
+          "city": "Aware martial",
+          "country": "CC",
+          "coordinates": [
+            -112.2848,
+            0.2216
+          ],
+          "continent": "Asia"
+        },
+        "created_time": 1723049770715316,
+        "email_addrs": [
+          "Jinny@heavily.coop",
+          "Kimberly@enlargement.travel"
+        ],
+        "modified_time": 1723049770715346
+      }
+    },
+    "port": 21197,
+    "type": "Laptop",
+    "domain": "entries lycos mart",
+    "ip": "61.216.113.97",
+    "uid": "f2a49fc8-54dd-11ef-9782-0242ac110007",
+    "hostname": "microwave.firm",
+    "type_id": 3,
+    "instance_uid": "f2a4a6d0-54dd-11ef-8943-0242ac110007",
+    "interface_name": "angels scenes botswana",
+    "intermediate_ips": [
+      "34.220.21.232",
+      "9.10.5.142"
+    ],
+    "svc_name": "daisy particularly last",
+    "vlan_uid": "f2a4b03a-54dd-11ef-8f8f-0242ac110007",
+    "zone": "heritage reads wash"
+  },
+  "enrichments": [
+    {
+      "data": "change",
+      "name": "hopefully guinea pregnancy",
+      "type": "articles baths ladies",
+      "value": "belong usda architects",
+      "created_time": 1723049770714286,
+      "provider": "council removing voting",
+      "short_desc": "retention quickly assembly"
+    },
+    {
+      "data": "ribbon",
+      "name": "therapist specifically lo",
+      "type": "rapidly gaming picks",
+      "value": "tribe protect united",
+      "desc": "king retreat horizontal",
+      "created_time": 1723049770714321,
+      "provider": "wifi pleasant governor",
+      "short_desc": "climate pupils mazda",
+      "src_url": "witch"
+    }
+  ],
+  "databucket": {
+    "name": "racial municipality proud",
+    "type": "Unknown",
+    "uid": "f2a437ea-54dd-11ef-bc93-0242ac110007",
+    "groups": [
+      {
+        "name": "adjustment spas secrets",
+        "domain": "marketing gather hamilton",
+        "desc": "ranges close kill",
+        "uid": "f2a44c44-54dd-11ef-928a-0242ac110007",
+        "privileges": [
+          "unified accomplish absent",
+          "oclc winston erotica"
+        ]
+      }
+    ],
+    "type_id": 0,
+    "modified_time": 1723049770714087
+  },
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "disks folders at",
+      "version": "1.3.0",
+      "uid": "f2a36e96-54dd-11ef-b522-0242ac110007",
+      "lang": "en",
+      "vendor_name": "removing encryption bishop"
+    },
+    "uid": "f2a405c2-54dd-11ef-b3b1-0242ac110007",
+    "labels": [
+      "screenshots"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "correlation_uid": "f2a4142c-54dd-11ef-a783-0242ac110007",
+    "log_name": "experiencing cms or",
+    "log_provider": "invasion hotels chrome",
+    "original_time": "advocate carries releases",
+    "tenant_uid": "f2a42836-54dd-11ef-b474-0242ac110007"
+  },
+  "status_code": "loop",
+  "severity_id": 99,
+  "status": "Resolved",
+  "dst_endpoint": {
+    "name": "trusts shepherd signal",
+    "owner": {
+      "name": "Dominican",
+      "type": "Admin",
+      "uid": "f2a19c2e-54dd-11ef-9f67-0242ac110007",
+      "groups": [
+        {
+          "name": "advised surveys took",
+          "domain": "cleveland concern wells",
+          "uid": "f2a1e760-54dd-11ef-aece-0242ac110007"
+        },
+        {
+          "name": "booth rugby membrane",
+          "uid": "f2a1f6ec-54dd-11ef-8a09-0242ac110007"
+        }
+      ],
+      "type_id": 2,
+      "full_name": "Yolanda Lorilee",
+      "email_addr": "Mariella@rna.museum",
+      "uid_alt": "mineral give hull"
+    },
+    "port": 56991,
+    "type": "Browser",
+    "ip": "16.214.221.42",
+    "uid": "f2a2239c-54dd-11ef-bc3d-0242ac110007",
+    "hostname": "eternal.web",
+    "type_id": 8,
+    "agent_list": [
+      {
+        "uid": "f2a23472-54dd-11ef-81aa-0242ac110007"
+      },
+      {
+        "name": "lord intelligent introduce",
+        "type": "Mobile Device Management",
+        "uid": "f2a2b988-54dd-11ef-85ae-0242ac110007",
+        "type_id": 7,
+        "policies": [
+          {
+            "name": "fred trees photos",
+            "version": "1.3.0",
+            "is_applied": false
+          }
+        ],
+        "vendor_name": "flood roll gmc"
+      }
+    ],
+    "instance_uid": "f2a2cdd8-54dd-11ef-892f-0242ac110007",
+    "interface_name": "sorts geometry precipitation",
+    "interface_uid": "f2a30398-54dd-11ef-9ff0-0242ac110007",
+    "svc_name": "molecular raw judges"
+  },
+  "confidence": "apnic geography combination",
+  "class_name": "Data Security Finding",
+  "severity": "products",
+  "observables": [
+    {
+      "name": "fairly memories running",
+      "type": "Subnet",
+      "value": "wan favorite kg",
+      "type_id": 12
+    }
+  ],
+  "confidence_id": 0,
+  "file": {
+    "attributes": 38,
+    "name": "waterproof.mdb",
+    "owner": {
+      "name": "Registry",
+      "type": "User",
+      "uid": "f29fce9e-54dd-11ef-8a20-0242ac110007",
+      "groups": [
+        {
+          "name": "suffering holy zum",
+          "uid": "f29fff40-54dd-11ef-b0e6-0242ac110007"
+        },
+        {
+          "name": "government tvs association",
+          "desc": "distribution kong recipe",
+          "uid": "f2a01318-54dd-11ef-8e01-0242ac110007",
+          "privileges": [
+            "views lt discussion",
+            "term happening li"
+          ]
+        }
+      ],
+      "type_id": 1,
+      "credential_uid": "f2a04e96-54dd-11ef-89b2-0242ac110007",
+      "risk_level": "High",
+      "risk_level_id": 3
+    },
+    "type": "Regular File",
+    "path": "revolutionary adam spy/session.cur/waterproof.mdb",
+    "signature": {
+      "certificate": {
+        "version": "1.3.0",
+        "uid": "f2a05ecc-54dd-11ef-b988-0242ac110007",
+        "subject": "finger variable closing",
+        "issuer": "apart december fr",
+        "fingerprints": [
+          {
+            "value": "642E169F31471CE9300918A69D68D6292CECCA67D997BFDFC93FA3A4F228F341DB4A27F62ADDC0B3F649F005AF32A364BE3A3259971E166318CA3F5B3EA9AA21",
+            "algorithm": "TLSH",
+            "algorithm_id": 6
+          },
+          {
+            "value": "05381E70502C378CEDF8A773B6381AC48459231A34E13F78DE502E3FEC33B103B45EB8C40729AEF9950B1B7CD311E8BEF86FCD11D47873082EAE7248EF3EA9DA",
+            "algorithm": "Unknown",
+            "algorithm_id": 0
+          }
+        ],
+        "created_time": 1723049770691237,
+        "expiration_time": 1723049770691249,
+        "serial_number": "wing vehicle newspaper"
+      },
+      "algorithm": "RSA",
+      "algorithm_id": 2
+    },
+    "product": {
+      "name": "animal spring acid",
+      "version": "1.3.0",
+      "uid": "f2a0fb3e-54dd-11ef-8460-0242ac110007",
+      "lang": "en",
+      "vendor_name": "appliance suggesting graph"
+    },
+    "ext": "luxembourg apart compare",
+    "type_id": 1,
+    "company_name": "Samella Babara",
+    "parent_folder": "revolutionary adam spy/session.cur",
+    "created_time": 1723049770691776,
+    "hashes": [
+      {
+        "value": "AF3EDE96B415AF698CD674B66432A27548B3523220B898BCC13D2ABE903F47B9B2BDC3CE53F6382881AA2B4C98891A142BFF775B9FC7AB356D640DF4366399A3",
+        "algorithm": "Unknown",
+        "algorithm_id": 0
+      },
+      {
+        "value": "0E39ECE8A6AD4D1DD474308631259D7E15FFC3CDA7257E88AA00740DF1AD34F9247BEF2ECEBA4656042FE7AED715FBC258E9EEE64BF1644E8423AF741B757666",
+        "algorithm": "CTPH",
+        "algorithm_id": 5
+      }
+    ]
+  },
+  "category_uid": 2,
+  "table": {
+    "name": "comm strict creations",
+    "uid": "f29f25c0-54dd-11ef-a161-0242ac110007"
+  },
+  "activity_id": 2,
+  "data_security": {
+    "category": "dp",
+    "category_id": 99,
+    "confidentiality": "Restricted",
+    "confidentiality_id": 6,
+    "data_lifecycle_state": "Data in-Transit",
+    "data_lifecycle_state_id": 2,
+    "detection_pattern": "limitations interstate councils",
+    "detection_system": "nuclear",
+    "detection_system_id": 99,
+    "policy": {
+      "name": "fare negotiations museums",
+      "version": "1.3.0",
+      "desc": "jeep eyed cleveland",
+      "uid": "f29eecb8-54dd-11ef-9198-0242ac110007",
+      "is_applied": true
+    }
+  },
+  "finding_info": {
+    "title": "efficient tomato cable",
+    "uid": "f29dec96-54dd-11ef-8801-0242ac110007",
+    "types": [
+      "llp much icons",
+      "guards inspection replication"
+    ],
+    "analytic": {
+      "name": "calling handbags gaming",
+      "type": "Learning (ML/DL)",
+      "uid": "f29e5be0-54dd-11ef-aa7b-0242ac110007",
+      "category": "protective knew mails",
+      "type_id": 4
+    },
+    "product_uid": "f29e65c2-54dd-11ef-b327-0242ac110007",
+    "related_analytics": [
+      {
+        "name": "consortium courts inclusion",
+        "type": "Rule",
+        "desc": "dist regulatory complement",
+        "uid": "f29e7aa8-54dd-11ef-8113-0242ac110007",
+        "type_id": 1,
+        "related_analytics": [
+          {
+            "name": "ambassador patio rochester",
+            "type": "Learning (ML/DL)",
+            "uid": "f29e94b6-54dd-11ef-a3ff-0242ac110007",
+            "type_id": 4
+          },
+          {
+            "name": "customize climb attach",
+            "type": "Behavioral",
+            "uid": "f29ea12c-54dd-11ef-bc54-0242ac110007",
+            "type_id": 2
+          }
+        ]
+      },
+      {
+        "name": "celebrities prisoners cats",
+        "type": "Rule",
+        "uid": "f29eb7b6-54dd-11ef-8de9-0242ac110007",
+        "type_id": 1
+      }
+    ]
+  },
+  "timezone_offset": 81
+}

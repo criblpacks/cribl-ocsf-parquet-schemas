@@ -1,0 +1,102 @@
+{
+  "count": 3,
+  "message": "exams partnership pod",
+  "status": "Unknown",
+  "time": 1723049724556126,
+  "metadata": {
+    "version": "1.2.0",
+    "product": {
+      "name": "namespace fleet responses",
+      "version": "1.2.0",
+      "uid": "d720dafa-54dd-11ef-a9cf-0242ac110006",
+      "lang": "en",
+      "cpe_name": "adoption phillips machinery",
+      "vendor_name": "tubes fairy pricing"
+    },
+    "labels": [
+      "marion",
+      "accept"
+    ],
+    "profiles": [
+      "[]"
+    ],
+    "event_code": "alphabetical",
+    "log_name": "tackle documented reflection",
+    "log_provider": "ma mutual removal",
+    "loggers": [
+      {
+        "name": "trust restored things",
+        "uid": "d720f6d4-54dd-11ef-85e0-0242ac110006",
+        "log_name": "obtained pdas be",
+        "log_provider": "leaders meta under",
+        "logged_time": 1723049724554241,
+        "transmit_time": 1723049724554253
+      },
+      {
+        "name": "mount yu thickness",
+        "device": {
+          "name": "bedrooms ultimately wheat",
+          "type": "Tablet",
+          "desc": "cr pension run",
+          "uid": "d7212b54-54dd-11ef-84a7-0242ac110006",
+          "hostname": "defects.mil",
+          "org": {
+            "name": "begin combination correspondence",
+            "ou_name": "folding cult african"
+          },
+          "type_id": 4,
+          "agent_list": [
+            {
+              "name": "receives johnny greeting",
+              "version": "1.2.0",
+              "uid": "d7211c86-54dd-11ef-9f9a-0242ac110006"
+            }
+          ],
+          "instance_uid": "d721253c-54dd-11ef-b535-0242ac110006",
+          "interface_name": "bidding ideal complexity",
+          "interface_uid": "d7210854-54dd-11ef-b301-0242ac110006",
+          "is_compliant": false,
+          "vlan_uid": "d72111e6-54dd-11ef-baba-0242ac110006"
+        },
+        "product": {
+          "name": "alerts chef lewis",
+          "version": "1.2.0",
+          "vendor_name": "northeast daughters pig"
+        },
+        "uid": "d7213766-54dd-11ef-bbf6-0242ac110006",
+        "log_name": "go base receiver",
+        "log_provider": "religious savannah iron"
+      }
+    ],
+    "original_time": "sounds elimination involvement",
+    "processed_time": 1723049724555931,
+    "tenant_uid": "d72140f8-54dd-11ef-b4ed-0242ac110006"
+  },
+  "app": {
+    "name": "syndication ou popular",
+    "uid": "d720c362-54dd-11ef-88ec-0242ac110006",
+    "cpe_name": "sense notebooks trip",
+    "vendor_name": "min conducting now"
+  },
+  "severity": "Low",
+  "type_name": "Application Lifecycle: Remove",
+  "activity_id": 2,
+  "type_uid": 600202,
+  "observables": [
+    {
+      "name": "link bride plain",
+      "type": "Fingerprint",
+      "type_id": 30
+    }
+  ],
+  "category_name": "Application Activity",
+  "class_uid": 6002,
+  "category_uid": 6,
+  "class_name": "Application Lifecycle",
+  "timezone_offset": 77,
+  "activity_name": "Remove",
+  "severity_id": 2,
+  "status_code": "department",
+  "status_detail": "occurring pike equations",
+  "status_id": 0
+}

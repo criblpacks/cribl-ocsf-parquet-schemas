@@ -1,0 +1,340 @@
+{
+  "message": "juan sci modem",
+  "status": "fx pools windsor",
+  "time": 1723049793816823,
+  "metadata": {
+    "version": "1.3.0",
+    "product": {
+      "name": "doug keys petersburg",
+      "version": "1.3.0",
+      "uid": "00688868-54de-11ef-a065-0242ac110007",
+      "feature": {
+        "name": "guards tradition glass",
+        "version": "1.3.0",
+        "uid": "006891e6-54de-11ef-86d5-0242ac110007"
+      },
+      "vendor_name": "dem jr pam"
+    },
+    "labels": [
+      "greetings"
+    ],
+    "log_level": "hawk annotation il",
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "publicity tree sciences",
+    "log_provider": "kernel receiver stanford",
+    "loggers": [
+      {
+        "name": "scheme phillips quality",
+        "device": {
+          "owner": {
+            "name": "Fold",
+            "type": "Unknown",
+            "uid": "0068c72e-54de-11ef-860b-0242ac110007",
+            "org": {
+              "name": "concerned thumbnail lithuania",
+              "uid": "0068d25a-54de-11ef-943f-0242ac110007",
+              "ou_name": "rich myself ss"
+            },
+            "type_id": 0,
+            "full_name": "Zena Florentina"
+          },
+          "type": "Desktop",
+          "ip": "239.164.210.169",
+          "desc": "bibliography accent completely",
+          "hostname": "timer.mil",
+          "type_id": 2,
+          "interface_name": "listing americans shakira",
+          "interface_uid": "0068b41e-54de-11ef-9ec2-0242ac110007",
+          "is_personal": false,
+          "last_seen_time": 1723049793811758,
+          "region": "wonder calculation k"
+        },
+        "log_name": "fitness quantity champion",
+        "log_provider": "invited qatar paying",
+        "log_version": "acquisitions acknowledged king",
+        "logged_time": 1723049793811810
+      },
+      {
+        "name": "erotica networking dicke",
+        "device": {
+          "name": "analyst powers soa",
+          "owner": {
+            "name": "Trivia",
+            "type": "infrastructure",
+            "uid": "0069109e-54de-11ef-8461-0242ac110007",
+            "type_id": 99
+          },
+          "type": "IPS",
+          "uid": "00691846-54de-11ef-91d5-0242ac110007",
+          "hostname": "participating.gov",
+          "mac": "88:66:9B:16:9D:A:17:4",
+          "image": {
+            "uid": "006922be-54de-11ef-81c4-0242ac110007",
+            "labels": [
+              "ste"
+            ]
+          },
+          "type_id": 14,
+          "boot_time": 1723049793813802,
+          "hw_info": {
+            "bios_date": "nickel antenna way",
+            "bios_manufacturer": "extract championships nj",
+            "cpu_cores": 90,
+            "cpu_count": 34,
+            "desktop_display": {
+              "color_depth": 97
+            }
+          },
+          "instance_uid": "0068f820-54de-11ef-a59a-0242ac110007",
+          "interface_name": "baskets formerly uniprotkb",
+          "interface_uid": "0068fe60-54de-11ef-9a17-0242ac110007",
+          "region": "declaration suits ellen",
+          "risk_level": "lined breaks revolutionary"
+        },
+        "product": {
+          "name": "reporting applies welcome",
+          "version": "1.3.0",
+          "uid": "0069318c-54de-11ef-bfc3-0242ac110007",
+          "vendor_name": "economy mpg email"
+        },
+        "uid": "00693902-54de-11ef-ae30-0242ac110007",
+        "log_level": "korean processed data",
+        "log_name": "shade examine herb",
+        "log_provider": "showtimes shaft per",
+        "log_version": "nervous advertiser boom",
+        "logged_time": 1723049793814394
+      }
+    ],
+    "original_time": "tunnel assigned according",
+    "tenant_uid": "00694136-54de-11ef-8709-0242ac110007"
+  },
+  "proxy": {
+    "name": "glad treatments metric",
+    "owner": {
+      "name": "Visitors",
+      "type": "System",
+      "domain": "dg trek matches",
+      "uid": "0069af68-54de-11ef-810e-0242ac110007",
+      "type_id": 3
+    },
+    "port": 18890,
+    "type": "Unknown",
+    "os": {
+      "name": "jake transfer game",
+      "type": "macOS",
+      "type_id": 300,
+      "cpe_name": "insured circumstances activity"
+    },
+    "ip": "211.74.216.206",
+    "location": {
+      "desc": "Kyrgyz Republic",
+      "city": "Parker villas",
+      "country": "KG",
+      "coordinates": [
+        47.3473,
+        -23.6893
+      ],
+      "continent": "Asia"
+    },
+    "uid": "0069c3a4-54de-11ef-b84d-0242ac110007",
+    "hostname": "newark.edu",
+    "type_id": 0,
+    "agent_list": [
+      {
+        "name": "shoot relations kenya",
+        "type": "Remote Access",
+        "uid": "0069d59c-54de-11ef-8d90-0242ac110007",
+        "type_id": 9
+      }
+    ],
+    "instance_uid": "0069dbf0-54de-11ef-a61d-0242ac110007",
+    "interface_name": "allen skin conceptual",
+    "interface_uid": "0069e230-54de-11ef-b9ca-0242ac110007",
+    "intermediate_ips": [
+      "194.75.0.59",
+      "13.214.168.150"
+    ],
+    "svc_name": "wonderful disclose bald"
+  },
+  "connection_info": {
+    "uid": "0067c05e-54de-11ef-80a2-0242ac110007",
+    "boundary": "occupations",
+    "protocol_name": "fail ghz jazz",
+    "direction": "Unknown",
+    "boundary_id": 99,
+    "direction_id": 0,
+    "protocol_ver": "credits",
+    "protocol_ver_id": 99
+  },
+  "start_time": 1723049793816841,
+  "severity": "Medium",
+  "type_uid": 400705,
+  "category_name": "Network Activity",
+  "type_name": "SSH Activity: Refuse",
+  "activity_id": 5,
+  "observables": [
+    {
+      "name": "defeat certain validity",
+      "type": "User Name",
+      "type_id": 4
+    },
+    {
+      "name": "thermal investments conjunction",
+      "type": "Email Address",
+      "type_id": 5
+    }
+  ],
+  "class_uid": 4007,
+  "category_uid": 4,
+  "class_name": "SSH Activity",
+  "timezone_offset": 40,
+  "activity_name": "Refuse",
+  "auth_type": "convergence bloggers political",
+  "client_hassh": {
+    "algorithm": "four retained b",
+    "fingerprint": {
+      "value": "06B75C9CECC37199EE5F6A00459F59AE25488DDD94B2C74CDE95361C9288AD8DEF137CB9A69DC60082D7A6632AB14CA2D5C1DF347373F6D8843196390CD598C6",
+      "algorithm": "TLSH",
+      "algorithm_id": 6
+    }
+  },
+  "dst_endpoint": {
+    "name": "map alignment defining",
+    "owner": {
+      "name": "Equity",
+      "type": "System",
+      "uid": "006804b0-54de-11ef-affe-0242ac110007",
+      "groups": [
+        {
+          "name": "plaza nokia reader",
+          "uid": "0068116c-54de-11ef-b487-0242ac110007"
+        },
+        {
+          "name": "singapore forestry banned",
+          "type": "before petition membrane",
+          "uid": "00681cf2-54de-11ef-a200-0242ac110007"
+        }
+      ],
+      "type_id": 3,
+      "credential_uid": "006823fa-54de-11ef-8f50-0242ac110007",
+      "risk_level": "Low",
+      "risk_level_id": 1,
+      "risk_score": 41
+    },
+    "port": 39641,
+    "type": "Switch",
+    "ip": "226.172.236.6",
+    "uid": "00682da0-54de-11ef-ba22-0242ac110007",
+    "hostname": "theorem.arpa",
+    "type_id": 10,
+    "hw_info": {
+      "cpu_bits": 49
+    },
+    "instance_uid": "00683aa2-54de-11ef-9aed-0242ac110007",
+    "interface_name": "coral genome connection",
+    "interface_uid": "006842ae-54de-11ef-ab85-0242ac110007",
+    "svc_name": "communist machines constructed"
+  },
+  "ja4_fingerprint_list": [
+    {
+      "type": "JA4TCPScan",
+      "value": "dollars jacksonville italian",
+      "type_id": 9,
+      "section_d": "midwest separation encountered"
+    },
+    {
+      "type": "JA4Server",
+      "value": "open downloads respective",
+      "type_id": 2,
+      "section_a": "great authentic compatible"
+    }
+  ],
+  "protocol_ver": "0",
+  "server_hassh": {
+    "algorithm": "linux cartoon pocket",
+    "fingerprint": {
+      "value": "CD9FC6C2349356BD1BEBFC3D8F10F3D00965523E8171D92C6384EEF3F8E389B711E1D03EBD930C30B27332837A3CB74E536E674CF11B73A9E849080899E20D37",
+      "algorithm": "quickXorHash",
+      "algorithm_id": 7
+    }
+  },
+  "severity_id": 3,
+  "src_endpoint": {
+    "name": "cafe courts win",
+    "owner": {
+      "name": "Location",
+      "type": "System",
+      "uid": "0069568a-54de-11ef-a50c-0242ac110007",
+      "type_id": 3,
+      "full_name": "Rolland Meggan",
+      "risk_level": "saints",
+      "risk_level_id": 99
+    },
+    "port": 49161,
+    "type": "Desktop",
+    "os": {
+      "name": "kent categories floors",
+      "type": "iPadOS",
+      "type_id": 302,
+      "cpu_bits": 79,
+      "edition": "brooklyn registration corner",
+      "sp_name": "evans additionally version"
+    },
+    "ip": "83.59.231.156",
+    "location": {
+      "desc": "Maldives, Republic of",
+      "city": "Authorization feat",
+      "country": "MV",
+      "coordinates": [
+        -105.4671,
+        15.2508
+      ],
+      "continent": "Asia"
+    },
+    "uid": "00696a1c-54de-11ef-9825-0242ac110007",
+    "hostname": "closing.museum",
+    "mac": "94:71:3F:7D:25:26:28:B2",
+    "type_id": 2,
+    "agent_list": [
+      {
+        "name": "substitute says oriented",
+        "type": "Data Loss Prevention",
+        "uid": "00697638-54de-11ef-be01-0242ac110007",
+        "type_id": 2,
+        "policies": [
+          {
+            "name": "karma farm practice",
+            "version": "1.3.0",
+            "desc": "voltage polish dietary",
+            "uid": "006980ba-54de-11ef-b6f6-0242ac110007",
+            "is_applied": false
+          },
+          {
+            "name": "connecticut slow projectors",
+            "version": "1.3.0",
+            "is_applied": false
+          }
+        ]
+      },
+      {
+        "name": "deny geo lined",
+        "type": "Vulnerability Management",
+        "version": "1.3.0",
+        "uid": "00698880-54de-11ef-9cc2-0242ac110007",
+        "type_id": 5
+      }
+    ],
+    "interface_name": "measuring entrance challenge",
+    "interface_uid": "00698fba-54de-11ef-857c-0242ac110007",
+    "svc_name": "assist cms talented",
+    "vlan_uid": "00699618-54de-11ef-b201-0242ac110007"
+  },
+  "status_code": "winner",
+  "status_detail": "yields designated sun",
+  "traffic": {
+    "bytes": 2973417585,
+    "packets_in": 3259075147
+  }
+}

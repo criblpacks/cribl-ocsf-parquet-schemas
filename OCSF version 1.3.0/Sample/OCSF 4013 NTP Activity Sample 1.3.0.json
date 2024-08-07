@@ -1,0 +1,250 @@
+{
+  "message": "composition drilling db",
+  "status": "behalf",
+  "version": "1.3.0",
+  "time": 1723049767344194,
+  "metadata": {
+    "version": "1.3.0",
+    "extension": {
+      "name": "hometown forecasts massive",
+      "version": "1.3.0",
+      "uid": "f0a0da48-54dd-11ef-bdb9-0242ac110007"
+    },
+    "product": {
+      "name": "scared assignments wendy",
+      "version": "1.3.0",
+      "uid": "f0a10144-54dd-11ef-8bd3-0242ac110007",
+      "lang": "en",
+      "cpe_name": "sn tmp mens",
+      "vendor_name": "joshua brakes willing"
+    },
+    "extensions": [
+      {
+        "name": "superb specs confidence",
+        "version": "1.3.0",
+        "uid": "f0a1103a-54dd-11ef-b99a-0242ac110007"
+      }
+    ],
+    "sequence": 79,
+    "profiles": [
+      "[]"
+    ],
+    "log_name": "starter refund sponsors",
+    "log_provider": "going phpbb safari",
+    "logged_time": 1723049767336823,
+    "original_time": "usgs sports dinner",
+    "tenant_uid": "f0a11b02-54dd-11ef-8a66-0242ac110007"
+  },
+  "proxy": {
+    "name": "meyer transfer fresh",
+    "owner": {
+      "name": "Central",
+      "type": "Unknown",
+      "uid": "f0a24f5e-54dd-11ef-8443-0242ac110007",
+      "groups": [
+        {
+          "name": "entities actor cooking",
+          "uid": "f0a2579c-54dd-11ef-b67f-0242ac110007"
+        },
+        {
+          "uid": "f0a25bfc-54dd-11ef-b4f1-0242ac110007"
+        }
+      ],
+      "type_id": 0,
+      "email_addr": "Angelika@temperatures.museum",
+      "risk_level": "street founder refinance",
+      "risk_score": 79
+    },
+    "port": 8125,
+    "type": "Unknown",
+    "uid": "f0a26174-54dd-11ef-9f80-0242ac110007",
+    "hostname": "ballot.gov",
+    "type_id": 0,
+    "instance_uid": "f0a265de-54dd-11ef-8fd8-0242ac110007",
+    "interface_name": "balloon specific bradley",
+    "interface_uid": "f0a26e9e-54dd-11ef-bd39-0242ac110007",
+    "svc_name": "worlds collectables integrity"
+  },
+  "precision": 80,
+  "connection_info": {
+    "uid": "f0a01766-54dd-11ef-bfe7-0242ac110007",
+    "boundary": "Localhost",
+    "protocol_name": "dies zinc deposit",
+    "direction": "Lateral",
+    "boundary_id": 1,
+    "direction_id": 3,
+    "protocol_num": 49,
+    "protocol_ver": "charged",
+    "protocol_ver_id": 99
+  },
+  "delay": 19,
+  "severity": "Unknown",
+  "type_uid": 401303,
+  "category_name": "Network Activity",
+  "type_name": "NTP Activity: Client Synchronization",
+  "activity_id": 3,
+  "observables": [
+    {
+      "name": "graphical gui ministers",
+      "type": "IP Address",
+      "value": "idol literacy available",
+      "type_id": 2
+    }
+  ],
+  "class_uid": 4013,
+  "category_uid": 4,
+  "class_name": "NTP Activity",
+  "timezone_offset": 0,
+  "activity_name": "Client Synchronization",
+  "dispersion": 35,
+  "dst_endpoint": {
+    "name": "macromedia bacterial dell",
+    "owner": {
+      "name": "Refuse",
+      "type": "User",
+      "uid": "f0a088fe-54dd-11ef-b4be-0242ac110007",
+      "type_id": 1,
+      "risk_level": "High",
+      "risk_level_id": 3,
+      "uid_alt": "hardware program kennedy"
+    },
+    "port": 19679,
+    "type": "Browser",
+    "ip": "236.156.243.77",
+    "hostname": "offerings.travel",
+    "mac": "BA:BF:95:23:28:10:B2:5",
+    "type_id": 8,
+    "agent_list": [
+      {
+        "name": "ferry basin characterization",
+        "type": "auditor",
+        "uid": "f0a0a28a-54dd-11ef-8eb0-0242ac110007",
+        "type_id": 99,
+        "policies": [
+          {
+            "name": "unlimited departmental ratios",
+            "version": "1.3.0",
+            "uid": "f0a0b810-54dd-11ef-b7b1-0242ac110007",
+            "is_applied": false
+          },
+          {
+            "name": "respect mt legally",
+            "version": "1.3.0",
+            "desc": "temperature genesis ve",
+            "is_applied": false
+          }
+        ]
+      }
+    ],
+    "autonomous_system": {
+      "name": "seemed stack preston",
+      "number": 61
+    },
+    "instance_uid": "f0a0c102-54dd-11ef-8d8c-0242ac110007",
+    "interface_name": "listed scenarios ee",
+    "interface_uid": "f0a0c634-54dd-11ef-98e2-0242ac110007",
+    "svc_name": "blocked ta endif"
+  },
+  "ja4_fingerprint_list": [
+    {
+      "type": "JA4Server",
+      "value": "strip cindy differential",
+      "type_id": 2,
+      "section_c": "juice passes hope",
+      "section_d": "symbols founder mutual"
+    },
+    {
+      "type": "Unknown",
+      "value": "surf cute dies",
+      "type_id": 0
+    }
+  ],
+  "severity_id": 0,
+  "src_endpoint": {
+    "name": "displayed prerequisite gradually",
+    "owner": {
+      "name": "Identifies",
+      "type": "released",
+      "uid": "f0a14294-54dd-11ef-9ebd-0242ac110007",
+      "type_id": 99,
+      "full_name": "Shandi Dong"
+    },
+    "port": 58875,
+    "type": "Mobile",
+    "os": {
+      "name": "ui registered moment",
+      "type": "Windows Mobile",
+      "version": "1.3.0",
+      "build": "flex checked young",
+      "country": "Poland, Republic of",
+      "type_id": 101,
+      "cpu_bits": 27
+    },
+    "ip": "220.86.185.225",
+    "location": {
+      "desc": "Palau, Republic of",
+      "city": "Schema devices",
+      "country": "PW",
+      "coordinates": [
+        110.1718,
+        -31.7284
+      ],
+      "continent": "Oceania"
+    },
+    "uid": "f0a15d74-54dd-11ef-86f6-0242ac110007",
+    "hostname": "hazard.name",
+    "type_id": 5,
+    "agent_list": [
+      {
+        "name": "shorter watches rated",
+        "type": "Log Forwarding",
+        "uid": "f0a16b20-54dd-11ef-ba39-0242ac110007",
+        "type_id": 6,
+        "uid_alt": "hang highs alert"
+      }
+    ],
+    "instance_uid": "f0a170ac-54dd-11ef-8423-0242ac110007",
+    "interface_name": "discs glance walking",
+    "interface_uid": "f0a17692-54dd-11ef-9762-0242ac110007",
+    "proxy_endpoint": {
+      "name": "governments receive keywords",
+      "owner": {
+        "name": "Indexed",
+        "type": "User",
+        "uid": "f0a18d62-54dd-11ef-b47c-0242ac110007",
+        "type_id": 1,
+        "account": {
+          "type": "GCP Account",
+          "uid": "f0a195a0-54dd-11ef-8d8f-0242ac110007",
+          "labels": [
+            "involve"
+          ],
+          "type_id": 5
+        },
+        "risk_level": "unified",
+        "risk_level_id": 99
+      },
+      "type": "Virtual",
+      "domain": "hundred pocket vol",
+      "ip": "70.254.176.201",
+      "uid": "f0a19b7c-54dd-11ef-9998-0242ac110007",
+      "hostname": "dutch.edu",
+      "type_id": 6,
+      "instance_uid": "f0a21aca-54dd-11ef-9d40-0242ac110007",
+      "interface_name": "bw wells backed",
+      "interface_uid": "f0a222ea-54dd-11ef-b3d5-0242ac110007",
+      "svc_name": "cfr brazilian toy"
+    },
+    "vlan_uid": "f0a23244-54dd-11ef-8044-0242ac110007"
+  },
+  "status_code": "chips",
+  "status_detail": "cancer dating gamecube",
+  "status_id": 99,
+  "stratum": "Reserved",
+  "stratum_id": 17,
+  "traffic": {
+    "bytes_in": 2263408522,
+    "bytes": 3756790483,
+    "packets": 3847392175
+  }
+}
